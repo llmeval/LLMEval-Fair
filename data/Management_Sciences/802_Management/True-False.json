@@ -1,0 +1,78 @@
+[
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35163256-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "72c6890c-716e-11ee-9f79-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 根据明茨伯格提出的管理者角色模型，领导者属于人际关系方面的角色。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据明茨伯格的划分，管理者的角色可以从三个方面进行划分：人际关系方面、信息方面、决策方面。其中，人际关系方面的角色包括：挂名首脑角色、领导者角色、联络者角色；信息方面的角色包括：接受者角色、传播者的角色、发言人的角色；决策方面的角色包括：企业家角色、资源分配者、故障排除者、谈判者角色。\n "
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35163332-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "72c6fe32-716e-11ee-8a43-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 菲德勒认为，任务取向的领导者在非常有利和非常不利的情境下会工作得更好。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据菲德勒模型：环境非常好和非常不好时应使用以工作为主的任务型；当环境适中时应采用以人为主的人际型领导方式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516336e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "72c6fe33-716e-11ee-a142-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 根据领导的生命周期理论，对于成熟度高的下属应该采取低工作低关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据领导的生命周期理论，当下属成熟时，由于下属既有能力又愿意承担工作、担负责任，因此领导者可以只给下属明确目标、提出要求，由下属自我管理，此时可采用低工作低关系的行为，即授权式领导方式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351633a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "72c6fe34-716e-11ee-ba9e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 领导只要掌握好领导方法就行，个人特质对管理成功无太大影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。领导者的工作效率和效果在很大程度上取决于他们的领导艺术，领导艺术博大精深，领导方法只是其中一个方面，个人品质或特征是决定领导效果的关键因素，因此管理成功与否不仅仅取决于领导方法。\n "
+	}
+]

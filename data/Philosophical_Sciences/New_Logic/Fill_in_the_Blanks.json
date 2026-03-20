@@ -1,0 +1,5512 @@
+[
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d3537b9f-8104-11ee-b002-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普通逻辑是研究思维的______及其基本规律和简单逻辑方法的科学。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "逻辑形式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a27c-8104-11ee-b451-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果概念A______概念B，则概念A为种概念，概念B为属概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真包含于"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a27d-8104-11ee-abb7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简单判断就是自身中______的判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不包含其他判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a27e-8104-11ee-9c6b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个充分条件假言判断“p→q”是假的，当且仅当______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "p真而q假"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a27f-8104-11ee-a5a0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "既肯定SAP，又肯定同素材的SEP，这就违反了逻辑上的______律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a280-8104-11ee-b2e4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个正确推理必须______和前提真实。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "推理有效"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a281-8104-11ee-9066-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必要条件假言推理有肯定后件式和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "否定前件式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a282-8104-11ee-8495-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "完全归纳推理是______性推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必然"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a283-8104-11ee-9c4a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从思维进程来看，类比推理是______的推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由特殊到特殊"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a284-8104-11ee-85d2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "间接证明有反证法和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "选言证法"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a285-8104-11ee-9e86-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普通逻辑是研究思维的逻辑形式及其______和简单逻辑方法的科学。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基本规律（或答逻辑规律）"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a286-8104-11ee-8bc7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果概念A______概念B，则概念A为属概念，概念B为种概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真包含"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a287-8104-11ee-859f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "复合判断就是自身中______的判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1包含有其他判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a288-8104-11ee-abf2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个必要条件假言判断“p←q”是假的，当且仅当______."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "p假而q真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a289-8104-11ee-92af-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "既否定SAP，又否定同素材的SOP，这就违反了逻辑上的______律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "排中"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a28a-8104-11ee-86a6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个正确的推理必须推理有效和______."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前提真实"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a28b-8104-11ee-be40-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "充分条件假言推理有肯定前件式和______."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "否定后件式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a28c-8104-11ee-b883-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "不完全归纳推理是______性推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "或然"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a28d-8104-11ee-8d12-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类比推理就是根据两个（或两类）对象在某些属性上相同或相似，推出它们在另一属性上也______的推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "相同或相似"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a28e-8104-11ee-ae85-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "间接证明有______和选言证法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反证法"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a28f-8104-11ee-99b1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "思维的基本特征是______和间接性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "概括性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a290-8104-11ee-96c7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "概念的外延通常称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "概念的适用对象"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a291-8104-11ee-a905-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "任何判断都有两个特征：第一，______；第二，判断都有真假。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "判断都有所断定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a292-8104-11ee-85f2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“p或者q”是______的逻辑形式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "相容选言判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a293-8104-11ee-8403-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“A是A”是______公式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同一律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a294-8104-11ee-9abd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "演绎推理不是或然性推理，而是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必然性推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a295-8104-11ee-9bf8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "联言推理有两种推理式：______和组合式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分解式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a296-8104-11ee-85bb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "归纳推理有______和不完全归纳推理两大类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "完全归纳推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a297-8104-11ee-baeb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "科学假说有两个特征：第一，以事实材料和科学知识为依据；第二，______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "具有推测的性质，有待检验"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a298-8104-11ee-ab18-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "反驳有三种途径：反驳论题、反驳论据和反驳______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "论证方式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a299-8104-11ee-8121-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "思维是人脑对客观世界间接地、______反映。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "概括地"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a29a-8104-11ee-9051-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从“国家”过渡到“社会主义国家”，是对“国家”这个概念的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "限制"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a29b-8104-11ee-9fb9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个性质判断的谓项不周延，这个判断的质是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肯定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a29c-8104-11ee-9879-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“必然p”和“必然非p”之间具有______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反对"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a29d-8104-11ee-b58c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据排中律，若“或者甲来或者乙来”为假，则联言判断______为真。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "甲没来并且乙没来"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a29e-8104-11ee-a12f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关系推理“黄河在长江以北，长江在珠江以北；所以，黄河在珠江以北”，属______关系推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "传递"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a29f-8104-11ee-87de-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "二难推理是由两个______判断和一个选言判断作前提构成的演绎推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "假言"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a0-8104-11ee-9b92-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "不完全归纳推理是一种______性推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "或然"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a1-8104-11ee-883d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类比推理就是根据两个(或两类)对象在某些属性上______，推出它们在另一属性上也相同或相似的推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "相同或相似"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a2-8104-11ee-ab7a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "间接反驳是先论证与被反驳的论题相矛盾或相反对的论断为真，然后根据______律确定被反驳的论题为假。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a3-8104-11ee-b519-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "思维对客观世界的反映是借助于______来实现和表达的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语言"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a4-8104-11ee-93a9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "任何概念有两个逻辑特征，即______和外延。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内涵"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a5-8104-11ee-9bfb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在性质判断中，逻辑常项是______和量项。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "联项"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a6-8104-11ee-bcc9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "相容选言判断的逻辑形式是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "p或者q"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a7-8104-11ee-a13a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "排中律的主要作用是保证思想的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "明确性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a8-8104-11ee-a193-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "或然性推理是前提不蕴含结论的推理，即前提真，结论______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "未必真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2a9-8104-11ee-a19e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必要条件假言推理的正确形式除否定前式外，还有______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肯定后件式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2aa-8104-11ee-a25e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简单枚举法属于______归纳推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不完全"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353a2ab-8104-11ee-89d2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假说的检验过程可分为两个步骤：一步，从假说的基本理论观点出发引申出关于事实绪论；第二步，______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通过社会实践检查从假说基本观点结合背景知识所引申出来的结论是否真实"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9ed-8104-11ee-9c56-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "反驳最主要和最有力的途径是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反驳论题"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9ee-8104-11ee-ac86-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "思维的基本特征是概括性和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "间接性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9ef-8104-11ee-999a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "概念的内涵通常也可叫做______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "概念的含义"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f0-8104-11ee-b357-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "任何判断都有两个特征：第一，判断都有所断定（肯定或否定）；第二，______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "判断都有真假"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f1-8104-11ee-8a75-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“p并且q”是______的逻辑形式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "联言判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f2-8104-11ee-9be6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“A不是﹁A”是______公式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f3-8104-11ee-b859-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "演绎推理不是______，而是必然性推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "或然性推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f4-8104-11ee-bd41-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "联言推理有两种推理式：分解式和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "组合式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f5-8104-11ee-9cc9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "归纳推理有完全归纳推理和______两大类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不完全归纳推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f6-8104-11ee-8442-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "科学假说有两个特征：第一，以______和科学原理为依据；第二，具有推测的性质，有待检验。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事实材料"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f7-8104-11ee-ab18-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "反驳有三种途径：反驳______、反驳论据和反驳论证方式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "论题"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f8-8104-11ee-a4a5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "思维内容各部分之间的联系方式，叫做思维的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "逻辑形式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9f9-8104-11ee-ac90-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "任何概念都有两个逻辑特征，即内涵和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9fa-8104-11ee-b44b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在性质判断中，逻辑常项是联项和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "量项"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9fb-8104-11ee-9b45-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "联言判断的逻辑形式是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "p并且q"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9fc-8104-11ee-ad13-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "同一律的主要作用是保持思维具有______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "确定性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9fd-8104-11ee-b6b9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必然性推理是前提蕴涵结论的推理，即如果前提真，那么结论______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一定真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9fe-8104-11ee-813f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "相容选言推理只有一种正确的形式，即______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "否定肯定式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353c9ff-8104-11ee-be8e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "完全归纳推理属于______性推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必然"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca00-8104-11ee-9a5e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假说的检验过程可分为两个步骤：第一步，______引申出关于事实的结论；第二步，通过实践检查从假说中引申出来的有关事实的结论是否真实。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从假说的基本理论观点出发"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca01-8104-11ee-be21-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "反驳的目的是要______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "推翻另一个论证"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca02-8104-11ee-b2b5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从概念的外延关系上看，“南京大学”与“南京大学哲学系”是______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全异"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca03-8104-11ee-9080-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "概念的含义通常也叫做概念的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内涵"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca04-8104-11ee-80b5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "判断都有所______或者有所否定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "背定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca05-8104-11ee-9445-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个联言判断的真假是由其______的真假来确定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "联言支"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca06-8104-11ee-b4bc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在同一思维过程中，两个互相否定的思想不能同真，必有一假，这是______律的内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca07-8104-11ee-a766-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "前提真，而结论仅仅可能真的推理是______，而不是必然性推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "或然性推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca08-8104-11ee-bbf1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "充分条件假言推理的有效式之一是否定______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "后件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca09-8104-11ee-98a3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "找到推理形式相同，但前提明显为______，结论明显为假的“反例”，是揭示一个演绎推理无效的重要手段。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca0a-8104-11ee-a9e4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据两个对象在某些属性上的相同推出它们在另一些属性上也相同，这种推理属于______推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "类比"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca0b-8104-11ee-9cd7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "间接论证主要有：______和选言证法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反证法"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca0c-8104-11ee-b964-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普通逻辑具有工具性和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全人类性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca0d-8104-11ee-89d5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "概念是反映对象特有属性或______的思维形式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "本质属性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca0e-8104-11ee-9998-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "判断是对______有所断定的思维形式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "思维对象"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca0f-8104-11ee-9f0a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个充分必要条件假言判断是真的，当且仅当______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前件和后件同真或同假"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca10-8104-11ee-a1f7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "转移论题或偷换论题，这是违反______律的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同一"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca11-8104-11ee-a9ae-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据思维进程的方向不同，推理分为演绎推理、______和类比推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "归纳推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca12-8104-11ee-950c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个充分条件假言推理式，肯定前件就要______后件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肯定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca13-8104-11ee-a059-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "科学归纳推理是根据某类部分对象与某种属性之间具有______，从而推出某类对象都具有某种属性的结论的归纳推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因果联系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca14-8104-11ee-94d6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类比推理与归纳推理不同，它是由个别到个别，或是由一般到______的推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一般"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca15-8104-11ee-981c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "选言证法是通过先论证与原论题相关的其他可能性的论断______，然后确定论题真的一种间接论证方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "都不能成立"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca16-8104-11ee-bb51-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词项的外延关系上看，“法庭”与“法官”是______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全异"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca17-8104-11ee-a230-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "概念的适用对象通常称为概念的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca18-8104-11ee-8ac3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对思维对象有所断定的思维形式叫______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca19-8104-11ee-9004-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个相容的选言判断的真假是由其______的真假来确定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "选言支"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca1a-8104-11ee-9cbf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在同一思维过程中，两个互相矛盾的思想不能同假，必有一真，这是______律的内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "排中"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca1b-8104-11ee-8c0a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据推理中前提和结论之间是否有逻辑蕴涵关系，可以把推理分为______和或然性推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必然性推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca1c-8104-11ee-88e8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必要条件假言推理的有效式之一是肯定______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "后件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca1d-8104-11ee-a645-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "二难推理破坏式的主要逻辑机理，是运用充分条件假言推理的______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "否定后件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca1e-8104-11ee-97a0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "反证法通过驳倒反论题而确定论题为真，其所运用的是逻辑基本规律中的______律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "排中"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca1f-8104-11ee-b6ec-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据论证方式所使用推理形式的不同，论证分为______和归纳论证。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "演绎论证"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca20-8104-11ee-9334-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据概念所反映的对象是否为集合体，可以把概念分为______和非集合概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集合概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca21-8104-11ee-b02f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个概念的部分外延与另一个概念的全部外延重合的关系是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真包含关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca22-8104-11ee-a6a0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自身中包含有其他判断的判断叫做______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "复合判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca23-8104-11ee-a6d7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据前提和结论之间的逻辑联系，可以把推理分为必然性推理和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "或然性推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca24-8104-11ee-b8b1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SEP通过换质可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "S̄AP"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca25-8104-11ee-bcfc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "二难推理的破坏式有简单破坏式和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "复杂破坏式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca26-8104-11ee-94b4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "性质判断由主项、谓项、______和量项四部分构成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "联项"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca27-8104-11ee-8f26-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关系推理是前提中至少有一个是______判断的推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca28-8104-11ee-ae83-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "全称肯定命题的______周延。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主项"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca29-8104-11ee-9bb1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据反对关系，由SAP可得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "﹁SEP"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca2a-8104-11ee-af1e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类比推理是一种有用的助科学发现的逻辑方法，如果使用不当，就可能犯“______”的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "机械类比"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca2b-8104-11ee-a3ba-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个概念的部分外延与另一个概念的部分外延重合的关系是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同一关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca2c-8104-11ee-a0c7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“并非北京是大唐都城”等值于“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "北京不是大唐都城"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca2d-8104-11ee-94fd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "违反矛盾律所犯的错误称为“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自相矛盾"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca2e-8104-11ee-ae78-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与“必然p”具有矛盾关系的命题是“____________”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "◇﹁p"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca2f-8104-11ee-8114-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个推理形式有效，当且仅当，具有此推理形式的任一推理都不会出现______而结论假的情形。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前提真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca30-8104-11ee-a3e7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外延为空集的概念称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "空概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca31-8104-11ee-8242-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "二难推理破坏式的主要逻辑机理，是运用假言推理的______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "否定后件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca32-8104-11ee-90a0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "划分后的各子项的外延之和必须与母项的外延相等。违反这一规则就会犯“划分不全”或“______”的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "多出子项"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca33-8104-11ee-a177-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必要条件假言命题推理的有效式之一是否定______前件______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca34-8104-11ee-9dbd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "充分条件假言推理的两个有效形式是______和否定后件式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肯定前件式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca35-8104-11ee-87b4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "两个概念的外延完全相同的关系是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同一关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca36-8104-11ee-b148-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "否定某个判断的判断是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "负判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca37-8104-11ee-88ea-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "前提或者结论包含有选言判断的推理是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "选言推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca38-8104-11ee-a086-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据划分次数的不同，划分可分为一次划分和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "连续划分"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca39-8104-11ee-94bb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "传递关系推理是根据关系的______而进行的推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "传递性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca3a-8104-11ee-af27-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与“□p”具有差等关系的命题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "◇p"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca3b-8104-11ee-aebd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“所有的商品是劳动产品”是______命题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全称肯定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca3c-8104-11ee-880e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "同素材的SAP和SOP具有______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca3d-8104-11ee-9f9c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从周延性看，“有肾脏的动物都是有心脏的动物”的主项周延、谓项______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不周延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca3e-8104-11ee-b9df-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "概念的______是通过增加概念的内涵、缩小概念的外延来明确概念的一种逻辑方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "限制"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca3f-8104-11ee-9c16-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果故意把不同概念当作同一概念来使用，会犯“______”的错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偷换概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca40-8104-11ee-8c1f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "二难推理构成式的主要逻辑机理是运用假言推理的______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肯定前件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca41-8104-11ee-adc3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SAP通过直接换位可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "PIS"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca42-8104-11ee-bab7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "概念的适用对象称为概念的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353ca43-8104-11ee-8293-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据两个（或两类）对象在某些属性上相同或相似，推出它们在另一些属性上也相同或相似的推理叫______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "类比推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f090-8104-11ee-8aa4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关系判断由关系者项、______和量项三部分构成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "关系项"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f091-8104-11ee-a80b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词项的外延关系上看，“工人”与“共产党员”是______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "交叉"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f092-8104-11ee-a183-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“必然p”和“可能非p”之间的真假关系是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f093-8104-11ee-82ee-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与负判断“并非（p且非q）”等价的选言判断是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "非p或者q"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f094-8104-11ee-823f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从“犯罪”到“过失犯罪”，是对“犯罪”这一概念的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "限制"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f095-8104-11ee-b4b0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“没有不透风的墙”的矛盾命题是“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有的墙不透风"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f096-8104-11ee-a64e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "排中律的内容是：在同一思维过程中，两个互相否定的思想不可同假，______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必有一真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f097-8104-11ee-a017-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "二难推理破坏式的主要逻辑机理，是运用假言推理的______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "否定后件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f098-8104-11ee-a4d4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "前提中至少有一个是关系判断的推理叫做______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "关系推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f099-8104-11ee-a8bf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“18世纪的中国总统”是______概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "空"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f09a-8104-11ee-8724-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“生产工具指的是在生产中使用的工具”这一定义所犯的逻辑错误是“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同语反复"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f09b-8104-11ee-8d34-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "联言推理的两种主要推理形式是______和合成式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分解式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f09c-8104-11ee-b1f4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "命题“有些意会之事不可言传”的主项不周延，谓项______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "周延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f09d-8104-11ee-b19e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "逻辑思想的发源地主要有三个，即古代中国、古印度和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "古希腊"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f09e-8104-11ee-b676-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“逻辑学是指研究逻辑的科学”，这个定义犯了______的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同语反复"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f09f-8104-11ee-a9de-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据矛盾关系，由SIP可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "并非SEP"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a0-8104-11ee-8dd4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据下反对关系，由“可能p”可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能非p"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a1-8104-11ee-855f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“中国人是勤劳勇敢的，李思是中国人，所以李思是勤劳勇敢的”，这个推理犯的逻辑错误是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "混淆概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a2-8104-11ee-88c3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“钓鱼岛属于中国领土”属于直言判断中的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单称肯定判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a3-8104-11ee-b242-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "□（p∧q）与______可以互推。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "□p∧□q"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a4-8104-11ee-97fe-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简单枚举法作为一种不完全归纳推理，如果使用不当，就会犯______的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "轻率概括"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a5-8104-11ee-afec-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“风水先生惯说空，指南指北指西东；倘若真有龙虎地，何不当年葬乃翁。”这个论证的论证方式是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "充分条件假言推理否定后件式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a6-8104-11ee-a0b9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“专家也是人，所以，专家也难免要犯错”，这是一个省略形式的三段论，若使这个推理有效，应补充大前提______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所有人都难免要犯错"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a7-8104-11ee-958c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓推理形式，指的是推理的______在形式上的联系方式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前提和结论"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a8-8104-11ee-926c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "相对于它们的属概念C，A、B两个概念之间的全异关系还可以进一步分为矛盾关系和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反对关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0a9-8104-11ee-a678-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“红豆生南国，春来发几枝，愿君多采撷，此物最相思”，在这四个语句中，只有一句判断句，它是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "红豆生南国"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0aa-8104-11ee-8f46-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若假言判断断言前件真后件必真、前件假后件必假，则该判断为______条件假言判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "充分必要条件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0ab-8104-11ee-9090-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据矛盾律，若“p→q”为真，则联言命题______为假。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "p∧﹁q"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0ac-8104-11ee-82c5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由MEP和SAM组成两个前提，可以推出______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "SEP"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0ad-8104-11ee-9f30-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“并非只要加强顶层设计就否定摸着石头过河”的等值判断是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加强顶层设计但不否定摸着石头过河"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0ae-8104-11ee-812c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论证由论题、论据和______三个要素组成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "论证方式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0af-8104-11ee-aaff-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“尧有不慈之毁，舜有不孝之谤。殊不知尧慈被天下，而不在于子;舜孝及万世，乃不在于父。”这里反驳的论题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尧不慈，禹不孝"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b0-8104-11ee-bff5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "反映对象不具有某种属性的概念称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "负概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b1-8104-11ee-92f7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "演绎逻辑主要是研究推理的有效性问题，而所谓逻辑推理的有效性，指的是______是否正确。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "推理形式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b2-8104-11ee-b50e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于A、B两个概念，如果它们之间是全异关系，那么我们还可以进一步将其区分为矛盾关系和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反对关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b3-8104-11ee-b64a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "全称肯定判断的主项周延，谓项______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不周延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b4-8104-11ee-a567-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "逻辑思想的发源地主要有三个，即古代中国、______和古希腊。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "古印度"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b5-8104-11ee-bec3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据排中律的要求，主谓项相同的SAP与SOP必有一个为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b6-8104-11ee-a175-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SEP通过换质可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "SAP"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b7-8104-11ee-aceb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "◇(p∨q)与______可以互推。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "◇p∨◇q"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b8-8104-11ee-ba72-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按质量结合分，“黄山是中国著名的风景名胜区”属于性质判断中的______判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单称肯定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0b9-8104-11ee-9292-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“合抱之木，生于毫末；九层之台，起子累土；千里之行，始于足下。故天下难事，必作于易；天下大事，必作于细。”这个论证的论题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "天下难事，必作子易：天下大事，必作于细"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0ba-8104-11ee-a6b8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照划分的次数不同，划分可以分为______和连续划分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一次划分"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0bb-8104-11ee-8f98-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简单判断是指______的判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自身中不含其他判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0bc-8104-11ee-a8d7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外延只有一个对象的概念称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单独概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0bd-8104-11ee-b86b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“有些逻辑学家是数学家”主项______。谓项不周延。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不周延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0be-8104-11ee-856a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与“必然p”具有差等关系的命题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能p"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0bf-8104-11ee-a16d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有个年轻人说：“多年来我确信：根本没有什么信念之类的东西!”这个青年的想法违背了______律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c0-8104-11ee-8a66-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“凡是正派人都是光明磊落的”通过换质位推理可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所有不光明磊落的人都不悬正派人"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c1-8104-11ee-bc11-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“不可能既是有理数又是无理数”的等值命题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必然或者不是有理数或者不是无理数"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c2-8104-11ee-af8b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "光和声的现象都具有一系列的相同属性：直线传播、反射、折射和于扰等，科学家发现声的本质是由物体的振动所产生的一种波动，因此推断光的本性也是波动。这里运用的逻辑方法是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "类比推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c3-8104-11ee-907e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人体的特异功能是不存在的，因为科学院某权威人士说，承认特异功能的存在就是迷信。这里的论证犯了______的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "诉诸权威"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c4-8104-11ee-ad4b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“俄罗斯和中国相邻，所以，中图和俄罗斯相邻”，这个推理是根据______．而进行的有效推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对称关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c5-8104-11ee-8f37-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个逻辑推理是形式有效的，指的是对一个推理形式，如果假设其前提是真的，那么其______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "结论也一定是真的"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c6-8104-11ee-99b8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "任何概念都有两个基本的逻辑特征，即概念的外延和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内涵"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c7-8104-11ee-aed6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "性质判断按照量来划分，可以分为单称判断、全称判断和______三种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特称判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c8-8104-11ee-91c0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据矛盾关系，由______可以得到“必然p”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能非p"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0c9-8104-11ee-8b5d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察问大刘：“你知不知道醉酒驾车是违反交通规则的？”大刘回答：“我不喝酒的话市场上酒就交不出去了。”大刘的回答犯了______的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "转移论题"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0ca-8104-11ee-99c2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据前提和结论之间的逻辑联系，可以把推理划分为必然性推理和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "或然性推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0cb-8104-11ee-8c3c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“教师是辛勤的园丁”，这个定义犯了______的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以比喻代定义"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0cc-8104-11ee-8265-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论证是由论题、论据和______三个要素构成的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "论证方式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0cd-8104-11ee-8f7d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个负判断为真，当且仅当其支判断______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "为假"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0ce-8104-11ee-9cd0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "复合判断是指______的判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自身包含其他判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0cf-8104-11ee-a2cf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外延是空集的概念称之为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "空概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d0-8104-11ee-82be-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词项周延性看，“有些蔬菜很便宜”主项______，谓项不周延。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不周延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d1-8104-11ee-9b9d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与“必然p”具有矛盾关系的命题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能非p"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d2-8104-11ee-961b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有个哲学家说：“对于‘人都是理性的’和‘有的人不是理性的’这两个论题，我都反对”。这个哲学家的认识违背了______律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "排中"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d3-8104-11ee-b0b9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“有的金属不是固体”通过换质位推理可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有的非固体是金属"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d4-8104-11ee-8c5e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“并非必然有的嫌疑人是无辜的”的等值命题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能所有嫌疑人都不是无辜的"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d5-8104-11ee-b7c8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“能量守恒定律是客观规律，永动机的发明是不可能实现的。如果真能发明出永动机，都么能量守恒定律就不起作用了。”这个论证的论题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "永动机的发明是不可能实现的"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d6-8104-11ee-ac34-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓归谬法，就是为了反驳某个判断，首先假定它是真的，然后由此推出荒谬的结论，最后根据______，得出该判断是假的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "充分条件假言推理的否定后件式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d7-8104-11ee-afdb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“姚明比科比高，所以，科比没有姚明高”，这个推理是根据______而进行的推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "关系的禁对称性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d8-8104-11ee-b41f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "不完全归纳推理是根据一类事物中部分对象具有某种属性，推出该类事物的______都具有该属性的推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所有对象"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0d9-8104-11ee-a10b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若一个演绎论证的论证方式正确但论据虚假，则其论题______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真假不定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0da-8104-11ee-b27e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "特称否定判断的主项不周延，谓顼______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "周延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0db-8104-11ee-81c1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与“可能非p”具有下反对关系的判断是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能p"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0dc-8104-11ee-8c97-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据矛盾律的要求，同素材的性质判断SAP与SOP必有一个为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "假"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0dd-8104-11ee-8626-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SIP̄通过换质可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "SOP"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0de-8104-11ee-b089-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "◇(﹁P∧﹁q)与______可以互推。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "﹁□(p∨q)"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0df-8104-11ee-be86-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "复合判断是指______的判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自身中包含有其他判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0e0-8104-11ee-a469-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“六国破灭，非兵不利，战不善，弊在赂秦。赂秦而力亏，破灭之道也。或曰：六国互丧，率赂秦耶？曰：不赂者以赂者丧，盖失强援，不能独完。故曰：弊在赂秦也”。这个论证的论题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "六国破灭，弊在赂秦"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0e1-8104-11ee-bb4d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照划分所得子项数目的不同，划分可以分为______和多分法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "二分法"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0e2-8104-11ee-a9c8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果对一类对象的全部有所肯定或否定，则对该类对象的______也有所肯定或否定，这就是三段论的公理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "部分"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0e3-8104-11ee-8864-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照判断的质划分，______分为肯定判断和否定判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "性质判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d353f0e4-8104-11ee-8c10-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "依据概念外延的大小，概念可以分为空概念、单独概念和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "普遍概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d354179f-8104-11ee-9d01-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据下反对关系，由______可以得到“可能p”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不可能不p"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a0-8104-11ee-bcb4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“你拥有你没有丢失的东西，你没有丢失角，所以你有角”。在以上的诡辩中，说话人犯了______的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偷换概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a1-8104-11ee-8a45-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据推理前提所含判断数目的不同，可以把推理分为直接推理和______两类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "间接推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a2-8104-11ee-a8aa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“建筑是凝固的音乐”。若作为定义，以上句子犯了______的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以比喻代定义"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a3-8104-11ee-a4f8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简单枚举法是一种或然性推理，如果使用不当，就可能犯______的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "轻率概括"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a4-8104-11ee-af5b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "划分包括三个要素，即划分的母项、划分的子项和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "划分的标准"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a5-8104-11ee-8140-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个相容选言判断为真，当且仅当其选言支______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "至少有一个为真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a6-8104-11ee-a061-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "逻辑学主要研究推理的有效性问题。所谓推理的有效性，指的是______有效性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "推理的形式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a7-8104-11ee-813a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "具有概念所反映的特有属性或者本质属性的对象所组成的集合称为概念的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外延"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a8-8104-11ee-817f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有个年轻人说：“多年来我确信：根本没有什么信念之类的东西！”这个青年的想法违背了______律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417a9-8104-11ee-9f80-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“钓鱼岛属于中国领土”属于直言判断中的______判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单称肯定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417aa-8104-11ee-a4dc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个充分条件假言判断，只有当其前件真而后件假时，该假言判断才为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "假"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417ab-8104-11ee-9255-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果有意把不同概念当作同一概念来使用，会犯“______”的错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偷换概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417ac-8104-11ee-b05f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据换位法推理规则，______判断不能直接换位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特称否定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417ad-8104-11ee-a485-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据一类事物中的每一个对象都具有某种属性，推出该类事物的所有对象都具有该属性的推理是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "完全归纳推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417ae-8104-11ee-9efa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人体的特异功能是不存在的，因为科学院某权威人士说，承认特异功能的存在就是迷信。这里的论证犯了______。的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "诉诸权威"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417af-8104-11ee-9022-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个推理形式有效，当且仅当，具有此推理形式的任一推理都不会出现______而结论假的情形。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前提真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b0-8104-11ee-bcd1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自身中不含有其他判断的判断称为______判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "简单"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b1-8104-11ee-9fec-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若假言判断断言前件真后件必真、前件假后件必假，则该判断为______条件假言判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "充分必要"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b2-8104-11ee-957e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与负判断“并非(p且非q)”等价的选言判断是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "非p或者q"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b3-8104-11ee-bf8d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“必然P”和“可能非P”之间的真假关系是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b4-8104-11ee-a446-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“凡是正派人都是光明磊落的”通过______推理可以得到“(所有)不光明磊落的人都不是正派人”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "换质位"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b5-8104-11ee-9371-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类比推理是一种有助于科学发现的逻辑方法，如果使用不当，就可能犯“______”的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "机械类比"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b6-8104-11ee-8d2f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "性质判断按量分，可以分为单称判断、全称判断和______三种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特称判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b7-8104-11ee-b86b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "矛盾律的内容是：在同一思维过程中，两个互相否定的思想______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不能同真，必有一假"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b8-8104-11ee-99c4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简单枚举法作为一种不完全归纳推理，如果使用不当，就会犯“______”的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以偏概全"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417b9-8104-11ee-b913-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谱归谬法，就是为了反驳某个判断，首先假定它是真的，然后由它推出荒谬的结论，最后根据______，得出该判断是假的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "充分条件假言推理的否定后件式"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417ba-8104-11ee-980c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个推理是形式有效的，指的是对于一个推理形式假设其前提是真的，那么其结论______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一定也是真的"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417bb-8104-11ee-8315-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“并非北京是大唐都城”等值于“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "北京不是大唐都城"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417bc-8104-11ee-be60-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据一类事物中部分对象具有某种属性，推出该类事物的所有对象都具有该属性的推理称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不完全归纳推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417bd-8104-11ee-bbbe-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从概念的外延关系来看，“动物”和“哺乳动物”是______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真包含"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417be-8104-11ee-bb22-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "复合判断是指自身中二的判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "包含有其他判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417bf-8104-11ee-8a31-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与“可能非P”具有下反对关系的判断是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能P"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c0-8104-11ee-93bf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有个哲学家说：“对于“人都是理性的”和“有的人不是理性的”这两个论题，我都反对”。这个哲学家的认识违背了______律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "排中"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c1-8104-11ee-b833-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SEP通过换质可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "SAP̄"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c2-8104-11ee-b059-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "违反矛盾律所犯的逻辑错误称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自相矛盾"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c3-8104-11ee-8858-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "□(p∧q)与______可以互推。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "□p∧□q"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c4-8104-11ee-b2e7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外延包括一个以上对象的概念称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "普遍概念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c5-8104-11ee-951f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“所有的商品都是劳动产品”是______命题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全称肯定"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c6-8104-11ee-98e0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "光和声的现象都具有一系列的相同属性:直线传播、反射、折射和干扰等，科学家发现声的本质是由物体的振动所产生的一种波动，因此推断光的本质也是波动。这里运用的逻辑方法是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "类比推理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c7-8104-11ee-b459-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个概念的部分外延与另一个概念的部分外延重合的关系是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "交叉关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c8-8104-11ee-96cd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察问大刘：“你知不知道醉酒驾车是违反交通规则的？”大刘回答：“我不喝酒的话市场上酒就卖不出去了。”大刘的回答犯了______的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "转移论题"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417c9-8104-11ee-a79e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "逻辑基本规律主要有同一律、矛盾律和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "排中律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417ca-8104-11ee-b429-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必要条件假言命题推理的有效式之一是否定______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417cb-8104-11ee-830b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“尧有不慈之毁，舜有不孝之谤。殊不知尧慈被天下，而不在于子；舜孝及万世，乃不在于父。”这里反驳的论题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尧慈悲天下，而不在于子，舜孝及万世，乃不在于父"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417cc-8104-11ee-84c0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "划分后的各子项的外延之和必须与母项的外延相等。违反这一规则就会犯“划分不全”或“______”的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "多出子项"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417cd-8104-11ee-a892-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若假言判断断言前件真后件______、前件假后件必假，则该判断为充分必要条件假言判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417ce-8104-11ee-8d47-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与“必然P”具有矛盾关系的命题是“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能非P"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417cf-8104-11ee-ab27-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“凡是正派人都是光明磊落的”通过______推理可以得到“（所有）不光明磊落的人都不是正派人”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "换质位"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d0-8104-11ee-a9e2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓推理形式,指的是推理的______在形式上的联系方式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前提和结论"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d1-8104-11ee-b7eb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "任何概念都有两个基本的逻辑特征，即外延和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内涵"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d2-8104-11ee-9dfe-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自身中包含有其他判断的判断称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "复合判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d3-8104-11ee-9d29-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "划分包括三个要素.即划分的母项、划分的子项和划分的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标准"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d4-8104-11ee-9e65-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个充分条件假言判断，只有当前件真而后件假时,该假言判断才为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "假"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d5-8104-11ee-b7ad-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "否定某个判断的判断称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "负判断"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d6-8104-11ee-8b11-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SIP通过换质可以得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "SOP"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d7-8104-11ee-b832-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简单枚举法作为一种不完全归纳推理,如果使用不当,就会犯“______”的逻辑错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "轻率概括"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d8-8104-11ee-bd8a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "演绎论证属于必然性论证，具有充分的说服力,只要论据正确，推理有效，则论题一定______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417d9-8104-11ee-8719-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "矛盾律的内容是:在同一思维过程中,两个互相否定的思想______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不能同真"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417da-8104-11ee-8c81-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与“必然p”具有差等关系的命题是“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能p"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417db-8104-11ee-9a83-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "具有属种关系的两个概念，其内酒和外延之间存在着______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反变"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417dc-8104-11ee-a683-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "概念的______是通过诚少概念的内酒、扩大概念的外延来明确概念的一种逻辑方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "概括"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417dd-8104-11ee-bda6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“人指的是懂哲学、会思考的理性动物”这一定义所犯的逻辑错误是“______A”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "定义过窄"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417de-8104-11ee-8cd1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简单校举法是根据一类事物中部分对象具有某种孱性，并且______的情况，从而推出该类所有对象都具有该属性的归纳推理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "没有遇到与之相反"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417df-8104-11ee-acc1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "判断是对______人有所断定的思维形式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "思维对象"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417e0-8104-11ee-86ec-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "间接反驳是先论证与被反驳的判断相矛盾或者相反对的判断为真,然后根据______律确定被反驳的判断为假。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417e1-8104-11ee-9425-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个充分条件很言判断为假，当且仅当其______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前件真并且后件假"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417e2-8104-11ee-82e2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "违反排中律所犯的逻辑错误称为“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "模棱两可"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "逻辑学",
+		"raw_uuid": "null",
+		"question_uuid": "d35417e3-8104-11ee-9a78-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "联言判断是断定几种事物情况______的判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同时存在"
+	}
+]

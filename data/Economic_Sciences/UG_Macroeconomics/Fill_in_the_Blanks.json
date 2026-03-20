@@ -1,0 +1,344 @@
+[
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecbb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1a93e-71b9-11ee-b22a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 当生产中的两种生产要素是完全可以替代的，则其边际技术替代率____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不变"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecc6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f754-71b9-11ee-88b6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 在公共物品的生产上，市场是____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "失灵的"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecc9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f755-71b9-11ee-804b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 政府对一厂商出售的商品每单位征税5元，假定这种商品的需求弹性为零，可以预料该商品的价格的将上升____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "5元"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aeccc4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f756-71b9-11ee-815f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 国民生产总值与国内生产总值之差为____收入。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国外要素净支付"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aeccf6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f757-71b9-11ee-a7f4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 某人在没有收入时消费支出为200元，当其收入为600元时，消费支出为600元。在图形上消费和收入之间的关系成一条直线，则其边际消费倾向为____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2/3"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecd1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f758-71b9-11ee-8265-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 由加速理论可知国民收入的增加导致投资____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "增加"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecd50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f759-71b9-11ee-b372-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 假定充分就业的国民收入为1000亿美元，实际的国民收入为950亿美元，增加20亿美元的投资(MPC=0.8)，经济将发生____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通货膨胀"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecd78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f75a-71b9-11ee-bbfc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 当两国之间存在国际贸易时，会出现生产在生产可能性____，消费在生产可能性____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "边界上；边界外"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecdaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f75b-71b9-11ee-bc8a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 帕累托最优条件包括了三项，即____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "交换的最优条件、生产的最优条件以及交换和生产的最优条件。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecdd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f75c-71b9-11ee-a574-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 当个人的消费行为给他人带来利益，而消费者本人并没有因此而得到补偿，这便产生了____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "消费的外部经济。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecdfa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f75d-71b9-11ee-88c5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 经济学认为，土地的供给曲线的形状是____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一条垂直线。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aece2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f75e-71b9-11ee-8850-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 当使用某种生产要素时，为了防止它转移到别的用途而必须支付的报酬叫做____，在总报酬中，超过这个部分的内容称为____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "转移收入，经济租金。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aece54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f75f-71b9-11ee-9220-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 在消费者的偏好以及其他商品价格不变的条件下，与消费者的不同收入水平相联系的消费者效用最大化的均衡点的轨迹称为____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "收入-消费曲线。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aece86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f760-71b9-11ee-b831-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 根据购买力平价理论，一国的价格水平____，该国的货币就会贬值，反之则会升值。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "升高"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aeceae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f761-71b9-11ee-ad94-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 国际收支差额为____和____的差额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "净出口，净资本流出"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecee0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f762-71b9-11ee-bc88-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 假定名义货币存量为1000亿美元，价格水平上升20%时，实际货币存量变为____亿美元。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "833.33(1000/(1+20%))"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecf08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f763-71b9-11ee-8653-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 有超额准备和现金漏出时，货币创造乘数为____，货币创造乘数会变____"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1/(rd+re+rc)，小"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aecf30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c1e1f764-71b9-11ee-ba46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 运用长期增长的“70规则规 ”，估算某国经济增长率为8%，它的GDP翻一番需要的时间为____年。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "9"
+	}
+]

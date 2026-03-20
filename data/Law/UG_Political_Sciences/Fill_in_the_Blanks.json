@@ -1,0 +1,173 @@
+[
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565be20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a5982132-702f-11ee-bcfe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谋划十四五”时期发展，要坚持发展为了______、发展成果由______共享。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公民"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565c802-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a5987753-702f-11ee-9553-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "力争到二〇三五年______国防和军队现代化，到本世纪中叶把人民军队______世界一流军队。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基本实现；全面建成"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565f7c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a5987754-702f-11ee-b3d0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______与______相统一，既是马克思主义的价值追求，也是社会主义的本质要求，更是中国共产党人的奋斗目标。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "促进人的全面发展；促进共同富裕"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565f8b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a5987755-702f-11ee-8e8e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "进入______、贯彻______、构建______，是由我国经济社会发展的理论逻辑、历史逻辑、现实逻辑决定的，三者紧密关联。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "新发展阶段；新发展理念；新发展格局"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565eec2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a5987756-702f-11ee-a2d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "建设生态文明是关系______、关乎______的千年大计。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民福祉；中华民族永续发展"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565ffa2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a5987757-702f-11ee-a773-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "政治安全的核心是______，最根本的就是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政权安全，制度安全；维护中国共产党的领导和执政地位，维护中国特色社会主义制度"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3566004c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a5987758-702f-11ee-999e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我们要打赢防范化解重大风险攻坚战，必须坚持和完善______、推进______，运用制度威力应对风险挑战的冲击。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国特色社会主义制度；国家治理体系和治理能力现代化"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3566070e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a5987759-702f-11ee-bacf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民既是民主的______，也是民主的______，智慧力量充分激发，既为自己也为国家、民族拼搏奋斗。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "参与者；受益者"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3566086c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a598775a-702f-11ee-b173-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "党是最高政治领导力量，这是由我国______和______所决定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国家性质；国体政体"
+	}
+]

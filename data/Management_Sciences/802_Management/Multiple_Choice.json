@@ -1,0 +1,6462 @@
+[
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35165f6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0a489f-6dbf-11ee-add4-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“一般管理”之父法约尔提出的五大管理职能包括______。\n“计划、组织、人事、领导、控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：计划、组织、指挥、协调、控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35165f6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b124d-6dbf-11ee-babf-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“一般管理”之父法约尔提出的五大管理职能包括______。\n“计划、组织、指挥、协调、控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：计划、组织、指挥、协调、控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35165f6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b124e-6dbf-11ee-82e3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“一般管理”之父法约尔提出的五大管理职能包括______。\n“计划、组织、人事、协调、控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：计划、组织、指挥、协调、控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35165f6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b124f-6dbf-11ee-ae9d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“一般管理”之父法约尔提出的五大管理职能包括______。\n“计划、组织、领导、创新、控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：计划、组织、指挥、协调、控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b1250-6dbf-11ee-abf9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早系统明确分析管理职能的学者是______。\n“梅奥”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：亨利·法约尔。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b1251-6dbf-11ee-8b5e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早系统明确分析管理职能的学者是______。\n“韦伯”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：亨利·法约尔。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b1252-6dbf-11ee-9a0b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早系统明确分析管理职能的学者是______。\n“泰罗”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：亨利·法约尔。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b1253-6dbf-11ee-9f10-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早系统明确分析管理职能的学者是______。\n“亨利·法约尔”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：亨利·法约尔。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516608c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b1254-6dbf-11ee-b81c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从发生的时间顺序看，下列四种管理职能的排列方式，______更符合逻辑\n“计划、控制、组织、领导”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：计划、组织、领导、控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516608c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b1255-6dbf-11ee-852e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从发生的时间顺序看，下列四种管理职能的排列方式，______更符合逻辑\n“计划、领导、组织、控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：计划、组织、领导、控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516608c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b1256-6dbf-11ee-bf94-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从发生的时间顺序看，下列四种管理职能的排列方式，______更符合逻辑\n“计划、组织、控制、领导”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：计划、组织、领导、控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516608c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b1257-6dbf-11ee-af71-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从发生的时间顺序看，下列四种管理职能的排列方式，______更符合逻辑\n“计划、组织、领导、控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：计划、组织、领导、控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351660be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b1258-6dbf-11ee-a546-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于管理人员来说，一般需要具备多种技能，如概念技能、人际技能、技术技能等。当一名管理人员在组织中的职位趋升时，这三种技能相对重要性的变化情况是______。\n“同时等幅增加”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：概念技能的相对重要性增加，技术技能的相对重要性降低，人际技能相对不变。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351660be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56ca-6dbf-11ee-b07a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于管理人员来说，一般需要具备多种技能，如概念技能、人际技能、技术技能等。当一名管理人员在组织中的职位趋升时，这三种技能相对重要性的变化情况是______。\n“概念技能重要性增加最明显，其次是人际技能，最后是技术技能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：概念技能的相对重要性增加，技术技能的相对重要性降低，人际技能相对不变。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351660be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56cb-6dbf-11ee-89db-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于管理人员来说，一般需要具备多种技能，如概念技能、人际技能、技术技能等。当一名管理人员在组织中的职位趋升时，这三种技能相对重要性的变化情况是______。\n“概念技能的相对重要性增加，技术技能的相对重要性降低，人际技能相对不变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：概念技能的相对重要性增加，技术技能的相对重要性降低，人际技能相对不变。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351660be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56cc-6dbf-11ee-a35f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于管理人员来说，一般需要具备多种技能，如概念技能、人际技能、技术技能等。当一名管理人员在组织中的职位趋升时，这三种技能相对重要性的变化情况是______。\n“人际技能重要性增加最明显，其次是概念技能，最后是技术技能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：概念技能的相对重要性增加，技术技能的相对重要性降低，人际技能相对不变。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351660e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56cd-6dbf-11ee-a6b3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理人员与作业人员的根本区别在于______。\n“需要与他人配合完成组织目标”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：需要协调他人的努力以实现组织目标。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351660e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56ce-6dbf-11ee-ab57-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理人员与作业人员的根本区别在于______。\n“需要从事具体的文件签发审阅工作”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：需要协调他人的努力以实现组织目标。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351660e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56cf-6dbf-11ee-827f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理人员与作业人员的根本区别在于______。\n“需要对自己的工作成果负责”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：需要协调他人的努力以实现组织目标。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351660e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56d0-6dbf-11ee-9719-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理人员与作业人员的根本区别在于______。\n“需要协调他人的努力以实现组织目标”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：需要协调他人的努力以实现组织目标。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56d1-6dbf-11ee-94e8-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下关于明茨伯格提出的管理者角色中，______属于决策制定方面的角色\n“监控者”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：创业者。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56d2-6dbf-11ee-94ab-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下关于明茨伯格提出的管理者角色中，______属于决策制定方面的角色\n“传播者”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：创业者。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56d3-6dbf-11ee-a702-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下关于明茨伯格提出的管理者角色中，______属于决策制定方面的角色\n“创业者”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：创业者。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56d4-6dbf-11ee-a8c2-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下关于明茨伯格提出的管理者角色中，______属于决策制定方面的角色\n“领导者”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：创业者。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56d5-6dbf-11ee-97ae-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "越是处于高层的管理者，其对于概念技能、人际技能、技术技能的需要，就越是按______顺序排列。\n“概念技能、技术技能、人际技能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：概念技能、人际技能、技术技能。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b56d6-6dbf-11ee-97bf-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "越是处于高层的管理者，其对于概念技能、人际技能、技术技能的需要，就越是按______顺序排列。\n“技术技能、概念技能、人际技能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：概念技能、人际技能、技术技能。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91e1-6dbf-11ee-a187-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "越是处于高层的管理者，其对于概念技能、人际技能、技术技能的需要，就越是按______顺序排列。\n“概念技能、人际技能、技术技能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：概念技能、人际技能、技术技能。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91e2-6dbf-11ee-8e4f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "越是处于高层的管理者，其对于概念技能、人际技能、技术技能的需要，就越是按______顺序排列。\n“人际技能、技术技能、概念技能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：概念技能、人际技能、技术技能。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166168-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91e3-6dbf-11ee-b65f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某旅游公司总经理在总体市场不景气的情况下，以独特的眼光发现了惊险性旅游项目与25～35岁男性消费者之间的相关性，在此基础上设计了具有针对性的旅游路线与项目，并进行了前期宣传。因为涉及与交通管理、保险、环保等部门的协调，新项目得到正式批准的时间比预期的晚了整整一年，由此丧失了大量的市场机会。你认为下列哪种说法最能概括该总经理的管理技能状况\n“技术技能、人际技能、概念技能都弱”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：技术技能和概念技能强但人际技能弱。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166168-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91e4-6dbf-11ee-b039-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某旅游公司总经理在总体市场不景气的情况下，以独特的眼光发现了惊险性旅游项目与25～35岁男性消费者之间的相关性，在此基础上设计了具有针对性的旅游路线与项目，并进行了前期宣传。因为涉及与交通管理、保险、环保等部门的协调，新项目得到正式批准的时间比预期的晚了整整一年，由此丧失了大量的市场机会。你认为下列哪种说法最能概括该总经理的管理技能状况\n“技术技能、人际技能、概念技能都强”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：技术技能和概念技能强但人际技能弱。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166168-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91e5-6dbf-11ee-83ae-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某旅游公司总经理在总体市场不景气的情况下，以独特的眼光发现了惊险性旅游项目与25～35岁男性消费者之间的相关性，在此基础上设计了具有针对性的旅游路线与项目，并进行了前期宣传。因为涉及与交通管理、保险、环保等部门的协调，新项目得到正式批准的时间比预期的晚了整整一年，由此丧失了大量的市场机会。你认为下列哪种说法最能概括该总经理的管理技能状况\n“技术技能和人际技能强但概念技能弱”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：技术技能和概念技能强但人际技能弱。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166168-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91e6-6dbf-11ee-89e9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某旅游公司总经理在总体市场不景气的情况下，以独特的眼光发现了惊险性旅游项目与25～35岁男性消费者之间的相关性，在此基础上设计了具有针对性的旅游路线与项目，并进行了前期宣传。因为涉及与交通管理、保险、环保等部门的协调，新项目得到正式批准的时间比预期的晚了整整一年，由此丧失了大量的市场机会。你认为下列哪种说法最能概括该总经理的管理技能状况\n“技术技能和概念技能强但人际技能弱”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：技术技能和概念技能强但人际技能弱。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516619a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91e7-6dbf-11ee-8507-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "比较不同流派管理思想，可以发现，更加侧重于效率的流派是______。\n“科学管理思想”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：行为管理思想。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516619a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91e8-6dbf-11ee-a14c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "比较不同流派管理思想，可以发现，更加侧重于效率的流派是______。\n“行为管理思想”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：行为管理思想。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516619a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91e9-6dbf-11ee-a3df-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "比较不同流派管理思想，可以发现，更加侧重于效率的流派是______。\n“管理科学思想”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：行为管理思想。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516619a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91ea-6dbf-11ee-916e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "比较不同流派管理思想，可以发现，更加侧重于效率的流派是______。\n“系统和权变管理思想”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：行为管理思想。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351661cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91eb-6dbf-11ee-a249-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______道德观是一种完全根据行为结果来评价人类行为善恶的道德观。\n“公平公正”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：功利主义。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351661cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91ec-6dbf-11ee-8864-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______道德观是一种完全根据行为结果来评价人类行为善恶的道德观。\n“功利主义”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：功利主义。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351661cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91ed-6dbf-11ee-93c0-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______道德观是一种完全根据行为结果来评价人类行为善恶的道德观。\n“权利至上”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：功利主义。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351661cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91ee-6dbf-11ee-9ff3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______道德观是一种完全根据行为结果来评价人类行为善恶的道德观。\n“推己及人”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：功利主义。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351661fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91ef-6dbf-11ee-85dc-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是中国儒家道德观的高度概括。\n“社会契约道德观”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：推己及人道德观。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351661fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f0-6dbf-11ee-b8d9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是中国儒家道德观的高度概括。\n“权利至上道德观”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：推己及人道德观。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351661fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f1-6dbf-11ee-9bd3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是中国儒家道德观的高度概括。\n“公平公正道德观”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：推己及人道德观。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351661fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f2-6dbf-11ee-8963-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是中国儒家道德观的高度概括。\n“推己及人道德观”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：推己及人道德观。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f3-6dbf-11ee-850d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "接受______的管理者可能决定向新来的员工支付比最低工资高一些的工资。\n“功利观”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：公平观。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f4-6dbf-11ee-91f7-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "接受______的管理者可能决定向新来的员工支付比最低工资高一些的工资。\n“权利观”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：公平观。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f5-6dbf-11ee-a645-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "接受______的管理者可能决定向新来的员工支付比最低工资高一些的工资。\n“公平观”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：公平观。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f6-6dbf-11ee-8032-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "接受______的管理者可能决定向新来的员工支付比最低工资高一些的工资。\n“综合观”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：公平观。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f7-6dbf-11ee-9602-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当企业发现自己生产的产品存在安全隐患时，主动召回该产品是在实践______。\n“社会响应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会义务。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f8-6dbf-11ee-874c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当企业发现自己生产的产品存在安全隐患时，主动召回该产品是在实践______。\n“道德准则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会义务。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91f9-6dbf-11ee-bfbe-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当企业发现自己生产的产品存在安全隐患时，主动召回该产品是在实践______。\n“社会义务”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：社会义务。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91fa-6dbf-11ee-91fe-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当企业发现自己生产的产品存在安全隐患时，主动召回该产品是在实践______。\n“社会责任”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会义务。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166280-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91fb-6dbf-11ee-97dd-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业经营活动的国际化必然引发______的国际化。\n“信息资源”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：附加价值。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166280-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91fc-6dbf-11ee-a91a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业经营活动的国际化必然引发______的国际化。\n“附加价值”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：附加价值。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166280-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91fd-6dbf-11ee-adf1-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业经营活动的国际化必然引发______的国际化。\n“文化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：附加价值。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166280-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91fe-6dbf-11ee-a480-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业经营活动的国际化必然引发______的国际化。\n“A与C”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：附加价值。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351662b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b91ff-6dbf-11ee-9c3d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当全球一体化的压力高、当地反应化的压力低时，跨国企业将采取______的竞争战略。\n“多国模式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：全球模式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351662b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b9200-6dbf-11ee-b125-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当全球一体化的压力高、当地反应化的压力低时，跨国企业将采取______的竞争战略。\n“国际模式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：全球模式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351662b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b9201-6dbf-11ee-b8cb-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当全球一体化的压力高、当地反应化的压力低时，跨国企业将采取______的竞争战略。\n“跨国模式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：全球模式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351662b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0b9202-6dbf-11ee-818b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当全球一体化的压力高、当地反应化的压力低时，跨国企业将采取______的竞争战略。\n“全球模式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：全球模式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351662da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ecd-6dbf-11ee-b54c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业为了创造价值，通常将其在母国所开发出的具有差别化的产品转移到国外市场，这属于______。\n“多国本土化战略”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：国际战略。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351662da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ece-6dbf-11ee-b7f4-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业为了创造价值，通常将其在母国所开发出的具有差别化的产品转移到国外市场，这属于______。\n“全球化战略”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：国际战略。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351662da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ecf-6dbf-11ee-9483-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业为了创造价值，通常将其在母国所开发出的具有差别化的产品转移到国外市场，这属于______。\n“国际战略”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：国际战略。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351662da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ed0-6dbf-11ee-a5d8-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业为了创造价值，通常将其在母国所开发出的具有差别化的产品转移到国外市场，这属于______。\n“跨国战略”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：国际战略。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166302-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ed1-6dbf-11ee-9ae6-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下命题不正确的是______。\n“管理的实质是协调”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：管理就是计划。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166302-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ed2-6dbf-11ee-aed4-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下命题不正确的是______。\n“管理的目的是实现组织目标”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：管理就是计划。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166302-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ed3-6dbf-11ee-bfba-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下命题不正确的是______。\n“管理就是计划”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：管理就是计划。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166302-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ed4-6dbf-11ee-a3a9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下命题不正确的是______。\n“管理是在一定环境下进行的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：管理就是计划。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166334-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ed5-6dbf-11ee-aa6f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在对方案进行选择时其一般遵循的原则是______。\n“理性原则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：满意原则。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166334-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ed6-6dbf-11ee-a115-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在对方案进行选择时其一般遵循的原则是______。\n“合法化原则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：满意原则。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166334-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ed7-6dbf-11ee-ac51-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在对方案进行选择时其一般遵循的原则是______。\n“可行性原则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：满意原则。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166334-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c2ed8-6dbf-11ee-ba53-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在对方案进行选择时其一般遵循的原则是______。\n“满意原则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：满意原则。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516635c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5657-6dbf-11ee-9ad3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "运用创造性思维最多的是______。\n“行政决策的后果预测阶段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：决策方案设计的轮廓设想阶段。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516635c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5658-6dbf-11ee-bb14-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "运用创造性思维最多的是______。\n“行政决策的方案抉择阶段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：决策方案设计的轮廓设想阶段。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516635c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5659-6dbf-11ee-96eb-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "运用创造性思维最多的是______。\n“决策方案设计的轮廓设想阶段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：决策方案设计的轮廓设想阶段。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516635c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c565a-6dbf-11ee-961d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "运用创造性思维最多的是______。\n“决策方案的细部设计阶段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：决策方案设计的轮廓设想阶段。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516638e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c565b-6dbf-11ee-b407-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列不是“一票否决”制可能产生后果的是______。\n“讨价还价”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：可能产生独裁。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516638e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c565c-6dbf-11ee-ab24-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列不是“一票否决”制可能产生后果的是______。\n“可能产生独裁”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：可能产生独裁。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516638e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c565d-6dbf-11ee-b482-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列不是“一票否决”制可能产生后果的是______。\n““无奈的选择””填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：可能产生独裁。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516638e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c565e-6dbf-11ee-8d40-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列不是“一票否决”制可能产生后果的是______。\n“决策中的“策略行为””填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：可能产生独裁。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351663c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c565f-6dbf-11ee-86c6-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "决定是否与另一个组织合并，如何重组以提高效率，或是否关闭一个亏损的工厂，这些都是典型的______。\n“确定型决策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：非程序化决策。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351663c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5660-6dbf-11ee-a17e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "决定是否与另一个组织合并，如何重组以提高效率，或是否关闭一个亏损的工厂，这些都是典型的______。\n“非程序化决策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：非程序化决策。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351663c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5661-6dbf-11ee-94f2-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "决定是否与另一个组织合并，如何重组以提高效率，或是否关闭一个亏损的工厂，这些都是典型的______。\n“例行型决策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：非程序化决策。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351663c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5662-6dbf-11ee-9cb5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "决定是否与另一个组织合并，如何重组以提高效率，或是否关闭一个亏损的工厂，这些都是典型的______。\n“重复性决策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：非程序化决策。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351663e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5663-6dbf-11ee-8d0e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从本案例来看，B啤酒厂决策成功的主要原因是______。\n“采用了专家会议法等预测方法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：积极吸收采纳了多方面的信息，正确预测了市场走向。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351663e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5664-6dbf-11ee-886d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从本案例来看，B啤酒厂决策成功的主要原因是______。\n“敢于创新，开发新的产品”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：积极吸收采纳了多方面的信息，正确预测了市场走向。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351663e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5665-6dbf-11ee-bee0-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从本案例来看，B啤酒厂决策成功的主要原因是______。\n“积极吸收采纳了多方面的信息，正确预测了市场走向”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：积极吸收采纳了多方面的信息，正确预测了市场走向。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351663e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5666-6dbf-11ee-a884-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从本案例来看，B啤酒厂决策成功的主要原因是______。\n“主动更新设备，引进国外的生产线”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：积极吸收采纳了多方面的信息，正确预测了市场走向。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516641a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5667-6dbf-11ee-8775-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂组织工人召开会议是使用了决策中的______方法\n“头脑风暴法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：头脑风暴法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516641a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5668-6dbf-11ee-b2ba-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂组织工人召开会议是使用了决策中的______方法\n“对演法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：头脑风暴法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516641a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c5669-6dbf-11ee-883e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂组织工人召开会议是使用了决策中的______方法\n“综摄法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：头脑风暴法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516641a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c566a-6dbf-11ee-a366-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂组织工人召开会议是使用了决策中的______方法\n“角色互换法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：头脑风暴法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c566b-6dbf-11ee-9d24-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂在研究下一步发展战略的时候，对本市近十年来啤酒销售的情况做了认真的统计。做这项工作的目的是为了运用______预测方法\n“投入—产出分析法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：时间序列法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c566c-6dbf-11ee-baf9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂在研究下一步发展战略的时候，对本市近十年来啤酒销售的情况做了认真的统计。做这项工作的目的是为了运用______预测方法\n“时间序列法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：时间序列法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c566d-6dbf-11ee-a1de-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂在研究下一步发展战略的时候，对本市近十年来啤酒销售的情况做了认真的统计。做这项工作的目的是为了运用______预测方法\n“回归分析法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：时间序列法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0c566e-6dbf-11ee-a94f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂在研究下一步发展战略的时候，对本市近十年来啤酒销售的情况做了认真的统计。做这项工作的目的是为了运用______预测方法\n“趋势外推法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：时间序列法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166474-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8db-6dbf-11ee-bd17-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂在方案抉择中主要用了______。\n“经验判断法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：试验法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166474-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8dc-6dbf-11ee-8950-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂在方案抉择中主要用了______。\n““决策树”技术”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：试验法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166474-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8dd-6dbf-11ee-95b1-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂在方案抉择中主要用了______。\n“试验法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：试验法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166474-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8de-6dbf-11ee-b131-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂在方案抉择中主要用了______。\n“模拟法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：试验法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516649c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8df-6dbf-11ee-b412-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂的决策方式，会使______。\n“该厂的工人更强烈地支持该厂的决策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：以上皆是。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516649c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8e0-6dbf-11ee-9e29-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂的决策方式，会使______。\n“体现了该厂的领导以人为中心的决策观念”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：以上皆是。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516649c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8e1-6dbf-11ee-a81c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂的决策方式，会使______。\n“有利于提高该厂决策的有效性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：以上皆是。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516649c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8e2-6dbf-11ee-a25a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "B啤酒厂的决策方式，会使______。\n“以上皆是”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：以上皆是。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351664ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8e3-6dbf-11ee-b947-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于计划的实际效果，许多管理学家都进行过仔细研究，其基本结论是______。\n“制定正式计划的组织比不制定正式计划的组织绩效要好”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：制定正式计划的组织不一定就有好的绩效。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351664ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8e4-6dbf-11ee-a2d9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于计划的实际效果，许多管理学家都进行过仔细研究，其基本结论是______。\n“制定正式计划的组织不一定就有好的绩效”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：制定正式计划的组织不一定就有好的绩效。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351664ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8e5-6dbf-11ee-a2e7-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于计划的实际效果，许多管理学家都进行过仔细研究，其基本结论是______。\n“制定正式计划会降低组织的灵活性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：制定正式计划的组织不一定就有好的绩效。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351664ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ca8e6-6dbf-11ee-9961-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于计划的实际效果，许多管理学家都进行过仔细研究，其基本结论是______。\n“好的计划可以消除变化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：制定正式计划的组织不一定就有好的绩效。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351664f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd675-6dbf-11ee-a6e4-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如下选项中______不属于影响计划工作的权变因素\n“组织的层次”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：权力的大小。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351664f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd676-6dbf-11ee-8232-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如下选项中______不属于影响计划工作的权变因素\n“权力的大小”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：权力的大小。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351664f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd677-6dbf-11ee-b263-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如下选项中______不属于影响计划工作的权变因素\n“环境的不确定性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：权力的大小。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351664f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd678-6dbf-11ee-b9c1-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如下选项中______不属于影响计划工作的权变因素\n“未来投入的持续时间”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：权力的大小。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd679-6dbf-11ee-8dc8-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在“天、地、彼、己”中，“地”是指______。\n“企业竞争所处的行业环境”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：企业竞争所处的行业环境。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd67a-6dbf-11ee-afc3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在“天、地、彼、己”中，“地”是指______。\n“企业竞争对手”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：企业竞争所处的行业环境。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd67b-6dbf-11ee-ba3a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在“天、地、彼、己”中，“地”是指______。\n“企业自身条件”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：企业竞争所处的行业环境。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd67c-6dbf-11ee-888d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在“天、地、彼、己”中，“地”是指______。\n“外部一般环境”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：企业竞争所处的行业环境。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166550-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd67d-6dbf-11ee-9b36-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织设计必须考虑到人的因素即______。\n“有利于人的能力的提高”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：有利于人的发展。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166550-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0cd67e-6dbf-11ee-9ee9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织设计必须考虑到人的因素即______。\n“有利于人的发展”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：有利于人的发展。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166550-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a6c-6dbf-11ee-a380-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织设计必须考虑到人的因素即______。\n“有利于个性的发挥”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：有利于人的发展。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166550-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a6d-6dbf-11ee-8008-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织设计必须考虑到人的因素即______。\n“有利于个人潜能的发挥”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：有利于人的发展。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166582-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a6e-6dbf-11ee-bb3c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司职员在工作中经常接到来自上边的两个有时甚至相互冲突的命令。以下______指出了导致这一现象的最本质原因\n“该公司在组织设计上采取了职能型结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：该公司组织设计中违背了统一指挥原则。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166582-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a6f-6dbf-11ee-b909-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司职员在工作中经常接到来自上边的两个有时甚至相互冲突的命令。以下______指出了导致这一现象的最本质原因\n“该公司在组织运作中出现了越级指挥问题”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：该公司组织设计中违背了统一指挥原则。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166582-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a70-6dbf-11ee-bdc9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司职员在工作中经常接到来自上边的两个有时甚至相互冲突的命令。以下______指出了导致这一现象的最本质原因\n“该公司的组织层次设计过多”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：该公司组织设计中违背了统一指挥原则。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166582-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a71-6dbf-11ee-876f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司职员在工作中经常接到来自上边的两个有时甚至相互冲突的命令。以下______指出了导致这一现象的最本质原因\n“该公司组织设计中违背了统一指挥原则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：该公司组织设计中违背了统一指挥原则。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351665aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a72-6dbf-11ee-86b5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某软件销售公司大约有30名员工，主要从事软件的销售及售后服务。其客户主要有两类：即企业客户和家庭客户，这两类客户的需求具有明显不同的特点。专门针对企业和家庭客户的售后服务，对了解客户需求、改善客户关系、增加软件销售具有明显的促进作用。在下述组织结构设计思路中，哪个最为可取\n“采用矩阵式组织结构，在职能制结构的基础上设立项目组”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：按照客户划分部门，即分成企业销售服务部和家庭销售服务部。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351665aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a73-6dbf-11ee-8733-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某软件销售公司大约有30名员工，主要从事软件的销售及售后服务。其客户主要有两类：即企业客户和家庭客户，这两类客户的需求具有明显不同的特点。专门针对企业和家庭客户的售后服务，对了解客户需求、改善客户关系、增加软件销售具有明显的促进作用。在下述组织结构设计思路中，哪个最为可取\n“设立4个业务部门：企业销售部、家庭销售部、企业服务部、家庭服务部”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：按照客户划分部门，即分成企业销售服务部和家庭销售服务部。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351665aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a74-6dbf-11ee-b45f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某软件销售公司大约有30名员工，主要从事软件的销售及售后服务。其客户主要有两类：即企业客户和家庭客户，这两类客户的需求具有明显不同的特点。专门针对企业和家庭客户的售后服务，对了解客户需求、改善客户关系、增加软件销售具有明显的促进作用。在下述组织结构设计思路中，哪个最为可取\n“按照客户划分部门，即分成企业销售服务部和家庭销售服务部”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：按照客户划分部门，即分成企业销售服务部和家庭销售服务部。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351665aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d0a75-6dbf-11ee-aa78-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某软件销售公司大约有30名员工，主要从事软件的销售及售后服务。其客户主要有两类：即企业客户和家庭客户，这两类客户的需求具有明显不同的特点。专门针对企业和家庭客户的售后服务，对了解客户需求、改善客户关系、增加软件销售具有明显的促进作用。在下述组织结构设计思路中，哪个最为可取\n“按照职能划分部门，即分成销售部和售后服务部”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：按照客户划分部门，即分成企业销售服务部和家庭销售服务部。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351665dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d4062-6dbf-11ee-89e7-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列说法中不正确的是______。\n“管理幅度越大，管理层次就越少；管理幅度越小，管理层次就会相应增加”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：管理者需要处理的非管理事务较多，管理幅度的设计就需要相对加大，否则，则可以相应缩小。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351665dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d4063-6dbf-11ee-92ac-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列说法中不正确的是______。\n“管理者的能力强、素质高，管理幅度就可以比较大；反之，管理幅度就应该相对较小”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：管理者需要处理的非管理事务较多，管理幅度的设计就需要相对加大，否则，则可以相应缩小。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351665dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d4064-6dbf-11ee-ac7a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列说法中不正确的是______。\n“管理者需要处理的非管理事务较多，管理幅度的设计就需要相对加大，否则，则可以相应缩小”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：管理者需要处理的非管理事务较多，管理幅度的设计就需要相对加大，否则，则可以相应缩小。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351665dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d4065-6dbf-11ee-9276-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列说法中不正确的是______。\n“下属工作内容和性质的相似性程度高，管理幅度的设计可以较大；而相似性程度低的下属工作，管理幅度的设计就应该相应缩小”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：管理者需要处理的非管理事务较多，管理幅度的设计就需要相对加大，否则，则可以相应缩小。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516660e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d4066-6dbf-11ee-85f2-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司属下分公司的会计科长一方面要向分公司经理报告工作，另一方面又要遵守由总公司财务经理制定和设计的会计规章、会计报表。试问，会计科长的直接主管应该是______。\n“总公司财务经理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：分公司经理。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516660e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d4067-6dbf-11ee-a1a4-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司属下分公司的会计科长一方面要向分公司经理报告工作，另一方面又要遵守由总公司财务经理制定和设计的会计规章、会计报表。试问，会计科长的直接主管应该是______。\n“总公司总经理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：分公司经理。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516660e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d4068-6dbf-11ee-8399-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司属下分公司的会计科长一方面要向分公司经理报告工作，另一方面又要遵守由总公司财务经理制定和设计的会计规章、会计报表。试问，会计科长的直接主管应该是______。\n“分公司经理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：分公司经理。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516660e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d4069-6dbf-11ee-b9a0-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司属下分公司的会计科长一方面要向分公司经理报告工作，另一方面又要遵守由总公司财务经理制定和设计的会计规章、会计报表。试问，会计科长的直接主管应该是______。\n“总公司财务经理和分公司经理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：分公司经理。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166636-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7bf8-6dbf-11ee-bcb9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "职能型组织结构的最大优点是______。\n“能够充分发挥专业分工的作用，提高企业的效率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：加强了横向联系，能够提高专业人才与专用设备的利用率。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166636-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7bf9-6dbf-11ee-8214-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "职能型组织结构的最大优点是______。\n“加强了横向联系，能够提高专业人才与专用设备的利用率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：加强了横向联系，能够提高专业人才与专用设备的利用率。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166636-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7bfa-6dbf-11ee-bb4c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "职能型组织结构的最大优点是______。\n“每个下级能够得到多个上级的工作指导，管理工作深入细致”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：加强了横向联系，能够提高专业人才与专用设备的利用率。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166636-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7bfb-6dbf-11ee-a3fd-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "职能型组织结构的最大优点是______。\n“命令统一，指挥灵活，决策迅速，管理效率较高”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：加强了横向联系，能够提高专业人才与专用设备的利用率。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516665e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7bfc-6dbf-11ee-8c85-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织中，直线与参谋两类不同职权在确保企业有效运行上存在着以下______关系\n“领导与被领导”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：负直接责任与协助服务。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516665e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7bfd-6dbf-11ee-ac7c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织中，直线与参谋两类不同职权在确保企业有效运行上存在着以下______关系\n“一般协作同事”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：负直接责任与协助服务。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516665e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7bfe-6dbf-11ee-b6d7-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织中，直线与参谋两类不同职权在确保企业有效运行上存在着以下______关系\n“负直接责任与协助服务”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：负直接责任与协助服务。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516665e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7bff-6dbf-11ee-9d70-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织中，直线与参谋两类不同职权在确保企业有效运行上存在着以下______关系\n“命令与服从”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：负直接责任与协助服务。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166690-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c00-6dbf-11ee-a3ed-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理人员选聘时不需要作为主要考虑标准的是______。\n“管理的欲望”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：强健的体魄。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166690-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c01-6dbf-11ee-a5ce-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理人员选聘时不需要作为主要考虑标准的是______。\n“勇于创新的精神”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：强健的体魄。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166690-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c02-6dbf-11ee-96da-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理人员选聘时不需要作为主要考虑标准的是______。\n“强健的体魄”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：强健的体魄。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166690-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c03-6dbf-11ee-aad7-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理人员选聘时不需要作为主要考虑标准的是______。\n“较高的决策能力”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：强健的体魄。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351666c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c04-6dbf-11ee-b52d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下方案不属于解聘方案的是______。\n“自然减员”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：延迟退休。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351666c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c05-6dbf-11ee-8775-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下方案不属于解聘方案的是______。\n“临时解雇”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：延迟退休。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351666c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c06-6dbf-11ee-85d8-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下方案不属于解聘方案的是______。\n“缩短工作周”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：延迟退休。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351666c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c07-6dbf-11ee-938b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下方案不属于解聘方案的是______。\n“延迟退休”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：延迟退休。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351666ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c08-6dbf-11ee-81bb-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于工作轮换的说法不正确的是______。\n“工作轮换包括管理工作轮换与非管理工作轮换”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：工作轮换的主要目的是更新知识。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351666ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c09-6dbf-11ee-80e9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于工作轮换的说法不正确的是______。\n“工作轮换能培养员工的协作精神和系统观念”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：工作轮换的主要目的是更新知识。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351666ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c0a-6dbf-11ee-8414-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于工作轮换的说法不正确的是______。\n“工作轮换的主要目的是更新知识”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：工作轮换的主要目的是更新知识。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351666ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c0b-6dbf-11ee-8e9a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于工作轮换的说法不正确的是______。\n“为了有效地实现工作轮换的目的，要对受轮换训练的管理人员提出明确的要求”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：工作轮换的主要目的是更新知识。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516671c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c0c-6dbf-11ee-b3a9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于组织文化的说法中正确的是______。\n“组织文化的内容和力量不会对组织员工的行为产生影响”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：一般的文化都是在非自觉的状态下形成的，组织文化则可以是在组织努力的情况下形成。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516671c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c0d-6dbf-11ee-a319-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于组织文化的说法中正确的是______。\n“文化组织不具有自我延续性，会因为领导层的人事变更而立即消失”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：一般的文化都是在非自觉的状态下形成的，组织文化则可以是在组织努力的情况下形成。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516671c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c0e-6dbf-11ee-8037-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于组织文化的说法中正确的是______。\n“仁者见仁，智者见智，组织文化应该使组织成员面对某些伦理问题时产生多角度的认识”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：一般的文化都是在非自觉的状态下形成的，组织文化则可以是在组织努力的情况下形成。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516671c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c0f-6dbf-11ee-9cb9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于组织文化的说法中正确的是______。\n“一般的文化都是在非自觉的状态下形成的，组织文化则可以是在组织努力的情况下形成”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：一般的文化都是在非自觉的状态下形成的，组织文化则可以是在组织努力的情况下形成。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166758-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0d7c10-6dbf-11ee-b03f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "塑造组织文化时，应该注意______。\n“组织文化一旦形成，就无须改变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织领导者的模范行为在组织文化的塑造中起到号召和导向作用。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166758-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf67-6dbf-11ee-8ca9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "塑造组织文化时，应该注意______。\n“主要考虑社会要求和行业特点，和本组织的具体情况无关”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织领导者的模范行为在组织文化的塑造中起到号召和导向作用。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166758-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf68-6dbf-11ee-8630-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "塑造组织文化时，应该注意______。\n“组织文化主要靠自律，所以不需要建立制度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织领导者的模范行为在组织文化的塑造中起到号召和导向作用。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166758-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf69-6dbf-11ee-84a0-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "塑造组织文化时，应该注意______。\n“组织领导者的模范行为在组织文化的塑造中起到号召和导向作用”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：组织领导者的模范行为在组织文化的塑造中起到号召和导向作用。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf6a-6dbf-11ee-a2d6-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于组织文化的功能，不正确的是______。\n“组织文化具有某种程度的强制性和改造性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织的领导层一旦变动，组织文化一般会受到很大影响，甚至立即消失。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf6b-6dbf-11ee-b0da-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于组织文化的功能，不正确的是______。\n“组织文化对组织成员不具有明文规定的具体硬性要求”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织的领导层一旦变动，组织文化一般会受到很大影响，甚至立即消失。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf6c-6dbf-11ee-b001-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于组织文化的功能，不正确的是______。\n“组织的领导层一旦变动，组织文化一般会受到很大影响，甚至立即消失”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：组织的领导层一旦变动，组织文化一般会受到很大影响，甚至立即消失。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf6d-6dbf-11ee-81cf-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于组织文化的功能，不正确的是______。\n“组织文化可以从根本上改变组织成员旧有的价值观念”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织的领导层一旦变动，组织文化一般会受到很大影响，甚至立即消失。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351667b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf6e-6dbf-11ee-b1a6-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变革的最后一步是______。\n“通过组织诊断，发现变革征兆”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：评价变革效果，及时进行反馈。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351667b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf6f-6dbf-11ee-b571-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变革的最后一步是______。\n“分析变革因素，制定改革方案”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：评价变革效果，及时进行反馈。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351667b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf70-6dbf-11ee-b094-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变革的最后一步是______。\n“选择正确方案，实施变革计划”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：评价变革效果，及时进行反馈。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351667b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf71-6dbf-11ee-bd8e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变革的最后一步是______。\n“评价变革效果，及时进行反馈”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：评价变革效果，及时进行反馈。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351667da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf72-6dbf-11ee-8dda-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“上梁不正下梁歪”，这句话说明领导具有______。\n“模范权”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：模范权。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351667da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf73-6dbf-11ee-85d5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“上梁不正下梁歪”，这句话说明领导具有______。\n“合法权”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：模范权。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351667da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf74-6dbf-11ee-a327-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“上梁不正下梁歪”，这句话说明领导具有______。\n“惩罚权”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：模范权。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351667da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf75-6dbf-11ee-9c42-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“上梁不正下梁歪”，这句话说明领导具有______。\n“专长权”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：模范权。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516680c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf76-6dbf-11ee-8687-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "容易造成领导和下属的对立情绪，满意度低，缺勤率高且人员流动大的领导风格可能是______。\n“低结构低关怀型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：低结构低关怀型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516680c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf77-6dbf-11ee-a1c4-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "容易造成领导和下属的对立情绪，满意度低，缺勤率高且人员流动大的领导风格可能是______。\n“高结构低关怀型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：低结构低关怀型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516680c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf78-6dbf-11ee-99e7-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "容易造成领导和下属的对立情绪，满意度低，缺勤率高且人员流动大的领导风格可能是______。\n“低结构高关怀型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：低结构低关怀型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516680c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf79-6dbf-11ee-9259-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "容易造成领导和下属的对立情绪，满意度低，缺勤率高且人员流动大的领导风格可能是______。\n“高结构高关怀型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：低结构低关怀型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166834-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ddf7a-6dbf-11ee-9110-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导行为的管理方格理论的提出者是______。\n“斯特格迪尔”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：穆顿。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166834-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a7c-6dbf-11ee-9dc3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导行为的管理方格理论的提出者是______。\n“勒温”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：穆顿。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166834-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a7d-6dbf-11ee-93e5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导行为的管理方格理论的提出者是______。\n“穆顿”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：穆顿。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166834-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a7e-6dbf-11ee-b11d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导行为的管理方格理论的提出者是______。\n“施米特”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：穆顿。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166866-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a7f-6dbf-11ee-ad28-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据管理方框图理论，领导者强调有效地控制下属员工以努力完成各项工作，则该领导的领导风格为______。\n“贫乏型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：任务型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166866-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a80-6dbf-11ee-ac26-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据管理方框图理论，领导者强调有效地控制下属员工以努力完成各项工作，则该领导的领导风格为______。\n“任务型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：任务型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166866-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a81-6dbf-11ee-84cf-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据管理方框图理论，领导者强调有效地控制下属员工以努力完成各项工作，则该领导的领导风格为______。\n“逍遥型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：任务型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166866-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a82-6dbf-11ee-8fcd-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据管理方框图理论，领导者强调有效地控制下属员工以努力完成各项工作，则该领导的领导风格为______。\n“协调型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：任务型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516688e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a83-6dbf-11ee-97f3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早晨8点30分，公司常务副总、董事老杜接到市政府电话，通知企业开展冬季消防检查；10分钟后老杜打电话给保卫部，通知他们去处理这项要求；9点15分，老杜接到成品库房电话，被告知房屋后墙再次被人敲了个洞，又有几十箱产品被偷走；8分钟后，老杜打电话给市公安局请他们改善本地治安情况……整个上午老杜接电话、打电话，倒也挺忙。根据管理方格理论，你认为老杜最接近哪种类型领导者\n“1.1型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：9.1型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516688e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a84-6dbf-11ee-be33-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早晨8点30分，公司常务副总、董事老杜接到市政府电话，通知企业开展冬季消防检查；10分钟后老杜打电话给保卫部，通知他们去处理这项要求；9点15分，老杜接到成品库房电话，被告知房屋后墙再次被人敲了个洞，又有几十箱产品被偷走；8分钟后，老杜打电话给市公安局请他们改善本地治安情况……整个上午老杜接电话、打电话，倒也挺忙。根据管理方格理论，你认为老杜最接近哪种类型领导者\n“5.5型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：9.1型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516688e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a85-6dbf-11ee-9dd8-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早晨8点30分，公司常务副总、董事老杜接到市政府电话，通知企业开展冬季消防检查；10分钟后老杜打电话给保卫部，通知他们去处理这项要求；9点15分，老杜接到成品库房电话，被告知房屋后墙再次被人敲了个洞，又有几十箱产品被偷走；8分钟后，老杜打电话给市公安局请他们改善本地治安情况……整个上午老杜接电话、打电话，倒也挺忙。根据管理方格理论，你认为老杜最接近哪种类型领导者\n“9.1型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：9.1型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516688e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a86-6dbf-11ee-8750-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早晨8点30分，公司常务副总、董事老杜接到市政府电话，通知企业开展冬季消防检查；10分钟后老杜打电话给保卫部，通知他们去处理这项要求；9点15分，老杜接到成品库房电话，被告知房屋后墙再次被人敲了个洞，又有几十箱产品被偷走；8分钟后，老杜打电话给市公安局请他们改善本地治安情况……整个上午老杜接电话、打电话，倒也挺忙。根据管理方格理论，你认为老杜最接近哪种类型领导者\n“1.9型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：9.1型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351668b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a87-6dbf-11ee-a9dc-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某集团公司下属子公司A的一名资深技术人员，近期被调到子公司B任技术总监，而子公司B技术部门刚刚争取到几个新的、公司以前未曾涉猎过的研发项目。根据菲德勒的权变领导理论，试分析在这种情况下，该总监具备______领导风格才能产生较好的领导效果\n“关系导向型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：任务导向型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351668b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a88-6dbf-11ee-afdc-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某集团公司下属子公司A的一名资深技术人员，近期被调到子公司B任技术总监，而子公司B技术部门刚刚争取到几个新的、公司以前未曾涉猎过的研发项目。根据菲德勒的权变领导理论，试分析在这种情况下，该总监具备______领导风格才能产生较好的领导效果\n“任务导向型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：任务导向型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351668b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a89-6dbf-11ee-bed4-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某集团公司下属子公司A的一名资深技术人员，近期被调到子公司B任技术总监，而子公司B技术部门刚刚争取到几个新的、公司以前未曾涉猎过的研发项目。根据菲德勒的权变领导理论，试分析在这种情况下，该总监具备______领导风格才能产生较好的领导效果\n“成就导向型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：任务导向型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351668b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a8a-6dbf-11ee-8414-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某集团公司下属子公司A的一名资深技术人员，近期被调到子公司B任技术总监，而子公司B技术部门刚刚争取到几个新的、公司以前未曾涉猎过的研发项目。根据菲德勒的权变领导理论，试分析在这种情况下，该总监具备______领导风格才能产生较好的领导效果\n“放任型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：任务导向型。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351668e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a8b-6dbf-11ee-b4d9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导者应协助其下属制定并实现工作目标。这一观点出自______理论\n“领导行为连续统一体理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：路径—目标理论。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351668e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a8c-6dbf-11ee-9e8a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导者应协助其下属制定并实现工作目标。这一观点出自______理论\n“领导特质理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：路径—目标理论。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351668e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a8d-6dbf-11ee-a1fd-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导者应协助其下属制定并实现工作目标。这一观点出自______理论\n“路径—目标理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：路径—目标理论。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351668e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a8e-6dbf-11ee-87f1-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导者应协助其下属制定并实现工作目标。这一观点出自______理论\n“领导生命周期理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：路径—目标理论。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a8f-6dbf-11ee-9dfa-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据领导生命周期理论，工作能力不足但积极性较高的下属适用的领导风格为______。\n“命令式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：说服式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a90-6dbf-11ee-b8e5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据领导生命周期理论，工作能力不足但积极性较高的下属适用的领导风格为______。\n“说服式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：说服式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a91-6dbf-11ee-8443-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据领导生命周期理论，工作能力不足但积极性较高的下属适用的领导风格为______。\n“参与式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：说服式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a92-6dbf-11ee-90ab-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据领导生命周期理论，工作能力不足但积极性较高的下属适用的领导风格为______。\n“授权式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：说服式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a93-6dbf-11ee-8451-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "你的部门因预算的限制，有必要进行整编。你请了本部门中一位经验丰富的人负责这项工作。他在你部门的每个领域都工作过，你感到他有能力完成这一任务，可他却似乎对这项任务的重要性反应漠然。此时，你应当采取______领导方式\n“高任务、高关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：低任务、高关系。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a94-6dbf-11ee-bc91-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "你的部门因预算的限制，有必要进行整编。你请了本部门中一位经验丰富的人负责这项工作。他在你部门的每个领域都工作过，你感到他有能力完成这一任务，可他却似乎对这项任务的重要性反应漠然。此时，你应当采取______领导方式\n“高任务、低关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：低任务、高关系。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a95-6dbf-11ee-8c81-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "你的部门因预算的限制，有必要进行整编。你请了本部门中一位经验丰富的人负责这项工作。他在你部门的每个领域都工作过，你感到他有能力完成这一任务，可他却似乎对这项任务的重要性反应漠然。此时，你应当采取______领导方式\n“低任务、高关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：低任务、高关系。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0e1a96-6dbf-11ee-bc14-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "你的部门因预算的限制，有必要进行整编。你请了本部门中一位经验丰富的人负责这项工作。他在你部门的每个领域都工作过，你感到他有能力完成这一任务，可他却似乎对这项任务的重要性反应漠然。此时，你应当采取______领导方式\n“低任务、低关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：低任务、高关系。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516696a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae72-6dbf-11ee-9166-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "激励的出发点是______。\n“人的需求”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：动机。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516696a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae73-6dbf-11ee-864a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "激励的出发点是______。\n“动机”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：动机。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516696a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae74-6dbf-11ee-8f02-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "激励的出发点是______。\n“人的心理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：动机。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516696a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae75-6dbf-11ee-831c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "激励的出发点是______。\n“人的行为”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：动机。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516699c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae76-6dbf-11ee-bc6a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在有关人性的四种假设中，提出复杂人假设的是______。\n“沙因”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：沙因。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516699c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae77-6dbf-11ee-95e0-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在有关人性的四种假设中，提出复杂人假设的是______。\n“梅奥”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：沙因。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516699c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae78-6dbf-11ee-969d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在有关人性的四种假设中，提出复杂人假设的是______。\n“马斯洛”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：沙因。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "3516699c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae79-6dbf-11ee-9990-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在有关人性的四种假设中，提出复杂人假设的是______。\n“麦格雷戈”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：沙因。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351669ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae7a-6dbf-11ee-9674-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现在很多公司实行了弹性工作制员工可以自行安排工作的时间，甚至有的从事特殊工作的人可以利用公司提供的互联网等资源在家里办公。这样他们对工作和个人的家庭、社交生活也有了较大的自由度。当然也有些人是必须每天在公司上班的。你认为该公司的管理者所持有的对人的认识主要是倾向于______\n“X理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会人。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351669ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae7b-6dbf-11ee-b619-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现在很多公司实行了弹性工作制员工可以自行安排工作的时间，甚至有的从事特殊工作的人可以利用公司提供的互联网等资源在家里办公。这样他们对工作和个人的家庭、社交生活也有了较大的自由度。当然也有些人是必须每天在公司上班的。你认为该公司的管理者所持有的对人的认识主要是倾向于______\n“Y理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会人。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351669ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae7c-6dbf-11ee-8f51-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现在很多公司实行了弹性工作制员工可以自行安排工作的时间，甚至有的从事特殊工作的人可以利用公司提供的互联网等资源在家里办公。这样他们对工作和个人的家庭、社交生活也有了较大的自由度。当然也有些人是必须每天在公司上班的。你认为该公司的管理者所持有的对人的认识主要是倾向于______\n“理性经济人”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会人。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351669ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae7d-6dbf-11ee-9c8a-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现在很多公司实行了弹性工作制员工可以自行安排工作的时间，甚至有的从事特殊工作的人可以利用公司提供的互联网等资源在家里办公。这样他们对工作和个人的家庭、社交生活也有了较大的自由度。当然也有些人是必须每天在公司上班的。你认为该公司的管理者所持有的对人的认识主要是倾向于______\n“社会人”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：社会人。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351669f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae7e-6dbf-11ee-aca3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有些公司实行了弹性工作制，员工可以自行安排工作时间，甚至从事特殊工作的人可以利用公司提供的互联网等资源在家里办公。这些公司管理者所持的对人的认识主要倾向于______。\n“X理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Y理论。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351669f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae7f-6dbf-11ee-88d5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有些公司实行了弹性工作制，员工可以自行安排工作时间，甚至从事特殊工作的人可以利用公司提供的互联网等资源在家里办公。这些公司管理者所持的对人的认识主要倾向于______。\n“Y理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：Y理论。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351669f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae80-6dbf-11ee-91a3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有些公司实行了弹性工作制，员工可以自行安排工作时间，甚至从事特殊工作的人可以利用公司提供的互联网等资源在家里办公。这些公司管理者所持的对人的认识主要倾向于______。\n“领导风格理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Y理论。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "351669f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0eae81-6dbf-11ee-a052-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有些公司实行了弹性工作制，员工可以自行安排工作时间，甚至从事特殊工作的人可以利用公司提供的互联网等资源在家里办公。这些公司管理者所持的对人的认识主要倾向于______。\n“社会人假设理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Y理论。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a26-6dbf-11ee-bcb7-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "比较马斯洛的需求层次理论和麦戈雷格的X理论、Y理论，马斯洛提出的五种需求中，与Y理论对应的需求包括______。\n“生理和自尊的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社交和自尊的需要。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a27-6dbf-11ee-8b6e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "比较马斯洛的需求层次理论和麦戈雷格的X理论、Y理论，马斯洛提出的五种需求中，与Y理论对应的需求包括______。\n“生理和安全的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社交和自尊的需要。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a28-6dbf-11ee-bfaf-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "比较马斯洛的需求层次理论和麦戈雷格的X理论、Y理论，马斯洛提出的五种需求中，与Y理论对应的需求包括______。\n“安全和社交的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社交和自尊的需要。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a29-6dbf-11ee-9518-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "比较马斯洛的需求层次理论和麦戈雷格的X理论、Y理论，马斯洛提出的五种需求中，与Y理论对应的需求包括______。\n“社交和自尊的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：社交和自尊的需要。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a2a-6dbf-11ee-9672-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个尊重需求占主导地位的人，下列______激励措施最能产生效果\n“提薪”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：升职。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a2b-6dbf-11ee-bb50-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个尊重需求占主导地位的人，下列______激励措施最能产生效果\n“升职”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：升职。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a2c-6dbf-11ee-a48d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个尊重需求占主导地位的人，下列______激励措施最能产生效果\n“解聘威胁”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：升职。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a2d-6dbf-11ee-9d10-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个尊重需求占主导地位的人，下列______激励措施最能产生效果\n“工作扩大化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：升职。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a2e-6dbf-11ee-9673-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "赫兹伯格提出的双因素理论中，被称作激励因素的是______。\n“薪金”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：赏识。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a2f-6dbf-11ee-91bd-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "赫兹伯格提出的双因素理论中，被称作激励因素的是______。\n“人际关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：赏识。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a30-6dbf-11ee-8ea5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "赫兹伯格提出的双因素理论中，被称作激励因素的是______。\n“赏识”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：赏识。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166a82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a31-6dbf-11ee-a52b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "赫兹伯格提出的双因素理论中，被称作激励因素的是______。\n“职业安定”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：赏识。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166aaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a32-6dbf-11ee-9c50-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据双因素理论，能够提高员工满意度的措施是______。\n“提供诱人的薪水和福利”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：提供具有挑战性的工作。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166aaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a33-6dbf-11ee-a37e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据双因素理论，能够提高员工满意度的措施是______。\n“提供舒适的工作环境”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：提供具有挑战性的工作。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166aaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a34-6dbf-11ee-b3f2-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据双因素理论，能够提高员工满意度的措施是______。\n“提供具有挑战性的工作”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：提供具有挑战性的工作。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166aaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a35-6dbf-11ee-9b28-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据双因素理论，能够提高员工满意度的措施是______。\n“提供自由工作的便利”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：提供具有挑战性的工作。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166adc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a36-6dbf-11ee-ba48-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业中，常常见到员工之间会在贡献和报酬上相互参照攀比。一般来说，你认为员工最有可能将______人作为自己的攀比对象\n“企业的高层管理人员”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：与自己处于相近层次的人。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166adc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a37-6dbf-11ee-96b9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业中，常常见到员工之间会在贡献和报酬上相互参照攀比。一般来说，你认为员工最有可能将______人作为自己的攀比对象\n“员工们的顶头上司”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：与自己处于相近层次的人。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166adc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a38-6dbf-11ee-b57c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业中，常常见到员工之间会在贡献和报酬上相互参照攀比。一般来说，你认为员工最有可能将______人作为自己的攀比对象\n“企业中其他部门的领导”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：与自己处于相近层次的人。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166adc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f0a39-6dbf-11ee-92aa-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业中，常常见到员工之间会在贡献和报酬上相互参照攀比。一般来说，你认为员工最有可能将______人作为自己的攀比对象\n“与自己处于相近层次的人”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：与自己处于相近层次的人。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58e7-6dbf-11ee-b800-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "商鞅在秦国推行改革，他在城门外立了一根木棍，声称有将木棍从南门移到北门的，奖励500金，但没有人去尝试。根据期望理论，这是由于______。\n“500金的效价太低”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：居民对得到报酬的期望值很低。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58e8-6dbf-11ee-bc4d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "商鞅在秦国推行改革，他在城门外立了一根木棍，声称有将木棍从南门移到北门的，奖励500金，但没有人去尝试。根据期望理论，这是由于______。\n“居民对完成要求的期望值很低”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：居民对得到报酬的期望值很低。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58e9-6dbf-11ee-ba4e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "商鞅在秦国推行改革，他在城门外立了一根木棍，声称有将木棍从南门移到北门的，奖励500金，但没有人去尝试。根据期望理论，这是由于______。\n“居民对得到报酬的期望值很低”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：居民对得到报酬的期望值很低。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58ea-6dbf-11ee-9a36-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "商鞅在秦国推行改革，他在城门外立了一根木棍，声称有将木棍从南门移到北门的，奖励500金，但没有人去尝试。根据期望理论，这是由于______。\n“枪打出头鸟，大家都不敢尝试”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：居民对得到报酬的期望值很低。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58eb-6dbf-11ee-8081-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当一个人的行为符合社会需要时，可以通过给予奖赏的方式来强化这种行为，这种激励称为______。\n“正激励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：正激励。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58ec-6dbf-11ee-9c34-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当一个人的行为符合社会需要时，可以通过给予奖赏的方式来强化这种行为，这种激励称为______。\n“负激励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：正激励。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58ed-6dbf-11ee-b47c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当一个人的行为符合社会需要时，可以通过给予奖赏的方式来强化这种行为，这种激励称为______。\n“外激励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：正激励。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58ee-6dbf-11ee-903e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当一个人的行为符合社会需要时，可以通过给予奖赏的方式来强化这种行为，这种激励称为______。\n“内激励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：正激励。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58ef-6dbf-11ee-af51-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公司质管部经理老吕在质量管理的总体目标、步骤、措施等方面与公司主要领导人有不同看法。老吕认为，质量管理的重要性在公司上下并未得到充分重视。公司领导则认为，他们是十分重视产品质量问题的，只是老吕的质量控制方案成本太高且效果不好。最近一段时间，这种矛盾呈现激化现象。一天上午，老吕接到公司周副总的电话，通知他去北京参加一个为期10天的管理培训班，而老吕则认为自己主持的质改推进计划正在紧要关头，一时脱不开身，公司领导应该是知道这个情况的，他们做出这样的安排显然是不支持甚至是阻挠自己的工作。因此，老吕不仅拒绝了领导的安排，还发了一通脾气；而公司的周副总也十分恼火，认为老吕刚愎自用，双方不欢而散。你认为这里出现的沟通失败的最主要的原因是什么\n“周副总发送的信息编码有问题”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：老吕对于信息的译码出了问题。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f0-6dbf-11ee-86c9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公司质管部经理老吕在质量管理的总体目标、步骤、措施等方面与公司主要领导人有不同看法。老吕认为，质量管理的重要性在公司上下并未得到充分重视。公司领导则认为，他们是十分重视产品质量问题的，只是老吕的质量控制方案成本太高且效果不好。最近一段时间，这种矛盾呈现激化现象。一天上午，老吕接到公司周副总的电话，通知他去北京参加一个为期10天的管理培训班，而老吕则认为自己主持的质改推进计划正在紧要关头，一时脱不开身，公司领导应该是知道这个情况的，他们做出这样的安排显然是不支持甚至是阻挠自己的工作。因此，老吕不仅拒绝了领导的安排，还发了一通脾气；而公司的周副总也十分恼火，认为老吕刚愎自用，双方不欢而散。你认为这里出现的沟通失败的最主要的原因是什么\n“信息传递过程中出现了噪音”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：老吕对于信息的译码出了问题。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f1-6dbf-11ee-b9c1-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公司质管部经理老吕在质量管理的总体目标、步骤、措施等方面与公司主要领导人有不同看法。老吕认为，质量管理的重要性在公司上下并未得到充分重视。公司领导则认为，他们是十分重视产品质量问题的，只是老吕的质量控制方案成本太高且效果不好。最近一段时间，这种矛盾呈现激化现象。一天上午，老吕接到公司周副总的电话，通知他去北京参加一个为期10天的管理培训班，而老吕则认为自己主持的质改推进计划正在紧要关头，一时脱不开身，公司领导应该是知道这个情况的，他们做出这样的安排显然是不支持甚至是阻挠自己的工作。因此，老吕不仅拒绝了领导的安排，还发了一通脾气；而公司的周副总也十分恼火，认为老吕刚愎自用，双方不欢而散。你认为这里出现的沟通失败的最主要的原因是什么\n“老吕对于周副总的反馈有问题”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：老吕对于信息的译码出了问题。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f2-6dbf-11ee-9cc2-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公司质管部经理老吕在质量管理的总体目标、步骤、措施等方面与公司主要领导人有不同看法。老吕认为，质量管理的重要性在公司上下并未得到充分重视。公司领导则认为，他们是十分重视产品质量问题的，只是老吕的质量控制方案成本太高且效果不好。最近一段时间，这种矛盾呈现激化现象。一天上午，老吕接到公司周副总的电话，通知他去北京参加一个为期10天的管理培训班，而老吕则认为自己主持的质改推进计划正在紧要关头，一时脱不开身，公司领导应该是知道这个情况的，他们做出这样的安排显然是不支持甚至是阻挠自己的工作。因此，老吕不仅拒绝了领导的安排，还发了一通脾气；而公司的周副总也十分恼火，认为老吕刚愎自用，双方不欢而散。你认为这里出现的沟通失败的最主要的原因是什么\n“老吕对于信息的译码出了问题”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：老吕对于信息的译码出了问题。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f3-6dbf-11ee-aefb-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理的中心愈来愈从传统的计划、组织、控制等方面，趋向于“意义的管理”，这要求管理者注意______。\n“激励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：沟通。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f4-6dbf-11ee-b07f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理的中心愈来愈从传统的计划、组织、控制等方面，趋向于“意义的管理”，这要求管理者注意______。\n“沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：沟通。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f5-6dbf-11ee-abf7-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理的中心愈来愈从传统的计划、组织、控制等方面，趋向于“意义的管理”，这要求管理者注意______。\n“指挥”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：沟通。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166b90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f6-6dbf-11ee-86f9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理的中心愈来愈从传统的计划、组织、控制等方面，趋向于“意义的管理”，这要求管理者注意______。\n“协调”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：沟通。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166bb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f7-6dbf-11ee-b71b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "王某几年前下岗后，自己创办了一家公司。公司开始只有不到10个人，所有人都直接向王某负责。后来，公司发展很快，王某就任命了一个副总经理，由他负责公司的日常事务并向他汇报，自己不再直接过问各部门的业务。在此过程中，该公司沟通网络的变化过程是______。\n“由轮式变为链式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：由轮式变为Y式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166bb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f8-6dbf-11ee-9330-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "王某几年前下岗后，自己创办了一家公司。公司开始只有不到10个人，所有人都直接向王某负责。后来，公司发展很快，王某就任命了一个副总经理，由他负责公司的日常事务并向他汇报，自己不再直接过问各部门的业务。在此过程中，该公司沟通网络的变化过程是______。\n“由轮式变为Y式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：由轮式变为Y式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166bb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58f9-6dbf-11ee-aabc-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "王某几年前下岗后，自己创办了一家公司。公司开始只有不到10个人，所有人都直接向王某负责。后来，公司发展很快，王某就任命了一个副总经理，由他负责公司的日常事务并向他汇报，自己不再直接过问各部门的业务。在此过程中，该公司沟通网络的变化过程是______。\n“由链式变为Y式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：由轮式变为Y式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166bb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58fa-6dbf-11ee-8486-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "王某几年前下岗后，自己创办了一家公司。公司开始只有不到10个人，所有人都直接向王某负责。后来，公司发展很快，王某就任命了一个副总经理，由他负责公司的日常事务并向他汇报，自己不再直接过问各部门的业务。在此过程中，该公司沟通网络的变化过程是______。\n“由链式变为环式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：由轮式变为Y式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166bea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58fb-6dbf-11ee-a8b1-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司总经理出差二个星期刚回到公司，许多中层干部及办公室人员，马上就围拢过来。大家站在那里，七嘴八舌一下子就开成了一个热烈的自发办公会，有人向吴总汇报近日工作进展情况，另有人向吴总请求下一步工作的指示，还有人向吴总反映公司内外环境中出现的新动态。根据这种情况，你认为下述说法中______最适当地反映了该公司的组织与领导特征\n“链式沟通、民主式管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：轮式沟通、集权式管理。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166bea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58fc-6dbf-11ee-9d5b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司总经理出差二个星期刚回到公司，许多中层干部及办公室人员，马上就围拢过来。大家站在那里，七嘴八舌一下子就开成了一个热烈的自发办公会，有人向吴总汇报近日工作进展情况，另有人向吴总请求下一步工作的指示，还有人向吴总反映公司内外环境中出现的新动态。根据这种情况，你认为下述说法中______最适当地反映了该公司的组织与领导特征\n“轮式沟通、集权式管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：轮式沟通、集权式管理。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166bea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58fd-6dbf-11ee-9bb0-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司总经理出差二个星期刚回到公司，许多中层干部及办公室人员，马上就围拢过来。大家站在那里，七嘴八舌一下子就开成了一个热烈的自发办公会，有人向吴总汇报近日工作进展情况，另有人向吴总请求下一步工作的指示，还有人向吴总反映公司内外环境中出现的新动态。根据这种情况，你认为下述说法中______最适当地反映了该公司的组织与领导特征\n“环式沟通、民主式管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：轮式沟通、集权式管理。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166bea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0f58fe-6dbf-11ee-a646-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司总经理出差二个星期刚回到公司，许多中层干部及办公室人员，马上就围拢过来。大家站在那里，七嘴八舌一下子就开成了一个热烈的自发办公会，有人向吴总汇报近日工作进展情况，另有人向吴总请求下一步工作的指示，还有人向吴总反映公司内外环境中出现的新动态。根据这种情况，你认为下述说法中______最适当地反映了该公司的组织与领导特征\n“全通道式沟通、集权式管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：轮式沟通、集权式管理。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5e6-6dbf-11ee-b354-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述关于信息沟通的认识中，论述不正确的是______。\n“信息传递过程中所经过的层次越多，信息的失真度就越大”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：信息量越多，就越有利于进行有效巧沟通。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5e7-6dbf-11ee-bc47-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述关于信息沟通的认识中，论述不正确的是______。\n“信息量越多，就越有利于进行有效巧沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：信息量越多，就越有利于进行有效巧沟通。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5e8-6dbf-11ee-b4e3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述关于信息沟通的认识中，论述不正确的是______。\n“善于倾听能够有效改善沟通的效果”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：信息量越多，就越有利于进行有效巧沟通。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5e9-6dbf-11ee-8772-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述关于信息沟通的认识中，论述不正确的是______。\n“信息的发送者和接收者在地位上的差异也是一种沟通障碍”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：信息量越多，就越有利于进行有效巧沟通。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5ea-6dbf-11ee-835f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "控制职能与下述的______管理职能被描述为是管理工作的一对连体婴\n“计划职能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：计划职能。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5eb-6dbf-11ee-a996-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "控制职能与下述的______管理职能被描述为是管理工作的一对连体婴\n“组织职能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：计划职能。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5ec-6dbf-11ee-8256-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "控制职能与下述的______管理职能被描述为是管理工作的一对连体婴\n“人员配置职能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：计划职能。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5ed-6dbf-11ee-a88e-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "控制职能与下述的______管理职能被描述为是管理工作的一对连体婴\n“领导职能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：计划职能。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5ee-6dbf-11ee-98c3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所有权和经营权相分离的股份公司，为强化对经营者行为的约束，往往设计各种治理和制衡手段，包括：（1）股东们要召开大会对董事和监事人选进行投票表决；（2）董事会要对经理人员的行为进行监督和控制；（3）监事会要对董事会和经理人员的经营行为进行检查监督；（4）要强化审计监督，如此等等。这些措施是______。\n“均为前馈控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：（1）前馈控制；（2）同期控制；（3）（4）反馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5ef-6dbf-11ee-afa5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所有权和经营权相分离的股份公司，为强化对经营者行为的约束，往往设计各种治理和制衡手段，包括：（1）股东们要召开大会对董事和监事人选进行投票表决；（2）董事会要对经理人员的行为进行监督和控制；（3）监事会要对董事会和经理人员的经营行为进行检查监督；（4）要强化审计监督，如此等等。这些措施是______。\n“均为反馈控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：（1）前馈控制；（2）同期控制；（3）（4）反馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f0-6dbf-11ee-8f93-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所有权和经营权相分离的股份公司，为强化对经营者行为的约束，往往设计各种治理和制衡手段，包括：（1）股东们要召开大会对董事和监事人选进行投票表决；（2）董事会要对经理人员的行为进行监督和控制；（3）监事会要对董事会和经理人员的经营行为进行检查监督；（4）要强化审计监督，如此等等。这些措施是______。\n“（1）前馈控制；（2）同期控制；（3）（4）反馈控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：（1）前馈控制；（2）同期控制；（3）（4）反馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f1-6dbf-11ee-b826-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所有权和经营权相分离的股份公司，为强化对经营者行为的约束，往往设计各种治理和制衡手段，包括：（1）股东们要召开大会对董事和监事人选进行投票表决；（2）董事会要对经理人员的行为进行监督和控制；（3）监事会要对董事会和经理人员的经营行为进行检查监督；（4）要强化审计监督，如此等等。这些措施是______。\n“（1）（2）前馈控制；（3）（4）反馈控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：（1）前馈控制；（2）同期控制；（3）（4）反馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f2-6dbf-11ee-9b94-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司人力资源部门为自己创立了一个规矩：每当一个员工离开公司时，人力资源部经理主动与离职员工交谈。收集离职员工对公司的意见与看法，并了解其去向。如果有3个以上的员工流向同一个企业（竞争对手），人力资源部将设法了解该竞争对手的战略、激励政策，并在此基础上向公司决策部门提出人力资源管理建议。人力资源部的这种做法属于______。\n“前馈控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：既有前馈控制，又有反馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f3-6dbf-11ee-a251-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司人力资源部门为自己创立了一个规矩：每当一个员工离开公司时，人力资源部经理主动与离职员工交谈。收集离职员工对公司的意见与看法，并了解其去向。如果有3个以上的员工流向同一个企业（竞争对手），人力资源部将设法了解该竞争对手的战略、激励政策，并在此基础上向公司决策部门提出人力资源管理建议。人力资源部的这种做法属于______。\n“反馈控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：既有前馈控制，又有反馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f4-6dbf-11ee-bddc-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司人力资源部门为自己创立了一个规矩：每当一个员工离开公司时，人力资源部经理主动与离职员工交谈。收集离职员工对公司的意见与看法，并了解其去向。如果有3个以上的员工流向同一个企业（竞争对手），人力资源部将设法了解该竞争对手的战略、激励政策，并在此基础上向公司决策部门提出人力资源管理建议。人力资源部的这种做法属于______。\n“同步控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：既有前馈控制，又有反馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166c9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f5-6dbf-11ee-a0df-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某公司人力资源部门为自己创立了一个规矩：每当一个员工离开公司时，人力资源部经理主动与离职员工交谈。收集离职员工对公司的意见与看法，并了解其去向。如果有3个以上的员工流向同一个企业（竞争对手），人力资源部将设法了解该竞争对手的战略、激励政策，并在此基础上向公司决策部门提出人力资源管理建议。人力资源部的这种做法属于______。\n“既有前馈控制，又有反馈控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：既有前馈控制，又有反馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166cd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f6-6dbf-11ee-ac2f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“亡羊补牢，犹未为晚”，可以理解成是一种反馈控制行为。下面各种情况中，______更为贴近这里表达的“羊”与“牢”的对应关系。\n“企业规模与企业利润”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：产品合格率与质量保证体系。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166cd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f7-6dbf-11ee-9940-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“亡羊补牢，犹未为晚”，可以理解成是一种反馈控制行为。下面各种情况中，______更为贴近这里表达的“羊”与“牢”的对应关系。\n“医疗保障与死亡率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：产品合格率与质量保证体系。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166cd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f8-6dbf-11ee-9a38-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“亡羊补牢，犹未为晚”，可以理解成是一种反馈控制行为。下面各种情况中，______更为贴近这里表达的“羊”与“牢”的对应关系。\n“降雨量与因洪水造成的损失”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：产品合格率与质量保证体系。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166cd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5f9-6dbf-11ee-84b4-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“亡羊补牢，犹未为晚”，可以理解成是一种反馈控制行为。下面各种情况中，______更为贴近这里表达的“羊”与“牢”的对应关系。\n“产品合格率与质量保证体系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：产品合格率与质量保证体系。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5fa-6dbf-11ee-a5c6-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理控制工作的一般程序是______。\n“建立控制标准；分析差异产生原因；采取矫正措施”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：建立控制标准；分析差异产生原因；采取矫正措施。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5fb-6dbf-11ee-ab77-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理控制工作的一般程序是______。\n“分析差异产生原因；建立控制标准；采取矫正措施”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：建立控制标准；分析差异产生原因；采取矫正措施。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5fc-6dbf-11ee-9a30-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理控制工作的一般程序是______。\n“建立控制标准；采取矫正措施；分析差异产生原因”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：建立控制标准；分析差异产生原因；采取矫正措施。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5fd-6dbf-11ee-a3f8-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管理控制工作的一般程序是______。\n“分析差异产生原因；采取矫正措施；建立控制标准”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：建立控制标准；分析差异产生原因；采取矫正措施。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5fe-6dbf-11ee-8a42-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "预算控制属于______。\n“前馈控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：前馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff5ff-6dbf-11ee-b70b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "预算控制属于______。\n“反馈控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：前馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff600-6dbf-11ee-a316-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "预算控制属于______。\n“程序控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：前馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff601-6dbf-11ee-bd3b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "预算控制属于______。\n“同期控制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：前馈控制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff602-6dbf-11ee-9ddd-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下属于经营比率的是______。\n“流动比率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：固定资产周转率。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff603-6dbf-11ee-8bae-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下属于经营比率的是______。\n“资金利润率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：固定资产周转率。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff604-6dbf-11ee-8aff-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下属于经营比率的是______。\n“负债比率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：固定资产周转率。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c0ff605-6dbf-11ee-a4ce-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下属于经营比率的是______。\n“固定资产周转率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：固定资产周转率。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10921c-6dbf-11ee-8885-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下不属于创新职能基本内容的是______。\n“制度创新”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：领导创新。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10921d-6dbf-11ee-88b4-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下不属于创新职能基本内容的是______。\n“环境创新”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：领导创新。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10921e-6dbf-11ee-9e34-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下不属于创新职能基本内容的是______。\n“组织创新”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：领导创新。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166d84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10921f-6dbf-11ee-8975-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下不属于创新职能基本内容的是______。\n“领导创新”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：领导创新。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109220-6dbf-11ee-accd-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在下列内容中，不属于流程再造构想指导思想的是______。\n“以组织流程为中心”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：以组织流程为中心。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109221-6dbf-11ee-910b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在下列内容中，不属于流程再造构想指导思想的是______。\n“以员工为中心”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：以组织流程为中心。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109222-6dbf-11ee-8db5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在下列内容中，不属于流程再造构想指导思想的是______。\n“以效率和效益为中心”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：以组织流程为中心。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109223-6dbf-11ee-bfa5-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在下列内容中，不属于流程再造构想指导思想的是______。\n“以顾客为中心”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：以组织流程为中心。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109224-6dbf-11ee-aac8-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在市场竞争的过程中。现有厂家相对于新进入者具有先入者优势（亦所谓在位优势）。请分析以下______不属于老厂家相对于新进入者的在位优势\n“拥有熟练的工人和管理人员”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：产品差异优势。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109225-6dbf-11ee-a6ca-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在市场竞争的过程中。现有厂家相对于新进入者具有先入者优势（亦所谓在位优势）。请分析以下______不属于老厂家相对于新进入者的在位优势\n“产品差异优势”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：产品差异优势。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109226-6dbf-11ee-b8ac-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在市场竞争的过程中。现有厂家相对于新进入者具有先入者优势（亦所谓在位优势）。请分析以下______不属于老厂家相对于新进入者的在位优势\n“进货渠道和分销网络优势”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：产品差异优势。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109227-6dbf-11ee-8074-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在市场竞争的过程中。现有厂家相对于新进入者具有先入者优势（亦所谓在位优势）。请分析以下______不属于老厂家相对于新进入者的在位优势\n“专利优势”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：产品差异优势。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109228-6dbf-11ee-a307-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "产品竞争力、企业竞争力的强弱从根本上来说取决于______。\n“产品对消费者的吸引力”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：产品对消费者的吸引力。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109229-6dbf-11ee-a92f-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "产品竞争力、企业竞争力的强弱从根本上来说取决于______。\n“市场份额的大小”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：产品对消费者的吸引力。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10922a-6dbf-11ee-8aac-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "产品竞争力、企业竞争力的强弱从根本上来说取决于______。\n“企业强大的研发力量”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：产品对消费者的吸引力。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10922b-6dbf-11ee-a278-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "产品竞争力、企业竞争力的强弱从根本上来说取决于______。\n“产品的销售力量”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：产品对消费者的吸引力。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10922c-6dbf-11ee-85ab-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业内外不协调的原因可能不是由于______。\n“宏观或行业经济景气状况与企业经营绩效的不符”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人口结构的变化。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10922d-6dbf-11ee-9178-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业内外不协调的原因可能不是由于______。\n“假设和实际的不协调”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人口结构的变化。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10922e-6dbf-11ee-ba45-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业内外不协调的原因可能不是由于______。\n“人口结构的变化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：人口结构的变化。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10922f-6dbf-11ee-92ec-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业内外不协调的原因可能不是由于______。\n“消费者价值观判断与实际的不一致”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人口结构的变化。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109230-6dbf-11ee-810d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "知识经济的特点有______。\n“知识要素在企业生产经营活动中的相对重要性大大提高”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：知识要素在企业生产经营活动中的相对重要性大大提高；生产者与最重要的生产要素的重新结合；由于信息技术的广泛运用，知识创新和传播的速度大大加快。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109231-6dbf-11ee-9e5b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "知识经济的特点有______。\n“生产者与最重要的生产要素的重新结合”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：知识要素在企业生产经营活动中的相对重要性大大提高；生产者与最重要的生产要素的重新结合；由于信息技术的广泛运用，知识创新和传播的速度大大加快。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109232-6dbf-11ee-9c84-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "知识经济的特点有______。\n“由于信息技术的广泛运用，知识创新和传播的速度大大加快”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：知识要素在企业生产经营活动中的相对重要性大大提高；生产者与最重要的生产要素的重新结合；由于信息技术的广泛运用，知识创新和传播的速度大大加快。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109233-6dbf-11ee-a0d9-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "知识经济的特点有______。\n“脑力劳动者比体力劳动者更重要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：知识要素在企业生产经营活动中的相对重要性大大提高；生产者与最重要的生产要素的重新结合；由于信息技术的广泛运用，知识创新和传播的速度大大加快。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109234-6dbf-11ee-af25-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业欲求其经营有效，必须解决的三个基本问题是______。\n“选择正确的经营方向、内容和规模”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：选择正确的经营方向、内容和规模；充分利用能够筹集到的各种资源；引导参与者的行为选择，诱发他们提供企业所需的贡献。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109235-6dbf-11ee-81d7-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业欲求其经营有效，必须解决的三个基本问题是______。\n“充分利用能够筹集到的各种资源”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：选择正确的经营方向、内容和规模；充分利用能够筹集到的各种资源；引导参与者的行为选择，诱发他们提供企业所需的贡献。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109236-6dbf-11ee-9e2d-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业欲求其经营有效，必须解决的三个基本问题是______。\n“引导参与者的行为选择，诱发他们提供企业所需的贡献”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：选择正确的经营方向、内容和规模；充分利用能够筹集到的各种资源；引导参与者的行为选择，诱发他们提供企业所需的贡献。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166e92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109237-6dbf-11ee-88d3-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "企业欲求其经营有效，必须解决的三个基本问题是______。\n“建立产权明晰、责权明确的企业制度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：选择正确的经营方向、内容和规模；充分利用能够筹集到的各种资源；引导参与者的行为选择，诱发他们提供企业所需的贡献。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166eba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109238-6dbf-11ee-a438-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为工业企业的主要组织形式，层级结构曾表现出的主要特征有______。\n“直线指挥，分层授权”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：直线指挥，分层授权；分工细致，权责明确；标准统一，关系正式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166eba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c109239-6dbf-11ee-befc-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为工业企业的主要组织形式，层级结构曾表现出的主要特征有______。\n“分工细致，权责明确”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：直线指挥，分层授权；分工细致，权责明确；标准统一，关系正式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166eba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10923a-6dbf-11ee-a704-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为工业企业的主要组织形式，层级结构曾表现出的主要特征有______。\n“层级分明，结构统一”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：直线指挥，分层授权；分工细致，权责明确；标准统一，关系正式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166eba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c10923b-6dbf-11ee-824b-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为工业企业的主要组织形式，层级结构曾表现出的主要特征有______。\n“标准统一，关系正式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：直线指挥，分层授权；分工细致，权责明确；标准统一，关系正式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166ee2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c112e6a-6dbf-11ee-ac90-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工业社会中企业文化的功能与特点包括______。\n“企业文化是作为企业经营的一种副产品而出现的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：企业文化是作为企业经营的一种副产品而出现的；企业文化基本上反映了企业组织的记忆。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166ee2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c112e6b-6dbf-11ee-b1f1-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工业社会中企业文化的功能与特点包括______。\n“企业文化作为一种主要手段发挥作用”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：企业文化是作为企业经营的一种副产品而出现的；企业文化基本上反映了企业组织的记忆。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166ee2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c112e6c-6dbf-11ee-af54-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工业社会中企业文化的功能与特点包括______。\n“企业文化基本上反映了企业组织的记忆”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：企业文化是作为企业经营的一种副产品而出现的；企业文化基本上反映了企业组织的记忆。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166ee2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c112e6d-6dbf-11ee-ab60-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工业社会中企业文化的功能与特点包括______。\n“企业文化是多元的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：企业文化是作为企业经营的一种副产品而出现的；企业文化基本上反映了企业组织的记忆。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166f14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c112e6e-6dbf-11ee-ba42-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在知识经济下，企业文化将会______。\n“成为知识经济条件下企业管理的重要甚至是主要的手段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：成为知识经济条件下企业管理的重要甚至是主要的手段；是人们自觉创造的结果，而不是企业生产经营中的一种副产品；不仅是记忆型的，而且是学习型的；允许异质价值观和行为准则的存在。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166f14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c112e6f-6dbf-11ee-924c-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在知识经济下，企业文化将会______。\n“是人们自觉创造的结果，而不是企业生产经营中的一种副产品”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：成为知识经济条件下企业管理的重要甚至是主要的手段；是人们自觉创造的结果，而不是企业生产经营中的一种副产品；不仅是记忆型的，而且是学习型的；允许异质价值观和行为准则的存在。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166f14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c112e70-6dbf-11ee-a7df-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在知识经济下，企业文化将会______。\n“不仅是记忆型的，而且是学习型的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：成为知识经济条件下企业管理的重要甚至是主要的手段；是人们自觉创造的结果，而不是企业生产经营中的一种副产品；不仅是记忆型的，而且是学习型的；允许异质价值观和行为准则的存在。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "管理科学与工程类",
+		"raw_uuid": "35166f14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5c112e71-6dbf-11ee-9b68-165afc78d15b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在知识经济下，企业文化将会______。\n“允许异质价值观和行为准则的存在”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：成为知识经济条件下企业管理的重要甚至是主要的手段；是人们自觉创造的结果，而不是企业生产经营中的一种副产品；不仅是记忆型的，而且是学习型的；允许异质价值观和行为准则的存在。"
+	}
+]

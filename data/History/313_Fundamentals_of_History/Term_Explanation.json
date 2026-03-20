@@ -1,0 +1,2206 @@
+[
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7a912-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b72051-7282-11ee-9d14-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《推恩令》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汉武帝为削弱诸侯王势力而采取的一项措施。汉武帝采取主父偃的建议，允许诸侯王在本封国内分封子弟为列侯。达到了\"众建诸侯而少其力\"的效果，有利于中央集权的加强。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7aa02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e8a-7282-11ee-be4c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：圩田"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "古代长江中下游地区的一种水利田。唐末五代兴起，宋时大盛，明清延续。在沿河湖的低洼之地筑堤围田，设水渠、闸门与水车，旱时放水灌溉，涝时排水。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7aa3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e8b-7282-11ee-90b7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：金瓶掣签"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "清政府于西藏等地实施的活佛转世制度。规定达赖、班禅及大呼图克图的灵童转世，须由诸喇嘛当众于金瓶内抽签，并由驻藏大臣或理藩院尚书亲临监督确定。（5 分）以避免地方上层贵族操纵，加强中央政府的控制。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7aa66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e8c-7282-11ee-958e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：国民革命军新编第四军"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国共产党领导的一支抗日武装。抗战爆发后，国共两党协议，将南方数省的红军游击队改编为国民革命军新编第四军，简称新四军。皖南事变中新四军番号被国民党政府取消。随后，由中共中央重建。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7aa98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e8d-7282-11ee-b0c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：阁提"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "印度中古时期的种姓制度。该制度按行业划分成众多种姓，种姓内职业世袭，种姓间禁止通婚。这一制度成为社会发展的障碍。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7aaca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e8e-7282-11ee-b518-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《凡尔登条约》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法兰克国王虔诚者路易死后，三个儿子于843年在凡尔登签订的瓜分王国的条约。该条约在一定程度上奠定了后来法国、德国和意大利政治版图的基础。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7aaf2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e8f-7282-11ee-aa6a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《九十五条论纲》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1517年，德国马丁路德因质疑教皇售\"赎罪券\"，公开张贴的辩论提纲。论纲反对用金钱赎罪的方法，提出\"信仰耶稣即可得救\"的主张。它揭开了宗教改革的序幕。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ab24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e90-7282-11ee-9d0d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《欧洲煤钢联营协定》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1951年，法国和联邦德国等六国签订的协定。该协定把煤、钢生产等经济活动置于共同管理和监督之下，是后来欧洲经济共同体的基础性协议之一。该协定的实施缓解了德法之间的矛盾，有利于欧洲的统一。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ac32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e91-7282-11ee-a6fe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：北府兵"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "东晋在招募北方流民基础上形成的一支军队。接受驻地在京口（今江苏镇江）的军府指挥。拱卫首都建康，称为北府兵。其最著名的战绩是在淝水之战中击败前秦军队。后成为南朝刘宋政权创立的军事基础。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ac64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e92-7282-11ee-855a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：青苗法"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "王安石新法之一。又称\"常平法\"或\"常平新法\"。每年青黄不接时，官府将各地常平仓等积存的钱谷借给请贷的农户，收货后加息归还。意在抑制民间高利贷，政府也因此获得利息收人。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ac8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e93-7282-11ee-a56f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《筹办夷务始末》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "清末官修的对外关系档案资料汇编。收录道光、咸丰、同治三朝对外交涉的重要文书。内容包括上谕、奏议、中外照会、条约等，是研究中国近代史及中外关系史的重要资料。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7acbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e94-7282-11ee-b5ca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《隋唐制度渊源略论稿》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "史学家陈寅恪著。从礼仪、兵制、财政等方面论述魏晋南北朝制度变迁与隋唐制度的关系，概括出隋唐制度的三大历史渊源。是魏晋南北朝隋唐史开创性的研究成果。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ace6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e95-7282-11ee-9043-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：提洛同盟"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元前478年，爱琴海地区希腊城邦组织的抗击波斯的军事同盟，因其金库设在提洛岛而得名。后来该同盟被雅典控制，成为其推行霸权的工具。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ad0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e96-7282-11ee-8775-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：耶稣会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "创建于16世纪上半期。旨在反对宗教改革，宣扬天主教会的最高权威；在欧洲致力于影响世俗权力，并积极在全世界传播基督教。明后期进人中国传教。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ad40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e97-7282-11ee-bb73-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：彼得一世改革"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "17世纪末18世纪初，俄国沙皇彼得一世推行的改革。实行义务兵役制，创建海军；发展工商业，学习西欧先进科学技术；改革行政机构和行政区划；开办学校，简化俄文字母，提倡西欧生活方式。改革使俄国成为欧洲强国，但未触动农奴制和沙皇专制制度。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ad68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e98-7282-11ee-9857-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：弗莱明"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "英国细菌学家。1928年成功研制青霉素，40年代在临床中应用，有效控制了一些传染病，并推动其他抗生素的问世。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ae9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e99-7282-11ee-a29b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：宣政院"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "元世祖设立的中央政府官署，掌管全国佛教事务和吐蕃地区军事、行政，是中央政府最早设置的管理西藏地区的行政机构。名义上由帝师兼领，又设宣政院使等职官。地方上遇有特别事务，设行宣政院就便处理。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7aed0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e9a-7282-11ee-8706-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：十三行"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "鸦片战争前清政府在广州特许经营对外贸易的商行。十三行商人成立公行垄断进出口贸易，官府通过行商监督和管理外商。1842年《中英南京条约》签订后，十三行专营外贸的特权被取消。1935年国民政府实行币制改革，禁止银元流通，以中央、中国、交通三银行发行的纸币为法定货币。曾促进国内经济发展，后来不断贬值，1948年为金圆券所取代。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7aef8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e9b-7282-11ee-8273-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：汉萨同盟"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "13一14世纪德国北部自治城市逐步结成的商业与政治联盟，定期召开会议，拥有宣战媾和之权。在14世纪达到鼎盛，垄断了欧洲北部的贸易。15世纪后，丧失贸易垄断权，渐趋瓦解。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7af20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e9c-7282-11ee-be50-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：穆罕默德阿里改革"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "19世纪前半期，奥斯曼帝国埃及总督穆罕默德阿里清除马穆鲁克势力，强化中央集权；建设近代化陆、海军，推行土地国有制，发展近代工商业与教育。促使埃及向主权独立国家方向发展，在英国军事干预下失败。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7af52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e9d-7282-11ee-9d4d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《黑人法典》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "南北战争后，美国南方各州制定的若干压迫黑人的法律的总称。规定黑人只能全家受雇于种植园主，任何白人都可以抓捕合同期未满离开雇主的黑人，禁止黑人携带武器、举行集会。黑人没有选举权和陪审权。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7af7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e9e-7282-11ee-9c9f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：魏玛共和国"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德意志第一个资产阶级议会民主制国家。1919年德国国民议会在魏玛召开，通过《魏玛宪法》，废除帝制，成立共和国。希特勒掌权后，废止《魏玛宪法》，共和国解体。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7afa2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76e9f-7282-11ee-8685-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：两伊战争"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "伊拉克与伊朗之间持续8年之久的边界战争。1980年伊拉克向伊朗发动突然进攻，此后双方互有攻守，最终在联合国的调解下停战。双方人员物质损失惨重，阿拉伯世界严重分裂。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b088-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76ea0-7282-11ee-a6ff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《三朝北盟会编》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "南宋徐梦莘编。按年月日辑录徽宗、钦宗、高宗三朝与辽、金和战的相关史事，全录或节录文献原文，是非异同并存，不加论断，保留了大量原始史料。对研究宋、辽、金三国关系以及宋代史学具有重要价值。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b0b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76ea1-7282-11ee-9a56-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：蒲安臣使团"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1868一1870年，清政府正式派遣的第一个出使欧美的使团。由原美国驻华公使蒲安臣率领，先后访问美、英、法等国，蒲安臣越权与美国签订了中美《续增条约》（又称《蒲安臣条约》）。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b0e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76ea2-7282-11ee-a7b0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：五一六通知"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1966年5月16日中共中央政治局扩大会议通过的重要文件，宣布撤销以彭真为首的\"文化革命五人小组\"，重新设立中央文化革命小组等。对全面发动\"文化大革命\"的理论、路线、政策做了阐述。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b10a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76ea3-7282-11ee-a4ac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：拉美西斯二世"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "古埃及新王国时期法老，在位时国势强盛，文化繁荣。不断征战扩张，曾与赫梯争霸。卡迭什战役之后，与赫梯签订了国际关系史上第一个国际和约。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b13c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76ea4-7282-11ee-8bc2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：后三头政治"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元前1世纪，罗马屋大维、安东尼、雷必达结成政治同盟共同统治罗马。后来屋大维解除雷必达兵权，击败安东尼，结束共和政治，建立罗马帝国。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b16e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76ea5-7282-11ee-89bb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《沙恭达罗》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "古代印度作家迦梨陀娑的著名梵文剧作。该剧取材于史诗《摩诃婆罗多》，描写少女沙恭达罗与国王的爱情故事，反映了印度古代社会上层阶级的生活风尚。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b1b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b76ea6-7282-11ee-b47f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：1905年俄国革命"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "俄国第一次反对沙皇制度的民主革命。日俄战争加剧了沙皇制度的危机，先后发生了流血星期日、十月总罢工、十二月起义等事件；革命延续到1907年，为1917年革命做了准备。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b38a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79587-7282-11ee-8626-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《法经》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "战国时魏国人李悝编撰的法律著作。春秋战国之际，各国相继颁行法律，李悝加以总结，兼采各国法律条文，分为\"盗\"\"贼\"等六篇。为商鞅变法所继承，成为秦汉法律制度的基础。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b3c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79588-7282-11ee-bc6b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：昭宣中兴"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汉武帝时期，长期的战争造成经济凋敝、社会动荡，汉武帝晚年决意与民休息。其后霍光辅佐昭帝，遵而行之；宣帝继续薄赋敛、抑豪强、平冤狱。昭、宣时期，政治稳定，经济发展，边疆安宁，史称\"昭宣中兴\"。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b40c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79589-7282-11ee-9fbc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：南北面官"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "辽代在中央设南面官和北面官，南面官设三省、六部，治理汉人聚集的州县及其他农耕地区；北面官采用契丹传统部族制度，管辖本族及其他游牧部族。这一制度有利于皇帝集权及社会稳定和经济发展。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b452-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7958a-7282-11ee-b06c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：\"863 \"计划"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1986年中共中央和国务院批准实施发展国家科技事业的计划，即《高科技研究发展计划纲要》。提出了生物、航天、信息等七大高技术领域的奋斗目标，极大地推动了我国科学技术的发展。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b4a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7958b-7282-11ee-9a41-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：加洛林文艺复兴"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加洛林王朝时期，查理大帝奖励学术文化，聘请学者办学，誊写和校订拉丁文典籍，鼓励采用新的字体。西欧出现了一个以宫廷为中心的短暂的文化复兴。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b4f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7958c-7282-11ee-a390-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：江户幕府"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "亦称\"德川幕府\"。1603年，德川家康在日本江户创立。对内抑制藩侯，集中大权于幕府将军，对外实行闭关锁国政策。1868年，江户幕府统治终结，幕府时代结束。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b542-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7958d-7282-11ee-abe7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：佩德罗二世"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "19世纪的巴西皇帝。早年受自由主义思想影响，逐步解放奴隶，1888年最终废除奴隶制。翌年共和运动高涨，放弃帝位，流亡欧洲。在位期间推动了巴西经济文化的发展。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b592-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7958e-7282-11ee-b530-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：柏林墙"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "二战\"后，德国和柏林市由苏、美、英、法分区占领。民主德国为阻止公民流向西柏林，于1961年在东、西柏林之间修筑隔离墙。1989年柏林墙被拆除，德国重新统一。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b6c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7958f-7282-11ee-a0a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：周公旦"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "周武王弟，名旦，采邑在周，称周公。武王死后，辅佐成王，平定了管叔、蔡叔与殷商遗民的反叛，营建东都洛邑，巩固了周王朝。制礼作乐，建立典章制度等，对后世有巨大影响。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b70e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79590-7282-11ee-b073-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：厘金"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "咸丰初年，为筹集镇压太平军的经费，清政府官员在扬州设卡抽捐，对运销商品收取税款，称为厘金，后推广到全国，民国建立后仍沿用。严重阻碍了近代中国商品经济的发展，1931年最终裁撤。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b754-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79591-7282-11ee-845e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：安福国会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民国时期皖系军阀集团召集的非法国会。为抵制孙中山在广州召集的国会非常会议，1918年，段祺瑞授意皖系政客徐树铮等组织安福俱乐部操纵选举，选出\"新\"国会。1920年直皖战争后被解散。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b79a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79592-7282-11ee-9d12-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：双百方针"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即\"百花齐放、百家争鸣\"。1956年由毛泽东正式提出，经中共中央确定的关于科学和文化工作的方针。1957年后该方针受到严重破坏。中共十一届三中全会后双百方针又得以重新确立贯彻。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b7ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79593-7282-11ee-b840-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：伊拉斯谟"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "文艺复兴时期德国著名人文主义者。将《圣经》和早期教父著作从希腊文翻译成拉丁文,并著有《愚人颂》等抨击天主教会和教士腐败的著作,推动了欧洲文艺复兴的发展, 并对德国宗教改革产生了重要影响。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b830-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79594-7282-11ee-b210-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：卢布林合并"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1569年,波兰和立陶宛大公国在波兰东南部的卢布林签订条约,规定联合为波兰一立陶宛王国,设立共同的议会,选举国王,统一币制和外交政策双方在行政、司法等方面实   行自治。1791年,条约废止。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b86c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79595-7282-11ee-b754-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：谢斯起义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1786一1787年美国马萨诸塞州谢斯领导的农民起义,后遭镇压。起义者要求分配土地,取消债务,关闭惩罚穷人的法庭。起义对美国制定《联邦宪法》起了促进作用。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b8b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79596-7282-11ee-ba49-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：凯末尔主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "土耳其共和国的创立者凯末尔提出的思想体系。包括共和主义、民族主义、平民主义、国家主义、世俗主义等原则。是土耳其发展资本主义经济,建立共和制的理论基础。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7ba6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79597-7282-11ee-82eb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：弭兵运动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "春秋中期，晋、楚长期争霸，连年战争，中原各国不堪重负，希望停战。宋国两次倡导并召开弭兵之会，一次是公元前579年促成晋、楚暂时休战，一次是公元前546年各国承认晋、楚霸主地位，晋、楚争霸局面结束。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bab0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79598-7282-11ee-b96a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《嘉定和议》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "南宋开禧北伐失败后，于嘉定元年（1208）与金签订的和约。金宋之间称伯侄之国，宋向金纳岁币银30万两、绢30万匹；一次性缴纳\"犒军钱\"300万贯，金退出淮南等地，双方恢复原有边界。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7baec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b79599-7282-11ee-9408-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：明代司礼监"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "明代宦官机构之一。洪武后期置，提督太监掌宫内礼仪、刑名等事。自明武宗始，司礼监秉笔太监掌机密、批阅奏章等，实权多在内阁首辅之上，有时统领东厂。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bb3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7959a-7282-11ee-ae22-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：\"十通\"（写出书名即可）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《通典》《通志》《文献通考》《续通典》《续通志》《续文献通考》《清通典》《清通志》《清文献通考》《清续文献通考》。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bb82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7959b-7282-11ee-9476-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《查士丁尼战争史》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元6世纪由拜占庭历史学家普罗科比创作。记述了查士丁尼对北非汪达尔王国、意大利东哥特王国及东方波斯帝国的战争。虽有对查士丁尼歌功颂德之意，但所记史事多为作者亲历，具有很高的史料价值。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bbc8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7959c-7282-11ee-a526-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：夷陵之战"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "三国初年蜀、吴间的一次战役。由于吴袭杀蜀将关羽，占领荆州，蜀主刘备亲率大军征吴。吴将陆逊在夷陵用攻之法大败蜀军。此役将蜀的势力遏制在长江三峡以西，三国鼎立的局面最终形成。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bc0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7959d-7282-11ee-b0ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：三饷加派"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "明末加征的三种赋税，即辽饷、剿饷和练饷。辽饷用于辽东的军事需要，剿饷和练饷用于镇压农民起义。这一掠夺性财政措施加重了社会危机。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bc54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7959e-7282-11ee-9a49-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：少年中国学会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "五四时期的著名社团。成立于1919年7月，以\"创造少年中国\"为宗旨。1923 年后出现分化，其左翼多数加人中国共产党，右翼多数加人中国青年党（国家主义派）。布最广、存在时间最长的社团。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bca4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b7959f-7282-11ee-93f4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：国立西南联合大学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抗日战争时期组建于昆明的一所著名综合性大学。由南迁的北京大学、清华大学和南开大学合组而成。精英荟萃，培养了大批杰出人才，被誉为战时大后方的\"民主堡垒\"。是五四时期会员最多、分布最广、存在时间最长的社团。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bcea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a0-7282-11ee-94b7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：圣像破坏运动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元8世纪上半期，拜占庭皇帝立奥三世发动的反对圣像崇拜的社会运动。这场运动的实质是军事贵族与教会之间土地与财产再分配的斗争，持续到9世纪中期，加速了帝国的封建化进程。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bd3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a1-7282-11ee-81c3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：圣德太子改革"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "6世纪末7世纪初，日本圣德太子辅佐推古女皇进行的改革。积极吸收中国文化，制定冠位十二阶、宪法十七条等。为大化革新准备了必要条件。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bd80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a2-7282-11ee-8ec3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：德雷福斯事件"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元19世纪末发生于法国的排犹事件。1895年，法国陆军部诬陷犹太裔军官德雷福斯向德国提供军事机密，将他判罪流放。经法国知识分子和民众长期斗争，终使政府于1906年为其平反。促进了法国的民主化进程。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bdc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a3-7282-11ee-9bcb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：卡德纳斯改革"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元20世纪30年代，墨西哥总统卡德纳斯推行的资产阶级民主改革。在农村废除\"债役制\"，实行土地改革；把国内部分企业和外国控制的铁路、石油公司收归国有；在全国实行教育改革和扫盲。促进了墨西哥民族资本和社会经济的发展。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7bfce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a4-7282-11ee-bb71-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：告缗"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汉武帝打击商人势力的一项措施。汉武帝为解决财政困难，征收富商大贾的财产税，称为算缗。为防范隐匿或虚报，颁布告缗令，鼓励民间告发，一经查实，即没收商贾财产，并将其中半数奖励告发者。富商大贾大批破产。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c014-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a5-7282-11ee-940d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：南书房"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "清朝的内廷机构。原为康熙帝书房。康熙十六年（1677）始选翰林等官员人值，称南书房行走，为皇帝的文学侍从，有时秉承皇帝旨意起草诏令，故南书房一度被视为机要机构。雍正设立军机处后，南书房不再参与国家政务。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c064-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a6-7282-11ee-acae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：官督商办"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "洋务运动时期清政府创办民用企业的主要方式。一般由商人出资认股，由清政府委任官员督办。官督商办方式对民用企业早期的发展有一定的推动作用。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c0aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a7-7282-11ee-a85b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：陕甘宁边区"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国共产党领导的中心抗日根据地。抗战爆发后，根据国共双方协议，于 1937年9月由陕甘宁革命根据地改编而成；原苏维埃政府改为边区政府，以延安为边区首府。该边区在抗日战争中发挥了重要作用。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c0f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a8-7282-11ee-bd7f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：\"希吉拉\"（旧译\"徙志\"）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "伊斯兰教创立之初的一次重要事件。622年，穆罕默德因受迫害而带亲信从麦加迁往雅特里布，该地从此改称麦地那，伊斯兰历的纪元从这一年算起。为伊斯兰教在阿拉伯半岛的传播和建立国家奠定了基础。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c136-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795a9-7282-11ee-8f34-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：红白玫瑰战争"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元15世纪下半期，英国兰开斯特和约克两大封建贵族集团，为争夺王位而进行的长达 30年的战争。削弱了封建割据势力。都铎家族的亨利夺得王位，建立都铎王朝，为专制统治奠定了基础。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c17c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795aa-7282-11ee-83e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《拿破仑法典》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元1800年法国执政府时期由拿破仑主持制定的资产阶级民法典。确定公民在法律上平等、私有权不受限制、承认在大革命时期获得的财产所有权。对后来欧洲大陆各国民法典的制定产生了重要影响。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c1c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795ab-7282-11ee-ac55-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：凯恩斯主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元20世纪30年代英国经济学家凯恩斯创立的经济理论体系。主张通过国家干预使社会的总供给与总需求保持平衡，是现代宏观经济学的开端。对欧美资本主义经济发展产生了重要影响。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c32a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795ac-7282-11ee-8000-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：卫所制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "明代加强中央集权的军事制度。各省及要冲地区设都指挥使司。卫隶属于都指挥使司，下设千户所、百户所，军士世袭称军户。卫所军队为常备军，有屯田、守卫之分，战时则由朝廷任命总兵抽调卫所出征。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c366-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795ad-7282-11ee-8f13-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：严复"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国近代著名启蒙思想家、翻译家。早年留学英国。维新运动兴起后，积极宣传启蒙思想，翻译出《天演论》《法意》等著作。袁世凯称帝时，是赞成帝制的筹安会\"六君子\"之一。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c3ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795ae-7282-11ee-9339-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：商团叛乱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元1924年，买办资产阶级控制的广州商团反对孙中山革命政府的叛乱。8月，广东革命政府查扣了商团购运的大批武器，商团在港英当局支持下，不断发动罢市，企图颠覆革命政府；后挑起武装冲突，被迅速平定。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c3f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795af-7282-11ee-9ead-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《中国人民政治协商会议共同纲领》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元1949年9月中国人民政治协商会议第一届全体会议通过的新中国建国纲领。（4 分）规定了新中国的国家性质和政权性质，及国家各方面的基本方针和政策。1954年宪法颁布前，起临时宪法作用。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c438-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b0-7282-11ee-a08f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：伯罗奔尼撒同盟"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元前6世纪，伯罗奔尼撒半岛上以斯巴达为首的希腊城邦军事同盟。公元前5 世纪后期与雅典为首的提洛同盟进行战争，并取得最终胜利。公元前4世纪瓦解。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c474-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b1-7282-11ee-8a08-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：德里苏丹国"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元13一16世纪印度历史上第一个较为稳定的伊斯兰教政权，因首都在德里、首领称苏丹而得名。先后经历5个王朝，实行政教合一的神权政体，推动了印度政治统一及经济发展。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c4c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b2-7282-11ee-960d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：蒂博尼哥罗起义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元1825年印度尼西亚反对荷兰殖民侵略的武装起义。由爪哇国王子蒂博尼哥罗领导，建立了复兴伊斯兰教的王国。1830年蒂博尼哥罗被捕，起义失败。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7c532-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b3-7282-11ee-8c31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：\"英国病\""
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "二战\"后，英国因推行一整套社会保障制度和国有化政策而出现的社会弊病。( 5分)持续多年的高税收和高福利政策,导致通货膨胀和高失业率,制约了经济发展。撒切尔夫人任职后,治理\"英国病\",取得明显效果。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f7b1fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b4-7282-11ee-b882-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：年鉴学派"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "20世纪重要史学流派之一，因1929年在法国创办的《经济与社会史年鉴》得名，代表人物有布洛赫、布罗代尔、勒高夫等。倡导总体史观、长时段理论等，对当代史学有重大影响。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f82e0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b5-7282-11ee-8fee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：侯景之乱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "南朝萧梁时候景发动的军事叛乱。侯景原是东魏高欢部将，后降梁。548年，侯景举兵谋反，攻占建康，软禁梁武帝。梁武帝饿死后，侯景立太子萧纲为帝。551年，侯景自立为帝，国号汉。552年，梁元帝派大将陈霸先攻下建康，侯景兵败被杀。侯景之乱是南方社会的一次空前浩劫，使社会经济遭到严重破坏。侯景之乱后北朝占据了益州、襄阳以及长江下游以北地区，南朝的版图大为缩减，北强南弱的局面已难以扭转。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f82efa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b6-7282-11ee-9555-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：保路运动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "清末保卫铁路主权的运动。1905年，湖北、湖南、广东三省人民从美国资本家手里收回粤汉铁路，清政府允许三省人民分段集股自造。19H年5月，清政府宣布\"铁路干线国有策\"，将粤汉、川汉两条主要铁路干线的筑路权出卖给英、法、德、美四国银行。该政策引发了广东、湖南、湖北、四川四省的保路运动，其中尤以四川为烈，参加保路同志会者达数十万人。清政府下令镇压。9月7日，四川总督赵尔丰枪杀请愿群众，激起四川人民更大的愤怒，保路运动由和平请愿转为武装起义。清政府急调湖北新军人川。这为武昌起义的成功创造了条件。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f82f40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b7-7282-11ee-863e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：章太炎"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "清末民初民主革命家。字枚叔，浙江余杭人。1897年任《时务报》撰述，因参加维新运动被通缉，流亡日本。1903年因发表《驳康有为论革命书》并为邹容《革命军》作序，触怒清廷，被捕人狱。1904年与蔡元培等合作，发起光复会。1906年出狱后，参加同盟会，主编同盟会机关报《民报》，与改良派展开论战。1917年脱离孙中山改组的国民党。研究范围涉及小学、历史、哲学、政治等，著述甚丰。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f82f68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b8-7282-11ee-852d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：采邑制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中世纪早期西欧的一种封建土地占有制。8世纪法兰克王国墨洛温王朝宫相查理马特首先实行。在此之前，墨洛温王朝赏赐贵族土地是不附有任何条件的，因而严重损害了中央权力。查理马特为改变这种情况，采取一种附有条件的赏赐土地的办法。他把分封给贵族、骑士、教会的土地称为采邑；领地不能世袭，死后归还国家；受封采邑者要为国王服兵役。采邑制的实行，建立了以土地关系为纽带的领主和附庸之间的臣属关系，以及以中小封建主为基础的骑兵制度，加速了封建等级制度的形成。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f82f9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795b9-7282-11ee-a0f4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：都铎王朝"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "英国封建王朝。1485年由亨利七世创立。先后有亨利七世、亨利八世、爱德华六世玛丽一世、伊丽莎白一世当政。其中伊丽莎白一世的统治对英国的影响最大。王朝依靠新贵族和新兴的资产阶级，实行宗教改革，建立英国国教，在工业、商业、海外贸易等方面实行了若干有利于资产阶级和新贵族的政策，促进了英国资本原始积累的进程。王朝建立起教俗合一的君主专制统治，英国的封建君主专制达到鼎盛。1603年，伊丽莎白女王死后无嗣，斯图亚特王朝取而代之。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f82fcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795ba-7282-11ee-8a65-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：多洛雷斯呼声"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1810年9月在墨西哥的多洛雷斯发动的反对西班牙殖民统治的起义。1810年9月 16日清晨，独立运动领导人伊达尔哥在多洛雷斯镇教堂鸣钟聚众，提出争取独立、收回被殖民者抢占的土地、废除奴隶制度、取消苛捐杂税等主张，并号召人民起义，推翻西班牙的殖民统治。史称多洛雷斯呼声。多洛雷斯呼声标志墨西哥独立运动的开始，9月16日被定为墨西哥国庆日。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f82ff4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795bb-7282-11ee-a390-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：莫内计划"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第二次世界大战后莫内提出的一项复兴法国经济的计划。为实现法国工业现代化，1946年，法国经济学家莫内组建国家计划总署，并制订出战后法国第一个七年计划（1947一1953年），即\"现代化与装备计划\"，简称莫内计划。该计划重点发展煤炭、电力、钢铁、水泥、运输和农业机械六个主要工业部门，由国家对这些基础工业部门实行计划调节，给以新技术装各并使之现代化，以此来刺激法国经济的恢复。莫内计划的实施使战后法国经济从逐步恢复走向了较高速度的发展。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8301c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795bc-7282-11ee-be4a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：计量史学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "20世纪50一60年代出现的历史学研究。其最大的特征是运用自然科学中的数学方法对历史资料进行定量分析。1882年，德国学者伊纳马斯坦格发表了《历史与统计学》，这是关于计量史学最早的著作。1972年，英国史学家弗拉特出版了《历史学家计量方法导论》，被认为是计量史学的经典性著作。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8304e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795bd-7282-11ee-8a09-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：土断"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "东晋南朝处置北来流民的措施。东晋时期侨置州、郡、县，安置从北方南下的流民，免其赋役。东晋及南朝政府多次下令整顿户籍，以现居住地为依据，将侨居者编人所在的郡、县，并承担赋役。土断加速了流民的土著化。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83076-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795be-7282-11ee-8d41-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：广学会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "19世纪晚期英、美等国人士在上海创办的出版机构。旨在中国传播基督教和西国之学。编译出版有宗教、政治、科技类书籍，发行有《万国公报》，在晚清知识界颇具影响。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f830a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795bf-7282-11ee-adc2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：济南惨案"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1928年5月，日军在济南屠杀中国军民的惨案。日本为阻止中国统一，派兵开进济南，制造事端，攻击北伐的国民革命军，残杀中国交涉代表蔡公时等人。中国军民死伤数千人。蒋介石下令军队退出济南，绕道北上。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f830d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c0-7282-11ee-8d33-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：\"七千人大会\""
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1962年中共中央在北京召开扩大的中央工作会议，各级领导干部共七千余人参加。会议总结了大跃进以来的经验教训，把国民经济调整作为主要任务，促进了国民经济的恢复，但未从指导思想上根本清除\"左\"倾错误。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f830f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c1-7282-11ee-aea3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：路卡会议（卢卡会议）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元前56年，恺撒、庞培和克拉苏在路卡举行的会议。商定由三人先后担任罗马执政官，卸任后任高卢、叙利亚和西班牙行省总督。会议具有公开结盟的性质，暂时弥合了 \"前三头\"之间的政治裂隙。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8312a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c2-7282-11ee-9127-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：北方战争"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1700一1721年俄国为争夺波罗的海出海口而发动的对瑞典的战争。战争初期俄国失败，后在海战中取胜，并登陆瑞典，获得波罗的海东岸大片地区和出海口。瑞典丧失了对波罗的海的控制权。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83152-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c3-7282-11ee-a24a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：罗莎卢森堡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德国社会民主工党和第二国际左派女领袖，德国共产党创始人之一。批评第二国际，\"一战\"期间积极反战；支持十月革命，但对布尔什维克党也有所批评；投身德国十一月革命，1919年被德国临时政府杀害。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83184-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c4-7282-11ee-a7c2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：水门事件"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1972年，美国总统尼克松的竞选班子派人潜人华盛顿水门大厦民主党总部，安装窃 "
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83288-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c5-7282-11ee-8e21-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《大唐西域记》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "记述唐朝僧人玄奘西行天竺所见所闻的著作。记录了游历各国的地理、宗教、物产、 习俗等内容，是研究当时中国地区以及中亚、南亚相关国家历史的重要典籍。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f832b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c6-7282-11ee-a3f3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：江南制造总局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "洋务运动初期李鸿章在上海创办的新式军工企业。引进外国机器，制造武器、轮船等；并没有翻译馆等文化教育机构。在中国早期近代化进程中有重要地位。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f832d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c7-7282-11ee-9850-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：新生活运动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1934年国民党政权开展的加强思想控制的运动。以\"礼义廉耻\"为号召，从改造国民日常生活人手，使\"国民生活军事化、生产化、艺术化\"，企图抗拒共产主义的影响，但收效甚微。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8330a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c8-7282-11ee-9884-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《八一宣言》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即1935年中共发表的《为抗日救国告全体同胞书》。由中共驻共产国际代表团草拟，呼吁全国各党派、军队等停止内战，组织统一的国防政府和抗日联军，为抗日救国而奋斗。推动了全国抗日救亡运动的高涨。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83332-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795c9-7282-11ee-966a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：君士坦丁大帝"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "古罗马帝国皇帝，在位期间把罗马帝国的首都从罗马迁至拜占庭。公元313年，颁布《米兰敕令》，承认基督教合法。其统治时期是西方文明从古典向中世纪基督教文明过渡的关键时期。  "
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8335a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795ca-7282-11ee-8c06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：参觐交代"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "日本江户幕府为控制大名而命其定期觐见将军的制度。始于17世纪初，规定大名每隔一年分别在江户和本领地轮住，留住在本领地时其妻儿在江户为人质。明治维新前该制度已废弛。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8338c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795cb-7282-11ee-a9d7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：考迪罗主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "\"考迪罗\"原指军事首领，后泛指独裁者。拉美国家独立后，统治者普遍对内实行暴力统治，对外穷兵黩武，被称为\"考迪罗主义\"。这种体制致使拉美国家长期处于动荡状态。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f833b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795cc-7282-11ee-aad7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《非统组织宪章》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1963年由非洲国家领导人签署通过的政治行动纲领。以泛非主义为基础，捍卫各国主权和领土完整，促进国际合作；主张各国间主权平等、互不干涉内政。为非统组织成立和非洲经济发展做出了贡献。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f833dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795cd-7282-11ee-9d80-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：弭兵运动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "春秋中期，晋、楚长期争霸，连年战争，中原各国不堪重负，希望停战。宋国两次倡导并召开弭兵之会，一次是公元前579年促成晋、楚暂时休战，一次是公元前546年各国承认晋、楚霸主地位，晋、楚争霸局面结束。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8340e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795ce-7282-11ee-9993-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《嘉定和议》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "南宋开禧北伐失败后，于嘉定元年（1208）与金签订的和约。金宋之间称伯侄之国，宋向金纳岁币银30万两、绢30万匹；一次性缴纳\"犒军钱\"300万贯，金退出淮南等地，双方恢复原有边界。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83436-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795cf-7282-11ee-84cd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：明代司礼监"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "明代宦官机构之一。洪武后期置，提督太监掌宫内礼仪、刑名等事。自明武宗始，司礼监秉笔太监掌机密、批阅奏章等，实权多在内阁首辅之上，有时统领东厂。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8345e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d0-7282-11ee-84b3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：\"十通\"（写出书名即可）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《通典》《通志》《文献通考》《续通典》《续通志》《续文献通考》《清通典》《清通志》《清文献通考》《清续文献通考》。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83490-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d1-7282-11ee-b1f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《查士丁尼战争史》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元6世纪由拜占庭历史学家普罗科比创作。记述了查士丁尼对北非汪达尔王国、意大利东哥特王国及东方波斯帝国的战争。虽有对查士丁尼歌功颂德之意，但所记史事多为作者亲历，具有很高的史料价值。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f834b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d2-7282-11ee-b2ff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：\"壬申之乱\""
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公元672年（壬申年）发生在日本的争夺皇位的事变。改新派代表、被废的原皇位继承人大海人，率军打败大友朝廷军队，继位为天皇。确立了以天皇为中心的中央集权制，完成了大化改新的政治目标。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f834e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d3-7282-11ee-b017-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：美国\"文官条例\"（1883年）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "美国国会通过的文职官员考试录用条例。禁止按照竞选期间的贡献来分配公职，并规定了文官公开竞争考试的具体办法。减少了美国政党的腐败现象，促进了美国政治制度的发展。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83512-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d4-7282-11ee-b9ac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：阿拉曼战役"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第二次世界大战期间发生在北非的一次著名战役。1942年10一1 1月，英军在蒙哥马利的统率下在埃及阿拉曼地区击败隆美尔统率的德意联军。此后，英军掌握了北非战场的主动权。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8353a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d5-7282-11ee-b31c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：周公旦"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "周武王弟，名旦，采邑在周，称周公。武王死后，辅佐成王，平定了管叔、蔡叔与殷商遗民的反叛，营建东都洛邑，巩固了周王朝。制礼作乐，建立典章制度等，对后世有巨大影响。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8356c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d6-7282-11ee-afa5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：厘金"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "咸丰初年，为筹集镇压太平军的经费，清政府官员在扬州设卡抽捐，对运销商品收取税款，称为厘金，后推广到全国，民国建立后仍沿用。严重阻碍了近代中国商品经济的发展，1931年最终裁撤。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83594-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d7-7282-11ee-8429-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：安福国会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民国时期皖系军阀集团召集的非法国会。为抵制孙中山在广州召集的国会非常会议，1918年，段祺瑞授意皖系政客徐树铮等组织安福俱乐部操纵选举，选出\"新\"国会。1920年直皖战争后被解散。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f835bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d8-7282-11ee-a13b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：双百方针"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即\"百花齐放、百家争鸣\"。1956年由毛泽东正式提出，经中共中央确定的关于科学和文化工作的方针。1957年后该方针受到严重破坏。中共十一届三中全会后双百方针又得以重新确立贯彻。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f835ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795d9-7282-11ee-8552-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：伊拉斯谟"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "文艺复兴时期德国著名人文主义者。将《圣经》和早期教父著作从希腊文翻译成拉丁文,并著有《愚人颂》等抨击天主教会和教士腐败的著作,推动了欧洲文艺复兴的发展, 并对德国宗教改革产生了重要影响。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83616-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795da-7282-11ee-a6b0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：卢布林合并"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1569年,波兰和立陶宛大公国在波兰东南部的卢布林签订条约,规定联合为波兰一立陶宛王国,设立共同的议会,选举国王,统一币制和外交政策双方在行政、司法等方面实   行自治。1791年,条约废止。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f8363e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795db-7282-11ee-b2b7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：谢斯起义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1786一1787年美国马萨诸塞州谢斯领导的农民起义,后遭镇压。起义者要求分配土地,取消债务,关闭惩罚穷人的法庭。起义对美国制定《联邦宪法》起了促进作用。"
+	},
+	{
+		"category": "历史学",
+		"sub_category": "历史学",
+		"raw_uuid": "34f83670-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "57b795dc-7282-11ee-8e75-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：凯末尔主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "土耳其共和国的创立者凯末尔提出的思想体系。包括共和主义、民族主义、平民主义、国家主义、世俗主义等原则。是土耳其发展资本主义经济,建立共和制的理论基础。"
+	}
+]

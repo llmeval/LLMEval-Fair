@@ -1,0 +1,230 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e712-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a80108-6bdf-11ee-b329-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Fillen Sie bitte die Liicken.\nEr,d______politische Ansichten den Regierenden missfielen, bekam Schreibverbot"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "dessen"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e794-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a80109-6bdf-11ee-9833-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Fillen Sie bitte die Liicken.\nNicht jeder,d______man in Deutschland fragt, kennt diesen Schriftsteller"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "den"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e7c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a8010a-6bdf-11ee-b813-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Waihlen Sie das richtige Verb aus!\nDie Firmaden Preis.(andert / wechselt)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "andert"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e7f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a8010b-6bdf-11ee-93f5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Waihlen Sie das richtige Verb aus!\nDie Regierungen haben Noten.(umgetauscht / ausgetauscht)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ausgetauscht"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e820-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a8010c-6bdf-11ee-858c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Waihlen Sie das richtige Verb aus!\nDazu kann man Ihnen natüurlich keine Garantie.(bieten /anbieten)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "bieten"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e848-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a8010d-6bdf-11ee-b62b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Waihlen Sie das richtige Verb aus!\nWas sie, in den Feiertagen zu tun?(gedenken/denken)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gedenken"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e87a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a8010e-6bdf-11ee-b905-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Waihlen Sie das richtige Verb aus!\nNichts kann uns.,unser Ziel zu erreichen.(hindern /verhindern)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "verhindern"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e8a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a8010f-6bdf-11ee-90b8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Welche Redensarten oder Sprichworter mit den angegebenen Wörternentsprechen folgenden Ausdrücken und Satzen?\n(Rede) Wegen ihrer Lüge wurde sie von ihrer Muttergestellt"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "zur Rede"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e8d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a80110-6bdf-11ee-8a38-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Welche Redensarten oder Sprichworter mit den angegebenen Wörternentsprechen folgenden Ausdrücken und Satzen?\n(Mund) Menschen,die anderen gernreden, sind nicht ehrlich"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "nach dem Mund"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e8fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a80111-6bdf-11ee-8a87-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Welche Redensarten oder Sprichworter mit den angegebenen Wörternentsprechen folgenden Ausdrücken und Satzen?\n(Berg)Er schwebte lange zwischen Leben und Tod. Jetzt ist er endlich"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ueber den Berg"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e92e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a80112-6bdf-11ee-a90d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Welche Redensarten oder Sprichworter mit den angegebenen Wörternentsprechen folgenden Ausdrücken und Satzen?\n(Licht) Mich kann man nicht so schnell___fuhren"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "hinters Licht"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0e956-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "42a80113-6bdf-11ee-87a4-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Welche Redensarten oder Sprichworter mit den angegebenen Wörternentsprechen folgenden Ausdrücken und Satzen?\n(Mann und Maus) Das Schiff geriet in einen Sturm und ging_unter"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "mit Mann und Maus"
+	}
+]

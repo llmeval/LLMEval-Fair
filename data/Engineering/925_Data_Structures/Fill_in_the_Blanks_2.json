@@ -1,0 +1,477 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501af20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fca818-703c-11ee-98c4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据结构中评价算法的两个重要指标是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "算法的时间复杂度和空间复杂度"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501afb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf40-703c-11ee-9296-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据结构是研讨数据的______和______以及它们之间的相互关系，并对与这种结构定义相应的______，设计出相应的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "逻辑结构；物理结构；操作（运算）；算法"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501afe8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf41-703c-11ee-bf2f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个算法具有5个特性：______、______、______、有零个或多个输入、有一个或多个输出。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有穷性；确定性；可行性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b01a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf42-703c-11ee-96d8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设单链表的结点结构为（data，next），next为指针域，已知指针px指向单链表中data为x的结点，指针py指向data为y的新结点，若将结点y插入结点x之后，则需要执行以下语句：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "py－>next＝px－>next；px－>next＝py"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b04c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf43-703c-11ee-824c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在双向循环链表中，向p所指的结点之后插入指针f所指的结点，其操作是______、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "f－>next＝p－>next；f－>prior＝p；p－>next－>prior＝f；p－>next＝f。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b074-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf44-703c-11ee-a701-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有一个空栈，栈顶指针为1000H（十六进制），现有输入序列为l，2，3，4，5，经过PUSH，PUSH，POP，PUSH，POP，PUSH，PUSH之后，输出序列是______，而栈顶指针值是______。设栈为顺序栈，每个元素占4个字节。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "23；100CH"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b09c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf45-703c-11ee-bede-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知一循环队列的存储空间为，其中n>m，队头和队尾指针分别为front和rear，则此循环队列判满的条件是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（rear＋1）%（n－m＋1）＝＝front"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b0ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf46-703c-11ee-8b58-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设正文串长度为n，模式串长度为m，则串匹配的KMP算法的时间复杂度为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "O（m＋n）"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b0f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf47-703c-11ee-90de-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "模式串P＝‘abaabcac’的next函数值序列为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "01122312"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b128-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf48-703c-11ee-ba02-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设T和P是两个给定的串，在T中寻找等于P的子串的过程称为______，又称P为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "模式匹配；模式串"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b150-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf49-703c-11ee-bf5c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知U＝‘xyxyxyxxyxy’；t＝‘xxy’；ASSIGN（S，U）；ASSIGN（V，SUBSTR（S，INDEX（S，t），LEN（t）＋1））；ASSIGN（m，‘ww’），求REPLACE（S，V，m）＝______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "’xyxyxywwy’"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b178-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf4a-703c-11ee-8b6e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实现字符串拷贝的函数strcpy为：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "s＋＋＝*t＋＋或（*s＋＋＝*t＋＋）!＝‘\\0’"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b1aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf4b-703c-11ee-b769-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有向图G＝（V，E），其中V（G）＝{0，1，2，3，4，5}，用<a，b，d>三元组表示弧<a，b>及弧上的权d。E（G）为E（G）＝{<0，5，100>，<0，2，10>，<1，2，5>，<0，4，30>，<4，5，60>，<3，5，10>，<2，3，50>，<4，3，20>}，则从源点0到顶点3的最短路径长度是______，经过的中间顶点是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "50；4"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b1d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf4c-703c-11ee-bf31-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "无用单元是指______，例______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "用户不再使用而系统没有回收的结构和变量；p＝malloc（size）；…，p＝null"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b204-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf4d-703c-11ee-b1a2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外排序的基本操作过程是______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生成有序归并段（顺串）；归并"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b22c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf4e-703c-11ee-acec-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在基于关键字比较且时间为O（nlog2n）的排序中，若要求排序是稳定的，则可选用______排序；若要求就地排序（及辅助空间为O（1）），则可选用______排序。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "归并；堆"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b254-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf4f-703c-11ee-a5f1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按LSD进行关键字排序，除最次位关键字之外，对每个关键字进行排序时，只能用______的排序方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "稳定"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b286-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf50-703c-11ee-848a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "文件可按其记录的类型不同而分成两类，即______和______文件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "操作系统文件；数据库"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b2ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf51-703c-11ee-ae2d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从用户的观点看，文件的逻辑结构通常可以区分为两类：一类是如NdBASE中数据库文件那样的文件组织结构，称为______文件；另一种是诸如用各种文字处理软件编辑成的文本文件，称为______文件。从文件在存储器上的存放方式来看，文件的物理结构往往可区分为三类，即______，______和______。B＋树适用于组织______的索引结构，m阶B＋树每个结点至多有______个儿子，除根结点外每个结点至少有______个儿子，根结点至少有______个儿子，有k个儿子的结点必有______个关键码。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据库；文本；顺序组织；随机组织；链组织；随机组织；m；⎾m/2⏋；2；k"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b2e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf52-703c-11ee-9676-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "文件由______组成；记录由______组成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "记录；数据项"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b308-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf53-703c-11ee-aa30-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "索引顺序文件既可以顺序存取，也可以______存取。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "随机"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b33a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fccf54-703c-11ee-8077-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "建立索引文件的目的是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "提高查找速度"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b36c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fcf62e-703c-11ee-96cc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "检索是为了在文件中寻找满足一定条件的记录而设置的操作。检索可以按______检索。也可以按______检索；按______检索又可以有______检索和______检索。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "关键字；记录号；记录号；顺序；直接"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b394-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fcf62f-703c-11ee-a5c0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "VSAM系统是由______、______、______构成的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "索引集；顺序集；数据集"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501b3bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30fcf630-703c-11ee-ae88-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "VSAM（虚拟存储存取方法）文件的优点是：动态地______，不需要文件进行______，并能较快地______进行查找。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分配和释放存储空间；重组；对插入的记录"
+	}
+]

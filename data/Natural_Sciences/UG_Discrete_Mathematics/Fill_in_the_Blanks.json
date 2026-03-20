@@ -1,0 +1,1161 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cc10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fca691-6f0b-11ee-bb5f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设集合 A,B，其中 A={1,2,3}, B= {1,2}, 则 A - B=______;"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{3}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cce2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcc9fb-6f0b-11ee-92a4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设 G 是完全二叉树，G 有 7 个点，其中 4 个叶点，则 G 的总度数为______，分枝点数为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "12；3"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cd1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcc9fc-6f0b-11ee-bd09-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设 R 是集合 A 上的等价关系，则 R 所具有的关系的三个特性是______,______,______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自反性；对称性；传递性"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cd46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcc9fd-6f0b-11ee-b4f9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设 A,B,R 是三个集合，其中 R 是实数集，A = {x | -1≤x≤1, x∈R}, B = {x | 0≤x < 2, x∈R},则A-B = ______ , A∩B = ______ ,"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{x|-1≤x<0,x∈R}；{x|0≤x≤1,x∈R}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cd78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcc9fe-6f0b-11ee-98e3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设集合 A={2, 3, 4, 5, 6}，R 是 A 上的整除，则 R 以集合形式(列举法)记为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{(2,2),(2,4),(2,6),(3,3),(3,6),(4,4),(5,5),(6,6)}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cdaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcc9ff-6f0b-11ee-b8dc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设 G 是具有 8 个顶点的树，则 G 中增加______条边才能把 G 变成完全图。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "21"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cdd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca00-6f0b-11ee-ac49-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 一棵有6个叶结点的完全二叉树，有______个内点；而若一棵树有2个结点度数为2,一个结点度数为3,3个结点度数为4,其余是叶结点，则该树有______个叶结点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "5；9"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535ce04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca01-6f0b-11ee-a57a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 在一棵根树中，有且只有一个结点的入度为______,其余所有结点的入度均为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "0；1"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535ce2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca02-6f0b-11ee-9748-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设Z是整数集，+是整数加法运算，则<z,+>是群，其幺元是______,对任一整数i,其逆元是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "0；-i"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535ce54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca03-6f0b-11ee-b945-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "使公式(∀x)(∀y)(A[x]V B(y))⇔((∀x)A(x)V(∀y)B(y))成立的条件是______不含有y,______不含有x。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A(x)；B(y)"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535ce86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca04-6f0b-11ee-bf12-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请写出表示德摩根律的两个命题公式等价定理______,______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "┐(A∧B)⇔(┐A∨┐B)；┐(A∨B)⇔(┐A∧┐B)"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535ceae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca05-6f0b-11ee-8451-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "n个命题变元的______称为小项，其中每个变元与它的否定不能同时出现，但两者必须______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "命题公式；出现"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cee0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca06-6f0b-11ee-85b6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "前提引入规则：在证明的任何步骤上都可以______,简称______规则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "引入前提；前提"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cf08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca07-6f0b-11ee-b54a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设代数系统<A,·,*>是环，则<A,·>是______,<A,*>是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阿贝尔群；半群"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cf30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca08-6f0b-11ee-b761-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设<A,≤>是一个______,如果A中任意两个元素都有______,则称<A,≤>为格。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偏序集；最小上界和最大下界"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cf62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcca09-6f0b-11ee-b9c5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若一条______中，所有的______均不相同，称为迹。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "路；边"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cf8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3ca-6f0b-11ee-ba0b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设R={<1,2>,<3,5>,<5,5>}和S={<4,2>,<5,1>,<2,3>}是集合A={1,2,3,4,5}上的两个关系，则R·S=______,S·R=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{<1,3>,<3,1>,<5,1>}；{<2,5>,<5,2>}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cfb2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3cb-6f0b-11ee-aa76-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "命题公式P→(P∧Q)的成真指派为______,成假指派为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "00,01,11；10"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535cfe4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3cc-6f0b-11ee-b4e9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 公式(∃x)(∀z)(P(x,y)∧ Q(z))V R(x)的约束变元为______,自由变元为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "x,z；y,z"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d00c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3cd-6f0b-11ee-937e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设f(x)=2-x²,g(x)=2x+1,那么复合函数(f·g)(x)=______,(g·f)(x)=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1-4X-4x²；5-2x²"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d03e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3ce-6f0b-11ee-b1e5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Kn是n个结点的完全图，则K10边数为______,每个结点的度数为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "45；9"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d066-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3cf-6f0b-11ee-80b4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设A={<2,2>,<3,5>,<3,4>},B={<1,3>,<2,5>,<3,4>},那么dom(A∩B)=______,ran(AUB)=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{3}；{2,3,4,5}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d08e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d0-6f0b-11ee-9389-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设R={<1,2>,<3,4>,<4,5>}和S={<4,2>,<5,1>,<3,3>}是集合A=11,2,3,4,51上的两个关系，则R·S=______,S·R=______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{<3,2>,<4,1>}；{<5,2>,<3,4>}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d0c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d1-6f0b-11ee-88eb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公式(∃x)(∀z)(P(x,y)∧ Q(z))V R(x)的约束变元为______,自由变元为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "x,y；x,z"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d0e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d2-6f0b-11ee-930e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "命题公式P∧Q的成真指派为______,成假指派为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "11；00,01,10"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d110-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d3-6f0b-11ee-a028-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设f(x)=2-x,g(x)=2x+1,那么复合函数(f·g)(x)=______,(g·f)(x)=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1-2x；5-2x"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d142-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d4-6f0b-11ee-b231-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设A={<1,2>,<2,5>,<4,4>},B={<1,3>,<2,1,5>,<5,2>},那么dom(AUB)=______,ran(A∩B)=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{1,2,4,5}；{5}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d16a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d5-6f0b-11ee-9651-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Kn是n个结点的完全图，则K20有______条边，每个结点的度数为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "190；19"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d19c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d6-6f0b-11ee-8000-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "命题公式PVQ的成真指派为______,成假指派为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "11,01,10；00"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d1ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d7-6f0b-11ee-b168-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设R={<1,3>,<3,5>,<5,5>}和S={<2,3>,<3,4>,<5,1>}是集合A={1,2,3,4,5}上的两个关系，则R·S=______,S·R= ______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{<1,4>,<3,1>,<5,1>}；{<5,3>,<2,5>}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d1f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d8-6f0b-11ee-a607-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设f(x)=2-2x,g(x)=x²+1,则复合函数(f·g)(x)=______,(g·f)(x)=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "-2x²；4x²-8x+5"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d228-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3d9-6f0b-11ee-87e5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "命题公式P→Q的成真指派为______,成假指派为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "00,01,11；10"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d250-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3da-6f0b-11ee-b097-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设A={{x,y},∅,x,y},则A-{x,y}=______,A-{∅}=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{∅,{x,y}}；{{x,y},x,y}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d282-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3db-6f0b-11ee-a911-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设N表示非负整数集，R:N→N,xRy定义为x+2y=10,则domR=______,ranR=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{0,2,4,6,8,10}；{5,4,3,2,1,0}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d2aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3dc-6f0b-11ee-b8f8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设R={<1,b>,<2,a>,<2,d>,<4,b>}是集合A={1,2,3,4}到集合B={a,b,c,d}的关系，则ranR=______,domR=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{a,b,d}；{1,2,4}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d2dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3dd-6f0b-11ee-96ba-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "命题公式PV(Q→﹁R)的成真指派有______个，成假指派有______个。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "7；1"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d304-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3de-6f0b-11ee-a340-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设p(A)是非空集合A的幂集，代数系统<p(A),U>的零元是______,幺元是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": " A；∅"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d336-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3df-6f0b-11ee-a932-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设A={1,2,3,4},B={1,3,4,5},A到B的关系R={<3,1>,<1,1>,<4,3>},B到A的关系S={<4,1 >,<3,2>,<2,3>},则R·S=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{<4,2>}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d368-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3e0-6f0b-11ee-ac83-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设G是一个有11个顶点的简单无向图。如果G恰有一个回路，则G的边数最大是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "11"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d390-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3e1-6f0b-11ee-a924-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设R={<3,c>,<1,a>,<4,c>,<4,d>}是集合A={1,2,3,4}到集合B={0,b,c,d}的关系，则dom R=______,ran R=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{1,3,4}；{a,c,d}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d3c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3e2-6f0b-11ee-bb46-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设R={<1,4>,<3,5>,<2,5>}和S={<4,2>,<5,1>,<2,3>}是集合A={1,2,3,4,5}上的两个关系，则R·S=______,S·R= ______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{<1,2>,<3,1>,<2,1>}；{<4,5>,<5,4>,<2,5>}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d3ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fcf3e3-6f0b-11ee-a500-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "集合A=|1,2,3|上的划分共有______种，其中划分S={{1},{2,3}}中有序对的个数为______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "5；5"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d41c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1848-6f0b-11ee-a7a4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "完全图K4是平面图，其面数r为______ ,记结点数为n,边数为m,则n-m+r=______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "4；2"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d44e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1849-6f0b-11ee-80b2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实数集R中的运算*定义如下：a*b=a+b-5ab,则*运算的单位元为 ______ ;*运算的零元为______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "0；1/5"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d476-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd184a-6f0b-11ee-a9b5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "<Zn,+>是一个群，其中Zn={0,1,2,…,n-1},x+y=______,9的阶为______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "10；10"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d4a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd184b-6f0b-11ee-ae1a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个简单无向连通图，有n个结点，m条边，则边数m的最大值为______,边数m的最小值为______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "n(n-1)/2；n-1"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d4d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd184c-6f0b-11ee-828d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设A为非空有限集合，P______,零元是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "∅；A"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d4f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd184d-6f0b-11ee-99df-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个手镯等距离地镶嵌着5颗彩珠，每颗彩珠可以从红、白、蓝、绿、黄5种颜色中挑选。如果要求手镯上的彩珠颜色都不相同，则可以构成______种不同颜色彩珠分布的手镯。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "120"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d52a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd184e-6f0b-11ee-8da6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某连通平面图有6个顶点，其平面表示中共有8个面，则其边有______条。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "12"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d552-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd184f-6f0b-11ee-a4c7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有集合A={a,b,c,d}上的二元关系R={<a,b>,<b,a>,<c,c>,<d,d>},则R²=______,R³= ______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{<a,a>,<b,b>,<c,c>,<d,d>}；{<a,b>,<b,a>,<c,c>,<d,d>}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d584-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1850-6f0b-11ee-a164-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有集合A={a,b,c}上的二元关系R1={<a,b>,<a,c>,<c,b>},则R1的自反闭包r(R1)=______,R1的对称闭包s(R1)=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "{<a,a>,<b,b>,<c,c>,<a,c>,<c,b>,<a,b>}；{<a,b>,<b,a>,<a,c>,<c,a>,<c,b>,<b,c>}"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d5b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1851-6f0b-11ee-a6af-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个无向图有21条边，有3个4度结点，其余结点均为3度，则其结点共有______个。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "13"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d5de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1852-6f0b-11ee-89f6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设集合A={1,2,3},集合B={a,b,c,d,e},则|A×B|=______,而|P(A)×B|=______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "15；40"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d610-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1853-6f0b-11ee-9fc6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有集合A和B,|A|=5,|B|=2,则从A到B不同的满射函数共有______个。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "30"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d638-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1854-6f0b-11ee-a5eb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "无向图G有11条边，4个3度结点，其余均为5度结点，则G的阶数为______,其中5度结点有______个。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "6；2"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d66a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1855-6f0b-11ee-b88f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一颗无向树T,有40个1度结点，20个2度结点，31个3度结点，无6度或以上结点，则T中有______个4度结点， ______个5度结点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2；1"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d692-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1856-6f0b-11ee-b8b8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设A为非空有限集合，P______,零元是 ______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A；∅"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d6ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1857-6f0b-11ee-85cf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设集合A={1,2,3,4,5},代数系统<P(A),U>的单位元为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "∅"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d6ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1858-6f0b-11ee-be43-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设无向树有10片树叶，2个3度分支点，其余的分支点为4度，则树的阶数为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "15"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d714-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd1859-6f0b-11ee-af7d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设G为连通平面图，共6个顶点，其平面表示中共有8个面，则边数为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "12"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535d746-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c3fd185a-6f0b-11ee-abae-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设集合A={1,2,3,4,5},集合B={a,b,c,d,e},从A到B的不同的单射的个数为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "120"
+	}
+]

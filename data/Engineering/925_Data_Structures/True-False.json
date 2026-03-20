@@ -1,0 +1,1218 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502939a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8a34c-703c-11ee-8fe8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。数据元素是数据的最小单位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。数据项是数据的不可分割的最小单位，而数据元素是数据的基本单位。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502949e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8a34d-703c-11ee-af6b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。数据的逻辑结构是指数据的各数据项之间的逻辑关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。数据的逻辑结构是指数据元素之间的逻辑关系。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350294ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8a34e-703c-11ee-b94d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。算法的优劣与算法描述语言无关，但与所用计算机有关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。算法的优劣和它的时间复杂度和空间复杂度有关，与算法描述语言和所用计算机都无关。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029534-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8a34f-703c-11ee-9e6f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。顺序存储方式的优点是存储密度大，且插入、删除运算效率高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。前者正确，后者错误。顺序存储方式在插入、删除元素时需要挪动大量的元素，执行效率较低。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029570-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8a350-703c-11ee-a0fb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。抽象数据类型与计算机内部表示和实现无关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。抽象数据类型只表示数据的逻辑结构，与计算机内部表示和实现无关。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350295b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca43-703c-11ee-b22e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在一个设有头指针和尾指针的单链表中，执行删除该单链表中最后一个元素的操作与链表的长度无关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。必须从头指针开始，查找到尾指针所指结点的前驱结点的指针。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350295f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca44-703c-11ee-b95b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。顺序存储结构的主要缺点是不利于插入或删除操作。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。因为顺序表的插入删除会移动大量的元素。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029638-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca45-703c-11ee-a095-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。线性表采用链表存储时，结点和结点内部的存储空间可以是不连续的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。对于链式存储，数据元素之间的存储地址不一定是相邻的，即结点的存储空间可以是不连续的。而结点内部的存储空间需要是连续的，因为它是一个完整的数据。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502967e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca46-703c-11ee-a3e1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。为了很方便地插入和删除数据，可以使用双向链表存放数据。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。链式存储结构便于数据的插入和删除，但只能顺序访问表中的元素。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350296c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca47-703c-11ee-9aed-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。设栈采用顺序存储结构。若已有i－1个元素入栈，则将第i个元素入栈时，入栈算法的时间复杂性为O（i）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。由于该栈采用顺序存储结构，时间复杂度应该为O（1）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502970a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca48-703c-11ee-b4e3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。栈的输入序列是1，2，…，n，输出序列是a1，a2，…，an若ai＝n（1≤i≤n）则有：ai>ai＋1>…>an。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。出栈序列不一定满足ai>ai＋1>…>an，比如1进栈，然后出栈，a1＝1，a1<ai。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029746-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca49-703c-11ee-b389-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在链队列中，即使不设置尾指针也能进行入队操作。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。因为存在头指针，根据链表的性质，根据头指针可以找到为指针。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029796-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca4a-703c-11ee-b14a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。循环队列也存在空间溢出问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。循环队列的存储空间也是有限的，因此也存在空间溢出问题。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350297dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca4b-703c-11ee-ad6c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。队列和栈都是运算受限的线性表，只允许在表的两端进行运算。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。栈只能在一端进行操作，队列可以在表的两端进行运算。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029822-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca4c-703c-11ee-8ee0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。KMP算法的特点是在模式匹配时指示主串的指针不会变小。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。KMP算法是一种字符串匹配的算法，KMP算法的关键是利用匹配失败后的信息，尽量减少模式串与主串的匹配次数以达到快速匹配的目的。具体实现就是实现一个next（）函数，函数本身包含了模式串的局部匹配信息。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029872-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca4d-703c-11ee-9693-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。设模式串的长度为m，目标串的长度为n，当n≈m且处理只匹配一次的模式时，朴素的匹配（即子串定位函数）算法所花的时间代价可能会更为节省。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。因为两个字符串的长度几乎相等，因此，在进行相应的匹配时，只需要定位父串的前几位即可。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350298b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca4e-703c-11ee-8162-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。串是一种数据对象和操作都特殊的线性表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。串是一种操作特殊的线性表，其特殊性主要体现在数据元素是一个字符。在内存中，一份文本都可以看作是一个字符串，而每一行都可以看作是其子串。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350298fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca4f-703c-11ee-bed4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。数组不适合作为任何二叉树的存储结构。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。对于完全二叉树，因为其n个结点的位置已经固定，所以用一维数组作为存储结构是高效率的（存储密度大）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029944-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca50-703c-11ee-9a62-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。稀疏矩阵压缩存储后，必会失去随机存取功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。稀疏矩阵在压缩存储后，必回失去随机存储的功能。因为在这个矩阵中，非零元素的分布是没有规律的，为了压缩存储，就将每一个非零元素的值和它所在的行、列号作为一个结点存放在一起，这样的结点组成的线性表中叫三元组表，它已不是简单的向量，所以无法用下标直接存取矩阵中的元素。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502998a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca51-703c-11ee-ac7c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。二维以上的数组其实是一种特殊的广义表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。广义表是线性表的推广。广义表中的元素还有可能是广义表。对于维数大于二的数组，它在某一维上的元素还是数组。符合广义表的定义，因此二维以上的数组其实是一种特殊的广义表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350299da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca52-703c-11ee-bff3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个广义表可以为其他广义表所共享。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。因为广义表中的元素还可能是表，所以对于一个广义表可以为其他广义表所共享。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029a20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca53-703c-11ee-b61f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。广义表（（（a，b，c），d，e，f））的长度是4。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。长度为1。因为只含一个元素即子表（（（a，b，c），d，e，f））。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029a66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca54-703c-11ee-8726-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对于有n个结点的二叉树，其高度为log2n。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。例如n结点的单枝树，高度就为n。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029aac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca55-703c-11ee-a4d7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。深度为k的二叉树中结点总数小于等于2k－1。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。深度为K的二叉树，当结点数最多时为满二叉树，此时结点数为2k－1。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029af2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca56-703c-11ee-9808-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个树形的叶结点，在前序遍历和后序遍历下，皆以相同的相对位置出现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。树的前序遍历和后序遍历叶子节点的相对次序是不变的，都遵循左右的次序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029b2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca57-703c-11ee-8a2e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。用一维数组存储二叉树时，总是以前序遍历顺序存储结点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。后序遍历、中序遍历也可以遍历一维数组存储的二叉树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029b7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ca58-703c-11ee-87c2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中序遍历一棵二叉排序树的结点就可得到排好序的结点序列。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。二叉排序树是的父结点和左右子树的值的大小是确定的。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029bc4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef1a-703c-11ee-b8cd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。任何二叉树的后序线索树进行后序遍历时都必须用栈。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。任何结点至多只有左子树的二叉树的遍历就不需要栈。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029c0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef1b-703c-11ee-bd3f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般来说，若深度为k的n个结点的二叉树只有最小路径长度，那么从根结点到第k－1层具有的最多结点数为2k－1－1，余下的n－2k－1＋1个结点在第k层的任一位置上。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。求最小路径长度，即构成哈夫曼树，当哈夫曼树为k－1层全满时，此时从根结点到第k－1层具有最大的结点数为2k－1－1。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029c50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef1c-703c-11ee-a8fa-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一棵树中的叶子数一定等于与其对应的二叉树的叶子数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。一棵树的叶子树与它对一个的二叉树的叶子树没有直接联系。不妨举例：假设一个有三个结点的二叉树，层数为2。则它的叶结点数为2。将其按规则转为对应的二叉树时，则它的叶结点数为1。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029ca0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef1d-703c-11ee-afeb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。树形结构中元素之间存在一对多的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。树形结构是非线性结构，存在一对多的关系。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029cf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef1e-703c-11ee-aacb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。二叉树是一般树的特殊情形。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。树与二叉树是两种不同的树形结构，二叉树中的孩子结点有着严格左右之分的。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029d36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef1f-703c-11ee-b44e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哈夫曼树度为1的结点数等于度为2和0的结点数之差。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。哈夫曼树不存在度数为1的结点。度数为2和0的结点数之差为1。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029d7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef20-703c-11ee-a28e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。若从二叉树的任一结点出发，到根的路径上所经过的结点序列按其关键字有序，则该二叉树一定是哈夫曼树。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在含有N个带权叶子结点的二叉树中，其中带权路径长度最小的二叉树称为哈夫曼树，也叫作最优二叉树。关键字有序，可能叶子结点部分的关键字最大，根结点的关键字部分最小，此时就不是哈夫曼树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029dc2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef21-703c-11ee-8429-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。有向图中顶点V度等于其邻接矩阵中第V行中的1的个数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。有向图顶点V的出度等于其邻接矩阵第V行中的1的个数，而有向图中V的度等于其邻接矩阵中边表出现的V的个数。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029e12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef22-703c-11ee-a108-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。连通图上各边权值均不相同，则该图的最小生成树是唯一的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。由最小生成树的构建过程知，在确定根结点之后，因为连通图上各边权值均不相同，下一个结点的选择是唯一的，所以该图的最小生成树是唯一的。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029e58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef23-703c-11ee-bb66-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无环有向图才能进行拓扑排序。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。在图论中，由一个有向无环图的顶点组成的序列，才能进行拓扑排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029ea8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef24-703c-11ee-958d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。若一个有向图的邻接矩阵对角线以下元素均为零，则该图的拓扑有序序列必定存在。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。因为一个有向图的邻接矩阵对角线以下元素均为零，则该图是一个有向无环图，所以该图的拓扑有序序列必定存在。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029ef8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef25-703c-11ee-ade6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当改变网上某一关键路径上任一关键活动后，必将产生不同的关键路径。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。当改变任意关键路径上的关键活动之后，这个活动可能还是关键活动，因此不会产生不同的关键路径。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029f3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef26-703c-11ee-b4f6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。采用线性探测法处理散列时的冲突，当从哈希表删除一个记录时，不应将这个记录的所在位置置空，因为这会影响以后的查找。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。从哈希表删除一个记录，不是将这个记录的位置置空，而是设置一个标记，标记这个元素是无效的了。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029f84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef27-703c-11ee-8f54-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在索引顺序表中，实现分块查找，在等概率查找情况下，其平均查找长度不仅与表中元素个数有关，而且与每块中元素个数有关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。在进行分块查找时，首先查找元素在哪一块，然后在确定的块中查找元素，因此，在索引顺序表中，进行分块查找的平均查找长度不仅与表中元素的个数有关，而且与每块中的元素个数有关。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35029fca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef28-703c-11ee-8ba5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对大小均为n的有序表和无序表分别进行顺序查找，在等概率查找的情况下，对于查找成功，它们的平均查找长度是相同的，而对于查找失败，它们的平均查找长度是不同的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。查找成功的情况下，顺序表和无序表的平均查找长度是相同的，对于查找失败，无序表需要查找到表尾，而顺序表不需要查到表尾就能确定，所以顺序表的查找长度小于无序表的查找长度。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a010-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef29-703c-11ee-806c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。平衡二叉树中，若某个结点的左、右孩子的平衡因子为零，则该结点的平衡因子一定是零。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。平衡因子定义为该结点的左子树的深度减去右子树的深度，一个平衡二叉树中，某节点的左右孩子的平衡因子为0，说明左孩子的左子树和右子数的深度相同，而且右子树的左子树和右子数的深度相同，但这不能说明该节点的左子树和右子树的深度相同。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a056-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef2a-703c-11ee-99db-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。B－树中所有结点的平衡因子都为零。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。一棵m阶的B－树，如果不为空，则所有的叶子结点都出现在同一层次上，所以B－树总的所有结点的平衡因子都为零。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a0b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef2b-703c-11ee-93f9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对两棵具有相同关键字集合的而形状不同的二叉排序树，按中序遍历它们得到的序列的顺序却是一致的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。形状不同的两个二叉排序树（关键字集合相同），在中序遍历下是输出排好序的序列，所以顺序是一致的。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a100-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef2c-703c-11ee-a599-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在待排数据基本有序的情况下，快速排序效果最好。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在待排数据基本有序的情况下，插入排序效果最好。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a150-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef2d-703c-11ee-afba-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在用堆排序算法排序时，如果要进行增序排序，则需要采用“大根堆”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。堆排序：基本思想先将原始序列构造成一个堆（初始堆），使其n个元素的最大（小）值处于序列的第一个位置；然后交换序列第一个元素与最后一个元素的位置。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a196-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef2e-703c-11ee-b597-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。若中序遍历平衡的二叉排序树，可得到排好序的关键码序列。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。二叉排序树对于每一个结点，它的左子树的所有结点的值都小于这个结点的值，而它的右子树的所有结点的值都大于这个结点的值。而采用中序遍历，遍历顺序为左根右，因此可以得到按增序排列的关键码序列。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a1dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef2f-703c-11ee-b378-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。排序的稳定性是指排序算法中的比较次数保持不变，且算法能够终止。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。排序的稳定性指：假定在待排序的记录序列中，存在多个具有相同的关键字的记录，若经过排序，这些记录的相对次序保持不变，即在原序列中，ri＝rj，且ri在rj之前，而在排序后的序列中，ri仍在rj之前，则称这种排序算法是稳定的；否则称为不稳定的。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a222-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef30-703c-11ee-8aa1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。排序算法中的比较次数与初始元素序列的排列无关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。这个要看是哪个排序算法，比如快速排序，初始序列为有序的情况比较的次数就相对于无序的多。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a268-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef31-703c-11ee-bfd0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。归并排序辅助存储为O（1）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。归并排序的辅助存储是O（n）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a2a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef32-703c-11ee-9ec8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。快速排序和归并排序在最坏情况下的比较次数都是O（nlog2n）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。快速排序最坏的情况下比较次数是O（n2）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a2ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef33-703c-11ee-83d4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在任何情况下，归并排序都比简单插入排序快。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。错误。待排序序列为正序时，简单插入排序比归并排序快。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a33a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef34-703c-11ee-a35e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。外部排序是把外存文件调入内存，可利用内部排序的方法进行排序，因此排序所花的时间取决于内部排序的时间。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。一般情况下，外部排序所需总的时间＝内部排序（产生初始归并段）所需的时间m*tIS＋外存信息读写的时间d*tIO＋内部归并所需的时间S*utmg。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a380-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef35-703c-11ee-8cc8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在外部排序过程中，对长度为n的初始序列进行“置换－选择”排序时，可以得到的最大初始有序段的长度不超过n/2。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。当输入文件以关键字的升序排序时，只能得到一个长度为文件长度的初始归并段。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a3c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef36-703c-11ee-8fe6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。为提高排序速度，进行外排序时，必须选用最快的内排序算法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。外部排序算法最常用的是多路归并，即将原文件分解成多个能够一次性装入内存的部分，分别把每一部分调入内存完成排序。然后，对已经排序的子文件进行归并排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a416-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de8ef37-703c-11ee-945f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。倒排文件是对次关键字建立索引。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。倒排文件是对每一个次关键字项建立次关键字索引（称为倒排表），将所有具有相同次关键字的记录的物理记录号都填入倒排表为此次关键字的表中。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a45c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de9188a-703c-11ee-9704-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。倒排序文件的优点是维护简单。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。倒排文件的优点是检索记录较快。特别是对某些询问，不用读取记录，就可得到解答。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a4a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de9188b-703c-11ee-b123-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哈希表与哈希文件的唯一区别是哈希文件引入了“桶”的概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。哈希文件是使用一个函数（算法）来完成一种将关键字映射到存储器地址的映射，根据用户给出的关键字，经函数计算得到目标地址，再进行目标的检索。哈希表是根据关键码值而直接进行访问的数据结构。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a4e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de9188c-703c-11ee-bb2d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。文件系统采用索引结构是为了节省存储空间。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。是为了缩短查找的时间，牺牲了一部分存储空间。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a52e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de9188d-703c-11ee-9f29-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对处理大量数据的外存介质而言，索引顺序存取方法是一种方便的文件组织方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。索引顺序存取方法插入操作比较麻烦，对于处理大量数据，会有大量的记录进入溢出区，而基本区中又浪费很多空间。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a57e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de9188e-703c-11ee-baec-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对磁带机而言，ISAM是一种方便的文件组织方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。ISAM是一种专为磁盘存取设计的文件组织方式。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de9188f-703c-11ee-86be-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。直接访问文件也能顺序访问，只是一般效率不高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。直接访问文件不能进行顺序访问，只能按关键字随机存取。在ISAM文件上检索记录时，先从主索引出发找到相应的柱面索引，再从柱面索引找到记录所在柱面的磁道索引，最后从磁道索引找到记录所在磁道的第一个记录的位置，由此出发在该磁道上进行顺序查找直至找到为止。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502a61e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0de91890-703c-11ee-afb7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。倒排文件的目的是为了多关键字查找。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。多关键字文件的特点是，在对文件进行检索操作时，不仅对主关键字进行简单询问，还经常需要对次关键字进行其他类型的询问检索。常见的多关键字文件为：多重表文件和倒排文件。"
+	}
+]

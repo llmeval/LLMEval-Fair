@@ -1,0 +1,3555 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ce7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ea376-6cde-11ee-b54f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "宋代，______把《______》《______》《______》《______》合为“四书”，作为儒家的基础读本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "朱熹；论语；孟子；大学；中庸\n南宋著名理学家朱熹将“四书、五经”合称“四书五经”。四书指的是《论语》《孟子》《大学》和《中庸》；而五经指的是《诗经》《尚书》《礼记》《周易》《春秋》，简称为“诗、书、礼、易、春秋”，在之前，还有一本《乐经》，合称“诗、书、礼、乐、易、春秋”，这六本书也被称作“六经”，其中的《乐经》后来亡佚了，就只剩下了五经。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1cfbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef186-6cde-11ee-949f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“孔庙四配”是孟子、颜子、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "孔伋；曾参\n四配是孔庙受奉祀的人物中，仅次于孔子，又称四公、四圣。他们的塑像分坐于孔子像的两侧。依次为：孔子像东为兖国公颜回（复圣）、沂国公孔伋（述圣），西为成国公曾参（宗圣）、邹国公孟轲（亚圣）。早在南宋度宗咸淳三年（1267年），南宗衢州孔庙开始以四配附祀。曲⾩孔庙则于元成宗大德十一年（1307年），才开始以四配附祀，并沿袭⾄今。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d020-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef187-6cde-11ee-973f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清人______编写的《经籍籑诂》，是按照______进行编排的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阮元；平⽔韵106韵\n《经籍籑诂》由清代阮元主编，这是一部专门收集唐代以前各种古书注解的字典，它在编排上用的是韵母排列法，按平⽔韵106韵编次被释的字，以一韵为一卷，全书106卷，每字之下，罗列唐以前各种古书注解对这个字的解释。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d066-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef188-6cde-11ee-bf15-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《康熙字典》按部⾸排列，共______部。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "214\n《康熙字典》是一部成书于清朝康熙年间的汉字辞书，由文华殿大学⼠兼户部尚书张⽟书及文渊阁大学⼠兼吏部尚书陈廷敬担任主编，是中国第一部以字典命名的汉字辞书。《康熙字典》以⼆百一十四个部⾸分类，并注有反切注音、出处及参考等，几乎把每一个字的不同音切和不同意义都列举进去，是古代汉语的学习者必备的工具书。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d0ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef189-6cde-11ee-8813-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于汉字的构造，传统有六书说，六书包括象形、______、会意、______、转注、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指事；形声；假借\n指事，属于“独体造字法”，它与象形的主要分别在于指事字重在用抽象符号进行提示，是在象形字的基础上加表意的标志；形声，属于“合体造字法”，由形旁和声旁两部分组成，形旁指字的意思或类属，声旁则表示字的相同或相近发音；假借是六书中的造字法之一，它通过假借已有的音同或音近的字来表示这个词的意义，这种跟借用的字的形义完全不合的字称为假借字。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d0fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef18a-6cde-11ee-9e4b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《说文解字》的作者是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "许慎\n许慎，字叔重，是东汉著名经学家、文字学家（有“字圣”之称）、语言学家，也是中国文字学的开拓者。他历经21年著成《说文解字》15卷，其中包括序⽬1卷。《说文解字》收文9353个，重文1163 个，均按540个部⾸排列，这是我国第一部说解文字原始形体结构及考究字源的文字学专著。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d138-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef18b-6cde-11ee-b2d4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国的第一部字典是______，这部字典把汉字分为______部，结构分析基本上是以______字体为依据。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《说文解字》；540；小篆\n我国的第一部系统完备的字典是《说文解字》，作者是东汉许慎。这部书是中国文字学的奠基之作，收字9353个，将其归入540部⾸，另有重文1163个。每个字都是先列小篆，然后进行解说，先释字义，后说形体结构。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d17e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef18c-6cde-11ee-8ac4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "隋陆法言编定《______》，宋陈彭年增⼴修订为《______》，其书206韵，按______四声分卷。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "切韵；⼴韵；平、上、去、入\n《切韵》系隋代陆法言著，共5卷，收1.15万字。分193韵：平声54韵，上声51韵，去声56韵，入声 32韵。唐代初年被定为官韵。增订本甚多。《切韵》原书已失传，其所反映的语音系统因《⼴韵》等增订本而得以完整地流传下来。《⼴韵》共分4卷，平声1卷，上、去、入声各1卷。分206韵，包括平声57韵（上平声28韵，下平声29韵）；上声55韵；去声60韵；入声34韵。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d1c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef18d-6cde-11ee-9f26-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《助字辨略》是一部______词典，作者是清人______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "古籍虚词；刘淇\n《助字辨略》是我国历史上第一部具有完整体例的虚词专著，是一本有较高⽔平的古籍虚词词典，由清代刘淇所著。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d20a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef18e-6cde-11ee-ab13-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "战国文字可分为两大系统，一是比较保持传统的______，一是变异较大的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "西方周秦文字；东方六国文字\n战国时代文字大体可以分为两大系统，一是比较保持传统的西方周秦文字，相当于《说文解字》中的籀文；一是变异较大的东方六国文字，相当于《说文解字》中的古文。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d246-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef18f-6cde-11ee-b965-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉语造字法有“象形、指事、会意、形声”。在“花褪残红青杏小。燕子飞时，绿⽔人家绕”中：（1）形声字有______。（2）象形字有______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（1）花、褪、残、红，青，杏，时，绿，绕；（2）燕，子，飞，⽔，人，小\n形声字有：“花”从⾋、化声；“褪”从⾐、退声；“残”从歺、戋声；“红”从⽷，工声；“青”从生、丹声；“杏”从木、向（可）省声；“绿”从⽷，录声；“绕”从系，尧声。象形字有：“燕”的古字形像一只燕子的形象，本义就是指这种鸟；“子”像生有发的胎⼉头颅及两胫；“飞”像舒颈展翅之状；“⽔”像⽔蜿蜒流动之形；“人”像人侧面垂臂直立的状态；“小”的甲⾻文像是三颗细碎的粒状物，后转变为会意字。“家”是会意字，甲⾻文字形上面是“⼧”，表示与室家有关，下面是“⾗”，即猪，其本义是屋内、住所。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d296-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef190-6cde-11ee-ab3f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用象征性符号或在象形字上加提示符号来表示字义的造字法是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指事\n指事属于“独体造字法”，是“六书”之一，就是用象征性符号或在象形字上加提示符号来表示字义。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d2e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef191-6cde-11ee-ad48-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现行汉字的结构单位有两级，其中由笔画组成的具有组配汉字功能的构字单位是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "部件\n现行汉字的结构单位有两级：一是笔画，⼆是部件。笔画是构成汉字字形的最小单位，部件是由笔画组成的具有组配汉字功能的构字单位。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d32c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef192-6cde-11ee-a915-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉字题按要求回答：（1）“洋”字的形旁是______。（2）“洋”字的形旁常与______有关。（3）与“洋”相同的还有______字。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "氵；⽔；河（江、清、洁等）\n洋的形旁是“氵”，声旁是⽺。“氵”同“⽔”，作形旁时常与⽔有关，类似的还有河、江、清、洁等字。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d372-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef193-6cde-11ee-a51f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "爽的部件组合方式是______。框架组合合体字部件的组合方式主要有五大类：左右组合、上下组合、包围组合、框架组合、品字组合。而“爽”字采用的是框架组合方式，并且是⼆层框架组合。6.書变书的简化方式是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "草书楷化\n草书笔画简单，多是一笔书，打破了楷书的形体和结构，但笔画不清晰。把群众比较熟悉的草书字的笔形改用楷书的写法，就可以达到减少笔画的要求。例如：长（⾧）、专（專）、书（書）、尧（堯）、为（爲）。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d3ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef194-6cde-11ee-8b28-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“兜”字的第五笔名称是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "横\n“兜”的笔顺为：撇、竖、横折、横、横、撇、竖提、横折、横、撇、竖弯钩。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d3f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef195-6cde-11ee-a72a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1899年，______⾸先发现了甲⾻文。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "王懿荣\n甲⾻文是中国已知的最早的成体系的文字，是汉字的早期形式。甲⾻文又称“契文”“甲⾻⼘辞”或“⻳ 甲兽⾻文”。殷代人习惯用⻳甲、兽⾻（主要是⽜肩胛⾻）占⼘。在占⼘后把占⼘日期、占⼘者的名字、所占⼘的事情用⼑刻在⼘兆的旁边。1899年，晚清国子监祭酒王懿荣因见药店所售“龙⾻”上的刻纹，发现了甲⾻文。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d43a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef196-6cde-11ee-a492-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据字符所联系的语言单位来看，现代汉字属于______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语素文字\n语素文字，是表示词或语素的文字。历史上发展成熟而又代表高度文化的语素文字有西亚的楔形文字、北⾮的圣书字和中国的汉字。一般来说，一个汉字代表一个语素，汉字是形音义的统一体。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d480-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef197-6cde-11ee-a887-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据来源分类，汉字属于______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自源文字\n不依傍其他文字而独立创造出来的文字叫自源文字，汉字就是一种自源文字。与自源文字相对的是借源文字，如日语，日语的假名借源于汉字的草书。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d4c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef198-6cde-11ee-b5d5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉字起源于______，和结绳没有直接关系。图画关于汉字的起源，有“结绳说”“⼋卦说”“仓颉造字说”等。文字都是人类用来记录语言的符号系统。汉字是世界上唯一使用到现在的自源文字，它在发展早期是图画式的表意文字，和结绳没有直接的关系。12.古代汉字有象形、指事、______和形声四种造字法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会意\n“六书”是指汉字的六种构造条例，是后人根据汉字的形成所作的归纳整理，东汉许慎在《说文解字叙》当中说：“象形者，画成其物，随体诘诎，日⽉是也；指事者，视而可识，察而见意，上下是也；会意者，比类合谊，以见指撝，武信是也；形声者，以事为名，取譬相成，江河是也。”其中象形、指事、会意、形声是造字法；转注和假借是用字法，也就是所谓的“四体⼆用”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d50c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef199-6cde-11ee-9379-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从构造方式看，“尘”字属于______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会意\n简体“尘”字从小，从⼟；繁体“塵”字从⿅，从⼟，都是会意字。并由繁体的“塵”可推知其本义是⿅群行走奔跑扬起尘⼟。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d55c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef19a-6cde-11ee-b29e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据六书理论，“苗”字的造字法为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会意\n“苗”字，从⽥，从⾋，是会意字，本义是⽥里生长的形状像草的东西。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d5ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef19b-6cde-11ee-a149-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据“六书”理论，“闯”字的造字法是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会意\n“闯”字从马，从门，是会意字，本义是猛冲，突然直入。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d5f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef19c-6cde-11ee-b1a6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "形声字的基本结构方式有六种，其中“济”是______，“闸”是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "左形右声；外形内声\n形声字的基本结构方式有六种：左形右声、右形左声、上形下声、下形上声、外形内声和内形外声，“济”字从⽔，齐声，属于左形右声；“闸”字从门，甲声，属于外形内声。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d638-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef19d-6cde-11ee-a8cb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据“六书”理论，“氧”字的造字法是______。形声"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "形声\n“氧”字从气，⽺声，属形声的构造方法。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d688-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef19e-6cde-11ee-8a2c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据“六书”理论，“吃”字的造字法是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "形声\n“吃”字，从又，乞声，属形声的构造方法。许慎《说文解字》解释为：“吃，言蹇难也。”本义是又吃，结巴。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d6ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef19f-6cde-11ee-b124-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "⽯⿎文是较早的一种文字，是______的一种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大篆\n⽯⿎文是中国最早的⽯刻文字，因其文字刻在十个⿎形的⽯头上而得名，刻于秦朝，发现于唐初。⽯⿎文具有遒劲凝重的风格，字体结构整齐，笔画匀圆，并有横竖行笔。处于古文与秦篆之间，一般称为“大篆”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d714-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef1a0-6cde-11ee-89c4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照汉字的造字法，“涉”字属于______，“徒”字属于______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会意；形声\n会意是指两个或两个以上的独体字，根据意义之间的关系合成一个字，综合表示这些构字成分合成的意义。用会意造出的字称作会意字。形声字是由两个文字复合成体，其中的一个文字表示事物的类别，另一个表示事物的读音。“渉”字，从⽔，从步，是会意字，本义是趟⽔过河；“徒”字，从⾡，⼟声，是形声字，本义是行走。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d75a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef1a1-6cde-11ee-8078-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照汉字的造字法，“刃”字属于______，“武”字属于______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指事；会意\n“刃”字，在表示⼑的刃又的地方加上一个点，是指事字，表示⼑最锋利的地方；“武”字，从⼽，从⽌，是会意字，“⽌”是“趾”的本字，⼽下有脚，表示人拿着武器走，有征伐或显示武力的意思。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d7a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef1a2-6cde-11ee-bc0f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据“六书”理论，“高”字的造字法是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "象形\n“高”字的甲⾻文形式为 ，是象形字。本义是离地面远，从下向上距离大。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d7e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef1a3-6cde-11ee-8fc9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据六书理论，“相”这个字的造字法是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会意\n“相”，从木，从⽬，是会意字。本义是用眼细细观赏树木外形。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d82c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef1a4-6cde-11ee-9046-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据六书理论，“臭”这个字的造字法是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会意\n“臭”，从⽝，从自（鼻），是会意字，本义是闻气味。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d87c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef1a5-6cde-11ee-93c7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉字分类的基准是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汉字的结构\n汉字的结构是指汉字的形体结构。根据汉字的形体结构，可将汉字分为两大类：独体字和合体字。用象形和指事造字法造的字，是独体字；用会意和形声造字法造的字，是合体字，即“独体为文，合体为字”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d8c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2ef1a6-6cde-11ee-a56f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉字六书中，象形、指事、会意、形声四种为造字法，转注、假借两种为用字法，这叫作______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "四体⼆用\n“六书”指的是象形、指事、形声、会意、转注、假借。“四体⼆用”是清代语言学家戴震分析“六书”时得出的结论，他认为汉字“六书”中，象形、指事、会意、形声为造字法。转注、假借为用字法，造字法和用字法合称为四体⼆用。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d908-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f1896-6cde-11ee-baa1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在汉字形体演变史中，______是古今文字的分⽔岭。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾪书\n由篆书到⾪书，这种变化过程称之为“⾪变”。⾪书之前的甲⾻文、金文、大篆、小篆都属于象形字系统，被称为古文字。而⾪书及以后产生的楷书、行书、草书，基本上是文字符号，被称为今文字，因此，⾪书是古今文字的分⽔岭。 "
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d94e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f1897-6cde-11ee-bd9d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“说不清楚”中的补语成分属于______补语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可能\n补语成分从语义类别上有七小类，包括结果补语、趋向补语、情态补语、可能补语、数量补语、时地补语、程度补语。“说不清楚”中的补语“不清楚”表示“说清楚”这一结果不可能实现，属于可能补语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d99e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f1898-6cde-11ee-a9ac-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“他⽪肤很好”属于______句式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主谓谓语句\n主谓谓语句是根据谓语的结构性质划分出来的句型之一，指由主谓短语作谓语的句子。此句话中“他”为大主语，“⽪肤很好”为主谓短语，作整个句子的谓语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1d9e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f1899-6cde-11ee-8aba-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“上课！”的句类是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "祈使句\n祈使句是要对方做或不做某事，带有祈使语气的句子，表示命令、请求、禁⽌或劝阻。“上课！”带有命令语气。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1da34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f189a-6cde-11ee-8df0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "句子可以根据不同的标准来分类，根据句子的语气分出的叫______，根据句子的结构特点分出的叫______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "句类；句型\n句子是语言运用的基本单位，它是由词、词组（短语）构成的能够表达完整意思的语言单位。根据句子的语气分出的类称为句类，即句子的语气类，一般包括陈述句、疑问句、祈使句和感叹句；根据句子的结构特点分出的类称为句型，如：主谓句、⾮主谓句、被动句、倒装句、兼语句、连动句等。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1da7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f189b-6cde-11ee-acee-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的______是我国第一部系统地研究现代汉语语法的专著。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "马建忠；《马⽒文通》\n马建忠的《马⽒文通》是中国关于汉语语法的第一部系统性著作，⾸次运用现代语言学理论研究中国语法，在我国语言学史上具有划时代的意义。这部语法著作写于1898年，是现代汉语语法的开创之作。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1dac0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f189c-6cde-11ee-a231-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "语法不是说明具体的词、短语和句子的含义，而是说明存在于具体的词、短语和句子中的______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "组合关系；聚合关系\n组合关系和聚合关系是语言结构的两种基本关系，语法规则就体现在这两种基本的结构关系中。组合关系也称句段关系，是语法单位一个接着一个组合起来排列在言语链条上，构成语法单位在现场的组合；聚合规则实际上就是语法单位的归类规则，语法上能够出现在相同句法位置上的词形成一个聚合。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1db06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f189d-6cde-11ee-ab1b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "建国后，汉语语法学进入了普及和提高的历史时期，先后出现了大量的语法著作，其中影响较大的有《汉语语法常识》《语法修辞讲话》《文法简论》等，它们的作者分别是______、吕叔湘和朱德熙、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "张志公；陈望道\n在语法修辞方面，张志公著有《汉语语法常识》；陈望道著有《文法简论》《修辞学发凡》《美学概论》等著作。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1db4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f189e-6cde-11ee-a6fa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "语法是语言中______、______、句子等语句单位的组织规律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词；短语\n语法单位可以分为四级：语素、词、短语、句子。最常用的语法单位是词、短语和句子这三种语法单位。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1db92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f189f-6cde-11ee-a203-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉语语法学由《马⽒文通》的“词本位”体系，演变到《新著国语文法》的“______”体系，再发展到当前的“______”为主的体系，正是向汉语特点回归的体现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "句本位；字本位\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1dbd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a0-6cde-11ee-9463-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“小张一直都没有把学习放在⼼上”这句话中，包含了______个状语，______个介词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "4；2\n在“小张一直都没有把学习放在⼼上”这句话中，包含“一直”“都”“没有”“在⼼上”四个状语，包含“把”“在”两个介词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1dc28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a1-6cde-11ee-9d2c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "虚词一般不单独充当句子成分，主要用来表示______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语法意义\n按照语法功能的区别，可以分为实词和虚词两大类，其中虚词是不能单独充当句法成分的词，主要用来表示语法意义，只有粘附在各种实词前后才能发挥作用。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1dc6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a2-6cde-11ee-9c0b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词类角度来看，“碱性”是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "区别词\n区别词表示人和事物的属性或区域性特征，有区分事物的分类作用，它和形容词的区别在于区别词只能充当定语，不能充当谓语，也不能用“不”“很”来修饰；而形容词除了能充当定语，还可以充当谓语，一部分补语和状语，能前加副词“不”“很”。“碱性”是区别词而不是形容词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1dcb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a3-6cde-11ee-a5be-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在“我没有和他打过⽻⽑球”这句话中，“过”的词性是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "助词\n助词是附着在其他词汇、词组或是句子上，作为辅助之用的词。通常用于句子前、中、后，表示各种语气；或是用于语句中间，表示结构上的关系。“过”属于助词，表示曾经发生某事或经历某事。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1dd0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a4-6cde-11ee-827a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“男护⼠”中的“男”，其词性是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "区别词\n区别词是表示事物的特征和分类、只能修饰名词作定语、不能作谓语的词。“男”在这里修饰“护⼠” 这一名词，但是不能充当谓语，属于区别词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1dd54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a5-6cde-11ee-a3c9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指示代词“______”是近指，“______”是远指。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "这；那\n指示代词用来指代人和事物。“这”“那”有指示和代替的作用，前者近指，后者远指。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1dd9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a6-6cde-11ee-a20a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“在……上”，“在……下”中间插入的应该是名词或名词性短语，一般不能是______或______，如“在不打死人上”“在不减少人数下”等不合格。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "动词；动词性短语\n“在……上”，“在……下”是典型的介词结构。介词一般和名词或名词性短语搭配组合成介宾结构，而动词或动词性结构不能充当宾语，不能与介词组成介宾结构。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ddea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a7-6cde-11ee-9273-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "兼类词是词的形体相同，读音相同，词汇意义______，但______不同的词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "相关；词性\n某个词具备两类或两类以上词的主要语法功能，即在甲场合里有甲类词的功能，在⼄场合里有⼄类词的功能，则它属于兼类词。兼类词一定要声音相同，词义有联系，但是拥有不同的词性。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1de3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a8-6cde-11ee-9826-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“的”字短语的功能相当于______，经常充当______和宾语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "名词性短语；主语\n“的”字短语相当于名词性短语，如“大的要照顾小的”，“大的”“小的”做主语和宾语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1de8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18a9-6cde-11ee-9d68-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "介词主要用在______或______前面，共同组成介词短语，作______、______的附加成分，表示时间、处所、方式、原因、⽬的、条件、对象等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "实词；短语；动作；性状\n介词起标记作用或介引作用，依附在实词或短语的前面共同构成“介词短语”，整体主要修饰或补充谓词性词语，表明跟动作、性状有关的时间、处所等。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1deda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18aa-6cde-11ee-9358-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "疑问代词的主要用途是表示______或______，在一定语言环境中还可以表示______、______和不定指。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有疑而问；⽆疑而问；任指；虚指\n有疑而问指询问，⽆疑而问指反问或设问。疑问代词有任指和虚指两种引申用法，任指表示任何人或事物，表示周遍性，说明在所说的范围内没有例外；而虚指指代不能确定或不愿指明的某人或某物；不定指是指疑问代词代替不确定的人或事物。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1df2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18ab-6cde-11ee-bf84-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“都、只”都表示范围，但“都”是强调______的成分，而“只”是强调______的成分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前面；后面\n举例句分析：“全班同学都来了”句子中强调的焦点对象在“都”的前面的名词短语——全班同学；“只有小明没有来”强调的焦点对象“小明”在“只”的后面。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1df7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18ac-6cde-11ee-8685-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词性上看，“原来”是______，“起码”是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "形容词或副词；副词\n从词性而言，“原来”是形容词或副词，“起码”是副词。例如：“这是我原来的家”，“原来”作形容词，再如“你原来喜欢吃面包”，原来作副词；“起码他还对了一道题”，“起码”是副词作状语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1dfca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18ad-6cde-11ee-b22d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“每、各、某、另”等是指示代词。“某”是______，“每”“各”是分指，“另”是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不定指；旁指\n不定指是指不确定的事物，“某”就是不定指；旁指是指所说范围之外的事物，因而“另”属于旁指。“某、另”两个词都是指不确定的人或事物。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e01a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18ae-6cde-11ee-9c7d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“不、没有、莫、别”都是表示否定的副词，但用法或意义也不相同。例如“不去”是“______”的否定，是说话人就自己的意愿说的。“没有去”是“______”的否定，是说这种行为还没有成为事实。“莫去、别去”是禁⽌或劝阻别人去的意思，“______”有书面⾊彩，“______”有又语⾊彩。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "意愿；行为；莫去；别去\n“不去”是从说话人的主观意愿说的；“没有去”是说某人“去”这个行为还没有完成。“莫”比“别”更有书面语体⾊彩。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e06a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18af-6cde-11ee-960e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "同一个副词，有的能表示多种意思。试以“就”为例：“春天很快就到了”，表示______；“他十五岁就去了延安”，表示______；“学了就用”，表示两事承接；“你不让去，我就去”，“就”是“______”的意思；“我就有一个名字”，这个“就”等于“______”，表示范围。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事情短期内即将发生；事情早已发生；偏；只\n“春天很快就到了”，意思是“春天马上就到了”；“他十五岁就去了延安”，意思是“他小小年纪就去了延安”；“你不让去，我就去”带有一种故意的语气；“我就有一个名字”表示范围，相当于“我只有一个名字”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e0e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b0-6cde-11ee-b134-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "区别词是表示______的词，有的书叫______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人或事物的属性或区别性特征；⾮谓形容词\n区别词又称⾮谓形容词，是表示人或事物的属性或区别性特征的词，只能修饰名词作定语，不能作谓语，有区别事物的分类作用。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e132-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b1-6cde-11ee-adbd-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "重叠的量词短语作主语，表示______的意思。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "每一\n量词是用来表示人、事物或动作的数量单位的词，量词重叠可表示遍指和逐指，当重叠量词作主语时，表示“每一”的意思，如：个个都想走，表示每个人都想走。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e182-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b2-6cde-11ee-a247-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“母亲的回忆”是由______造成的歧义短语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语义关系不同\n“母亲的回忆”既可以理解为“母亲自己的回忆”，也可以理解为“关于母亲的回忆”，是由语义关系不同造成的歧义短语，可以通过添加成分来消解歧义。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e1f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b3-6cde-11ee-9b60-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由具有______的一个词或内部词语互作句子成分的一个______构成的句子叫单句。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语调；短语\n单句是由短语或词充当的、有特定的语调、能独立表达一个相对完整的意思的语言单位。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e240-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b4-6cde-11ee-a9e1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "短语的种种结构关系主要通过______和______这两种语法⼿段表示出来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语序；虚词\n语序是词语排列的前后顺序，直接组合的靠语序，语序不同，语法意义往往不一样，如意义重大/重大意义；⾮直接组合的靠虚词，如猎人的狗/猎人和狗。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e2a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b5-6cde-11ee-9462-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从构成要素上说，短语可以分为两大类：一类是______的组合，一类是______的组合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "固定；⾮固定\n短语又称词组，是由语法、语义、语用三个层面上能够搭配的词组合起来的没有句调的语言单位，大于词却不能独立成句。按照短语构成要素是否凝固来分类，可分为固定短语和⾮固定短语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e2ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b6-6cde-11ee-8902-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "独立语有______、称呼语、感叹语、______四种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "插入语；拟声词\n独立语是指在句中不与其他成分发生结构关系或连接关系，位置灵活，具有相对独立性的特殊成分，可以是实词或短语。从表意作用看，独立语可以分为：①插入语，可使句子表意严密化，补⾜句意，包括说话者对话语的态度，或引起听话者的注意；②称呼语，用来呼唤对方，引起注意；③ 感叹语，用叹词表达感情的呼声；④拟声词，模拟事物的声音，给人以真实感，以加强表达效果。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e330-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b7-6cde-11ee-b8a8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "副词在句子中的语法特点是经常充当______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "状语\n副词一般做状语，除“很”“极”还可作补语外，副词一般不能作其他成分。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e36c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b8-6cde-11ee-a38d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一般句子的信息分布是旧信息在前、新信息在后，新信息中的焦点出现在______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "句末\n句子的焦点分为三种：①句末焦点。一般句子的信息焦点分布是：旧信息在前，新信息在后，新信息中的焦点出现在最后边，也就是句末。②对比焦点。从语句的对比中显示焦点。③特指焦点。同副词“是”“就”或重读指示焦点。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e3b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18b9-6cde-11ee-9290-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "补语在句中除补充说明其前的中⼼语外，还可以说明其他成分，如在“⾐服洗干净了”中，补语即说明______，在“他们喝干了一瓶酒”中，补语即说明______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主语的性状；宾语的性状\n“⾐服洗干净了”中，补语“干净”即说明主语“⾐服”的状态；在“他们喝干了一瓶酒”中，补语“干”即说明宾语“酒”的状态。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e3f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18ba-6cde-11ee-b9bf-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主语、宾语同施事、受事并不一致，从施受角度看，“饭我不吃了”中的主语是______，“我不吃饭了”中的主语是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "饭；我\n“饭我不吃了”中的主语是受事主语，在语义上是“吃”的对象；“我不吃饭了”中的主语“我”是施事主语，是“吃”这个动作的发出者。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e434-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18bb-6cde-11ee-b8cf-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "状语是______前面的______成分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "谓语；修饰\n状语是句子的重要修饰成分，是谓语里的另一个附加成分，它附加在谓语中⼼语的前面，从情况、时间、处所、方式、条件、对象、肯定、否定、范围和程度等方面对谓语中⼼进行修饰或限制。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e47a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18bc-6cde-11ee-af89-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "定语是______的______成分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "名词或代词；修饰\n定语是用来修饰、限定、说明名词或代词的品质与特征的，是对名词或代词起修饰、限定作用的成分，能够充当定语的有：形容词、代词、名词、分词、介词短语或副词和从句。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e4c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18bd-6cde-11ee-8046-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "被修饰、限制、补充的成分叫______，起修饰、限制、补充作用的成分叫______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中⼼语；修饰语\n中⼼语是偏正短语中被修饰语所修饰、限制的中⼼成分。中⼼语是偏正短语的结构和语义的核⼼，其语法功能与整个偏正短语的语法功能基本一致；修饰语是起修饰、限制、补充作用的成分。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e506-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18be-6cde-11ee-b729-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "补语是______后面的______成分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "述语；补充\n补语是述补结构中补充说明述语的结果、程度、趋向、可能、状态、数量等的成分。补语与述语之间是补充说明关系，回答“怎么样”的问题。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e574-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18bf-6cde-11ee-8708-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "名词作谓语限于说明日期、节气、职业、天气等，形式______，且多是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单一；又语\n现代汉语中，名词只有在以下四种条件限制下才能充当谓语：①只能是肯定句，不能是否定句；② 只能是短句，不能是长句；③只能是又语句式，不能是书面语句式；④限于说明时间、天气、籍贯、年龄、容貌等的又语短句。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e5a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c0-6cde-11ee-94eb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "补语的意义类型主要有结果补语、______、时间处所补语、数量补语、趋向补语、______等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "情态补语；可能补语\n补语是述补结构中补充说明述语的结果、趋向、可能、情态、数量等的成分，对应的语义类型主要有：结果补语、趋向补语、可能补语、数量补语、情态补语、时间处所补语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c1-6cde-11ee-95cc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "经常用作谓语的动词、形容词前后往往有其他成分，单独作谓语是有限制的，通常是用在______或______中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "疑问句；又语\n动词单独作谓语是说谓语由光杆动词充任，句子中不含有宾语、补语、状语等。如：①我走！②孩子哭，大人嚷。③您知道？一般出现在疑问句或又语中。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c2-6cde-11ee-ba11-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从主语和______的意义关系上看，主语有______、______、______三种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "谓语；施事主语；受事主语；中性主语\n主语按施受关系可以分为以下三类：①施事主语。主语是施事者，表示谓语中的动作、行为，由主语施行。如：“张三切萝⼘。”“张三”就是施事主语。②受事主语。主语是受事者，受谓语中的动作、行为影响。如：“酒可以不喝，烟却不可以不抽。”“烟”和“酒”就是受事主语。③中性主语。主语在句子中既不是施事，也不是受事，而是被描写、说明、判断的对象，如：“北京是中国的⼼脏。”"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e628-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c3-6cde-11ee-b893-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "层次分析法又叫______或______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "直接成分分析法；⼆分法\n直接成分分析法指从句法结构的外部形式，特别是隐形形式入⼿，对句子的直接组成成分进行分析的方法。由于句子的直接成分和句子的层次性一致，所以也叫层次分析法。由于通常的直接成分分析法是对句子结构的各个部分不断地一分为⼆，所以又叫作⼆分法。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e65a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c4-6cde-11ee-9a19-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中⼼词分析法又叫______或______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "成分分析法；句子成分分析法\n中⼼词分析法是传统语法学使用的句子分析方法，认为一个句子成分由一个实词充当，短语不可以整体充当句子成分，其基本原则是用六种句子成分来分析句子结构，认为词与句子成分之间存在对应关系；主语和谓语是主要成分，宾语和补语是次要成分，定语和状语是附加成分。因最早从句子里分析出主语、谓语（述语）、宾语等句子成分而得名，因此又称“句子成分分析法”“成分分析法”。遇到有中⼼的短语要分解出中⼼词和⾮中⼼词，把某些中⼼词或主体词定为基本成分（主语、谓语），把⾮中⼼词定为附加成分（定语、状语）或连带成分（宾语、补语），它的影响很大，⾄今仍有人用它。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e682-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c5-6cde-11ee-a69a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“中国人民志气高”一句话的谓语是______；“屋外空气很好”一句话的主语是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高；屋外空气\n主语是执行句子的行为或动作的主体，谓语是对主语动作或状态的陈述或说明，指出“做什么”“是什么”或“怎么样”。“中国人民志气高”一句话的主语是“中国人民志气”，谓语是“高”。“屋外空气很好”一句话的主语是“屋外空气”，谓语是“很好”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e6b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c6-6cde-11ee-8472-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "句子从语气角度，可分为______、______、______、______四种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "陈述句；疑问句；祈使句；感叹句\n句子可以从不同的角度进行分析。按照句子的语气，可以分成陈述句、疑问句、祈使句、感叹句，一般称之为句类。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e6dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c7-6cde-11ee-902d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据______，疑问句可以分成四种：______、______、______、正反问。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "提问的⼿段和语义情况；是⾮问；特指问；选择问\n疑问句是提出问题、具有疑问语气的句子。疑问句句末用问号。根据提问的⼿段和语义情况，疑问句可以分成四种：是⾮问、特指问、选择问、正反问。提问的⼿段，有语调、疑问代词、语气副词、语气词和疑问格式。其中句调是不可或缺的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e70e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c8-6cde-11ee-a97a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "句⾸有表示______的词语，全句表示什么地方存在、出现或消失了什么事物的句子叫______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "方位和处所；存现句\n存现句表示什么地方存在、出现或消失了什么人或物，是用来描写环境或景物的一种特定句式，它可细分为存在句、出现句和消失句三种，其句⾸为表示方位和处所的词语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e736-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18c9-6cde-11ee-b759-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由______以外的短语构成的句子叫⾮主谓句。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主谓短语\n单句中不能分析出主语和谓语的句子称⾮主谓句。⾮主谓句有名词性的和⾮名词性的，它由主谓短语以外的短语或单词加句调形成。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e768-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f18ca-6cde-11ee-96a6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "特指问就是用______代替未知部分的问句，说话者希望对方就未知部分作答复，句子要用______调。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "疑问代词；升\n特指问是用疑问代词（如“谁、什么、怎样”等）和由它组成的短语（如“为什么、什么事、做什么” 等）来表明疑问点，说话者希望对方就疑问点作出答复，句子往往用升调。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e790-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f5d-6cde-11ee-8ded-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "选择问是提出两种（或几种）看法，希望对方选择一种来答复，这种选择问常有______个分句，常用“是”或______相呼应、相连接。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "两；“还是”\n选择问是用复句的结构提出不⽌一种看法供对方选择，用“是、还是”连接两个分句，常用语气词“呢、啊”，不能用“吗”。选择问中间一般不能用问号，用了就变成了疑问句群。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e7c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f5e-6cde-11ee-a97c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "单句除从谓语特点角度来分类，还可以从其他角度分成______和完全句，______和常式句等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "省略句；变式句\n根据是否具备主要成分可将单句划分为省略句和完全句，具备主要成分的句子称为完全句，反之则谓省略句。变式句是指句子成分打破一般次序，排列次序较特殊的句子。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e7ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f5f-6cde-11ee-910d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "省略句因上下文而省的一般有两种情况，一是______，⼆是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "承前省；蒙后省\n在一定的语境里，为了语言的经济原则，说话时往往会省去句中某个句法成分，即省去已知信息。如果离开了这样的语境，意思就不清楚，必须添补一定的词语才行，这就是省略。主要包括对话省和因上下文而省，其中因上下文而省又包括承前省和蒙后省。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e81c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f60-6cde-11ee-b94d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主语是______，而用“被”引进施事，或将“被”直接附于动词前以表示______的句子，叫“被”字句。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "受事主语；被处置\n“被”字句是指在谓语中⼼词前面，用介词“被（给、叫、让）”引出施事或单用“被”表示被动的主谓句。它是受事主语句的一种。“被”字句表示受事主语“被处置”，被处置的结果多数带有遭受、不如意的语用⾊彩，少数是如意的和中性的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e84e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f61-6cde-11ee-be18-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "省略常出现在______或______中。离开这些语境，意思就不清楚，必须补一定的词语才清楚。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对话；上下文\n省略主要包括对话省和因上下文而省。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e880-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f62-6cde-11ee-9761-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从语义关系看，有的兼语句的头一个谓词用“使、请、阻⽌、号召”等动词，表示______、阻⽌等意义，后一个谓词表示前一个动作行为的______或预期的结果。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "命令；⽬的\n由兼语短语充当谓语或独立成句的句子称兼语句。包括使令式、爱恨式、选定式、“有”字式，其中，使令式兼语句的前一动词有使令意义，表示命令和阻⽌等意义，能引起一定的结果，常见的动词有“请、使、叫、让、派、催”等，如：微笑使你年轻，使你精神愉快。后一个谓词表示前一个动作行为的⽬的或预期的结果。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e8bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f63-6cde-11ee-8e2f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主谓句是由______形成的单句，______是由主谓短语以外的其他短语或一个词形成的单句。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主语和谓语；⾮主谓句\n由主语、谓语两个成分构成的单句称主谓句。分不出主语和谓语的单句称⾮主谓句，它由主谓短语以外的短语或单词加句调形成。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e902-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f64-6cde-11ee-90f8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主谓谓语句是由______充当______的句子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主谓短语；谓语\n主谓短语充当谓语的句子称主谓谓语句。分三种情况：①大主语是受事，小主语是施事，全句的语义关系是：受事@@施事——动作；②大主语是施事，小主语是受事，全句的语义关系是：施事@@受事——动作；③大主语和小主语既⾮受事也⾮施事。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e93e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f65-6cde-11ee-ba1d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我们把句子成分居经常的、一般的位置的句子叫______，把句子成分居⾮常的、特殊的位置的句子叫______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "常式句；变式句\n从一般汉语的句式看，通常的语序是主——谓，动——宾，装饰语——中⼼语，偏句——正句，这些统称为常式句。而句子成分居于⾮常的、特殊的位置的句子是变式句。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e984-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f66-6cde-11ee-b2d8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "反诘疑问句简称为______，是______的一种，它有疑问句的四种格式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反问句；⽆疑而问\n⽆疑而问且不要求回答的问句为反诘问句，又称反问句，反问句的反问又气相当于否定又气。在反问句中，肯定格式加否定又气就变成否定，否定格式加否定又气就变成肯定的意思。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1e9ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f67-6cde-11ee-afe1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "猜度疑问句是带语气词______表示______的疑问句。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“吗”和“吧”；猜测\n猜度疑问句是说话人对事情已有初步看法，但还不能十分确定时使用的疑问句。其特点是常用“吗” 和“吧”，有时还用猜度词语，表示一种猜测。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ea10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f68-6cde-11ee-8658-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正反问常用语气词“______”，可以说是选择问的一种，它的特点是不采取______的形式，而常在谓语中用肯定和否定并列的形式来提问。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "呢和啊；复句\n用疑问语气的句子是疑问句。根据结构的特点，疑问句可以分为是⾮问、特指问、选择问和正反问。正反问不采取复句的形式，由谓语中的肯定形式和否定形式并列的格式构成。常带语气词“呢、啊”等。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ea56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f69-6cde-11ee-a5c6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有的及物动词所表示的动作既涉及人，又涉及______，因而它后头可以带双宾语。两个宾语之间没有______关系，这种句型叫双宾语句。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物；语义\n双宾语句是指包括指人和指事物双层宾语的句子，两个宾语之间没有语义关系，意义上前一个一般指人，可称间接宾语，或称近宾语，后一个宾语一般指物或事情，可称直接宾语或远宾语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1eaa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f6a-6cde-11ee-8d29-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "句子的类型（句型），是就句子整体的______来说的。具体的句子是数不尽的，但句子的类型却是______的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "结构；有限\n句子根据内部结构可分为单句和复句。单句是由短语或词充当的、有特定的语调、能独立表达一定的意思的语言单位，单句可以根据不同的标准来分出句型和句类。句型是根据结构分出来的类，是有限的。句类是根据全句语气分出来的类。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1eaec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f6b-6cde-11ee-ac76-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "常见的变式句有______倒置的，有______倒置的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主谓；定语和状语\n变式句可分为省略句和倒装句，其中常见的倒装句包括主谓倒装和定语、状语后置。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1eb32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f6c-6cde-11ee-8fe6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有成分倒置的变式句叫______，有成分省略的句子叫______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "倒装句；省略句\n共时语法的某一句型总有一定句法成分，各成分的排列都有固定的位置。在交际中出于修辞或语用上的需要，故意减省了句法成分或调换成分的位置。这些变化了的句型称变式句，变化前的句子称原句。变式句可分为省略句和倒装句。省略句是指有成分省略的句子，倒装句是指有成分倒置的变式句。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1eb82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f6d-6cde-11ee-9c06-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由兼语短语充当谓语的句子叫兼语句。所谓兼语短语是有“______兼______”这种成分的一种短语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "宾语；主语\n兼语短语是由前一动语的宾语兼做后一谓语的主语，即动宾短语的宾语和主谓短语的主语套叠，形成一个有宾语兼主语双重身份的“兼语”。如：请她进来。由兼语短语充当谓语或独立成句的句子称兼语句。如：⽼师请她进来。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ebbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f6e-6cde-11ee-a417-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词的形态分为构形形态和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "构词形态\n词的形态可分两种：其一指构形形态，例如重叠，“研究”重叠为“研究研究”，“⽼实”重叠为“⽼⽼实实”，这是动词和形容词在形式和语法意义两方面都不同的形态变化；其⼆指构词形态，例如加词缀，“凿”这个语素，可单独成为动词，加词缀“子”就构成另一个意义不同的词“凿子”（名词），这个后缀“子”就是构成名词的构词形态。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ec04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f6f-6cde-11ee-95bc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是语言中最小的能够独立运用的有音有义的语言单位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词\n词由语素构成。“最小的”是说词是不能扩展的，即在词的中间一般不能再插入别的成分。如“骑兵”。“独立运用”是指能够“单说”（单独成句）或“单用”（单独作句法成分或单独起语法作用，但不能单独成句）。例如：“他、来、送、信”都能够单说，也可单独做句法成分，如主语、宾语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ec54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f70-6cde-11ee-8c03-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词类角度来看，“刚才”和“刚刚”分别是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "名词和副词\n“刚才”是时间名词，在句中可以作时间状语，放在主语后或主语前，还可以作主语、定语，比如：刚才比现在凉快点⼉；他把刚才的事忘了；“刚刚”是副词，只能放在动词前作状语，比如他刚刚出门。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1eca4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f71-6cde-11ee-b516-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普通话声母d、t、n、l的共同之处在于它们都是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "舌尖中音\n汉语普通话中，辅音声母的不同是由发音部位和发音方法不同决定的。普通话声母d、t、n、l的发音部位相同，都是由舌尖抵住上齿龈阻碍气流而形成的，都是舌尖中音。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ecf4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f72-6cde-11ee-8a6c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普通话韵母i和ü都是前元音、最高元音，它们的区别是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "唇形的圆展/i是不圆唇元音，ü是圆唇元音。\n舌面元音可以从舌位的高低、舌位的前后、唇形的圆展三个方面观察其发音状况。普通话韵母i和ü 都是前元音、最高元音。但发i时，唇形呈扁平状，是不圆唇元音；发ü时，唇形拢圆，是圆唇元音。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ed4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f73-6cde-11ee-b6f4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“冷”和“热”属于______反义词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "相对\n反义词分为绝对反义词和相对反义词。绝对反义词的两个项之间是⾮此即彼的关系，中间不能加入其他项，也不可在程度上切分，如真和假、男和女；相对反义词是两个项之间可以加入其他项或可在程度上切分。如冷和热、黑和白。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ed9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f74-6cde-11ee-b797-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“快走”中“快”的词性是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "副词\n“走”是动词，“快”修饰动词，为副词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1edee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f75-6cde-11ee-824e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“你可以去学习一下”这句话中共有______个动词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "3\n这句话中有能愿动词“可以”，趋向动词“去”，和动作动词“学习”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ee3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f76-6cde-11ee-a987-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我们说______是最小的有意义的语言单位，不属于独立运用的语言单位，⽬的是把它跟词区别开来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语素\n语素是最小的语法单位，即最小的音义结合体，语素不是独立运用的语言单位，它的主要功能是作为构成词语的材料，按照音节的多少，可以分为单音节语素和多音节语素，按照语素的功能可以分为成词语素和不成词语素，语素和词的区别在于是否能够独立运用。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ee8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f77-6cde-11ee-bd77-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据语素的组合能力，可以将语素分为______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "成词语素；不成词语素\n语素是语言中最小的音义结合体，它是第一级词汇单位，小于词，更小于短语。语素可以根据不同的标准进行分类：根据音节的多少可以分成单音节语素和多音节语素；根据语素的组合能力，可将语素分为成词语素和不成词语素两类，能直接成词的语素是成词语素，又叫自由语素，不能直接成词的语素是不成词语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1eee8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f78-6cde-11ee-a20e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“驼绒”包含______个语素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2\n确定语素的方法主要是替代法。用已知语素替代有待确定是不是语素的语言单位，也就是对某个语言片段（一般是双音节）的各个成分进行同类替换。“驼绒”中的“驼”可以替换为“鸭绒”“⽺绒”；“驼绒”中的“绒”可以替换为“驼峰”“驼背”，所以驼绒是两个语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ef38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f79-6cde-11ee-8107-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对词的理性意义的分项说明被称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "义项\n义项是词的理性意义的分项说明，一个词往往有几个意义，每一个意义就是一个义项，在词典中表现为一个条⽬。几个义项之间的地位是不平等的，最常用的是基本义，其他义项一般是由这个义项间接转化来的，叫作转义。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ef88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f7a-6cde-11ee-911d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“理发师给姥姥设计了摩登的发型。”这句话中有______个语素和______个词；“那个开摩托的苗条姑娘”可切分出______个语素和______个词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "12；8；7；7\n语素是语言中最小的音义结合体，它是第一级词汇单位。词由语素构成，是能独立运用的最小的语言单位，“理发师给姥姥设计了摩登的发型。”这句话中包括理、发、师、给、姥姥、设、计、了、摩登、的、发、型，共12个语素，理发师、给、姥姥、设计、了、摩登、的、发型，共8个词；“那个开摩托的苗条姑娘”包括那、个、开、摩托、的、苗条、姑娘，共7个语素，7个词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1efd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f7b-6cde-11ee-9511-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在“我从来就没有跟他说过这件事”这句话中，可以切分出______个词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "11\n词由语素构成，是能够独立运用的最小的语言单位，“我从来就没有跟他说过这件事”这句话中包括“我”“从来”“就”“没”“有”“跟”“他”“说过”“这”“件”“事”共11个词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f032-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f7c-6cde-11ee-9f1c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“骆驼”包含______个语素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1\n确定语素的方法主要是替代法。用已知语素替代有待确定是不是语素的语言单位，也就是对某个语言片段（一般是双音节）的各个成分进行同类替换。“骆驼”中的“骆”可以替换为“长颈驼”“单峰驼”；但“驼”却⽆法替换，所以“骆驼”是一个语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f082-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f7d-6cde-11ee-857a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "能独立运用的最小的音义结合体是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词\n词是由语素构成，比语素高一级的语言单位。词是最小的能够独立运用的语言单位。短语是由词逐层组成的语言单位，和词一样也表示一定的意义，也是造句成分，可以单用，多数能单说。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f0d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f7e-6cde-11ee-b2f5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“梦想成真的日子”这个组合体中包含语素______个。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "7\n语素是最小的语法单位，即最小的音义结合体。“梦想成真的日子”包含“梦”“想”“成”“真”“的”“日”“子”共七个语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f122-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f7f-6cde-11ee-b141-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "语素主要包括______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单音节语素；双音节语素和多音节语素（成词语素和不成词语素）\n语素按照音节的多少可以分为单音节语素、双音节和多音节语素，按照构词功能可以分为成词语素和不成词语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f168-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f80-6cde-11ee-960c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词汇是语言的建筑材料，由______组成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词和固定短语\n词汇又称语汇，是一种语言里所有的（或特定范围的）词和固定短语的总和。词汇是众多词语的汇集，即词的集合体。词汇和词的关系是集体和个体的关系。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f1c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f81-6cde-11ee-b691-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“⽼师买了一台电视机”这句话中，可以切分出______个不成词语素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "4\n能直接成词的语素是成词语素，不能直接成词的语素是不成词语素。“⽼师买了一台电视机”这句话中，包含“⽼”“师”“视”“机”四个不成词语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f212-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f82-6cde-11ee-a275-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古语词包括文言词和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "历史词\n古语词来源于古代汉语，又包括文言词和历史词，其中文言词所表示的事物或观念还存在于现实生活中，只不过一般已用现代词语来指称。例如“孳乳（繁殖）、苗裔（后代）”等。历史词是表示历史上的事物、现象或观念的古语词。一般包括古器物的名称、古典章制度名称、古职官名称、古人名、古地名等。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f262-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f83-6cde-11ee-9885-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最小的语法单位是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语素\n语素是最小的语法单位，即最小的音义结合体，语素不是独立运用的语言单位，它的主要功能是作为构成词语的材料。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f2bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f84-6cde-11ee-a539-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“人民是英雄”这句话中，包含有______个成词语素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2\n语素是语言中最小的音义结合体。语素按照构词功能可以分为成词语素和不成词语素。成词语素是指能够独立成词的语素。在“人民是英雄”这句话中“人”和“是”可以独立成词，因此是成词语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f30c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f85-6cde-11ee-ad47-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“好莱坞的电影很好看”这句话中包含______个语素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "7\n“好莱坞的电影很好看”这句话中包含七个语素，其中“好莱坞”是外来音译词，有三个音节，但是合起来才有意义，因此是一个语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f35c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f86-6cde-11ee-9950-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“我没有去过巴黎”这句话中包含______个语素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "6\n语素是语言中最小的音义结合体，语素不是独立运用的语言单位，它的主要功能是作为构成词语的材料，“我没有去过巴黎”这句话中包含六个语素，其中“巴黎”是外来音译词，有两个音节，但是合起来才有意义，因此是一个语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f3ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f87-6cde-11ee-9644-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“吐鲁番的葡萄很甜”这句话中包含______个语素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "5\n“吐鲁番的葡萄很甜”这句话中包含五个语素，其中“吐鲁番”包括三个音节，但是合起来才有意义，因此是一个语素，“葡萄”包括两个音节，但合起来才有意义，因此是一个语素，因此共包括“吐鲁番”“的”“葡萄”“很”“甜”五个语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f3f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f88-6cde-11ee-9c67-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由一个语素构成的词叫单纯词。由两个或两个以上的语素构成的词叫______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "合成词\n现代汉语词语按语法结构可分为单纯词和合成词。单纯词是由一个语素构成的词。合成词是由两个或两个以上的语素按照一定的结构方式和语义关系组合而成的词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f89-6cde-11ee-b08a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词的内部构造来看，“丝毫”属于______式合成词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "联合\n合成词有复合式、附加式、重叠式三种构词方式。复合式合成词包括联合、偏正、补充、动宾、主谓、重叠等形式。联合式合成词由两个意义相同、相近、相关或相反的词根并列组合而成。“丝毫” 中“丝”和“毫”两个词根的意义相近，可以互相说明，属于联合式合成词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f492-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f8a-6cde-11ee-a59a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在现代汉语中，“坦克车”是外来词，所采取的翻译方式是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "音译加汉语语素\n现代汉语对外来词采用的翻译方式主要有以下几种：音译、音意兼译、借形、音译加汉语语素。音译加汉语语素是指整个词音译之后，外加一个表示义类的汉语语素。“坦克车”英文为“tank”，音译之后加上表示义类的“车”，采用了音译加汉语语素的翻译方式。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f4e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f3f8b-6cde-11ee-a8c9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“莲子”的构词方式是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偏正式\n合成词有复合式、附加式、重叠式三种构词方式。复合式合成词包括联合、偏正、补充、动宾、主谓、重叠等形式。偏正式合成词，语素之间的关系是修饰和被修饰、限制和被限制的关系，前一个语素是修饰性或限制性的，后一个语素是被修饰或被限制的。“莲子”中的“莲”修饰“子”，属于偏正式合成词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f532-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66db-6cde-11ee-bddd-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词的内部构造来看，“烟花”属于______式合成词，“眼花”属于______式合成词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偏正；主谓\n合成词有复合式、附加式、重叠式三种构词方式。复合式合成词包括联合、偏正、补充、动宾、主谓、重叠等形式。偏正式合成词，语素之间的关系是修饰和被修饰、限制和被限制的关系。前一个语素是修饰性或限制性的，后一个语素是被修饰或被限制的。“烟花”中的“烟”修饰“花”，属于偏正式合成词。主谓式合成词，语素之间是陈述和被陈述的关系，前一个语素是被陈述的对象，后一个语素起陈述的作用。“眼花”中“花”陈述“眼”的状态，属于主谓式合成词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f578-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66dc-6cde-11ee-8f4d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在现代汉语中，“浪漫主义”是外来词，所采取的翻译方法是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "音意兼译\n音意兼译是指把一个外语词分成前后两部分，音译一部分，意译一部分，两部分合成一个汉语词。“浪漫主义”英文是“romanticism”，前半音译成“浪漫”，后半意译成“主义”，合成“浪漫主义”，采用了音意兼译的翻译方法。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f5c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66dd-6cde-11ee-a9e4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从翻译方式来看，“绷带”属于______外来词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "音意兼译\n“绷带”英文是“bandage”，前半音译成“绷”，后半意译成“带”，合成“绷带”，属于音意兼译的外来词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f60e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66de-6cde-11ee-baa1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词的内部构造来看，“日子”属于______式合成词，“日光”属于______式合成词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "附加；偏正\n合成词有复合式、附加式、重叠式三种构词方式。复合式合成词包括联合、偏正、补充、动宾、主谓、重叠等形式。“日光”中的“日”修饰“光”，属于偏正式合成词。附加式合成词由词根和词缀构成，词缀在前的称前缀，词缀在后的称后缀。“日子”由词根“日”和后缀“子”构成，属于附加式合成词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f654-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66df-6cde-11ee-884e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从翻译方式来看，“霓虹灯”属于______外来词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "音译加汉语语素\n音译加汉语语素是指整个词音译之后，外加一个表示义类的汉语语素的词语。“霓虹灯”是由“neon”的音再加上“灯”翻译过来的，属于音译加汉语语素的外来词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f6a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e0-6cde-11ee-ace3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由______合成的词称为派生词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词根加词缀\n派生词，合成词的一种，是由词根加词缀构成的词，结构方式有两种：词根在前，词缀在后；词缀在前，词根在后。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f6ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e1-6cde-11ee-afeb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从词的内部构造来看，“逍遥”属于______词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "叠韵联绵\n联绵词指两个不同的音节连缀表示一个意义而不能拆开成两个语素的词，包括双声联绵词、叠韵联绵词和⾮双声叠韵联绵词三种类型，其中叠韵联绵词是指两个音节的韵母相同的联绵词。“逍遥”属于叠韵联绵词，他们的韵母都是ao。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f73a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e2-6cde-11ee-9322-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从翻译方式来看，“香波”属于______外来词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "音译\n音译是指按照外语词的声音用汉语的同音字对译。“香波”是英文“shampoo”直接音译过来的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e3-6cde-11ee-8858-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“爪牙”的本义是“得力助⼿”，后来专指“帮凶”，这种词义演变称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词义转移\n词义演变包括词义扩大、词义缩小和词义转移，“爪牙”的意义由褒义的“得力助⼿”变为贬义的“帮凶”，属于词义转移。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f7d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e4-6cde-11ee-8ee8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据文献和古字形，“析”的本义是指______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "劈开木头\n析：从木，从斤，斤亦声。“斤”指斧钺，“木”指树木、木材。“木”与“斤”合起来表示“凿开木材”，本义为劈开木头。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f816-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e5-6cde-11ee-9e6c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“走”的本义是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "跑\n“走”的金文字形像摆动两臂跑步的人形，下部像人脚，合起来表示人在跑，“走”的本义是跑。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f866-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e6-6cde-11ee-87a4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“搁浅”由专指“船舶进入⽔浅的地方，不能前进”，扩大到指称“一切事情遭到阻碍，不能进行”，这种词义的演变叫作______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词义扩大\n词义演变包括词义扩大、词义缩小和词义转移。随着社会的不断发展与进步，人们的实践领域不断扩展，因此“搁浅”的语义对象由“船舶”变为“一切事物”，范围扩大了。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f8b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e7-6cde-11ee-9499-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“臭”的本义是“气味”，后来专指“坏的气味”，这种词义演变称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词义缩小\n词义演变包括词义扩大、词义缩小和词义转移，“臭”的词义由泛指一切气味变为专指坏气味，在历史演化过程中范围变小了，因此属于词义缩小。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f8fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e8-6cde-11ee-9ea0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“爱人”原义指恋爱中的女性一方，现在指夫妻的任一方，这种词义演变称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词义扩大\n词义演变包括词义扩大、词义缩小和词义转移，随着社会的不断发展与进步，人们的男女意识也有了较大变化，男女平等意识深入人⼼，“爱人”的语义对象由“女性一方”变为“夫妻的任一方”，属于词义扩大。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f94c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66e9-6cde-11ee-adf8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词义的演变途径有词义的扩大、词义的缩小和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词义的转移\n词义的转移词的意义不是一成不变的，随着社会发展，人们对现实世界的认识也不断变化。词义演变包括词义扩大、词义缩小和词义转移。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f99c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66ea-6cde-11ee-9ba8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词汇的发展变化主要表现在新词的产生、旧词的消亡、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "词语的替换；词义的演变\n语言是不断发展变化的，其中词汇的发展变化速度最快。词汇的发展变化主要体现在新词的产生、旧词的消亡、词语的替换及词义的演变。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1f9e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66eb-6cde-11ee-a0e6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据文献和字形，“电”的本义是指______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "闪电\n“电”为形声字，从⾬，申声，本义为闪电。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fa32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66ec-6cde-11ee-b648-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "同义词可以分成近义词和______两个次类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "等义词\n同义词是名称不同但表达的词条意思相近或相同的词，包含近义词和等义词两类，其中近义词是意思相近的两个词，等义词是意思完全相同的两个词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fa78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66ed-6cde-11ee-af18-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "反义词指某义项或某些义项构成相反关系或______关系的一组词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "相对\n反义词是指两个意思相反或相对关系的词，包括绝对反义词和相对反义词。如真——假、动——静属于绝对反义词，春——秋、黑——白属于相对反义词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fabe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66ee-6cde-11ee-a46d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "语音相同而意义之间并⽆联系的一组词构成______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同音词\n多义词是一词多义，而同音词是一组词，是多词同音现象。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fb04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66ef-6cde-11ee-8ed3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“秃子打伞——⽆法⽆天”是熟语中的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "歇后语\n歇后语是中国人民在生活实践中创造的一种特殊语言形式。它一般由两个部分构成，前半截是形象的比喻，像谜面，后半截是解释、说明，像谜底，十分自然贴切。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fb54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f0-6cde-11ee-a214-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一般把词典分为______和百科性词典两大类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语文词典\n词典又作“辞典”，是将收集来的词汇按某种顺序排列并加以解释供人检查参考的工具书。一般把词典分为语文词典和百科性词典两大类。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fb9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f1-6cde-11ee-99aa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "音位是指一个语音系统中______的最小语音单位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "能够区别意义\n音位是按语音的社会属性（辨义功能）划分出来的，是一个语音系统中能够区别意义的最小语音单位。包括辅音音位、元音音位和声调音位（也叫调位）。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fbea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f2-6cde-11ee-a66d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "轻声音节的音高通常受前一字调的影响，在阳平字后时，用五度标调符号表示为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "[3]\n轻声在物理上表现为音长变短、音强变弱、音高受前一音节影响而不固定，轻声本身没有固定的音高，它的调值取决于前一音节的声调，它只记一个高低度的调值。在四声调之后，轻声音节的音高分别为：[2]、[3]、[4]、[1]。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fc3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f3-6cde-11ee-8288-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从汉字所记录的对象来看，汉字记录的语音单位是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "音节（或语素）\n文字是记录语言的符号系统，根据它所记录的语言单位，文字可以被分为几类：①记录音素的音素文字，如英文；②记录音节的音节文字，如日文的假名；③记录语素的语素文字，如汉字。由于汉字是既表音又表意的意音文字，而不是完全按照一字一个音形的原则，区别于纯粹的表音文字，因此又被称为语素音节文字。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fc80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f4-6cde-11ee-af15-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉字“⽉”的韵母属于______响复元音。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "后\n“⽉”的韵母为üe，是后响复元音韵母。后响复韵母共有“ia、ie、ua、uo、üe”5个，发音特点是舌位由高向低滑动，收尾的元音音素响亮清晰，而开头的元音处于韵母的韵头位置，发音不太响亮，比较短促。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fcd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f5-6cde-11ee-8924-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "音节“打”和“大”的发音差异，与发音体振动的______有关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "频率\n“打”和“大”的声调不同，决定声调的要素主要是音高，声调的高低升降的变化其实就是音高的变化。同样的音素组合，声调不一样，就代表音高不同，代表的意义也不同，而音高取决于发音体的振动频率。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fd20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f6-6cde-11ee-b708-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "元音i和ü的音⾊不同，主要是因为发音时⼆者______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "唇形的圆展不同\ni和ü都是前元音，也都是高元音，在舌位高低、开又度大小、发音位置前后方面基本一样，主要区别就是唇形的圆展，i是展唇，而ü是圆唇。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fd66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f7-6cde-11ee-8083-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "短语“兔子跑了”中共有______个送气辅音音素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2\n“兔子跑了”中有两个送气辅音音素：t[tʰ]、p[pʰ]。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fdb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f8-6cde-11ee-a44e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉字“昏”的韵母属于“四呼”中的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "合又呼\n凡是韵头或韵母是u的韵母称为合又呼韵母，昏的韵母是un，为合又呼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fe06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66f9-6cde-11ee-bdfe-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "声调又叫字调，具有区别意义的作用，其性质主要取决于______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "音高\n发音时声带越紧，在一定时间内振动的次数越多，声音就越高；反之声音就越低。在发音过程中，声带可以自始⾄终保持一样的松紧度，也可以先松后紧，或先紧后松，也可以松紧相间，这样造成的种种不同的音高变化，就构成各种不同的声调。这样一个贯穿整个字音的高低升降变化的就是声调，主要是由音高决定的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fe4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66fa-6cde-11ee-a208-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从发音角度来看，“多”和“拖”声母的区别在于______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前者不送气，后者送气\n送气和不送气是根据除阻时气流强弱的不同区分的，送气音是指发音时呼出气流较强的音，呼出气流较弱的是不送气音。“多”的声母为[t]，“拖”的声母为[t‘]，两个声母的分别在于前者不送气，后者送气。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fe9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66fb-6cde-11ee-a623-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从发音角度来看，“章”和“昌”两者声母的区别在于______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前者不送气，后者送气\n“章”的声母为zh[tʂ]，“昌”的声母为ch[tʂ‘]。两个声母的区别在于前者是不送气音，后者为送气音。他们两个都是舌尖后、清、塞擦音。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1fee2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66fc-6cde-11ee-afd0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普通话的13个复韵母根据______所处的位置，可以分为3类：前响复韵母、后响复韵母、中响复韵母。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "韵腹\n由两个或三个元音结合而成的韵母称作复韵母，其中开又度最大、发音最响亮的元音称为韵腹，根据韵腹所处的位置，可以将复韵母分为3类。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ff46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66fd-6cde-11ee-8dcc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代汉语有七大方言，其中分布地域最⼴、使用人又最多的一个方言是______，该方言可分为四个次方言，分别是______、西北方言、西南方言和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "北方方言；东北方言；江淮方言\n七大方言中，北方方言分布地域最⼴、使用人又最多，可分为北方次方言、西北次方言、西南次方言和江淮次方言。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ff8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66fe-6cde-11ee-a76d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代汉语方言中，吴方言的代表话是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "苏州话\n吴方言也称吴语，主要分布在苏南（南京、镇江除外）、上海、浙江等省市，通常认为苏州话具有吴语的代表性。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d1ffdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f66ff-6cde-11ee-aaed-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北方方言包括华北-东北方言，西北方言、西南方言和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "江淮方言\n北方方言可分为四个次方言：①华北-东北方言，分布在京、津两市，河北、河南、⼭东、辽宁、吉林、黑龙江，还有内蒙古的一部分地区。②西北方言，分布在⼭西、陕西、甘肃等省和青海、宁夏、内蒙古的一部分地区。新疆的汉族使用的语言也属西北方言。③西南方言，分布在四川、云南、贵州等省及湖北大部分地区（东南角咸宁地区除外），⼴西西北部，湖南西北部等。④江淮方言，分布在安徽省、江苏长江以北地区（徐州、蚌埠一带属华北-东北方言，除外）、镇江和镇江以西九江以东的长江南岸沿江一带。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2002c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6700-6cde-11ee-9f71-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "使用人又约占汉族总人又73%的方言是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "北方方言\n北方方言是现代汉民族共同语的基础方言，以北京话为代表，内部一致性较强，它的分布地域最⼴，使用人又约占汉族总人又的73%。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2007c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6701-6cde-11ee-b77c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“苏州话”属于______方言，“南京话”属于______方言。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吴；北方\n吴方言是以上海话为共通语，以苏州音为标准音，以吴语区的江南群城方言为基础方言，以四声⼋调、清浊对立等正统的自然语言为古典语法规范，以江浙民系作家开创的白话文为现代语法规范的江左江南汉民族共同语，通行于吴越江南，为吴越文化之根基。北方方言是以北京话为基础的北方部分语言的统称，按其语言特点一般可以分为4个⽀系，即4个方言片（或称4个次方言）：华北-东北官话、西北官话、西南官话和江淮官话。苏南的南京、镇江两市属于江淮官话，即属于北方方言。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d200cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6702-6cde-11ee-b808-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代汉语包括多种方言和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "普通话\n“现代汉语”通常有两种解释，狭义的解释指现代汉民族共同语，即普通话，⼴义解释则包括现代汉民族使用的普通话和方言。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d20126-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6703-6cde-11ee-a430-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普通话是在______的基础上形成的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "北方方言\n普通话又叫现代汉语民族共同语，是以北京语音为标准音，以北方方言为基础方言，以典范的现代白话文著作为语法规范的通用语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d20176-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6704-6cde-11ee-9903-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人又最多的汉语方言是______方言。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "北方\n北方方言是现代汉民族共同语的基础方言，以北京话为代表，内部一致性较强，它的分布地域最⼴，可分为华北-东北方言，西北方言，西南方言，江淮方言四个次方言，使用人又约占汉族总人又的73%。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d201c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6705-6cde-11ee-a2f7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《中华人民共和国宪法》第十九条规定：“______。”我国历史上第一部关于语言文字的专门法是2000年10⽉制定的《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国家推⼴全国通用的普通话；中华人民共和国国家通用语言文字法\n《中华人民共和国宪法》第19条规定：“国家推⼴全国通用的普通话。”在新时期里，推⼴普通话就更为重要。2000年10⽉，根据我国《宪法》制定的《中华人民共和国国家通用语言文字法》，经第九届全国人民代表大会通过，于2001年1⽉1日起施行。这是我国历史上第一部关于语言文字的专门法，它⾸次明确规定了普通话和规范汉字作为国家通用语言文字的法律地位，为加强语言文字应用的管理和促进语言文字的规范化、标准化提供了法律依据。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d20220-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6706-6cde-11ee-959a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代汉民族普通话规范，即以北京语音为______，以北方话为______，以______作为语法规范。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标准音；基础方言；典范的现代白话文著作\n中国科学院于1955年召开了现代汉语规范问题学术会议，会上确定把汉民族共同语称为普通话，主张向全国大力推⼴。会后经各方研究，正式确定现代汉民族共同语的三项标准含义，即以北京语音为标准音，以北方话为基础方言，以典范的现代白话文著作为语法规范。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2027a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6707-6cde-11ee-a6b9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "粤方言以______话为代表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼴州\n粤方言是中国七大主要方言区的方言之一，以⼴州话为代表，分布在⼴州东中部、西南部和⼴西东部、南部的约一百来个县以及香港、澳门特别行政区。使用人又约占汉族总人又的4%。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d202d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6708-6cde-11ee-8a1f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代汉语的七大方言分别是北方方言、______方言、湘方言、赣方言、______方言、闽方言和______方言。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吴；客家；粤\n汉语方言俗称地方话，只通行于一定的地域，是局部地区使用的语言。汉语方言可以分为七大方言区，即北方方言（官话方言）、吴方言、湘方言、赣方言、客家方言、闽方言和粤方言。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d20324-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f6709-6cde-11ee-97fa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古代汉语标准的书面语是______文，现代汉语标准的书面语是______文。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "文言；白话\n汉民族共同语的书面语在先秦时代就产生了，后来由于又语发展较快，这种书面语逐渐脱离了又语，通常称作文言或文言文。到了唐宋时代，一种接近又语的书面语——白话产生了。到了20世纪，特别是五四运动以后，随着我国资本主义的发展，民族民主⾰命运动的高涨，掀起了“白话文运动”，动摇了文言文的统治地位，为白话文最后在书面上取代文言文创造了条件。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d20374-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f670a-6cde-11ee-812f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词类的划分标准有意义标准、功能标准和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "形态标准\n划分词类的标准有以下三种：①功能标准，即词在语句里充当句法成分的能力和词与词的组合能力；②意义标准，即同类词在语法上的概括意义或意义类别；③形态标准，即根据词形变化来确定词类，包括构形形态和构词形态。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d203c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f670b-6cde-11ee-bd40-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "语音有三种基本属性：物理属性、生理属性和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会属性\n语音，即语言的物质外壳，具有物理属性、生理属性和社会属性三个方面的性质。其中物理属性和生理属性是语音的自然属性，社会属性是语音的本质属性。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d20414-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f670c-6cde-11ee-9ba9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是语言中最小的有音有义的语言单位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语素\n语素是语言中最小的有音有义的语言单位。例如：“书”是一个语素，它的语音形式是“shū”，它的词汇意义是“成本的著作”，语法意义是名词。现代汉语语素绝大部分是单音节，也有两个及以上音节的，比如蝴蝶、巧克力。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2046e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f670d-6cde-11ee-a5af-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的差别主要取决于物体振动所形成的音纹波折的曲折形式不同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "音⾊\n音⾊又叫音质、音品，是声音的特⾊，主要取决于声波振动的形式。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d204be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f670e-6cde-11ee-b8ad-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "语音是人类发音器官发出的______的声音。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "具有一定意义的，能够进行交际\n语音是人类说话的声音，是语言的物质外壳，是人类发音器官发出的具有一定意义的，能够进行交际的声音，三要素缺一不可。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2050e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ad2f670f-6cde-11ee-b0bb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "各种语言都会利用语音四要素中的______要素来区别语义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "音⾊\n语音四要素包括：音高、音强、音长、音⾊。在任何语言中，音⾊都是用来区别意义的最重要的要素。其他要素在不同语言中区别意义的作用则不尽相同。"
+	}
+]

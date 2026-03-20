@@ -1,0 +1,192 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d525ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caa5edb-6cdd-11ee-9d88-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.주식값이 이렇게 폭등했으면 미리 주식을 좀 사둘 걸 그랬어요"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "주식값이 이렇게 폭등할 줄 알았더라면/폭등하는 걸 알았더라면 미리 주식을 좀 사둘 걸 그랬어요"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d526a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caaac24-6cdd-11ee-af8c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.우리야 참는다 치지만 여행을 못 가게 되었다고 아이들이 야단일 줄 알았어요"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "우리야 참는다 치지만 여행을 못 가게 되었다고 아이들이 야단일 텐데/일 것 같아요/야단 칠 건데요"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d526e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caaac25-6cdd-11ee-a345-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.믿을 만한 소식통에 따라 그 의문의 죽음은 타살로 밝혀졌다고 하더군요"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "믿을 만한 소식통에 의하면 그 의문의 죽음은 타살로 밝혀졌다고 하더군요"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d5270c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caaac26-6cdd-11ee-845d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.밥이 없으면 빵이나 허기를 달래야겠다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "밥이 없으면 빵으로라도/으로 허기를 달래야겠다"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d5273e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caaac27-6cdd-11ee-bb0e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.해외여행이 자유화되고 그래도 외국에 한번도 못 가본 사람이 더 많지요"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "해외여행이 자유화되었건만/되었지만 그래도 외국에 한번도 못 가본 사람이 더 많지요"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d52766-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caaac28-6cdd-11ee-b593-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.소중한 물건을 소중한 듯한 모르고 함부로 굴린다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "소중한 물건을 소중한 줄/소중한지 모르고 함부로 굴린다"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d52798-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caaac29-6cdd-11ee-954a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.사표를 내고 나니 당장 먹고 살 도리가 막막하다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "사표를 내고 나니 당장 먹고 살 길이/방법이 막막하다"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d527ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caaac2a-6cdd-11ee-9c13-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.설령 이 땅을 점령했다 하지만 이 나라 사람들의 마음은 점령하지 못할 것이다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "설령 이 땅을 점령했다 하더라도 이 나라 사람들의 마음은 점령하지 못할 것이다"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d527f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caaac2b-6cdd-11ee-a335-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.과도한 흡연이니까 폐가 나빠져서 담배를 끊었다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "과도한 흡연으로 인하여/때문에 폐가 나빠져서 담배를 끊었다"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d52824-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1caaac2c-6cdd-11ee-96e8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请纠正下面的句子：\n아래의 틀린 문장을 올바르게 고치십시오.가계 지출이 점점 늘어가는데 쥐꼬리만한 남편 월급만 바라보고 살 지는 없잖아요"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "가계 지출이 점점 늘어가는데 쥐꼬리만한 남편 월급만 바라보고 살 순/수는 없잖아요"
+	}
+]

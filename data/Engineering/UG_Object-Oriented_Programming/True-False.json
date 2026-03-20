@@ -1,0 +1,610 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a57e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4e8be-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。类的静态数据成员需要在定义每个类的对象时进行初始化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5922-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4eaa8-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当将一个类S定义为另一个类A的友元类时，类S的所有成员函数都可以直接访问类A的所有成员。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5990-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4ec24-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。静态数据成员必须在类外定义和初始化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a59e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4ed78-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。静态成员函数可以引用属于该类的任何函数成员。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5a30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4eeb8-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。友元函数是在类声明中由关键字错riend修饰说明的类的成员函数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5a76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4efee-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。友元函数访问对象中的成员可以不通过对象名。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5ab2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4f11a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。构造函数可以声明为虚函数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5b02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4f2a0-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在析构函数中调用虚函数时，采用动态束定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5b48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4f3c2-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在一个成员函数内调用一个虚函数时，对该虚函数的调用进行动态束定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5b8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4f4da-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。公有继承可以实现子类型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5bde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4f5f2-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。构造函数可以声明为纯虚函数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5c38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4f70a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果派生类的成员函数的原型与基类中被定义为虚函数的成员函数原型相同，那么，这个函数自动继承基类中虚函数的特性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5c7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4f822-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。虚函数不能是类的静态成员。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5cba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4f93a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。重定义虚函数的派生类必须是公有继承的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5d00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4fa52-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对于从基类继承的虚函数，派生类也可以不进行重定义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5d50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4fb6a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。纯虚函数与函数体为空的虚函数等价。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5d96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4fc78-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。多态类提供了一种动态多分支派送机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5ddc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4ff0c-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。作为虚函数隐含参数的this指针，决定了虚函数调用时执行的代码。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5e22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae50060-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。种：整型、浮点型、字符型和布尔型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5e72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae50178-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。组成 Java Application 的若干类中，有且仅有一个主类，只有主类中含有主方法 main。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5eb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae50290-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。数据由高类型转换到低类型时候，采用强制转换，数据精度要受到损失。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5f08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae503a8-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。静态方法只能处理静态变量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5f58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae504b6-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Java 语言具有较好的安全性和可移植性及与平台无关等特性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5fa8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae505ce-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Java 的源代码中定义几个类，编译结果就生成几个以.class 为后缀的字节码文件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a5ff8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae506e6-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Java 程序里,创建新的类对象用关键字 new，回收无用的类对象使用关键字 free。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a603e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae50880-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Java 有垃圾回收机制，内存回收程序可在指定的时间释放内存对象。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a608e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae509ac-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。构造函数用于创建类的实例对象，构造函数名应与类名相同，返回类型为 void。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a60de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae50ace-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在异常处理中，若 try 中的代码可能产生多种异常则可以对应多个 catch 语句，若 catch中的参数类型有父类子类关系，此时应该将父类放在后面，子类放在前面。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a612e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae50bf0-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。拥有 abstract 方法的类是抽象类，但抽象类中可以没有 abstract 方法。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a617e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae50d30-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Java 的屏幕坐标是以像素为单位，容器的左下角被确定为坐标的起点。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a61ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae50e66-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。静态初始化器是在其所属的类加载内存时由系统自动调用执行。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a6214-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae50f92-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在 Java 中对象可以赋值，只要使用赋值号即可，相当于生成了一个各属性与赋值对象相同的新对象。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	}
+]

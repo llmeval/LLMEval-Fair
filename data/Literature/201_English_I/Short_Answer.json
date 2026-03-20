@@ -1,0 +1,211 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0ffb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbaf55b-6b4c-11ee-bfab-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]The first and more important is the consumer’s growing preference for eating out: the consumption of food and drink in places other than homes has risen from about 32 percent of total consumption in 1995 to 35 percent in 2000 and is expected to approach 38 percent by 2005. This development is boosting wholesale demand from the food service segment by 4 to 5 percent a year across Europe, compared with growth in retail demand of 1 to 2 percent. Meanwhile, as the recession is looming large, people are getting anxious. They tend to keep a tighter hold on their purse and consider eating at home a realistic alternative.\n[B]Retail sales of food and drink in Europe’s largest markets are at a standstill, leaving European grocery retailers hungry for opportunities to grow. Most leading retailers have already tried e-commerce, with limited success, and expansion abroad. But almost all have ignored the big, profitable opportunity in their own backyard: the wholesale food and drink trade, which appears to be just the kind of market retailers need.\n[C]Will such variations bring about a change in the overall structure of the food and drink market? Definitely not. The functioning of the market is based on flexible trends dominated by potential buyers. In other words, it is up to the buyer, rather than the seller, to decide what to buy. At any rate, this change will ultimately be acclaimed by an ever-growing number of both domestic and international consumers, regardless of how long the current consumer pattern will take hold.\n[D]All in all, this clearly seems to be a market in which big retailers could profitably apply their gigantic scale, existing infrastructure, and proven skills in the management of product ranges, logistics, and marketing intelligence. Retailers that master the intricacies of wholesaling in Europe may well expect to rake in substantial profits thereby. At least, that is how it looks as a whole. Closer inspection reveals important differences among the biggest national markets,\n[E]Despite variations in detail, wholesale markets in the countries that have been closely examined – France, Germany, Italy and Spain – are made out of the same building blocks. Demand comes mainly from two sources: independent mom-and-pop grocery stores which, unlike large retail chains, are too small to buy straight from producers, and food service operators that cater to consumers when they don’t eat at home. Such food service operators range from snack machines to large institutional catering ventures, but most of these businesses are known in the trade as “horeca”：hotels, restaurants, and cafés. Overall, Europe’s wholesale market for food and drink is growing at the same sluggish pace as the retail market, but the figures, when added together, mask two opposing trends.\n[F]For example, wholesale food and drink sales came to ＄ 268 billion in France, Germany, Italy, Spain, and the United Kingdom in 2000 – more than 40 percent of retail sales. Moreover, average overall margins are higher in wholesale than in retail; wholesale demand from the food service sector is growing quickly as more Europeans eat out more often; and changes in the competitive dynamics of this fragmented industry are at last making it feasible for wholesalers to consolidate.\n[G]However, none of these requirements should deter large retailers (and even some large food producers and existing wholesalers) from trying their hand, for those that master the intricacies of wholesaling in Europe stand to reap considerable gains."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; F; D; G; A"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f1003a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbb919f-6b4c-11ee-b599-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]No disciplines have seized on professionalism with as much enthusiasm as the humanities. You can, Mr. Menand points out, become a lawyer in three years and a medical doctor in four. But the regular time it takes to get a doctoral degree in the humanities is nine years. Not surprisingly, up to half of all doctoral students in English drop out before getting their degrees.\n[B]His concern is mainly with the humanities: literature, languages, philosophy and so on. These are disciplines that are going out of style: 22% of American college graduates now major in business compared with only 2% in history and 4% in English. However, many leading American universities want their undergraduates to have a grounding in the basic canon of ideas that every educated person should possess. But most find it difficult to agree on what a “general education” should look like. At Harvard, Mr. Menand notes, “the great books are read because they have been read” – they form a sort of social glue.\n[C]Equally unsurprisingly, only about half end up with professorships for which they entered graduate school. There are simply too few posts. This is partly because universities continue to produce ever more PhDs. But fewer students want to study humanities subjects: English departments awarded more bachelor’s degrees in 1970-71 than they did 20 years later. Fewer students require fewer teachers. So, at the end of a decade of thesis-writing, many humanities students leave the profession to do something for which they have not been trained.\n[D]One reason why it is hard to design and teach such courses is that they cut across the insistence by top American universities that liberal-arts education and professional education should be kept separate, taught in different schools. Many students experience both varieties. Although more than half of Harvard undergraduates end up in law, medicine or business, future doctors and lawyers must study a non-specialist liberal-arts degree before embarking on a professional qualification.\n[E]Besides professionalising the professions by this separation, top American universities have professionalised the professor. The growth in public money for academic research has speeded the process: federal research grants rose fourfold between 1960 and 1990, but faculty teaching hours fell by half as research took its toll. Professionalism has turned the acquisition of a doctoral degree into a prerequisite for a successful academic career: as late as 1969 a third of American professors did not possess one. But the key idea behind professionalisation, argues Mr. Menand, is that “the knowledge and skills needed for a particular specialisation are transmissible but not transferable.” So disciplines acquire a monopoly not just over the production of knowledge, but also over the production of the producers of knowledge.\n[F]The key to reforming higher education, concludes Mr. Menand, is to alter the way in which “the producers of knowledge are produced”. Otherwise, academics will continue to think dangerously alike, increasingly detached from the societies which they study, investigate and criticise. “Academic inquiry, at least in some fields, may need to become less exclusionary and more holistic.” Yet quite how that happens, Mr. Menand does not say.\n[G]The subtle and intelligent little book The Marketplace of Ideas: Reform and Resistance in the American University should be read by every student thinking of applying to take a doctoral degree. They may then decide to go elsewhere.  For something curious has been happening in American universities, and Louis Menand, a professor of English at Harvard University, captured it skillfully."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; D; A; C; F"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f10076-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbb91a0-6b4c-11ee-bf24-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]Of course, it is precisely these superfluous things that define human culture and ultimately what it is to be human. Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity.\n[B]Applications like tumblr.com, which allow users to combine pictures, words and other media in creative ways and then share them, have the potential to add stickiness by amusing, entertaining and enlightening others.\n[C]Not only did they develop such a device but by the turn of the millennium    they had also managed to embed it in a worldwide system accessed by billions  of people every day.\n[D]This is because the networked computer has sparked a secret war between downloading and uploading – between passive consumption and active creation – whose outcome will shape our collective future in ways we can only begin to imagine.\n[E]The challenge the computer mounts to television thus bears little similarity to one format being replaced by another in the manner of record players being replaced by CD players.\n[F]One reason for the persistence of this pyramid of production is that for the past half-century, much of the world’s media culture has been defined by a single medium – television – and television is defined by downloading.\n[G]The networked computer offers the first chance in 50 years to reverse the flow, to encourage thoughtful downloading and, even more importantly, meaningful uploading."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; D; A; F; G"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f100a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbb91a1-6b4c-11ee-8e8f-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]The idea is to force social scientists to integrate their work with other categories, including health and demographic change; food security; marine research and the bio-economy; clean, efficient energy; and inclusive, innovative and secure societies.\n[B]The solution is to change the mindset of the academic community, and what it considers to be its main goal. Global challenges and social innovation ought to receive much more attention from scientists, especially the young ones.\n[C]It could be that we are evolving two communities of social scientists: one that is discipline-oriented and publishing in highly specialized journals, and one that is problem-oriented and publishing elsewhere, such as policy briefs.\n[D]However, the numbers are still small: in 2010, about 1,600 of the 100,000 social-sciences papers published globally included one of these keywords.\n[E]These issues all have root causes in human behavior: all require behavioral change and social innovations, as well as technological development. Stemming climate change, for example, is as much about changing consumption patterns and promoting tax acceptance as it is about developing clean energy.\n[F]Despite these factors, many social scientists seem reluctant to tackle such problems. And in Europe, some are up in arms over a proposal to drop a specific funding category for social-science research and to integrate it within cross-cutting topics of sustainable development.\n[G]During the late 1990s, national spending on social sciences and the humanities  as a percentage of all research and development funds – including government, higher education, non-profit and corporate – varied from around 4% to 25%;   in most European nations, it is about 15%."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "E; F; D; G; A"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f100d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbb91a2-6b4c-11ee-b03e-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]Some archaeological sites have always been easily observable – for example, the Parthenon in Athens, Greece; the pyramids of Giza in Egypt; and the megaliths of Stonehenge in southern England. But these sites are exceptions to the norm. Most archaeological sites have been located by means of careful searching, while many others have been discovered by accident. Olduvai Gorge, an early hominid site in Tanzania, was found by a butterfly hunter who literally fell into its deep valley in 1911. Thousands of Aztec artifacts came to light during the digging of the Mexico City subway in the 1970s.\n[B]In another case, American archaeologists René Million and George Cowgill spent years systematically mapping the entire city of Teotihuacán in the Valley of Mexico near what is now Mexico City. At its peak around AD 600, this city was one of the largest human settlements in the world. The researchers mapped not only the city’s vast and ornate ceremonial areas, but also hundreds of simpler apartment complexes where common people lived.\n[C]How do archaeologists know where to find what they are looking for when there is nothing visible on the surface of the ground? Typically, they survey and sample (make test excavations on) large areas of terrain to determine where excavation will yield useful information. Surveys and test samples have also become important for understanding the larger landscapes that contain archaeological sites.\n[D]Surveys can cover a single large settlement or entire landscapes. In one case, many researchers working around the ancient Maya city of Copán, Honduras, have located hundreds of small rural villages and individual dwellings by using aerial photographs and by making surveys on foot. The resulting settlement maps show how the distribution and density of the rural population around the city changed dramatically between AD 500 and 850, when Copán collapsed.\n[E]To find their sites, archaeologists today rely heavily on systematic survey methods and a variety of high-technology tools and techniques. Airborne technologies, such as different types of radar and photographic equipment carried by airplanes or spacecraft, allow archaeologists to learn about what lies beneath the ground without digging. Aerial surveys locate general areas of interest or larger buried features, such as ancient buildings or fields.\n[F]Most archaeological sites, however, are discovered by archaeologists who have set out to look for them. Such searches can take years. British archaeologist Howard Carter knew that the tomb of the Egyptian pharaoh Tutankhamun existed from information found in other sites. Carter sifted through rubble in the Valley of the Kings for seven years before he located the tomb in 1922. In the late 1800s British archaeologist Sir Arthur Evans combed antique dealers’ stores in Athens, Greece. He was searching for tiny engraved seals attributed to the ancient Mycenaean culture that dominated Greece from the 1400s to 1200s BC. Evans’s interpretations of these engravings eventually led him to find the Minoan palace at Knossos (Knosós), on the island of Crete, in 1900.\n[G]Ground surveys allow archaeologists to pinpoint the places where digs will be successful. Most ground surveys involve a lot of walking, looking for surface clues such as small fragments of pottery. They often include a certain amount of digging to test for buried materials at selected points across a landscape. Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detectors. Archaeologists commonly use computers to map sites and the landscapes around sites. Two- and three-dimensional maps are helpful tools in planning excavations, illustrating how sites look, and presenting the results of archaeological research."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; F; G; D; B"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f10102-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbb91a3-6b4c-11ee-80eb-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]Are we studying that text and trying to respond in a way that fulfils the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room.\n[B]Factors such as the place and period in which we are reading, our gender, ethnicity, age and social class will encourage us towards certain interpretations but at the same time obscure or even close off others.\n[C]If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them.\n[D]In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended.\n[E]You make further inferences, for instance, about how the text may be significant to you, or about its validity – inferences that form the basis of a personal response for which the author will inevitably be far less responsible.\n[F]In plays, novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author’s own thoughts.\n[G]Rather, we ascribe meanings to texts on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text’s formal structures (so especially its language structures) and various kinds of background, social knowledge, belief and attitude that we bring to the text."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; E; G; B; A"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f1012a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbba74c-6b4c-11ee-b443-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]Create a new image of yourself\n[B]Have confidence in yourself\n[C]Decide if the time is right\n[D]Understand the context\n[E]Work with professionals\n[F]Know your goals\n[G]Make it efficient"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; F; D; E; G"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f1015c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbba74d-6b4c-11ee-9036-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]The first published sketch, “A Dinner at Poplar Walk” brought tears to Dickens’s eyes when he discovered it in the pages of The Monthly Magazine. From then on his sketches, which appeared under the pen name “Boz” in The Evening Chronicle, earned him a modest reputation.\n[B]The runaway success of The Pickwick Papers, as it is generally known today, secured Dickens’s fame. There were Pickwick coats and Pickwick cigars, and the plump, spectacled hero, Samuel Pickwick, became a national figure.\n[C]Soon after Sketches by Boz appeared, a publishing firm approached Dickens to write a story in monthly installments, as a backdrop for a series of woodcuts by the then-famous artist Robert Seymour, who had originated the idea for the story. With characteristic confidence, Dickens successfully insisted that Seymour’s pictures illustrate his own story instead. After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose. Seymour made the change, went into his backyard, and expressed his displeasure by committing suicide. Dickens and his publishers simply pressed on with a new artist. The comic novel, The Posthumous Papers of the Pickwick Club, appeared serially in 1836 and 1837 and was first published in book form in 1837.\n[D]Charles Dickens is probably the best-known and, to many people, the greatest English novelist of the 19th century. A moralist, satirist, and social reformer, Dickens crafted complex plots and striking characters that capture the panorama of English society.\n[E]Soon after his father’s release from prison, Dickens got a better job as errand boy in law offices. He taught himself shorthand to get an even better job later  as a court stenographer and as a reporter in Parliament. At the same time, Dickens, who had a reporter’s eye for transcribing the life around him, especially anything comic or odd, submitted short sketches to obscure magazines.\n[F]Dickens was born in Portsmouth, on England’s southern coast. His father was   a clerk in the British Navy pay office – a respectable position, but with little social status. His paternal grandparents, a steward and a housekeeper, possessed even less status, having been servants, and Dickens later concealed their background.Dickens’s mother supposedly came from a more respectable family. Yet two years before Dickens’s birth, his mother’s father was caught stealing and fled to Europe, never to return. The family’s increasing poverty forced Dickens out of school at age 12 to work in Warren’s Blacking Warehouse, a shoe-polish factory, where the other working boys mocked him as “the young gentleman.” His father was then imprisoned for debt. The humiliations of his father’s imprisonment and his labor in the blacking factory formed Dickens’s greatest wound and became his deepest secret. He could not confide them even to his wife, although they provide the unacknowledged foundation of his fiction.\n[G]After Pickwick, Dickens plunged into a bleaker world. In Oliver Twist, he traces an orphan’s progress from the workhouse to the criminal slums of London. Nicholas Nickleby, his next novel, combines the darkness of Oliver Twis t with th e sunlig ht of Pickwick. Th e popu lar ity of th ese novels consolidated Dickens’ as a nationally and internationally celebrated man of letters."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "F; E; A; C; G"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f10184-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbbab01-6b4c-11ee-a567-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]In December of 1869, Congress appointed a commission to select a site and prepare plans and cost estimates for a new State Department Building. The commission was also to consider possible arrangements for the War and Navy Departments. To the horror of some who expected a Greek Revival twin of the Treasury Building to be erected on the other side of the White House, the elaborate French Second Empire style design by Alfred Mullett was selected, and construction of a building to house all three departments began in June of 1871.\n[B]Completed in 1875, the State Department’s south wing was the first to be occupied, with its elegant four-story library (completed in 1876), Diplomatic Reception Room, and Secretary’s office decorated with carved wood, Oriental rugs, and stenciled wall patterns. The Navy Department moved into the east wing in 1879, where elaborate wall and ceiling stenciling and marquetry floors decorated the office of the Secretary.\n[C]The State, War, and Navy Building, as it was originally known, housed the three Executive Branch Departments most intimately associated with formulating and conducting the nation’s foreign policy in the last quarter of the nineteenth century and the first quarter of the twentieth century – the period when the United States emerged as an international power. The building has housed some of the nation’s most significant diplomats and politicians and has been the scene of many historic events.\n[D]Many of the most celebrated national figures have participated in historical events that have taken place within the EEOB’s granite walls. Theodore and Franklin D. Roosevelt, William Howard Taft, Dwight D. Eisenhower, Lyndon B. Johnson, Gerald Ford, and George H. W. Bush all had offices in this building before\n[E]The Eisenhower Executive Office Building (EEOB) commands a unique position in both the national history and the architectural heritage of the United States. Designed by Supervising Architect of the Treasury, Alfred B. Mullett, it was built from 1871 to 1888 to house the growing staffs of the State, War, and Navy Departments, and is considered one of the best examples of French Second Empire architecture in the country.\n[F]Construction took 17 years as the building slowly rose wing by wing. When the EEOB was finished, it was the largest office building in Washington, with nearly 2 miles of black and white tiled corridors. Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety. Eight monumental curving staircases of granite with over 4,000 individually cast bronze balusters are capped by four skylight domes and two stained glass rotundas.\n[G]The history of the EEOB began long before its foundations were laid. The first executive offices were constructed between 1799 and 1820. A series of fires (including those set by the British in 1814) and overcrowded conditions led to the construction of the existing Treasury Building. In 1866, the construction of the North Wing of the Treasury Building necessitated the demolition of the State Department building."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "E; G; A; B; D"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f101ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbbab02-6b4c-11ee-ae1c-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A]These tools can help you win every argument – not in the unhelpful sense of beating your opponents but in the better sense of learning about the issues that divide people. Learning why they disagree with us and learning to talk and work together with them. If we readjust our view of arguments – from a verbal fight or tennis game to a reasoned exchange through which we all gain mutual respect, and understanding – then we change the very nature of what it means to “win” an argument.\n[B]Of course, many discussions are not so successful. Still, we need to be careful not to accuse opponents of bad arguments too quickly. We need to learn how to evaluate them properly. A large part of evaluation is calling out bad arguments, but we also need to admit good arguments by opponents and to apply the same critical standards to ourselves. Humility requires you to recognize weakness in your own arguments and sometimes also to accept reasons on the opposite side.\n[C]None of these will be easy but you can start even if others refuse to. Next time you state your position, formulate an argument for what you claim and honestly ask yourself whether your argument is any good. Next time you talk with someone who takes a stand, ask them to give you a reason for their view. Spell out their argument fully and charitably. Assess its strength impartially. Raise objections and listen carefully to their replies.\n[D]Carnegie would be right if arguments were fights, which is how we often think of them. Like physical fights, verbal fights can leave both sides bloodied. Even when you win, you end up no better off. Your prospects would be almost as dismal if arguments were even just competitions – like, say, tennis games. Pairs\n[E]In his 1936 work How to Win Friends and Influence People, Dale Carnegie wrote: “There is only one way…to get the best of an argument – and that is to avoid it.” This aversion to arguments is common, but it depends on a mistaken view of arguments that causes profound problems for our personal and social lives – and in many ways misses the point of arguing in the first place.\n[F]These views of arguments also undermine reason. If you see a conversation as a fight or competition, you can win by cheating as long as you don’t get caught. You will be happy to convince people with bad arguments. You can call their views stupid, or joke about how ignorant they are. None of these tricks will help you understand them, their positions or the issues that divide you, but they can help you win – in one way.\n[G]There is a better way to win arguments. Imagine that you favor increasing the minimum wage in our state, and I do not. If you yell, “Yes,” and I yell, “No,” neither of us learns anything. We neither understand nor respect each other, and we have no basis for compromise or cooperation. In contrast, suppose you give a reasonable argument: that full-time workers should not have to live in poverty. Then I counter with another reasonable argument: that a higher minimum wage will force businesses to employ fewer people for less time. Now we can understand each other’s positions and recognize our shared values, since we both care about needy workers."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "E; D; G; B; A"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f101de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9fbbab03-6b4c-11ee-a264-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有以下语句，将它们以合理的方式排序，如果有多余的语句，忽略它们。\n[A] Eye fixations are brief\n[B] Too much eye contact is instinctively felt to be rude\n[C] Eye contact can be a friendly social signal\n[D] Personality can affect how a person reacts to eye contact\n[E] Biological factors behind eye contact are being investigated \n[F] Most people are not comfortable holding eye contact with strangers\n[G] Eye contact can also be aggressive."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; E; G; A; D"
+	}
+]

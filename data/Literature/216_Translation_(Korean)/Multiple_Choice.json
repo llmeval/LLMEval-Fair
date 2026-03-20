@@ -1,0 +1,1522 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53ac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580a3209-6b4d-11ee-b15c-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "최근 새로 만들어진 교통 규칙이 사회적으로 물의를 ______ 있다.\n“[A] 만들고\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 빚고\t\t\t；[C] 일으키고\t\t；[D] 자아내고。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53ac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa734-6b4d-11ee-8c5f-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "최근 새로 만들어진 교통 규칙이 사회적으로 물의를 ______ 있다.\n“[B] 빚고\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 빚고\t\t\t；[C] 일으키고\t\t；[D] 자아내고。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53ac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa735-6b4d-11ee-b710-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "최근 새로 만들어진 교통 규칙이 사회적으로 물의를 ______ 있다.\n“[C] 일으키고\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 빚고\t\t\t；[C] 일으키고\t\t；[D] 자아내고。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53ac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa736-6b4d-11ee-9d2e-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "최근 새로 만들어진 교통 규칙이 사회적으로 물의를 ______ 있다.\n“[D] 자아내고”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 빚고\t\t\t；[C] 일으키고\t\t；[D] 자아내고。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53b48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa737-6b4d-11ee-ab62-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그는 글공부를 하는 ______ 이곳저곳을 돌아다니면서 지도를 그렸다.\n“[A] 끈끈히\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 사이 사이\t\t；[C] 틈틈이\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53b48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa738-6b4d-11ee-8885-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그는 글공부를 하는 ______ 이곳저곳을 돌아다니면서 지도를 그렸다.\n“[B] 사이 사이\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 사이 사이\t\t；[C] 틈틈이\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53b48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa739-6b4d-11ee-a731-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그는 글공부를 하는 ______ 이곳저곳을 돌아다니면서 지도를 그렸다.\n“[C] 틈틈이\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 사이 사이\t\t；[C] 틈틈이\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53b48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa73a-6b4d-11ee-9d6c-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그는 글공부를 하는 ______ 이곳저곳을 돌아다니면서 지도를 그렸다.\n“[D] 낱낱이”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 사이 사이\t\t；[C] 틈틈이\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53b84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa73b-6b4d-11ee-94c3-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그들은 문제가 생길 때마다 시시비비를 ______ 시간을 허비해야 한다.\n“[A] 따지느라고\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 따지느라고\t；[B] 가리느라고\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53b84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa73c-6b4d-11ee-ac6e-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그들은 문제가 생길 때마다 시시비비를 ______ 시간을 허비해야 한다.\n“[B] 가리느라고\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 따지느라고\t；[B] 가리느라고\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53b84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa73d-6b4d-11ee-b0d5-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그들은 문제가 생길 때마다 시시비비를 ______ 시간을 허비해야 한다.\n“[C] 재느라고\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 따지느라고\t；[B] 가리느라고\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53b84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580aa73e-6b4d-11ee-a26d-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그들은 문제가 생길 때마다 시시비비를 ______ 시간을 허비해야 한다.\n“[D] 치느라고”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 따지느라고\t；[B] 가리느라고\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53bac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace3f-6b4d-11ee-a815-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 사람이 하도 화를 잘 내서 같이 있으면 또 화를 낼까봐 ______.\n“[A] 방황하다\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[C] 긴장되다\t\t；[D] 조마조마하다。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53bac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace40-6b4d-11ee-847e-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 사람이 하도 화를 잘 내서 같이 있으면 또 화를 낼까봐 ______.\n“[B] 하늘하늘하다\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[C] 긴장되다\t\t；[D] 조마조마하다。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53bac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace41-6b4d-11ee-9a20-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 사람이 하도 화를 잘 내서 같이 있으면 또 화를 낼까봐 ______.\n“[C] 긴장되다\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[C] 긴장되다\t\t；[D] 조마조마하다。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53bac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace42-6b4d-11ee-821b-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 사람이 하도 화를 잘 내서 같이 있으면 또 화를 낼까봐 ______.\n“[D] 조마조마하다”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[C] 긴장되다\t\t；[D] 조마조마하다。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53bde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace43-6b4d-11ee-b829-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "심찬수는 거기서부터 추리가 막히고 ______ 빠져드는 느낌이었다.\n“[A] 주객전도에\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[C] 미궁에\t\t\t；[D] 오리무중에。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53bde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace44-6b4d-11ee-8be5-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "심찬수는 거기서부터 추리가 막히고 ______ 빠져드는 느낌이었다.\n“[B] 산전수전에\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[C] 미궁에\t\t\t；[D] 오리무중에。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53bde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace45-6b4d-11ee-8561-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "심찬수는 거기서부터 추리가 막히고 ______ 빠져드는 느낌이었다.\n“[C] 미궁에\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[C] 미궁에\t\t\t；[D] 오리무중에。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53bde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace46-6b4d-11ee-98cc-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "심찬수는 거기서부터 추리가 막히고 ______ 빠져드는 느낌이었다.\n“[D] 오리무중에”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[C] 미궁에\t\t\t；[D] 오리무중에。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace47-6b4d-11ee-9154-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "아무리 화가 ______ 폭력을 사용하면 되겠어요? 말로 해야지요.\n“[A] 난다고\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 난다고\t\t；[D] 나기로서。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace48-6b4d-11ee-b886-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "아무리 화가 ______ 폭력을 사용하면 되겠어요? 말로 해야지요.\n“[B] 나므로\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 난다고\t\t；[D] 나기로서。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace49-6b4d-11ee-ab84-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "아무리 화가 ______ 폭력을 사용하면 되겠어요? 말로 해야지요.\n“[C] 나니까\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 난다고\t\t；[D] 나기로서。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace4a-6b4d-11ee-9020-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "아무리 화가 ______ 폭력을 사용하면 되겠어요? 말로 해야지요.\n“[D] 나기로서”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 난다고\t\t；[D] 나기로서。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace4b-6b4d-11ee-8ab2-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 매일 도서관에서 공부만 하던 책벌레가 이런 술집에 다 오고 웬 일이니?\n나: 나라고 매일 도서관에서만 ______\n\n“[A] 살라는 법 있니?\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 살라는 법 있니?\t\t\t\t\t；[D] 살아야 하나。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace4c-6b4d-11ee-aedf-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 매일 도서관에서 공부만 하던 책벌레가 이런 술집에 다 오고 웬 일이니?\n나: 나라고 매일 도서관에서만 ______\n\n“[B] 사는 법이 없을까?\t\t\n”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 살라는 법 있니?\t\t\t\t\t；[D] 살아야 하나。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace4d-6b4d-11ee-a87c-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 매일 도서관에서 공부만 하던 책벌레가 이런 술집에 다 오고 웬 일이니?\n나: 나라고 매일 도서관에서만 ______\n\n“[C] 살 수 있을까?\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 살라는 법 있니?\t\t\t\t\t；[D] 살아야 하나。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace4e-6b4d-11ee-b596-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 매일 도서관에서 공부만 하던 책벌레가 이런 술집에 다 오고 웬 일이니?\n나: 나라고 매일 도서관에서만 ______\n\n“[D] 살아야 하나”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 살라는 법 있니?\t\t\t\t\t；[D] 살아야 하나。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace4f-6b4d-11ee-80b1-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 이번에 상영한 영화는 관객이 많아서 표를 사기가 하늘의 별따기였대요.\n나: 관객수로 ______ 그 영화가 흥행에 크게 성공했다고 할 수 있겠군요.\n“[A] 알자면 \t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[C] 계산하면\t\t；[D] 따지면。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace50-6b4d-11ee-8dc1-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 이번에 상영한 영화는 관객이 많아서 표를 사기가 하늘의 별따기였대요.\n나: 관객수로 ______ 그 영화가 흥행에 크게 성공했다고 할 수 있겠군요.\n“[B] 확인하자면\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[C] 계산하면\t\t；[D] 따지면。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace51-6b4d-11ee-aae7-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 이번에 상영한 영화는 관객이 많아서 표를 사기가 하늘의 별따기였대요.\n나: 관객수로 ______ 그 영화가 흥행에 크게 성공했다고 할 수 있겠군요.\n“[C] 계산하면\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[C] 계산하면\t\t；[D] 따지면。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace52-6b4d-11ee-9107-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 이번에 상영한 영화는 관객이 많아서 표를 사기가 하늘의 별따기였대요.\n나: 관객수로 ______ 그 영화가 흥행에 크게 성공했다고 할 수 있겠군요.\n“[D] 따지면”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[C] 계산하면\t\t；[D] 따지면。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace53-6b4d-11ee-9a62-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 조건은 ______, 다른 조건은 어떤지 살펴 봅시다.\n\n“[A] 만족스럽다 치고\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 만족스럽다 치고\t\t\t\t\t；[B] 만족스럽다고 할 때\n。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace54-6b4d-11ee-9d9d-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 조건은 ______, 다른 조건은 어떤지 살펴 봅시다.\n\n“[B] 만족스럽다고 할 때\n”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 만족스럽다 치고\t\t\t\t\t；[B] 만족스럽다고 할 때\n。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace55-6b4d-11ee-9e87-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 조건은 ______, 다른 조건은 어떤지 살펴 봅시다.\n\n“[C] 만족스럽지만\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 만족스럽다 치고\t\t\t\t\t；[B] 만족스럽다고 할 때\n。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53c88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace56-6b4d-11ee-81cd-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 조건은 ______, 다른 조건은 어떤지 살펴 봅시다.\n\n“[D] 만족스러운 게 아니라”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 만족스럽다 치고\t\t\t\t\t；[B] 만족스럽다고 할 때\n。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53cb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace57-6b4d-11ee-b472-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그렇게 오래 여행하려고 한다니 준비할 게 ______\n\n“[A] 많지 않겠어?\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 많지 않겠어?\t\t\t\t\t\t；[C] 한둘이겠나?\t\t\t\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53cb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace58-6b4d-11ee-8098-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그렇게 오래 여행하려고 한다니 준비할 게 ______\n\n“[B] 한둘일 거야.\n”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 많지 않겠어?\t\t\t\t\t\t；[C] 한둘이겠나?\t\t\t\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53cb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace59-6b4d-11ee-b798-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그렇게 오래 여행하려고 한다니 준비할 게 ______\n\n“[C] 한둘이겠나?\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 많지 않겠어?\t\t\t\t\t\t；[C] 한둘이겠나?\t\t\t\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53cb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace5a-6b4d-11ee-9152-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그렇게 오래 여행하려고 한다니 준비할 게 ______\n\n“[D] 적을 거지”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 많지 않겠어?\t\t\t\t\t\t；[C] 한둘이겠나?\t\t\t\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53cd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace5b-6b4d-11ee-a1f0-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "이번 행사는 국악의 중요성을 ______ 수 있는 좋은 기회였다.\n\n“[A] 일컬을\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 깨달을\t\t\t；[D] 이해할。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53cd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace5c-6b4d-11ee-9f1b-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "이번 행사는 국악의 중요성을 ______ 수 있는 좋은 기회였다.\n\n“[B] 깨달을\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 깨달을\t\t\t；[D] 이해할。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53cd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace5d-6b4d-11ee-91dc-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "이번 행사는 국악의 중요성을 ______ 수 있는 좋은 기회였다.\n\n“[C] 여쭙을\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 깨달을\t\t\t；[D] 이해할。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53cd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace5e-6b4d-11ee-98ed-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "이번 행사는 국악의 중요성을 ______ 수 있는 좋은 기회였다.\n\n“[D] 이해할”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 깨달을\t\t\t；[D] 이해할。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace5f-6b4d-11ee-a90a-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "아저씨, 법을 ______면서까지 그렇게 해야 되겠어요?\n\n“[A] 어기\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 어기\t\t\t\t；[C] 위반하\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace60-6b4d-11ee-a159-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "아저씨, 법을 ______면서까지 그렇게 해야 되겠어요?\n\n“[B] 어긋나\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 어기\t\t\t\t；[C] 위반하\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace61-6b4d-11ee-94d7-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "아저씨, 법을 ______면서까지 그렇게 해야 되겠어요?\n\n“[C] 위반하\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 어기\t\t\t\t；[C] 위반하\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace62-6b4d-11ee-830d-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "아저씨, 법을 ______면서까지 그렇게 해야 되겠어요?\n\n“[D] 저버리”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 어기\t\t\t\t；[C] 위반하\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace63-6b4d-11ee-9f9d-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "오늘은 평소와는 달리 광장이 ______ 편이다.\n\n“[A] 비좁은\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 조용한\t\t\t；[C] 한적한\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace64-6b4d-11ee-80f0-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "오늘은 평소와는 달리 광장이 ______ 편이다.\n\n“[B] 조용한\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 조용한\t\t\t；[C] 한적한\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace65-6b4d-11ee-9b3d-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "오늘은 평소와는 달리 광장이 ______ 편이다.\n\n“[C] 한적한\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 조용한\t\t\t；[C] 한적한\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace66-6b4d-11ee-81e6-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "오늘은 평소와는 달리 광장이 ______ 편이다.\n\n“[D] 넓은”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 조용한\t\t\t；[C] 한적한\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace67-6b4d-11ee-abcd-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "경제가 발전하기 시작하면서 우리 환경은 차츰 오염되어 가고 있고 특히 수돗물 오염으로 인해서 여러가지 질병이 ______ 있다.\n\n“[A] 생기고\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 생기고\t\t\t；[B] 발생하고\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace68-6b4d-11ee-b246-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "경제가 발전하기 시작하면서 우리 환경은 차츰 오염되어 가고 있고 특히 수돗물 오염으로 인해서 여러가지 질병이 ______ 있다.\n\n“[B] 발생하고\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 생기고\t\t\t；[B] 발생하고\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace69-6b4d-11ee-888a-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "경제가 발전하기 시작하면서 우리 환경은 차츰 오염되어 가고 있고 특히 수돗물 오염으로 인해서 여러가지 질병이 ______ 있다.\n\n“[C] 줄어들고\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 생기고\t\t\t；[B] 발생하고\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace6a-6b4d-11ee-a5cf-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "경제가 발전하기 시작하면서 우리 환경은 차츰 오염되어 가고 있고 특히 수돗물 오염으로 인해서 여러가지 질병이 ______ 있다.\n\n“[D] 줄어들고”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 생기고\t\t\t；[B] 발생하고\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace6b-6b4d-11ee-8d20-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 일은 이렇게 ______ 미루다가 언제 시작할 건데?\n\n“[A] 차일피일\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 차일피일\t\t\t；[C] 이날저날\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace6c-6b4d-11ee-8432-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 일은 이렇게 ______ 미루다가 언제 시작할 건데?\n\n“[B] 전전긍긍\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 차일피일\t\t\t；[C] 이날저날\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace6d-6b4d-11ee-a782-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 일은 이렇게 ______ 미루다가 언제 시작할 건데?\n\n“[C] 이날저날\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 차일피일\t\t\t；[C] 이날저날\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53d82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace6e-6b4d-11ee-8893-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "그 일은 이렇게 ______ 미루다가 언제 시작할 건데?\n\n“[D] 학수고대”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 차일피일\t\t\t；[C] 이날저날\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53db4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace6f-6b4d-11ee-a731-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "나는 그와 어릴 적부터 ______ 그의 마음을 잘 안다.\n\n“[A] 친구인지라\t\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 친구인지라\t\t\t\t\t\t\t；[D] 친구이기 때문에。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53db4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace70-6b4d-11ee-9dc3-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "나는 그와 어릴 적부터 ______ 그의 마음을 잘 안다.\n\n“[B] 친구로서\n”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 친구인지라\t\t\t\t\t\t\t；[D] 친구이기 때문에。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53db4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace71-6b4d-11ee-a864-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "나는 그와 어릴 적부터 ______ 그의 마음을 잘 안다.\n\n“[C] 친구답게\t\t\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 친구인지라\t\t\t\t\t\t\t；[D] 친구이기 때문에。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53db4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace72-6b4d-11ee-97b9-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "나는 그와 어릴 적부터 ______ 그의 마음을 잘 안다.\n\n“[D] 친구이기 때문에”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 친구인지라\t\t\t\t\t\t\t；[D] 친구이기 때문에。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53ddc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace73-6b4d-11ee-b2b3-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "회사에 대한 공헌이 얼마나 ______ 보너스가 다릅니다.\n\n“[A] 큰가에 따라\t\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 큰가에 따라\t\t\t\t\t\t\t；[B] 큰가에 의해\t\n。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53ddc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580ace74-6b4d-11ee-ac4d-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "회사에 대한 공헌이 얼마나 ______ 보너스가 다릅니다.\n\n“[B] 큰가에 의해\t\n”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[A] 큰가에 따라\t\t\t\t\t\t\t；[B] 큰가에 의해\t\n。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53ddc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6d4-6b4d-11ee-896a-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "회사에 대한 공헌이 얼마나 ______ 보너스가 다릅니다.\n\n“[C] 큰지에 관해\t\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 큰가에 따라\t\t\t\t\t\t\t；[B] 큰가에 의해\t\n。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53ddc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6d5-6b4d-11ee-a8e7-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "회사에 대한 공헌이 얼마나 ______ 보너스가 다릅니다.\n\n“[D] 큰지에 대해”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[A] 큰가에 따라\t\t\t\t\t\t\t；[B] 큰가에 의해\t\n。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6d6-6b4d-11ee-b377-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "이 소식을 듣고 ______ 오히려 고소해하는 것 같았다.\n\n“[A] 슬퍼하기조차\t\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 슬퍼하는 게 아니라 \n；[D] 슬퍼하기는커녕。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6d7-6b4d-11ee-983e-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "이 소식을 듣고 ______ 오히려 고소해하는 것 같았다.\n\n“[B] 슬퍼하는 게 아니라 \n”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 슬퍼하는 게 아니라 \n；[D] 슬퍼하기는커녕。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6d8-6b4d-11ee-9d31-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "이 소식을 듣고 ______ 오히려 고소해하는 것 같았다.\n\n“[C] 슬퍼하기도\t\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 슬퍼하는 게 아니라 \n；[D] 슬퍼하기는커녕。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6d9-6b4d-11ee-a96b-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "이 소식을 듣고 ______ 오히려 고소해하는 것 같았다.\n\n“[D] 슬퍼하기는커녕”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 슬퍼하는 게 아니라 \n；[D] 슬퍼하기는커녕。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6da-6b4d-11ee-8eea-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 정부에서는 불평등한 소득 분배를 어떻게 개선하고 있습니까?\n나: 누진세를 도입하여 소득에 따라 세율을 달리 ______ 상속받은 재산에 대하여 많은 세금을 부과하기도 합니다.\n\n“[A]하기는 커녕\t\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 하기도 하고\n；[C] 하는가 하면\t\t\t\t\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6db-6b4d-11ee-ae23-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 정부에서는 불평등한 소득 분배를 어떻게 개선하고 있습니까?\n나: 누진세를 도입하여 소득에 따라 세율을 달리 ______ 상속받은 재산에 대하여 많은 세금을 부과하기도 합니다.\n\n“[B] 하기도 하고\n”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 하기도 하고\n；[C] 하는가 하면\t\t\t\t\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6dc-6b4d-11ee-8c0a-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 정부에서는 불평등한 소득 분배를 어떻게 개선하고 있습니까?\n나: 누진세를 도입하여 소득에 따라 세율을 달리 ______ 상속받은 재산에 대하여 많은 세금을 부과하기도 합니다.\n\n“[C] 하는가 하면\t\t\t\t\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 하기도 하고\n；[C] 하는가 하면\t\t\t\t\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6dd-6b4d-11ee-bb58-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 정부에서는 불평등한 소득 분배를 어떻게 개선하고 있습니까?\n나: 누진세를 도입하여 소득에 따라 세율을 달리 ______ 상속받은 재산에 대하여 많은 세금을 부과하기도 합니다.\n\n“[D] 하는 덕분에”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 하기도 하고\n；[C] 하는가 하면\t\t\t\t\t\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6de-6b4d-11ee-b265-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 이 생선회용 칼은 매우 예리하게 생겼군요.\n나: 저 분처럼 칼질하는 솜씨가 서투른 사람이 이 칼을 사용하다가는 자칫하면 손을 베기가 ______\n\n“[A] 쉽지 않다\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 쉽다\t\t\t；[C] 십상이다\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6df-6b4d-11ee-9aa5-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 이 생선회용 칼은 매우 예리하게 생겼군요.\n나: 저 분처럼 칼질하는 솜씨가 서투른 사람이 이 칼을 사용하다가는 자칫하면 손을 베기가 ______\n\n“[B] 쉽다\t\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 쉽다\t\t\t；[C] 십상이다\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6e0-6b4d-11ee-aaae-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 이 생선회용 칼은 매우 예리하게 생겼군요.\n나: 저 분처럼 칼질하는 솜씨가 서투른 사람이 이 칼을 사용하다가는 자칫하면 손을 베기가 ______\n\n“[C] 십상이다\t\t”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：[B] 쉽다\t\t\t；[C] 십상이다\t\t。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d53e68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "580af6e1-6b4d-11ee-a131-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "가: 이 생선회용 칼은 매우 예리하게 생겼군요.\n나: 저 분처럼 칼질하는 솜씨가 서투른 사람이 이 칼을 사용하다가는 자칫하면 손을 베기가 ______\n\n“[D] 어렵다”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：[B] 쉽다\t\t\t；[C] 십상이다\t\t。"
+	}
+]

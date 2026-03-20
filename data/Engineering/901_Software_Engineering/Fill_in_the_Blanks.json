@@ -1,0 +1,3156 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067abe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e23f90a-7084-11ee-af38-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在软件项目管理中，按照风险的影响范围可将风险分为：项目风险、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基本风险；特殊风险"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067bd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fbd-7084-11ee-b828-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "RUP强调采用______和______的方式来开发软件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "迭代；递增"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067c12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fbe-7084-11ee-914a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "能力成熟度模型（CMM）定义的能力成熟度等级包括：初始级、______、已定义级、______和持续优化级。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可重复级；已管理级"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067c44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fbf-7084-11ee-a079-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件生命周期的一种典型的阶段划分为：______、______、需求分析、概要设计、详细设计、编码、测试和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "问题定义；可行性研究；维护"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067c6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc0-7084-11ee-a598-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "调试可理解为把症状和______联系起来的智力过程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "原因"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067c9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc1-7084-11ee-9731-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据流的类型主要包括______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "变换型；事务型"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067cd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc2-7084-11ee-9980-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件工程需要解决的问题有______、______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "软件费用；软件可靠性；软件可维护性；软件生产率；软件重用"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc3-7084-11ee-b612-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件工程是用科学知识和技术原理来______、______、______软件的一门学科。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "定义；开发；维护"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067d2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc4-7084-11ee-8bfb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为一门交叉学科，软件工程具有很强的综合性，它涉及______、______、______、______等领域。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "计算机科学；工程科学；管理科学；数学"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc5-7084-11ee-ac9c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "计算机程序及其说明程序的各种文档称为______。计算任务的处理对象和处理规则的描述称为______。有关计算机程序功能、设计、编制、使用的文字或图形资料称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "文件；程序；文档"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067d84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc6-7084-11ee-ad36-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "喷泉模型是一种以______为动力，以______作为驱动的模型，适合于______的开发方法。它克服了瀑布模型不支持软件重用和多项开发活动集成的局限性。喷泉模型使开发过程具有______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "用户需求；对象；面向对象；迭代性；无间隙性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc7-7084-11ee-a7c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "螺旋模型将______模型和______模型结合起来，加入了两种模型均忽略了的风险分析，弥补了这两种模型的不足。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "瀑布；增量"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc8-7084-11ee-ae0c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前有若干种软件生存周期模型，例如______模型、______模型、______模型、______模型、______模型和______模型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "瀑布；增量；螺旋；喷泉；变换；基于知识的"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fc9-7084-11ee-8cae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "增量构造模型是指，在前面的开发阶段按______进行______，后面的开发阶段按______开发。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "瀑布模型；整体开发；增量方式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fca-7084-11ee-aada-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "构造原型的技术主要有______、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可执行的规格说明；基于脚本的设计；采用非常高级语言或专门语言；能重用软件"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067e56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fcb-7084-11ee-8e2c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于演化型，用原型过程代替______阶段。这是典型的演化提交模型的形式，它是在强有力的______支持下，通过原型过程的______，直接得到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全部开发；软件工具和环境；反复循环；软件系统"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067e88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fcc-7084-11ee-b0e0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "快速原型是利用原型辅助软件开发的一种新思想。经过简单______，______一个原型，用户与开发者在______过程中加强通信与反馈，通过______，减少误解，弥补遗漏，适应变化，最终提高软件质量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "快速分析；快速实现；试用原型；反复评价和改进原型"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067eb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fcd-7084-11ee-bf8b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "探索型类型的原型模型主要针对开发______、______的情况，通过对原型的开发来明确______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "目标模糊；用户与开发者对项目都缺乏经验；用户的需求"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067ed8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fce-7084-11ee-9d41-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "快速原型模型根据原型的不同作用，有______原型、______原型、______原型三类原型模型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "探索型；实验型；演化型"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067f00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fcf-7084-11ee-b1df-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "增量模型根据增量的方式和形式的不同，分为______模型和______模型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "渐增；原型"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067f32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd0-7084-11ee-afda-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "瀑布模型属于______开发模型，增量模型属于______开发模型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "整体；非整体"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067f5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd1-7084-11ee-a1b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "可行性研究的目的不是去开发一个软件项目，而是研究这个软件项目是否______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "值得去开发，其中的问题能否解决"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067f82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd2-7084-11ee-8e60-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "可行性研究需要从______可行性、______可行性、______可行性三个方面分析研究每种解决方法的可行性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "技术；经济；社会"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067fb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd3-7084-11ee-9d68-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "技术可行性一般要考虑的情况包括______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "开发的风险；资源的有效性；技术"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35067fdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd4-7084-11ee-9017-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会可行性所涉及的范围包括______、______、______、用户组织的管理模式、规范及其他一些技术人员常常不了解的陷阱等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "合同；责任；侵权"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506800e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd5-7084-11ee-8e36-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个可行性研究报告的主要内容如下：引言、可行性研究的前提、对现有系统的分析、______、______、______、其他可供选择方案、结论意见。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所建议系统的技术可行性分析；所建议系统的经济可行性分析；社会因素可行性分析"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068036-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd6-7084-11ee-a992-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "成本-效益分析首先是估算将要开发的系统的______，然后与可能取得的效益进行______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "开发成本；比较和权衡"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068068-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd7-7084-11ee-b652-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "系统流程图用图形符号表示系统中各个元素，表达了系统中各种元素之间的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "信息流动"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068090-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd8-7084-11ee-8c7b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "可行性研究具体步骤的最后一步是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "编写可行性报告"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350680b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fd9-7084-11ee-88ce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "成本-效益分析的目的是从______评价开发一个新的软件项目是否可行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济角度"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350680ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e244fda-7084-11ee-bd36-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "可行性研究的第一个具体步骤是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "确定项目的规模和目标"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068112-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b09-7084-11ee-9aac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "系统流程图是描绘物理系统的传统工具，它用______来表示系统中的各个元素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "图形符号"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506813a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b0a-7084-11ee-bcbc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据流图有四个基本成分：______、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据流；加工（又称为数据处理）；数据存储；数据的源点或终点"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506816c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b0b-7084-11ee-bcae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据字典中的加工逻辑主要描述该加工______，即实现加工的策略，而不是实现加工的细节，它描述如何把输入数据流变量变换为输出数据流的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“做什么”；加工规则"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068194-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b0c-7084-11ee-98f9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在数据流图中，______是数据在系统内传播的路径，因此由一组______组成。加工（又称为数据处理），是对数据流进行某些______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据流；成分固定的数据项；操作或变换"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350681bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b0d-7084-11ee-b301-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据字典有以下四类条目：______、______、______、______、______是组成数据流和数据存储的最小元素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据流；数据项；数据存储；基本加工；数据项"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350681ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b0e-7084-11ee-991a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "需求分析的基本任务是要准确地定义______，为了满足用户需要，回答系统必须______的问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "新系统的目标；“做什么”"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068216-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b0f-7084-11ee-96ce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在进行可行性研究和软件计划以后，如果确认开发一个新的软件系统是必要的而且是可能的，那么就进入______阶段。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "需求分析"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506823e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b10-7084-11ee-b084-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "需求分析阶段所要编写的文档有______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "需求规格说明书；初步用户使用手册；确认测试计划"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068270-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b11-7084-11ee-879d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "需求分析的困难主要体现在四个方面：问题的复杂性、______、______、需求易变性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "交流障碍；不完备性和不一致性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068298-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b12-7084-11ee-8ea3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在分析需求阶段要进行以下几方面的工作：问题识别、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分析与综合；导出软件的逻辑模型；编写文档"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350682ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b13-7084-11ee-af46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "形式化是软件自动化发展的基础。形式化方法是将需求规格说明用______来描述。典型的有______及______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "形式规约语言；基于模型的Z语言；VDM开发方法（维也纳开发方法）"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350682f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b14-7084-11ee-ab34-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "经过需求分析，开发人员已经基本上理解了用户的要求，确定了目标系统的功能，定义了系统的数据，描述了处理这些数据的基本策略。将这些共同的理解进行整理，最后形成文档______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "需求说明书"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506831a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b15-7084-11ee-8aa9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在需求分析阶段，首先进行问题识别，即双方确定对问题的综合需求，这些需求包括______、______、______、______。另外还有可靠性、安全性、保密性、可移植性、可维护性等方面的需求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "功能需求；性能需求；环境需求；用户界面需求"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506834c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b16-7084-11ee-b09a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "需求分析是指，开发人员要准确理解______，进行细致的______，将用户非形式的需求陈述转化为______，再由______转换到相应的形式功能规约（需求规格说明）的过程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "用户的要求；调查分析；完整的需求定义；需求定义"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068374-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b17-7084-11ee-a6b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结构化分析方法是面向______进行需求分析的方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据流"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506839c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b18-7084-11ee-aeb8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "形式化规约的目标是______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "无二义性；一致性；完整性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350683ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b19-7084-11ee-8737-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "形式化规约语言由______、______和______组成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语法；语义；一组关系"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350683f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b1a-7084-11ee-8eed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主要有两种方法来建立有限状态机，一种是“______”，另一种是“______”，分别用______方式和______方式建立有限状态机。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "状态转移图；状态转移表；图形；表格"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068428-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b1b-7084-11ee-b759-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Petri网模型可以表示______和______方面的信息。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "系统结构；动态行为"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068450-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b1c-7084-11ee-a91d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Petri网理论认为，任何系统是由两类基本元素组成：一类是表示______的元素，另一是表示______的元素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "状态；状态变化"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068482-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b1d-7084-11ee-a61d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Petri网的行为特性分析方法可分______、______、______三类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可覆盖性树；矩阵方程求解；分层或化简"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350684aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b1e-7084-11ee-8742-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "经典的语义定义方法包括______、______和______方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指称语义；代数语义；操作语义"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350684dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b1f-7084-11ee-a599-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "规约语言的语义域指出语言如何表示______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "系统需求"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068504-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b20-7084-11ee-bb5b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在软件的体系结构中，模块是可组合、分解和更换的单元。模块具有______、______、______和______等属性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "接口；功能；逻辑；状态"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506852c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b21-7084-11ee-894e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件结构的设计是以______为基础的，以需求分析的结果为依据，从实现的角度经进一步划分为______，并组成模块的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "模块；模块；层次结构"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506855e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b22-7084-11ee-be04-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在大型数据处理系统的功能分析与设计中，同时要进行数据分析和数据设计。数据库的“概念设计”与“逻辑设计”分别对应于系统开发中的______与______，而数据库的“物理设计”与模块的______相对应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "需求分析；概要设计；详细设计"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068586-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b23-7084-11ee-821a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在一个模块中，______、______和______反映模块的外部特性，______反映它的内部特性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "功能；状态；接口；逻辑"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350685b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b24-7084-11ee-9f5b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设计软件结构，具体为：（1）采用某设计方法，将一个复杂的系统按功能划分成______。（2）确定每个模块的______。（3）确定模块之间的______。（4）确定模块之间的______，即模块之间传递的信息。（5）评价模块结构的质量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "模块；功能；调用关系；接口"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350685e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b25-7084-11ee-b86c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是指解决一个复杂问题时自顶向下逐层把软件系统划分成若干模块的过程。每个模块完成一个特定的______，所有的模块按某方法______起来，成为一个整体，完成整个系统所要求的功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "模块化；子功能；组装"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068608-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b26-7084-11ee-854c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "内聚性有六种类型：______、______、______、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偶然内聚；逻辑内聚；时间内聚；通信内聚；顺序内聚；功能内聚"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506863a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b27-7084-11ee-8b4f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "模块的耦合性分为六种类型：______、______、______、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "无直接接口；数据耦合；标记耦合；控制耦合；规格耦合；内容耦合"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068662-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b28-7084-11ee-b4a6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______指两个模块之间传递的是数据结构，如高级语言中的数组名、记录名、文件名等这些名字即为标记，其实传递的是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标记耦合；这个数据结构的地址"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506868a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b29-7084-11ee-8fd4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结构图的主要内容有______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "模块；模块的控制关系；模块的信息传递"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350686bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b2a-7084-11ee-9b05-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______指一个模块内的各处理元素之间没有任何联系。这是内聚程度最______的内聚。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偶然内聚；差"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350686e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b2b-7084-11ee-a02c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "通信内聚是指模块内所有处理元素都在______上操作，有时称之为______，或者指各处理使用相同的______或者产生相同的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同一个数据结构；信息内聚；输入数据；输出数据"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068716-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b2c-7084-11ee-8e86-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "控制耦合中一个模块调用另一个模块时，传递的是______（如开关、标志等），被调模块通过______有选择地执行模块内某一功能。因此被调模块内应具有多个功能，哪个起作用受其______的控制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "控制变量；该控制变量的值；调用模块"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506873e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b2d-7084-11ee-b83d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若某个加工将它的输入流分离成许多发散的数据流，形成许多加工路径，并根据输入的值选择其中一个路径来执行，这种特征的DFD称为______的数据流图，这个加工称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事务型；事务处理中心"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068770-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b2e-7084-11ee-8c3e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "模块的______指一个模块直接下属模块的个数，______指一个模块直接上属模块的个数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "扇出；扇入"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068798-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b2f-7084-11ee-a71b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个模块的作用范围指受该模块内______影响的所有模块的集合。一个模块的控制范围指______及其______的集合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一个判定；模块本身；所有下属模块（直接或间接从属于它的模块）"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350687c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b30-7084-11ee-b4a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结构图的深度指结构图______，也是模块的______，结构宽度指______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "控制的层次；层数；一层中最大的模块个数"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068806-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b31-7084-11ee-9939-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "模块间还经常用带注释的短箭头表示模块调用过程中来回传递的信息。有时箭头尾部带空心圆的表示传递的是______，带实心圆的表示传递的是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据；控制信息"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068842-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b32-7084-11ee-96ff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "详细设计的目标不仅是逻辑上正确地实现______，还应使设计出的处理过程______。______是实现该目标的关键技术之一，它指导人们用良好的思想方法开发易于______、易于______的程序。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "每个模块的功能；清晰易读；结构化程序设计；理解；验证"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068888-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b33-7084-11ee-8d18-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "PAD图清晰地反映了程序的层次结构，图中的竖线为程序的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "层次线"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506898c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b34-7084-11ee-b1f9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "程序流程图又称为______，应由______顺序组合和完整嵌套而成，不能有______的情况，这样的流程图是______的流程图。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序框图；三种基本控制结构；相互交叉；结构化"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350689d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b35-7084-11ee-b33b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Jackson方法可用______、______、______三种基本结构来表示。Jackson方法中的伪码也称______，与Jackson所示的______图完全对应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "顺序；选择；重复；图解逻辑；程序结构"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068a18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b36-7084-11ee-a6f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "20世纪70年代中期出现了“面向数据结构”的设计方法，其中有代表性的是______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Jackson方法；Warnier方法"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068a68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b37-7084-11ee-838f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在JSP设计中，需要找出输入数据结构和输出数据结构中有对应关系的数据单元。“对应关系”指这些数据单元在______上、______上和______上有直接的______，对于重复数据单元，重复的______和______都相同才有对应关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据内容；数量；顺序；因果关系；次序；次数"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068aae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b38-7084-11ee-b498-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在详细设计阶段，为了提高数据的输入、存储、检索等操作的效率并节约存储空间，对某些数据项的值要进行______设计。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "代码"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068af4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b39-7084-11ee-914c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "详细描述处理过程常用的三种工具是______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "图形；表格；语言"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068b44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b3a-7084-11ee-9324-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了克服流程图的最大缺陷，要求流程图都应由三种基本控制结构______组合和______嵌套而成，不能有相互______的情况，这样的流程图是结构化的流程图。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "顺序；完整；交叉"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068b8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b3b-7084-11ee-b91e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "详细设计是软件设计的第二阶段，主要确定每个模块______，故也称______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "具体设计过程；过程设计"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068bda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b3c-7084-11ee-accc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在详细设计阶段，除了对模块内的算法进行设计，还应对模块内的______进行设计。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据结构"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068c20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b3d-7084-11ee-92c8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用JSP方法导出程序结构后，还要列出______，并把它们分配到程序结构图的适当位置上去。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "操作与条件"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068c66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b3e-7084-11ee-8251-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在详细设计阶段，经常采用的工具有______、______、______等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序流程图；PDL；PAD图"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068cac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b3f-7084-11ee-a03f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "PDL具有严格的关键字外语法，用于定义______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "控制结构；数据结构；模块接口"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068ce8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b40-7084-11ee-ba18-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "详细设计的基本任务是为每个模块进行详细的______；为模块内的______进行设计；对______进行物理设计；其他设计；编写详细设计说明书和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "算法设计；数据结构；数据库；评审"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068d38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b41-7084-11ee-9dba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件产品在交付使用之前一般要经过以下四步测试：______、______、______、和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单元测试；集成测试；确认测试；系统测试"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068d7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b42-7084-11ee-a108-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "使用边界值分析方法设计测试用例时一般与______结合起来。但它不是从一个等价类中任选一个例子作为代表，而是将测试边界情况作为重点目标，选取______、______或______边界值的测试数据。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "等价类划分；正好等于；刚刚大于；刚刚小于"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068dc4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b43-7084-11ee-af0e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "确认测试又称______。它的任务是检查软件的______与______是否与______中确定的指标相符合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有效性测试；功能；性能；需求规格说明书"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068e00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b44-7084-11ee-83c5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在设计测试用例时，追求程序逻辑覆盖程度的几种常用覆盖技术为______、______、______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语句覆盖；判定覆盖；条件覆盖；判定／条件覆盖；条件组织覆盖；路径覆盖"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068e46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b45-7084-11ee-ba13-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在McCall质量度量模型中，针对面向软件产品的运行、修改、转移，软件质量概念包括十一个特性，面向软件产品操作的五个特性是______、______、______、______和______。面向软件产品修改的三个特性是______、______和______。面向软件产品适应的三个特性是______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确性；可靠性；效率；完整性；可用性；可维护性；可测试性；适应性；可移植性；可重用性；可互操作性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068e82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b46-7084-11ee-b7af-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "常借用硬件可靠性的定量度量方法来度量软件的可靠性与可用性。常用指标有______与______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "平均失效等待时间MTTF；平均失效间隔时间MTBF"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068ec8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b47-7084-11ee-b70f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用等价类划分的方法设计测试用例的步骤为______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "划分等价类；确定测试用例"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068f0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b48-7084-11ee-9c2d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "集成测试是指在______的基础上，将所有模块按照设计要求______成一个完整的系统进行的测试，故也称______或______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单元测试；组装；组装测试；联合测试"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068f5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b49-7084-11ee-9d23-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "渐增式测试有以下两种不同的组装模块的方法：______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自顶向下结合；自底向上结合"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35068fa4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b4a-7084-11ee-b2e4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自顶向下结合的渐增式测试法，在组合模块时有两种组合策略：______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "深度优先策略；宽度优先策略"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069012-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b4b-7084-11ee-a635-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "单元测试指对源程序中每一个______进行测试，检查各个模块是否正确实现______，从而发现模块在______的错误。该阶段涉及______的文档。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序单元；规定的功能；编码中或算法中；编码和详细设计"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069062-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b4c-7084-11ee-9625-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件测试时需要的三类信息，分别是______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "软件配置；测试配置；测试工具"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350690a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b4d-7084-11ee-b836-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实现容错技术的主要手段是______。通常冗余技术分为______冗余、______冗余、______冗余、______冗余四类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "冗余；结构；信息；时间；附加技术"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350690d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b4e-7084-11ee-bf4c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件复杂性主要表现在______。______主要指模块内程序的复杂性。它直接关系到______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序的复杂性；程序的复杂性；软件开发费用的多少；开发周期长短；软件内部潜伏错误的多少"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069102-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b4f-7084-11ee-830b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "动态测试指通过______发现错误。对软件产品进行动态测试时，使用______法和______法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "运行程序；黑盒测试；白盒测试"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506912a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b50-7084-11ee-b525-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件测试的目的是______，调试的目的是______，并______，因此调试也称为 ______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尽可能多地发现程序中的错误；确定错误的原因和位置；改正错误；纠错"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069152-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b51-7084-11ee-9c44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "采用黑盒技术设计测试用例的方法一般有______、______、______、______等四种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "等价类划分；边界值分析；错误推测；因果图"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069184-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b52-7084-11ee-a6a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "静态测试是指______不在机器上运行，而是采用______和______的手段对程序进行检测。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "被测试程序；人工检测；计算机辅助静态分析"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350691b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b53-7084-11ee-b0f8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "基本路径测试是在______的基础上，通过分析控制构造的______，导出______集合，从而设计测试用例，保证这些路径至少通过一次。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序控制流程图；环路复杂性；基本路径"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350691de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b54-7084-11ee-a0c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "McCabe质量度量模型，针对面向软件产品的运行、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "修正；转移"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069210-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b55-7084-11ee-8fe6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件可维护性可用下面七个质量特性来衡量，即______、______、______、______、______、______和______。对于不同类型的维护，这七种特性的侧重点也不同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可理解性；可测试性；可修改性；可靠性；可移植性；可使用性；效率"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069238-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b56-7084-11ee-9d79-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了支持应用软件系统，通常需要的文档有______文档、______文档、______文档、______文档、______文档。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "用户；操作；数据；程序；历史"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506926a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b57-7084-11ee-a610-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件维护的内容有______维护、______维护、______维护和______维护四种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "校正性；适应性；完善性；预防性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069292-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b58-7084-11ee-aba2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "维护的副作用有______副作用、______副作用、______副作用三种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "编码；数据；文档"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350692c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b59-7084-11ee-947e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了保证可维护性，以下四类检查是非常有用的，这四类检查是______、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在检查点进行检查；验收检查；周期性的维护检查；对软件包的检查"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350692f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b5a-7084-11ee-8151-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必须在软件交付之前对整个______进行______，以减少文档副作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "软件配置；评审"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506931e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b5b-7084-11ee-9ffa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件可维护性是指软件功能被______、______、______的容易程度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "理解；校正；适应及增强功能"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069350-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b5c-7084-11ee-ac93-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了使应用软件适应计算机硬件、软件及数据环境所发生的变化而修改软件的过程称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适应性维护"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069378-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b5d-7084-11ee-8890-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件的______、______、______是衡量软件质量的几个主要特性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可维护性；可使用性；可靠性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350693aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e247b5e-7084-11ee-a968-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在软件维护中，因修改软件而导致出现的错误或其他情况称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维护的副作用"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350693d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a248-7084-11ee-9579-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件维护的流程为______、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "制定维护申请报告；审查申请报告并批准；进行维护并做详细记录；复审"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069404-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a249-7084-11ee-af68-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用于软件维护工作的活动可分为两种：______活动包括分析评价、修改设计和编写程序代码等。______活动包括理解程序代码功能、解释数据结构、接口特点和设计约束。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生产性；非生产性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506942c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a24a-7084-11ee-aeb0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对象的抽象是______，类的实例化是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "类；对象"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506945e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a24b-7084-11ee-b6c3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对象具有封装性，实现了______的组合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据和操作"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069490-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a24c-7084-11ee-a102-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "抽象是指强调实体的______、______，忽略一些无关紧要的属性。类实现了对象的______和______的抽象，它是对象的共性的抽象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "本质；内在的属性；数据（即状态）；行为"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350694b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a24d-7084-11ee-b7eb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类具有______，它是______的行为的抽象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "操作；对象"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350694ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a24e-7084-11ee-9c01-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "面向对象有三个基本要素，它们是______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抽象；封装性（信息隐蔽）；共享性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506951c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a24f-7084-11ee-8940-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "封装性是指所有软件部件内部都有明确的______以及清楚的______。每个软件部件都有友好的______，软件部件的______与______分离。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "范围；外部边界；界面接口；内部实现；外部可访问性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506954e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a250-7084-11ee-8c3f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对象还有______，用于改变对象的状态。对象实现了______和______的结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "行为；数据；操作"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069576-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a251-7084-11ee-84ec-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类具有属性，描述类的属性用______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据结构"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350695a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a252-7084-11ee-a9f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "通过______这种机制和构造来实现不同应用中的信息共享。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "类库"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350695d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a253-7084-11ee-a6d0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "面向对象的特征是______、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对象唯一性；分类性；继承性；多态性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069602-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a254-7084-11ee-bace-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用例图面向______、______、______、______，是系统模型图的核心。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "客户；建模人员；开发人员；测试人员"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069634-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a255-7084-11ee-84c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "聚集是一种“______”关系。聚集最重要的性质是______，也具有______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "整体一部分；传递性；逆对称性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506965c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a256-7084-11ee-be5d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在类层次中，子类只继承一个父类的数据结构和方法，则称为______。子类继承了多个父类的数据结构和方法，则称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单重继承；多重继承"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506968e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a257-7084-11ee-bd70-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主要的对象类型有______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有形实体；作用；事件；性能说明"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350696c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a258-7084-11ee-98dc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在类描述模板中，应该给出每个属性的详细说明，主要包括下述信息：______、______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "属性的说明；属性的数据类型；属性所体现的关系；实现要求及其他"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350696e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a259-7084-11ee-929c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是系统一个特定执行期间所发生的事件序列。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "脚本"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506971a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a25a-7084-11ee-885a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "功能模型描述系统内的计算，它和______、______共同构成系统模型结构的三大支柱。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对象模型；动态模型"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069742-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a25b-7084-11ee-940e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "状态是对象的______、______的一种抽象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "属性值；链接"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069774-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a25c-7084-11ee-8bcb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在对象模型中，访问操作是直接从类的______和______中导出的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "属性；关联"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350697a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a25d-7084-11ee-a4cf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对象模型为建立______和______，提供了实质性框架。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "动态模型；功能模型"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350697ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a25e-7084-11ee-80c0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "功能模型由多个______组成，每个______说明了操作和结束的含义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "数据流图；数据流图"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069800-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a25f-7084-11ee-a47c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "功能模型由多张数据流图组成。数据流图中包含______、______、______对象和______对象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "处理；数据流；动作；数据存储"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069828-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a260-7084-11ee-925c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "事件跟踪图用来表示______、______对象和______对象。______和______可用一条垂直线表示，各______用水平箭头表示，箭头方向是从______对象指向______对象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事件；事件的接收；发送；接收对象；发送对象；事件；发送；接收"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506985a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a261-7084-11ee-9911-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "状态转换图是______的重要工具。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "启发分析员认识对象服务"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3506988c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a262-7084-11ee-84fe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明一个状态可采用______、______、______、______、______等内容描述。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "状态名；状态目的描述；产生该状态的事件序列；表示状态特征的事件；在状态中接收的条件"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350698b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a263-7084-11ee-89aa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对象的服务可分为______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外部服务；内部服务"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069af8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a264-7084-11ee-bc22-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不同取值所构成的组合都可看作对象的一种新的状态。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对象的每个属性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069be8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a265-7084-11ee-8a45-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果在一个服务中包括了多项可独立定义的功能，则它是______，应尝试把它分解为多个服务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "低内聚的"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069c24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a266-7084-11ee-b579-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______应尽可能准确地反映该服务的职能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "服务名"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069c56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a267-7084-11ee-acfe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "属性的定义是______，服务的定义______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "描述对象静态特征的一个数据项；服务是描述对象动态特征（行为）的一个操作序列"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069c7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a268-7084-11ee-8bfe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主动对象的类称作______，它和主动对象的关系就像类和它们的对象一样。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主动类（Active Class）"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069cb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a269-7084-11ee-bd42-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类通常有两种主要的结构关系，即______关系和______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一般-具体结构；整体-部分结构"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069cd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a26a-7084-11ee-8218-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "问题域中事物的特征可分为______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "静态；动态"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069d0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a26b-7084-11ee-a225-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______最直接地体现系统责任并实现用户需求的成分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对象的服务"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069d32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a26c-7084-11ee-b576-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是对象现有属性的某些特殊值。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对象的状态"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069d64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a26d-7084-11ee-8ac0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件项目计划是由______和______共同经过______阶段后制定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "系统分析员；用户；可行性研究与计划"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069d8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a26e-7084-11ee-a8d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "成本估算是在软件项目开发之前，估算项目开发所需的______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经费；资源；开发进度"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069dbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a26f-7084-11ee-99c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "成本估算方法中，有自顶向下估算方法、自底向上估算方法和______方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "差别估算"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069de6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a270-7084-11ee-9878-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "参照以前完成的项目所耗费的总成本，来推算将要开发的软件的总成本，然后把它们按阶段、步骤和工作单元进行分配，这种方法称为______方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自顶向下估算"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069e0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a271-7084-11ee-bd69-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "基线的作用是把各阶段的开发工作划分得更加明确，便于检查与确认阶段成果。因此，基线可以作为项目的一个______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "检查点"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069e40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a272-7084-11ee-87e8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工程网络图是一种______图，该图中用______表示事件，有向弧或箭头表示子任务的进行，箭头上的数字称为______，箭头下面括号中的数字表示该任务的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有向；圆；权；机动时间"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069e68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a273-7084-11ee-bf50-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "风险分析实际上就是贯穿在软件工程中的一系列风险管理步骤，其中包括______、______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "风险识别；风险估计；风险管理策略；风险解决；风险监督"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069e90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a274-7084-11ee-9077-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件配置项（SCI）是软件工程中产生的______，它是配置管理的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "信息项；基本单位"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069ec2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a275-7084-11ee-a851-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "变更控制包括建立______和建立______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "控制点；报告与审查制度"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069eea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a276-7084-11ee-be75-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工程网络只有一个开始点和一个终止点，开始点没有流入箭头，称为______为零。终止点没有流出箭头，称为______为零。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "入度；出度"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069f1c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a277-7084-11ee-9d8f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "差别估算的优点是可以提高______，缺点是不容易明确“差别”的界限。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "估算的准确度"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35069f44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e24a278-7084-11ee-9d74-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "软件项目计划包括两个任务：研究与估算。即通过研究确定______，估算______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "该软件项目的主要功能性能和系统界面；项目开发所需的经费和所要使用的资源以及开发进度"
+	}
+]

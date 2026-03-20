@@ -1,0 +1,287 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35351428-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "79502bbe-72de-11ee-8161-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "糖酵解过程中存在______步底物水平磷酸化反应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2\n糖酵解过程中，有两步底物水平磷酸化。第一次底物水平磷酸化：1,3-二磷酸甘油酸+ADP在磷酸甘油酸激酶催化下生成3-磷酸甘油酸+ATP。第二次底物水平磷酸化：磷酸烯醇式丙酮酸+ADP在丙酮酸激酶催化下生成丙酮酸+ATP。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35351536-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131a4-72de-11ee-b0a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "酵母菌发酵产生乙醇所用的主要代谢通路是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "糖酵解\n乙醇发酵是指在厌氧条件下，微生物通过糖酵解过程将葡萄糖转化为丙酮酸，丙酮酸进一步脱羧形成乙醛，乙醛最终被还原成乙醇的过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35351572-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131a5-72de-11ee-afd4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "合成儿茶酚胺类激素的氨基酸前体主要是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酪氨酸\n儿茶酚胺类激素的合成前体均为酪氨酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353515a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131a6-72de-11ee-9a4c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "核苷酸合成时，GMP是由______核苷酸转变而来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "次黄嘌呤\n嘌呤核苷酸从头合成时先合成次黄嘌呤核苷酸(IMP),然后由IMP再分别转变成AMP和GMP。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353515cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131a7-72de-11ee-9a4a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "别嘌呤醇抑制______酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "黄嘌呤氧化\n人体内，嘌呤在一些氧化酶的催化下，经过一系列代谢变化，形成尿酸。抑制这些氧化酶的活性，可以减少或抑制尿酸合成；别嘌呤醇通过抑制黄嘌呤氧化酶，阻止嘌呤氧化过程，从而减少尿酸生成，达到降低血液和尿液中尿酸浓度的目的，可以治疗痛风。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353515fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131a8-72de-11ee-ad90-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "大肠杆菌DNA连接酶要求______参与，哺乳动物的DNA连接酶要求______参与。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "NAD+；ATP\n大肠杆菌和其他细菌的DNA连接酶以NAD+作为能量来源；动物细胞和噬菌体的连接酶则以ATP作为能量来源。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35351626-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131a9-72de-11ee-be0d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一分子葡萄糖有______个羟基。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "5\n葡萄糖是2,3,4,5,6-五羟己醛。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35351658-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131aa-72de-11ee-bf5e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "甘油、磷脂和甘油三酯三种物质中最可能形成胶束(micelle)的是______。该物质通过______形成胶束。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "甘油三酯；脂溶性蛋白\n胶束：表面活性剂分子的亲脂尾端聚于胶束内部，避免与极性的水分子接触；分子的极性亲水头端则露于外部，与极性的水分子发生作用，并对胶束内部的憎水基团产生保护作用。形成胶束的化合物一般为两亲分子，因此一般胶束除可溶于水等极性溶剂以外，还能以反胶束的形式溶于非极性溶剂中。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35351680-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131ab-72de-11ee-9814-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "氨基酸与水合印三酮反应，除脯氨酸以外反应产物的颜色是______色，脯氨酸与水合印三酮的反应则显示亮黄色。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "紫\n茚三酮在酸性的还原性环境下能与氨基酸、蛋白质中的α-氨基迅速反应，产物罗曼紫在波长560~580nm有吸收峰。脯氨酸和羟脯氨酸没有自由的α-氨基，与茚三酮反应产生(亮)黄色物质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353516a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131ac-72de-11ee-b232-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Arg的pI值为10.76,将其溶于pH=7的缓冲液的电场中，则Arg向电场______极方向移动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正\npH>pI,氨基酸带负电荷，在电场中向正极移动；pH<pI,氨基酸带正电荷，在电场中向负极移动。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353516da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131ad-72de-11ee-9d1a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "细胞色素c的等电点为10,血红蛋白的等电点为7.1,在pH8.5的溶液中它们分别会带______电荷和______电荷。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正；负\n某种蛋白质处于等电点时，其净电荷为零。pH高于等电点，说明溶液中氢氧根离子较多，促进分子给出氢离子变为负离子而带负电，反之则带正电。所以pH为"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35351702-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131ae-72de-11ee-a364-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "测定蛋白质浓度的方法有______、______和______等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凯氏定氮法；紫外分光光度法；双缩脲法\n测定蛋白质浓度的方法，即一定体积下的蛋白质定量方法，常用的方法有凯氏定氮法、双缩脲法、Folin-酚试剂法、紫外吸收法和考马斯亮蓝染色法等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35351734-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131af-72de-11ee-a86d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "酶的反应速度可用单位时间内______或______来表示，但从测定准确性来看，以______为好。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反应物的减少量；产物的增加量；单位时间内产物的增加量\n速度阶段，底物的减少量小于5%,难以准确测定；而产物的增加是从无到有，只要测定方法足够灵敏，就可以准确测定，因此酶反应速度一般用单位时间内产物的增加量来表示。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3535175c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131b0-72de-11ee-9cce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Nucleoside和Nucleotide的差别是有无______基团。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "磷酸\nNucleoside的中文名称是核苷酸；Nucleotide的中文名称是核苷。用核酸酶水解核酸可得到核苷酸，核苷酸经核苷酸酶水解又产生核苷和磷酸。故二者的差别是有无磷酸基团。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3535178e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "795131b1-72de-11ee-92e9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "OD260/OD280的比值在______之间时表示为纯RNA,OD260/OD280的比值约为______时表示纯DNA。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1.9～2.0；1.8\n①纯DNA:OD₂60/OD₂80≈"
+	}
+]
