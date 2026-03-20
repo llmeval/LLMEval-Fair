@@ -1,0 +1,2491 @@
+[
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：阴阳"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "本义是指日照的相背，后用以指两种互相对立的气或世界上两种最基本的矛盾势力或属性。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：五行"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "水火木金土五种物质，《尚书·洪范》对五行的特性作了说明，周太史史伯提出了“先王以土与金木水火杂，以成百物的命题”。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：四端"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "孟子的用语，他认为人生下来就有“恻隐之心”，“羞恶之心”，“辞让之心”，“是非之心”，是仁、义、理、智四种道德观念的萌芽，是人的最基本的道德品质。是孟子说明天赋道德和论证人性本善的根据。“恻隐之心，仁之端也；羞恶之心，义之端也；辞让之心，礼之端也；是非之心，智之端也。”正是由于“四德”是由“四端”发展而来，而“四端”是人一生下来就有的，所以“仁义理智，非由外铄我也，我固有之也”可见，孟子是一个先验道德论者。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：白马非马"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "公孙龙的用语，“马者所以命形也；白者所以命色也。命色者非命形也，故曰白马非马。”看到了“马”和“白马”两个概念的区别，但否认了两者的联系。这是他多元客观唯心主义世界观，是形而上学逻辑思想，否认概念之间的联系。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：参验"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "韩非的用语，强调必须考察认识、言论与客观事物和规律是否符合，才能确定是非，只有比较各种言论、判断，才能确定哪种言论或判断是正确的。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：兼爱"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "兼爱学说是墨子整个思想体系的核心，兼相爱是以交相利为基础的，也是以交相利为基本内容的。墨子认为社会一切祸乱产生的根源在于人们之间不能相爱。墨子将他的兼爱也称仁义，注重效果以利人作为具体内容的，体现其功利主义原则，反对孔子以恢复周礼为仁，以注重主观动机的忠怒为仁。君子小人都可以通过兼爱大道仁。“兼”是“天下之大利”所产生的根源，墨子主张“为彼犹为己也”，冲破了旧的宗法关系，认为爱人不应有亲疏远近之“别”。兼爱思想代表小生产者的要求，具有进步作用但所谓兼爱实际上也是主张所谓人类之爱的一种抽象形态，其根本出发点仍旧是从观念出发是不能实现的。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：三表法"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "墨子的用语，“古者圣王之事”，“百姓耳目之实”，“国家百姓人民之力”，是墨子从唯物主义认识论立场出发，提出判断是非真伪的标准。1、有本之者，即以过去的间接经验作为衡量标准，2、有原之者，即以直接经验作为真理的标准，3、有用之者，即以社会政治的效果方面检验知识的真假和言论的好坏。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：坐忘"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "庄子认为：“堕肢体，黜聪明，离行去知，同于大通，此谓坐忘”。即彻底忘掉自己，从而消除物我对立，使自己与大自然完全融为一体。坐忘是庄子内向的修养方法，即使内心保持虚静，去掉一切情欲，消除物我对立，顺应自然，安于命运，这样就可以从一切烦恼苦闷中解脱出来，从而获得精神自由。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：征知"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "荀子认为要认识“道”，那就要靠“心”进行思维。“心”对于感官起着统帅和支配的作用。这种统帅和支配的作用主要表现为“征知”，即对感官得来的认识进行分类、辨别和取舍。“心”的“征知”过程，也就是理性思维的过程。“心”具有理性思维的作用，但“心”的理性思维必须以感官接触客观对象后所得到的感觉材料为基础。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：“十翼”"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "《易传》有十篇，传统上称为十翼。《彖传》上下篇，说明每一卦基本思想，解释卦辞；《象传》上下篇，一部分是说明如何按照卦的基本思想去行动，一部分是解释爻辞的；《文言》是解释乾、坤两卦的基本思想的；《系辞传》上下篇是总论《经》的基本思想的;《说卦传》是总述八卦代表的各类事物及原理、变化等；《序卦传》是对六十四卦排列次序的说明；《杂卦传》是说明各卦之间关系的。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：一阴一阳之谓道"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代易学用以说明矛盾运动法则的命题。语出《易传*系辞上》。即指突然的存在规律，一阴一阳即又阴又阳，有阴就有阳，阳可变阴，阴可变阳，即为道。主为天地万物及人类生活都有阴阳两个方面、两种力量互相作用，相反相成，相互推移，不可偏废，构成事物的本性及其运动的法则。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：心斋"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "就是要空掉附着在内心的经验，成见，认知，情感，欲望与价值判断，自虚其心，恢复灵台明觉的工夫。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：三才之道"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "易传中用来描述自然和社会法则的，自然现象的变化过程和法则称为天道和地道，人类活动的规则称为人道，天道指阴阳，地道指柔刚，人道指仁义。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：虚一而静"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "是荀子的认识论思想，不是虚无和绝对的静。虚，“不以所己臧害所将受”，即不要为已有的认识妨碍将要接受的认识；一，“心生而有知，知而有异，异也者，同时兼知。同时兼知之,两也,然而有所谓之一,不以夫一害此一”，即人可能同时有两种不同的认识。但是不能让同时接受的不同认识互相妨碍；静，“不以梦剧乱知”，即不要使幻想，假象扰乱正确的认识。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：韩非的“法、术、势”"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "韩非集成了前期法家商鞅的“法”，申不害的“术”，慎到的“势”，提出了以法治为中心，法术势结合的政治思想体系。法，是统治者公布的统一法令，制度，由官府公布，实施办法要让民众都知道，遵守法令就赏，违反就罚；术，是统治者任免考察生杀官吏的权术；势，是统治者占居的地位和掌握的权力。a治国要有法，法要不分贵贱，一律遵守；b用人要有术，用术要知人善任；c、行法用术，都靠紧握权势，君臣不能共权；d、靠掌握“刑”与“德”两大柄权，把握“势”。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：董仲舒的“三统”、“三正”"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "三统：黑统，白统，赤统。三正：夏以寅月为正月，商以丑月为正月，周以子月为正月，寅月以黑色为上色，故夏代为黑统，如此类推，历史的变化就是黑白赤三统的周而复始。“新王必改制”，一个新的时代必须改正，“三统”并不是历史转变的动力，只是“新王受命”的标志。三统三正是历史循环论，强调“治古”朝代虽更替，但不触动封建生产关系，这是复古主义的历史循环论，论证了封建制度的永恒性和不可侵犯。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：形神相即"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "是范缜论证其神灭论以及对形神关系的一元论观点，意思是形和神，神和形是不能分离的，形和神名殊而体一，是既有区别又有联系的不可分离的统一体，这又被叫做形神不二或形神不得相异。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：形质神用"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "是范缜用来证明其无神论形神一元论的，就是说形是实体，是神的主体，而神只是形的作用，由形派生出来的。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：天"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "殷周人指最高的人格神，宇宙的主宰。春秋之际社会动荡，天命观发生动摇。孔子既承认主宰之天，以文之灭兴决定于天，又指自然之天。墨子非命，却提出“天志”以赏善罚恶。老庄以道生天地，否定了天的至上性，认为天即道之自然。荀子以天为自然，认为“天行有常”，主张“明天人之分”，“制天命而用之”，反对“错人而思天”。西汉董仲舒讲天人感应，又以天为最高的神灵，万物的主宰。东汉王充则认为天是自然的物质实体。唐刘禹锡提出天人不相预，反对天命论。北宋张载认为天即太虚之气。程颢提出“天者，理也，”否定了天的人格意义，代之以绝对精神。王守仁则以心规定天，“心即天，言心则天地万物皆举之矣。”反映了对天的认识的分歧和思维的进步。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：道"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国哲学的主要范畴之一。本义是人所行走的道路。引申为规律、原理、准则、本原等意义。春秋时“道”指事物运动变化的规律和人的行为准则。孔子少言天道，注重人道。老子首先从抽象的哲学意义把“道”规定为万物的本体。庄子继承发挥老子思想，以“道”为宇宙的本体。儒家后学则着重阐发了“道”的伦理意义，所关心的仍是人道。到《易传》，才提出“一阴一阳之谓道”，以“道”为天地万物运动变化最根本的规律。这种理论对中国古代哲学发展，产生了重大的影响。韩非子把“道”说成是万物所依循的总规律。西汉董仲舒用道来论证三纲五常的绝对性。宋明理学家在发扬儒学之时，吸收了道家和《易传》的思想，把道规定为理，作为宇宙万物的最高本体。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：德"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "道德，品德。指人的品质或行为对他人和社会所具有的善恶价值。西周统治者提出“德以配天”。春秋以后，德成为人们普遍关注的品性。儒家以德为人的本性，恭宽信敏惠，仁者爱人，主张“为政以德”，提倡德治。道家也以道为本，德为道之用，但认为大道自然无为，朴素无德，主张绝圣弃智，至德即是无德。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：礼"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代社会政治、伦理规范与礼仪的总和。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：理"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "又称天理。主要涵义有:事物运动变化的固有秩序和规律、人类社会的道德原则和规范、事物的本质和本性、宇宙万物的本体等。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：性"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代初指人的天性或本性。孟子强调以人的道德素质（仁义礼智）为人性的主要特征，并认为在性中已蕴有这些道德素质之萌芽。荀子则提出性作为人生来就有的本性应是恶的，只有通过后天的改造才能产生善的德行（礼义）。宋明理学中，强调性即是理，或同时又强调心即性。因而性具有联结人的精神活动与宇宙本体的超验的性质。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：气"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "本义为云烟、云气。后用以指无形状的充塞于整个宇宙的弥漫性物质，是构成物质存在的基本元素。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：天人之辩"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国哲学关于天与人、天道与人道、自然与人为关系的争辩，涉及客观必然性与主观能动性之间的关系。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：王霸之辩"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代两种统治方法和政治理想的争辩。王指王道，即先王之正道。孟子以王道与霸道相对，认为施行仁政，以德服人者为王道。霸指霸道，即凭借武力假行仁义以征服别人的政治统治方法。霸道以武力压服别人，不能使之心悦诚服。孟子提倡王道，反对霸道。韩非则提倡霸王之道。秦汉以后王霸并用。到宋代，王霸之辩更演为社会历史观的争论。朱熹和陈亮进行了数年的争论，在中国思想史上，产生了很大的影响。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：天人合一"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代关于天与人、天道与人道、自然与人为相通、相合与统一的观点。天人合一不等于天人等同。中国哲学侧重强调天人之间的统一，认为人是自然的一部分，与自然界有着同样的本质和规律，追求天人之间的和谐，反对把天与人相互割裂、相互对立，具有合理的因素。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：六府三事"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "“六府三事说”先见于《尚书》,后见于《左传》。六府指的是人民生活物质中的金、木、水、火、土、榖,三事指的是治民政事之正德、利用、厚生。《书经大禹谟》则记有舜帝称赞大禹的话:“地平天成,六府三事允治,万世永赖,时乃功。”六府三事九德；即是伦理上的尚德主义与功利思想；其根本目的在于用中庸之德，调和功利思想。敬德保民，以德配天相传为西周初年周公旦提出的政治伦理思想。意为统治者应崇尚道德，以保其民人固其天命。一方面为革商之命作辩护，另一方面又作为统治的手段。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：太极"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "太即大，极指极至。语出《周易系辞上》:“易有太极，是生两仪，两仪生四象，四象生八卦。”认为太极是天地万物的本原，由太极产生阴阳，由阴阳生出四象，由四象生出八卦。近代孙中山吸收西方近代科学知识，用太极翻译西文“以太”，仍视为宇宙的本原:“元始之时，太极（此用以译西名以太也）动而生电子，电子凝而成元素，元素合而成物质，物质聚而成地球，此世界进化之第一时期也。”表达了物质进化论观点。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：阴阳"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "本义为日照的向背。向日者为阳，背日者为阴。后来用以指气和事物所包含的对立因素。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：五行"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "指水、火、木、金、土五种物质。中国古代思想家把自然观和人的活动归结为五种物质因素，含朴素唯物主义因素。战国秦汉间出现五行相生相克学说。五行相克是木克土，金克木，火克金，水克火，土克水。五行相生是木生火，火生土，土生金，金生水，水生木。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：八卦"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "《易经》的八种基本图形。由“—”“――”两爻相迭变化，每卦三爻组成。它们是:乾、坤、震、巽、坎、离、艮、兑。《易经》六十四卦均由八经卦两两相迭组合变化而成，并从八卦的基本性质及其组合变化来占筮、判定吉凶臧否。《易传》以伏羲作八卦，认为八卦主要代表天、地、雷、风、水、火、山、泽等八种自然事物，并由这八种基本事物交感变化而产生出万事万物。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：无为"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "道家哲学思想。老子认为，道生万物而自然而然，不受任何意志支配的。就“道”听任自然而言，是“无为”，而就其生长万物言，又是“无不为”，所以“道常无为而无不为”。人的行为也应该效法天道，顺应自然，不要任意妄为。执政者更应该以“无为”治国，才能“无败”、“无失”，达到“无不为”。老子“无为”论所含的否定人的主观能动性的消极因素，后来被庄子所发展，而其要求人们不要任意妄为的思想，则为《淮南子》发展成“因物之所为”、“循理而举事”，从而有所作为的思想。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：自然"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "含义相当广泛，主要指天然，自然而然，不依人的意志为转移，无须人的作用来干预。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：神器"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国春秋末期思想家老子用语。器，物。神器，神秘之物，代指国家政权。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：道法自然"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国春秋末期思想家老子用语。《老子》二十五章:“人法地，地法天，天法道，道法自然”。道法自然，否定了宇宙间有意志的主宰存在，但老子由此反对人为，否定了人的主观能动性。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：“反者，道之动”"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "反者道之动是老子辩证法思想的总纲，同时也是道的第二层含义，意思是说，任何事物的某些性质如果向极端发展，这些性质一定转变成它们的反面。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：道法自然"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "句子出在《老子》第二十五章:“人法地，地法天，天法道，道法自然。”人效法地，地效法天，天效法道，道效法自然。在古人心眼当中，天虽然至高无上，可是也不得不效法道。因此可以这样认为，道是天地宇宙间最最根本的存在。所谓“道法自然”，其实正是说，道是无所效法的，自然而然的。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：物极必反"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代哲学辩证法思想。意为事物发展到极点，必然向它的反面转化。是辩证否定的朴素表述。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：《论语》"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "是孔子弟子及后人记述孔子言行的语录体著作,写成于战国初期(公元前475年前后)。共20篇,492章,《论语》记述了孔子的社会政治思想、哲学思想、伦理思想、教育思想等各方面,甚至记载了他的生活习惯和细节。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：正名"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "孔子对于社会的理论。他认为，为了有一个秩序良好的社会，最重要的事情是实行他所说的正名。就是说，“实”应当与“名”为它规定的含义相符合。在社会关系中，每个名都含有一定的责任和义务。君、臣、父、子都是这样的社会关系的名，负有这些名的人都必须相应地履行他们的责任和义务。这就是孔子正名学说的含义。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：仁"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "指一种高尚的美好品德。孔子以仁为最高的道德原则，以仁为核心建立起自己的思想体系。仁的核心是爱人，主张人与人之间相互亲爱，提出“忠恕”之道。要求人们的行为符合宗法制度的礼制，并把仁爱的原则推广到政治之中。在此基础上，孟子进一步提出了仁政的学说。道家老庄则主张“绝仁弃义”，认为“大道废，有仁义”。汉以后，仁成为五德（仁、义、礼、智、信）之首。宋代学者更以天理说仁，仁具有了万物本原的意义。近代学者接受西方资产阶级思想，并以之改造仁的学说，仁便从封建宗法血缘道德转变为近代资产阶级人道主义思想。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：中庸"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "儒家的哲学范畴。即在处理事物的矛盾时应当掌握的合适的“度”。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：和而不同"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "《论语.子路》里有一句名言:“君子和而不同”。意思是说,作为君子,要善于调合各种矛盾,要善于跟别人和谐相处;但与此同时,当自己的意见不同于别人的意见时,要尊重别人的意见。孔子提出了‘君子和而不同’的思想。和谐而又不千篇一律,不同而又不相互冲突。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：性善论"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代人性论的主要观点之一，战国时孟子首先提出。性善就是说人的本性具有善的道德价值，每个人生来就有向善的潜能。性善论是孟子仁政学说的理论基础，对后世有重要影响，宋明学者予以改造后，成为中国古代人性论的正统理论。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：不忍人之心"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "孟子曰:所以谓人皆有不忍人之心者,今人乍见孺子将入於井,皆有怵惕恻隐之心.非所以内交於孺子之父母也,非所以要...所以,所谓的「不忍人之心」,应是在「乍见」任何一人之危及生命之际,都能有此纯粹,无条件,全无感性欲求的本心。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：天爵"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "战国时期，孟子提出人爵和天爵的观念。他在《孟子告子上》中说:“有天爵者，有人爵者。仁义忠信，乐善不倦，此天爵也。公、卿、大夫，此人爵也。古之人，修其天爵，而人爵从之。今之人，修其天爵，以要人爵。既得人爵，而弃其天爵。”读罢不觉感慨万千。孟老夫子果然高见，数千年来，重“人爵”而不重“天爵”，得“人爵”而失“天爵”的确实屡见不鲜。无怪乎孟子与孔子一道，被尊为圣人。“天爵”是道德品质的象征，是靠自身修炼和培养出来的，具有内在性和不可剥夺性。“人爵”是权力、地位的象征，是统治者或他人授予的，具有外在性和可剥夺性。自古以来，选人用人都强调“选贤任能”。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：尽心知性"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "孟子提出的反省内心的认识方法和道德修养方法。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：民贵君轻"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "孟子提出的社会政治思想。意为从天下国家的立场来看，民是基础，是根本，民比君更加重要。是孟子仁政学说的核心。具有民本主义色彩，对中国后世的思想家有极大的影响。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：三表"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "墨子提出的检验言论与认识是非的标准。表，指法、仪；三表即三条标准。墨子认为，人们的言论与认识是非必须有一个客观的标准来衡量，即:“有事之者，有原之者，有用之者”。以历史经验判断言论事非；以广大民众的直接感性经验为是非依据；以言论和认识的实际效果检验认识的真理性。是中国哲学史上最早的较为完整的检验真理的标准，带有浓厚的经验论色彩，并以之论证天志和鬼神的存在。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：非命"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代战国初期著名思想家墨翟的主张。反对儒家把“寿夭贫富，安危治乱”看成是先天命定的思想。“非命论”是墨子思想中最积极合理的部分，是人类对自身力量的初步认识，表达了古代劳动者力图摆脱传统天命思想束缚的愿望。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：天志"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代战国初期著名思想家墨翟的天道观。认为天是有意志、能对人的善恶进行赏罚的最高主宰。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：兼爱"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "墨子的政治思想和道德主张。墨家学说的核心内容。意指天下之人应当相互亲爱。强调人应树立远大的道德理想，兴天下之利，除天下之害。反映了古代的平等观念，代表下层劳动者利益。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：非攻"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "墨翟的战争观，是兼爱思想最集中、最突出的表现。认为兼并和侵略战争于民危害最大。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：逍遥"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国战国时期哲学家庄子用语。指一种个人精神的绝对自由状态。庄子认为，真正的自由是无待即不依赖于任何条件的，如果借助了一定的条件，则会“为物所役”、“所累”，从而不自由。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：宇宙"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "时间和空间的总和，天地万物的总称。宇，空间；宙，时间。东汉科学家张衡则认为:人们观测到的天地是有限的，而整个宇宙是无限的。后来的唯物论者大都肯定张衡的观点。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：名实"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "名，指名称、形式，实，指内容。最早产生于先秦。春秋战国之际，社会处于大变革时期，旧有之名已不能容纳新的现实，于是产生了名实之辩。孔子主张“正名”，用周礼固有之名去纠正已经变化了的内容。墨子则强调不是名决定实，而是实决定名。后墨继承发展了这一观点，认为名是事物的概念。名的作用在于指谓、描绘内容，名实的关系是“以名举实”，并从逻辑学的角度对名实关系作了深入探讨，极大地促进了名实论和形式逻辑理论的发展。后来荀子也提出“制名以指实”（《荀子正名》），认为名是用来指谓实的、约定俗成的概念，它决定于实，一旦形成也不能轻易改变。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：白马非马"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国先秦名家公孙龙的命题。它是揭示个别与一般辩证关系的命题，触及到了概念的同一性自身包含着差异性的思想。另外，这一命题也触及到了概念的内涵与外延的关系问题，强调了概念之间的差异性和独立性。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：离坚白"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "“坚白石二”是《坚白论》的新论题，在这一论题中，公孙龙以白石为例，阐述了他的“离坚白”观点。公孙龙认为人的感觉是不能同时兼知石的坚性和白性的。即使人的理性心智参与进来，理性仍不能对各感官所获得的诸感觉进行综合，故此关于石头的坚性与白色的认识是彼此分离的。他甚至认为，“坚”与“白”也可以离开具体的石头而独立自存，即独立自藏于物外。公孙龙以感官的局限性为由，割裂了事物属性之间的内在联系，并夸大了共性和一般的相对独立性，使共性脱离了个性，一般脱离了个别，认为它们可以独立自存，这显然带有唯心论的观点。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：性恶论"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代人性论的重要学说之一，认为人的本性具有恶的道德价值，战国末荀子倡导这种理论。性恶论以人性本恶，强调道德教育的必要性，性善论以人性本善，注重道德修养的自觉性，二者既相对立，又相辅相成，对后世人性学说产生了重大影响。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：法"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "1指法律、法令、法规等。体现统治阶级意志，具有强制执行性质的行为规范。先秦法家强"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：调法，商鞅提出，法"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "是治理国家的根本手段。《管子》明确以法为行为的标准和规范，并视之为“圣君之宝用”。韩非对法作了更深入、全面的规定，认为法是由统治者制定并公开颁行的法律条文，是赏罚的依据，必须具有兑现的效力，并使百姓明了、遵守。2佛教名词。通指一切事物。又指佛、法、僧三宝之一，即佛教的经典和教义。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：术"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "1手段、策略。法家的重要术语，实际上是君主驾驭群臣、治理国家的权术。2方法、学说，如道术、方术。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：势"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "1权力和地位。即权势。法家强调的统治方法之一，认为权势是君主实行法治的必要条件，君主之权势，就在于握有刑德赏罚之权，从而使群臣对君主绝对服从。君之失势，如虎豹失其爪牙，必然身死国亡。2趋势。唐柳宗元《封建论》以封建制为历史趋势。明清之际王夫之提出理势统一的学说，以势为理即历史规律所表现的必然趋势。并以此论证社会历史的进化发展。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：五德终始"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "又称五德转移。战国时期阴阳家邹衍的历史观。“五德”即事物的水、火、木、金、土五种德性或性能。“五德终始”即“五德”相生相克和终而复始的循环运动。邹衍继承早期的阴阳五行学说，形成了“五德终始”、“循环相胜”的观点，试图用当时的天文学知识来说明自然和社会的变化问题。“五德终始”说以“天人合一”思想为基础，是为当时新兴地主阶级建立新的统一封建王朝寻找理论根据的。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：一阴一阳之谓道"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代易学用以说明矛盾运动法则的命题。语出《易传系辞上》。主为天地万物及人类生活都有阴阳两个方面、两种力量相互作用，相反相成，相互推移，不可偏废，构成事物的本性及其运动的法则。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：形而上"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代哲学术语，指无形的东西。《易传系辞上》:“形而上者谓之道，形而下者谓之器。”这里的“形而上”指无形的精神本体（道），“形而下”指由道派生出来的具体事物（器）。“形而上”与“形而下”这一对范畴在中国哲学史上有过长期的争论，常被各家用来表述抽象和具体、本质和现象、本源和派生物等。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：两仪"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代易学范畴。两仪所指，说法不一，其哲学意义则指天地或阴阳"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：四象"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代易学范畴，象征春夏秋冬四时，故称四象。在哲学上，含有变化产生的各种现象之意。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：消息"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代哲学术语。消，消亡；息，增长。指世界万物的存在过程是一个消亡与发生相统一的过程。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：太一"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "“太”是至高至极；“一”是唯一。1“道”的别称。3星宿名或天神之别称。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：元气"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代哲学的一个重要范畴。指产生和构成天地万物的原始物质，以元气为天地本原。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：两汉经学"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "汉代的儒家是以注释《诗》、《书》、《礼》、《易》、《春秋》等先秦儒家经书的形式出现的，故称为经学。在汉代搜集到的儒家经典中，有一部分是儒生口授，由当时流行的文字记录下来的，叫做“今文经”。另一部分是散在民间，藏在墙壁中偶然被发现的经书。这些经书由汉以前的文字即古籍文字成，故称“古文经”，故分今文经学和古文经学两大派。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：天人感应"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代关于天人关系的一种神秘学说。认为天和人相类相通，天具有意志，能干预人事，人的行为也能感应上天。战国时学阴阳家者有持此说。西汉董仲舒加以系统化、哲理化。后导致谶纬神学的出现，故受到王充的批判。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：人副天数"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "《春秋繁露》卷十三《人副天数》,董仲舒提出了天人感应论,主张“人副天数”,及“人副天数“为基础的“三纲五常”,所谓“王道之三纲,可求之于天”.。他关于天的结构与阴阳五行的关系的论述，都是为了证明“人副天数”进而阐释其“奉天而法古”的政治哲学宗旨。既然“人副天数”，“为人者天”而又“天辨在人”，因而，人的行为必会在“天”上得到反应，天人谴告由此而来。但天之谴告主要是因为人取法于天迷失了，导致国家失措的负面戒惧论道。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：《礼记》"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "儒家经典之一。系中国秦汉以前各种礼仪论著的选本。西汉宣帝在位时，戴德、戴圣各自辑录有一个选本，分别被后人称为《大戴礼记》和《小戴礼记》，后者一般也简称《礼记》。《礼记》是研究中国古代社会情况、典章制度和儒家思想的重要著作。它阐述的思想，包括社会、政治、伦理、哲学、宗教等各个方面，其中《大学》、《中庸》、《礼运》等篇有较丰富的哲学思想。《大戴礼记》现存最早的注本是北周卢辩注。《小戴礼记》的主要注本有东汉郑玄的《礼记注》，唐孔颖达的《礼记正义》、清朱彬的《礼记训纂》和孙希旦的《礼记集解》等。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：《白虎通义》"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国汉代讲论五经同异，统一今文经义的一部重要著作。又称《白虎通》、《白虎通德论》。班固等人根据东汉章帝建初四年（公元79）白虎观会议上进行经学辩论的结果纂辑而成，计4卷。该书以神秘化了的阴阳、五行为基础，解释自然、社会、伦理、人生和日常生活的种种现象；其所列门目，对社会生活、国家制度和伦理原则等作了基本规定，实际是一部以今文经义为依据的国家法规。主要注本有清陈立撰《白虎通疏证》等。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：玄学"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "魏晋时期由老庄思想糅合儒家经义的一种哲学思潮。由于儒学的神学化和趋于繁琐，无力解决日益尖锐的现实社会的斗争问题，加之统治阶级在激烈的政治斗争中得失无常，思想消沉，不得不另寻精神武器，玄学便应运而生。玄，即虚无玄远，高深莫测之意。玄学的经典即所谓“三玄”（《周易》、《老子》、和《庄子》）之作。玄学是用道家观点去解说儒家典籍。玄学开端于魏晋之际。其创始者为魏正始（240－248）年间的何晏、王弼和阮籍、嵇康。何、王的根本思想是“贵无”，认为“天地万物皆以无为本”，提出名教出于自然。阮、嵇则相反，主张名教与自然是对立的。提出“非汤、武而、薄周、孔”，抨击儒家，又指出名教是一切罪恶的根源。东晋以后，佛学思想逐渐取代玄学的地位。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：崇本举末"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "王弼提出的“崇本举末”他主张以“崇本息本”、“崇本举末”、“守母存子”，来处理自然与名教的关系。具体来说，一是“因道立教”，即根据自然无为之则制定名分、设置名教，亦即名教以自然为本，而不可以舍本逐末、“离道执教”；二是“越教归道”，即由有反无、由末归本，复归于自然之道，以解现实中所出现的名教之弊；三是“即道全教”，即遵循自然规则，而不执着于名教，以全名教功，达到化成天下的目的。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：清谈"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "又称清言、玄言、雅谈。魏晋时期的一种远离世事，崇尚虚无、空谈名理的风气。其内容包括玄学、名理、评品人物等等，玄学是其中最重要的一个方面。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：贵无论"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "魏晋玄学的一种主要哲学思想。创始人为何晏、王弼。主要观点是以“无”作为宇宙的本体，认为万物（有）以无为存在的根据，贵无论促进了中国古代本体论哲学的发展，但错误地以空洞的抽象观念为宇宙万物的本体，故受到后来以裴頠为代表的崇有论的批判。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：本末"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代哲学用语。指根本与末节，本质与表现，本体与作用。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：动静"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "即运动与静止。中国古代哲学中一对重要范畴。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：名教与自然"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "魏晋玄学中的一对重要范畴。名教，指以正名分、定尊卑为主要内容的封建礼教；自然则指天道之无为，人类无须以人力干预也不由人的意志所决定的人的自然本性和自然情欲。儒家重名教，道家尚自然，二者长期有争论。魏晋玄学以老庄思想释儒，进一步展开了名教与自然的关系，并成为玄学的重要理论问题。认为维护社会秩序最好的途径是顺应人的自然本性，无为而治。主张超越名教的束缚，返归于自然，以虚静之心任性任情。极大地冲击了礼教的神圣性，为门阀士族腐朽堕落的生活作辩护。宋代学者以复兴儒学自命，重振传统纲常名教，以天理论证名教的绝对性和合理性，成为束缚人们思想行为的巨大枷锁。明李贽再次冲击名教是非观。近代谭嗣同提出“冲决网罗”，抨击封建纲常名教。以西方近代伦理原则和自然人性论反对名教，提倡个性解放与自由。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：崇有论"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "魏晋玄学的重要哲学理论和派别之一。与贵无论相对立，认为宇宙万物以有为本。指出宇宙万物皆产生于有，世界的本原是实际的物质存在，无不能生有。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：物各自生"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国西晋玄学家郭象的一个重要观点。语出《庄子齐物论注》意思是说，没有造物主，万物都是自生自长的。东汉著名哲学家王充首先提出了“万物自生”的观点，晋代裴頠著《崇有论》，反对玄学贵无论“有生于无”的观点，也提出了的说法。郭象“物各自生”的观点，在反对造物主这一点上，包含有王充、裴頠讲的“自生”的意义，但又有根本的不同。王充讲“万物自生”是说“天地合气”，万物自然而然产生。裴頠的“自生”说，也承认物与物之间的相互依赖、相互转化的关系。而郭象的“自生”说，则在否定无生有的同时否定有生有，片面地强调万物各自无联系地、孤立地、突然地“自生”，他称之为“独化”。因此，郭象的“物各自生”说带有严重的偶然论的神秘主义色彩。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：独化"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国西晋玄学家郭象思想体系中的一个核心概念。独化的主要含义是:天地间任何事物的生成变化，外不依靠“道”，内不由于己，都是无原因无根据的。认为天地间每一事物的生成变化，都是各自独立、无条件无原因的，如果要寻求事物生化的条件和原因，那末条件之外还有条件，原因之前还有原因，必将推致无穷无尽，万物虽共同生存于天地间，相互之间在表面上“玄合”，但在实际上没有任何内在联系，“万物虽聚而共成乎天，而皆历然莫不独见矣”。事物各自“独化”，相互间没有转化的关系，“夫死者独化而死耳，非夫生者生此死也”，“生者亦独化而生耳”，“独化而足”，“生与死各自成体”。郭象的“独化”说，具有否定造物主的合理因素，但由于根本否定事物生化的条件和原因，否定事物之间的联系和转化，鼓吹万物的“突然而自得”，“忽然而自尔”，“有不得变而为无，故一受成形，则化尽无期也”等等，成为一种带有偶然论的神秘主义思想。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：玄冥"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代哲学的概念。语出《庄子大宗师》原是以寓言形式假设的一个人名，实际上指一种混沌不分、深不可测的状态或一种无知无觉、不分是非、不分古今的精神境界。西晋玄学家郭象在《庄子注》中特别重视这个概念，“玄冥”是指一种“无”的状态，但尚未超出言表而至于无名、无始。他进一步提出了“玄冥之境”的概念，并把它作为万物“独化”的场所和境界。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：二谛义"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中道宗提出所谓“二谛义”，即二重道理的学说:认为有普通意义的道理，即“俗谛”；有高级意义的道理，即“真谛”。它进一步认为，不仅有这两种道理，而且都存在于不同的层次上。于是低一层次的真谛，在高一层次就只是俗谛。此宗的大师吉藏(549—623年)，描述此说有如下三个层次的“二谛”:(l)普通人以万物为实“有”，而不知“无”。(2)说万物是“有”，这是片面的；但是说万物是“无”，也是片面的。我们只应当说，不片面的中道，在于理解万物非有非无。这是真谛。(3)在第三层次上，说万物非有非无，说“不片面的中道”即在于此，这些说法又只是俗谛了。真谛就在于说:万物非有非无，而又非非有非非无；中道不片面，而又非不片面。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：四法界"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "（禅宗）华严宗四法界学说即事法界、理法界、理事无碍法界、事事无碍法界。法界就是个本体，本体与现象不可分。法界重重无尽，互相关联，互相辉映。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：道统说"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "儒家关于传道系统的学说。首先由唐韩愈明确提出，他在批判佛教的过程中，提出了儒家先圣前贤一脉相传的“道统”对抗佛教传法的“祖统”（法统）。道统说的提出是为了复兴儒家传统。宋儒继承韩愈的思想。朱熹以理学为儒家正宗，并自命为传人。陆九渊则不承认程朱的正统地位，自命为道统传人。道统说遂成为理学程朱与陆王两派争夺儒学正宗的理论。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：理学"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "又称道学、新儒学。宋元明清时期的一种哲学思潮。是在特定历史条件下，吸收了道家和佛教哲学思想而产生的新儒学。它以性命义理为核心，是宇宙论、认识论和道德学说高度统一的思辨哲学。它以“理”为哲学的最高范畴和宇宙本体，取代了传统儒学思想的“天”的地位。南宋以后，被统治者奉为官方哲学。明清之际，从理学内部分化出王夫之、颜元、戴震等人，对理学进行了全面的总结和批判。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：张载"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "（1020－1078）宋理学家。字子厚，人称横渠先生。其学以《易》为宗，以《中庸》为体，以孔孟为法。创立气化论，以为宇宙起源和构成皆为“气”，气之聚散变化啊，皆源于事物内部固有的矛盾，即对立的“二端”相荡、相求、相糅、相兼、相制的结果。主张“理在气中”。人们必须事天地、事君、事亲，从而维护封建统治秩序。在人性问题上，主张人性有“天地之性”与“气质之性”之别。“天地之性”至善，人们“为学”即可返回“天地之性”；“气质之性”不善，“如果善反（即灭欲）之，则天地之性存焉”。在认识论方面，以为知识有“见闻之知”（感性知识）与“德性之知”之别。“德性之知”可“合天心”“穷神知化”，源于道德修养，非一般人所能得。著有《正蒙》、《横渠易说》、《张子语录》和文集等，后人编为《张子全书》。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：一物两体"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国北宋张载提出的命题。《正蒙参两》中说:“一物两体，气也；一故神，两故化；此天之所以参也。”这里的“两体”指阴阳两个对立面:“一”指对立面的统一；“神”指气化运动的潜能；“化”指阴阳相互作用引起的变化。张载认为，有对立面的统一，才有运动的性能:有对立面，才有运动变化的过程。一切事物都是矛盾统一体，对立和统一不可分割；其相互作用存在于统一体中。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：德性之知"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "宋明儒家常将知识分成两类:“德性之知”与“见闻之知”。所谓德性之知,就是不依赖于见闻的天赋的道德观念。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：朱熹"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "（1130－1200）宋理学家，字元晦，博采周敦颐、二程（程颢、程颐）、张载诸家学说，建立庞大的客观维新主意理学体系，为理学之“集大成者”，世称“闽学”。其哲学体系基础是“理”，理即太极，“理在气先”，事物之发展皆由理（即“一”）按一分为二原则衍化，太极生两仪，两仪生四象，四象生八卦，以致无穷，从而产生万物，万物总有理，但总起来说是一个理，此为其“理一分殊”论。以为穷通天理之途，有二，一曰“格物致知”，人们今日格一物，可知一理，明日格一物，又可知一理，一旦豁然贯通，即可“穷理”；二曰“存天理，去人欲”，必须“居敬”，克制私欲，始能“穷理”。天理体现在人事关系上则为“三纲五常”，妇女必须恪守“三从四德”，夫死守节。一生著作甚多，有《易本义》、《太极图解》、《诗集传》、《通书解》等及后人汇编的《朱子语类》、《朱文公文集》等。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：格物致知"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国宋明理学认识论学说。始见于《礼记大学》。原是作为诚意、正心、修身等道德修养方法的命题。从宋代理学家程颐开始，把格物致知作为认识论的重要问题。程颐认为格物就是就物而穷其理，格物的途径主要是读书讨论，应事接物之类。格物致知的过程，就是一个体认人所固有的理的过程。朱熹认为格物致知是连结认识主体与认识客体的方法。他认为，格物就是穷尽事物之理，致知就是推致其知以至其极。并认为，“致知格物只是一事”，是认识的两个方面。陆九渊从“心即理”出发，认为格物就是体认本心。王守仁认为格为正，物为事，致为至，知为良知。因此，格物也就是致良知的工夫。明清之际的王夫之认为，格物就是人们对于外界事物的认识，是以“学问为主，而思辨辅之”。致知就是人们进行思辨的理性活动，以“思辨为主，而学问辅之”。他认为，如果没有格物，不接触外界事物，就会使人陷入空想；没有致知，就会被各种事物的现象所迷惑，因而两者必须相济。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：吾心即是宇宙"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "南宋陆九渊的哲学命题。认为主体之心即包容着宇宙万物，把宇宙万物统一于主体之心。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：王阳明（王守仁）"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "（1472－1528）明学者，阳明学派创始人。字伯安。浙江余姚人。曾筑室故乡阳明洞，也称阳明先生。初师事娄谅，习程朱之学，因格竹不省，遂耽于佛老之说，继而结识湛若水，相与授徒讲学，受到陈献章思想的影响，后继续发展陆九渊“心即理”说，创“致良知”和“知行合一”理论体系。主张“心”为物理之本原，物为意之用，否认“心”之外又理、有事、有物。认为“愚夫愚妇”同“圣人”一样，先天都具有“良知”“良能”，但两者的区别在于惟有“圣人”才能致其良知，故而要求通过反求内心，清绝人欲的修养方法去私欲而“致良知”。由此出发，提出“知行合一”的学说。反对朱熹在心之外“格物穷理”的方法，提出在心之外求理，就会导致知行脱节，强调“知”“行”无先后内外之别，两者相辅相成，不可分离。治学贵有自得，提出不能以“圣人”之言或“庸常”之言作为判断是非的标准，只能通过“求之于心”来判明是非。其学术思想将中国古代主观唯心主义发展到极致，在明中后期影响极大，百余年间取代程朱理学而独占学术界盟主地位，对打破程朱理学桎梏起了一定作用。明末清初，因其后学末流“束书不观”，学风空疏而遭学者贬斥，渐至衰微。其学传至日本后，对明治维新运动起到过一定的积极作用。著作有《王文成公全书》38卷，其中《传习录》和《大学问》为思想学术方面的代表作。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：知行合一"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "明王守仁的重要哲学思想王守仁吸收前人思想，针对程朱“知先行后”导致的知行脱节的不良风气，大力提倡知行合一。对反对知行脱离有一定积极作用，但混淆了知与行的本质区别，有以知取代行的倾向，故受到明清之际的王夫之的批判。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：致良知"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "明王守仁提出的认识论和伦理学思想。认为良知是心之本体，心为万物之本，故良知亦为万物之本。王守仁良知实际上是对封建伦理道德纲常的概括。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：王夫之"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "（1619～1692）中国明末清初思想家，哲学家。字而农，号涢斋，学者称船山先生。湖南衡阳人。曾积极组织抗清斗争，失败后到南明桂王的政权中任职，南明亡后，更名隐居，潜心著述。在哲学方面，认为气是宇宙本原，气有聚散，但无生灭，是永恒无限的实种方法即格物和致知是互相补充的，不能互相偏废。在知行关系问题上，他强调行的主导作用，认为“行可兼知，而知不可兼行”。他还提出“知之尽，则实践之”的命题，认为“知行相资以为用”。在社会历史方面，他批判“泥古薄今”的观点，认为人类历史是不断进化的。他反对天命观，认为历史发展具有规律性，是“理势相成”，他还提出民心向背在历史发展中的重要性。在伦理思想方面，他认为人性是变化的，“日生而日成”。他根据“性者生理也”的观点，强调理欲统一。要“以理节欲”、“以义制利”。他还提出人既要“珍生”，又要“贵义”，要有“志节”，“以身任天下”。在美学方面，他认为美不是一成不变的，美是经过艺术创造的产物。他对文学创作中许多传统美学范畴都有发挥。王夫之的思想在中国思想史上具有重要地位，在中国近代产生了很大影响。遗著总称为《船山遗书》，有100多种，主要有《张子正蒙注》、《读四书大全说》、《周易外传》、《尚书引义》、《读通鉴论》等。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：习与性成"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "王夫之“习与性成”的道德观和道德教育思想王夫之更加提出习与性成的主张,不但指出性是可变的,而且是由习而成的。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：经世致用"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代哲学的一种思潮。指学问必须能治国安民，有益于国计民生，取得实际的功效。又称经世致用之学，与空疏无用之学相对。最初导源于南宋的浙东事功学派。到明清之际，经世致用成为一股学术思潮。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：中体西用"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国近代中西文化之争中洋务派的主张。即“中学为体，西学为用”。意为以中国传统文化即纲常名教为立国之根本，以西方科学技术和具体文化措施为强国之作用。这一观点表明西方文化对中国社会和文化带来极大的冲击，要使中国富强必须向西方学习。但它主张维护传统社会的根本制度和纲常名教，希企用西方的“富强之术”使封建社会恢复生机。成为洋务运动、反对维新变法的思想纲领。在晚清有较大的社会影响。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：三世说"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国的一种社会历史学说，认为人类社会是沿着据乱世、升平世、太平世顺次进化的过程。此说源于古代，由近代康有为系统化，成为社会维新的理论基础。三世说渊源于公羊学。董仲舒发挥了这一学说。东汉何休明确提出“三世”的概念。魏晋以后，随着学术思想的变迁，公羊成为绝学。到清朝嘉庆、道光年间，公羊学重新兴起，清代经学家刘逢禄(1776～1829)等人着重阐发公羊的“张三世”等微言大义。龚自珍与前辈有所不同，他开始将公羊的“三世”与《礼记礼运》联系起来，并认为人类整个历史“通古今可以为三世”。他的这一观点含有进化发展的意义。19世纪末，康有为明确地把公羊的“三世”、《礼记礼运》的“小康”、“大同”与近代进化论思想融合在一起，系统地提出了“三世”说历史进化论。他的这一学说打破了“天不变，道亦不变”论，也否定了历史循环论，在当时的社会中产生了积极的影响。但由于它强调社会历史的和平渐进，反对革命突变，又极力神化孔子，因而带有神秘主义色彩，后来受到资产阶级民主革命派孙中山等人的批判。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：俱分进化论"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "章太炎曾提出著名的俱分进化论,提出人类文明进化过程中苦乐、善恶一起进化的问题。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：五无论"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "对于未来社会的描述，章太炎以悲观主义的思想、虚无主义的思想，描绘了一个五无世界。那是无政府、无聚落、无人类、无众生、无世界的世界。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：物竞天择"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "近代严复对进化论两个概念生存竞争、自然选择的译语。他在《原强》一文中向中国人介绍达尔文《物种原始》（今译《物种起源》）一书时，将其核心内容概括为物竞和天择，宣扬社会达尔文主义，为变法维新、救亡图强提供理论依据。在当时的条件下具有特定的积极作用，并对当时及后来产生了广泛的影响。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：三民主义"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "即民族主义、民权主义、民生主义之总称。近代孙中山提出的中国资产阶级民主主义的思想学说和理论纲领。是中国民主主义革命的完整的理论和政治纲领，孙中山思想体系的核心，在民主主义革命时期产生了广泛、深远的影响。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：知难行易"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "知行观是中国古代哲学思想，知代表主观，行代表实践，说的是认识世界和通过实践改造世界的关系的问题。知难行易是明代王阳明提出的思想观点，一般认为是带有主观唯心主义色彩的，马克思主义的观点是主张由行致知，行先知后。1918年12月30日，孙中山撰写《孙文学说》成书。此乃《建国方略》的一部分。书中提出“知难行易”学说。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：体用不二"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "所谓“天道”和“天命”是中国传统文化的基本概念，“天道”是体，“天命”是用，体用不二，谓之“天心”。生生不已，循环往复，谓之“天意”。“体用不二”论，是熊十力现代新儒学思想体系中最基本的观念。这观念主要展现在其原创性的经典之作《新唯识论》之中。他所谓“体”是“心体”、“性体”，即人的生命存在的本体、宇宙万物之本根及其生生不息的源头活水，在一定意义上也是道德的本体和道德的主体。所谓“体用不二”，也就是肯定生命的意义和人生的价值，是为了在物欲横流的世界重新寻找“人生本质”和“宇宙本体”。熊氏认为，吾人与天地万物所同具的仁心本体，内蕴着极大的力量，可以创造出、生化出整个人文世界。他高扬了仁心本体刚健、创生的特质，实际上是以积极的人生态度、生命意识和人本精神去面对世界，创造世界，同时又主张不被人们创造出来的物质世界和人文建制所异化、所遮蔽，以致忘却、沦丧了人之所以为人的根蒂熊十力的“体用不二”与程朱“体用一源”的不同在于:程朱虽然肯定体在用中，体不离用，但体是存藏于用之中的，与用不离不杂的一种抽象实体。熊十力坚持实体不在功用之外、肯定精神对于物质的主导、认定实体自身是变动生生的，他的体用论可视为儒家刚健、崇德、用世等价值的本体论基础。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：民生史观"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "孙中山民生史观的基本涵义有二:一为民生是历史的重心，表明孙中山对社会历史内容和基本结构的见解，突出了历史主体的人；二为人类求生存是社会进化的定律，表明孙中山对历史发展规律及其动力的认识。他认为阶级斗争不是社会进化的原因，社会进化的原动力一是民生，二是“人类求生存”，三是“民生主义”。民生史观的实质是多元动力的主体进化史观。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：实事求是"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古语。即做学问应该掌握充分的事实材料，从实事求索其真相，引出结论。毛泽东在《改造我们的学习》中对这一古语作了新的解释:“‘实事’，就是客观存在着的一切事物，‘是’就是客观事物的内部联系，即规律性，“求”就是我们去研究”。从此，“实事求是”成了一个通俗的哲学概念，并成为中国共产党的一条基本思想路线。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：为仁由己"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "由春秋时期儒家学者孔子提出的解答“人何以成仁”的理论。“仁”是从人对人的良好情感中引申出来的，由于为仁与否完全取决于自己，所以孔子说“为仁由己”，而非由人。明确肯定了道德行为、道德实践主体性原则，是孔子为其道德修养方法论和作为这种方法论的哲学基础确定的基本原则。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：克己复礼"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "孔子在回答颜渊问“仁”作为道德的基本意识时，在道德自律的意识中提到：“仁”的实施方式是“克己”。指约束自己，使每件事都归于为西周之礼.其中克制物欲是“克己”的基本内容，主张对欲望进行有必要的控制，控制的标准就是“仁道”，为“仁道”而牺牲自我则是“克己”的更高层次的要求.“克己复礼”是达到仁的境界的修养方法。孔子在早年的政治追求中，一直以恢复周礼为己任，并把克己复礼称之为仁。“杀身以成仁”这一道德要求对后世的志士仁人具有极强的感召力。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：四心"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "恻隐之心、羞恶之心、辞让之心和是非之心。出自《孟子·公孙丑》。由“不忍人之心”论及人的道德“本心”并确证人本性的道德性，明确主张“性善论”，认为人的“四心”是与生俱来的，因此推导出人具有仁义礼智“四端”，并再推及行“不忍人之政”，即仁政。孟子认为这四心是人与生俱来的品质，也是孟子性善论的基础。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：心有征知"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "战国时期荀子提出的关于确认天道可知性的认识论思想。荀子首先承认物本来就可以被认识，并认为人天然禀得的“性”，只是一种认识能力、一种认识心。感官接触与其相当的对象并将其记录下来形成感性认识，谓之“天官当薄其类”，而对于天官所接受的各种感性认识，“心”具有分析、辨明、证明和取舍的作用，谓之“征知”。在荀子看来“天官”提供的感觉是片面、主观甚至虚假的，惟有经过“心”的征知才能获得全面的和可靠的知识。荀子以“当薄其类”为基础、以“征知”为指导的认识路线，克服了狭隘经验论的局限性，发展了唯"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：物主义的认识论明分使群"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "战国时期荀子在自己的“外王学”里提出的社会构建观念。荀子认为，人类是以群体性方式生存与生活的，之所以能组成一个群体是因为“分”，即分工、等级分别，有了分，界、权、责、利都变得明晰了。也就是说，人与人之间相互联系、相互依赖，根据人的能力、需要组成不同的群体才能使人过着一种有序而不争的生活，才能“救患除祸”，人类才能得以生存和发展。明分使群就是荀子希望人们能够明确自己的分工，并且人与人之间相互依赖。而要维持“分”靠的是“义”（道德教化）与“礼”（礼法制度）。“明分使群”是荀子外王学的社会基础。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：化性起伪"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "战国时期荀子就其“性恶论”所提出的道德教化观。，即是用礼义法度等去引导人的自然本性，即改造人的本性，使之树立道德观念。“伪”指后天的人为作用。荀子以“天命”之性情为恶，而“善”的本源是人的群体性生活秩序的需要，其建立有待于“心”的作用。人具有天赋的认识能力，当“仁义法正”具有“可知可能”的可知性，心便有了有控制情欲并能够建立起道德意识的能力，便能人为生“善”。“化性起伪”是一种经验的路向，在这里荀子将道德的修为放置在认知的基础之上，注重后天的教化，从而成为了其提出礼、法起源的一个前提。也是荀子“性恶论”的一个依据，用来反对孟子的“性善论”认为人的本性是后天的人为造成的。人副天数：是由西汉董仲舒提出的天人感应论。董仲舒曾非常具体地去描述过,在他看来,人的生理结构其实就是天的模式的一种复制品;同样人与天具有相同的道德品质与精神意志。董仲舒以“天”为人的创造者和主宰者，认为人的结构与秩序全看做是与天地之数相副的.这种把天人关系附会到荒唐的地步，是“为人者天”之论的必然结果，其最终目的是为天人感应、天人相与的理论提供依据，从而为专制皇权服务。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：性三品"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "中国古代一种关于人性的学说。中国古代一种主张人性分为三等的理论。性三品之说受孔子“唯上智与下愚不移”的先验论影响。西汉董仲舒把人性分为上、中、下三等。东汉王充也据禀气的多少把人性分为善、中、恶三种，唐韩愈明确提出“性情三品”说，把性与情分为上、中、下三品。在这里主要叙述董仲舒性三品的观点。董仲舒认为:上等的“圣人之性”先天就是善的,不需教育;下等的“斗筲之性”，是经过教育，也难以转化为善的。这两种都是少数，都不可以名性，只有“中民之性”可以名性。中民是大多数，需要教育，所以董仲舒指出：“王承天意，以成民之性为任者也。”认为君王承天命，教育人民养成善德。在这里董仲舒不仅通过“反性之名”建立起了自己的人性理论，更由此推导出与之配套的“承天意，成民性”的王道教化主张。他从人性论上论证了封建统治的合理性。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：天人感应"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "是中国汉朝的思想家董仲舒提出的一套神学理论，经过“为人者天”、“人副天数”、“同类相动”三个环节，“天人相与”、“天人感应”的神学世界观建立起来。董仲舒把“天”人格化，认为天是有意志的，能够支配一切的最高主宰，为“百神之大君”。自然界的一切规律，以及人类的人事变化都是“天”所决定的。人是为了体现天意被创造出来的，而君主是天的代表，受命于天，“天人感应”成为当时君主获得统治合法性的一个依据。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：四端"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "孟子提出的人的道德修养主要包括仁、义、礼、智四端,又以“仁、义”二德为主;“仁”的一般要求是关系到人之所以为人的的内在本质,“仁”的近切要求关系到人从哪里进来;“义”是人之所以为人的实现路径,“义”的切近要求是敬长;“礼、智”从属于“仁、义”的道德规范."
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：五蕴"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "五蕴既是五种聚合,是佛教对所有生命现象的解释。即：色受想行识。色是物质的活动，受是感受，想是思想，行是精神的活动，识是心王。这五类的法，各个合为一集，都是因缘和合的，它们相续不断的生灭。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：缘起"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "即“因缘生起”，大小乘佛教的理论基础，含义是所有事物均依赖条件、有普遍规律。缘，意为关系或条件，宇宙间一切事物和现象的生起变化，都有相对的互存关系或条件。一佛教认为，所有事物均有缘起，本质为空。缘起”思想是佛教的理论基础，是所有事物依据的条件。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：六度"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "是赵朴初对“六度”的解释，“度”梵语是波罗蜜多”，字义是“到彼岸”，就是从烦恼的此岸度到觉悟的彼岸。六度就是六个到彼岸的方法。即布施、持戒、忍辱、精进、禅定、智慧。心外无物“心外无物，心外无理”为王阳明提出的心学思想，意为要了解宇宙的奥秘，达到对事物真相的认识，只须返视探求自己的心性良知即可。王守仁的心外无物是说，心与物同体，物不能离开心而存在，心也不能离开物存在。从一方面说，灵明的心是天地万物的主宰；从另一方面说，心无体，以天地万物感应之是非为体。王守仁的心外无物的思想把心学唯心论发展到极端,为他的知行合一学说奠定了宇宙观基础,对后世产生了广泛的影响。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：道法自然"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "老子的哲学思想。语出老子《道德经》“人法地，地法天，天法道，道法自然。”法字为动词，意为效法，遵循。道法自然的意思就是大道以自然为纲，遵循其规律。道法自然即道效法或遵循自然，也就是说万事万物的运行法则都是遵守自然规律的。老子认为，\"道\"虽是生长万物的，却是无目的﹑无意识的，它\"生而不有，为而不恃，长而不宰\"，即不把万物据为己有，不夸耀自己的功劳，不主宰和支配万物，而是听任万物自然而然发展着。这里的“自然”是自然而然的自然，即“无状之状”的自然。其意思是，人受制于地，地受制于天，天受制于规则，规则受制于自然。从这里可以看出老子的法的意识里，就是自然法。当然，法制的概念尚未形成。不过，在治理国家时，他主张用自然法来治理天下。道法自然是老子政治哲学和人生哲学的基础。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：得意忘象"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "魏王弼的玄学认识论命题,王弼取庄子“得意忘形”的观点重新解释《周易》关于“意”、“象”、“言”三者的关系，把三者关系拓展为一个认识论问题：经验对象大于概念词谓，概念词谓不能包容经验对象的全部内容；内在本意（本体）又深于（超越于）经验对象，在经验对象范围内或层面上不能给出本意（本体）。“象”指《周易》之卦象,“言”指卦辞、爻辞。认为卦象与卦爻辞之间联系的目的在于使人们通过其卦爻辞而明白其卦象所蕴含的意义.因此，王弼主张“得象而忘言”，“得意而忘象”。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：道通为一"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "庄子于《齐物论》中提出庄子于老子一样地，以“道”为形而上的最高范畴。“道通为一”者，即在“道”的层面上，在“道”的审视下，万物在经验世界、经验事物范围内的分判都是没有本真意义、没有真确价值的，都可以化去。在庄子看来，把它们的分判化去，将它们看做是齐同、齐一的，就合于“道”，进达于“道”。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "请对以下名词做出解释：越名教而任自然"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "“名教”就是以官长君臣之义为教。官长君臣关系是一种等级关系，所以，以此为教，明显的是要维护现存社会等级体质所具有的规范功能。是儒家所提倡的伦理纲常；“自然”指的是人或事物的本性或天性。“越名教”就是要人们超越甚至摈弃儒家的伦理纲常。是晋朝的以竹林七贤为首的名士们，为了反抗司马家族提出的所谓“名教”，而提出的精神宗旨。是以道家老庄哲学中的自然为其最高的精神目标，超越虚伪刻板的官方道德模式，以离经叛道的形式向世人表达内心的压抑和淳朴人性的向往。"
+    }
+]

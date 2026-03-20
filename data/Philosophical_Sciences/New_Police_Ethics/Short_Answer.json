@@ -1,0 +1,4486 @@
+[
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c349c-810a-11ee-acbe-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何运用系统分析的方法研究警察伦理学?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "按照警察道德本身的系统性，把研究对象放到道德系统形式中加以考察。\n借鉴系统论中的整体性原则、动态性原则和有序性原则对警察道德现象进行分析研究。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c349d-810a-11ee-9d18-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国旧警察道德的主要特点有哪些?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "忠于统治者；\n官德和警德合一；\n理论与实践脱节。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c349e-810a-11ee-92d2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德的作用是什么?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有助于提高民警队伍素质；\n有助于民警履行职责：\n有助于促进社会主义精神文明建设。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c349f-810a-11ee-a259-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何实现科学的人生价值观?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要树立崇高的人生价值目标；\n把自己置于集体之中；\n充分发挥个人的主观能动性和创造性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a0-810a-11ee-92a0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察如何树立正确的义利观?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "树立正确的义利标准；\n坚持利义统一的原则；\n坚决反对资产阶级的拜金主义思想。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a1-810a-11ee-91b3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试论警察道德教育的方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德教育的方法：\n正面宣传教育与必要的奖惩结合起来。\n开展丰富多彩的道德实践活动。\n典型教育融于经常性的思想政治教育之中。\n职业道德教育同法制、纪律教育结合起来。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a2-810a-11ee-9bbc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试论人民警察婚姻道德的基本要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察婚姻道德的基本要求：\n爱情与义务相统一,是社会主义婚姻的道德基础与核心内容。人民警察的婚姻，既要坚持以爱情为基础，又要履行社会义务；\n婚姻自由是社会主义婚姻的本质表现和基本特征。人民警察坚持婚姻自由，才能保证其婚姻的稳固；\n婚姻中的权利与义务对等是维护、发展、巩固和完善社会主义婚姻家庭关系的重要因素；\n互尊、互爱、互助是社会主义道德在婚姻关系中的基本要求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a3-810a-11ee-9a32-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德与警察纪律的关系是什么?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德与警察纪律的区别：保证实施所依靠的力量和方式不同；调节的范围不同。\n警察道德与警察纪律的联系：根本目的和使命相同；基本内容一致；相辅相成，互为补充。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a4-810a-11ee-8e5c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德对执行法律有何意义?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察是我国重要的执法力量；\n警察道德对国家法律的正确实施具有保障作用；\n警察道德对法律不尽完善的地方具有弥补作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a5-810a-11ee-b7ff-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察怎样树立正确的生死观念?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要珍惜生命，热爱生活：\n要自觉奉献；\n要英勇顽强，一不怕苦，二不怕死。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a6-810a-11ee-b586-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察家庭有那些特点？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "家庭成员都要承担着亲人为国流血捐躯的风险；\n客观上，配偶要承担更多家庭义务：\n家庭困难多：\n家庭成员往往能够互相理解，互相支持，家庭的凝聚力强。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a7-810a-11ee-b611-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察服务人民的基本依据是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "服务人民是由人民在国家中的地位决定的；\n服务人民是由人民警察的根本宗旨决定的：\n服务人民是贯彻执行公安工作的路线和方针的客观要求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a8-810a-11ee-b223-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试论人民警察如何做到秉公执法？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "秉公执法的内容：不徇私情；不畏权势；严禁逼供；不枉不纵。\n秉公执法的具体要求：学法懂法，增强法制观念。模范遵守国家法律。以事实为根据，以法律为准绳。排除干扰，刚正不阿。处理好“情”与“法”、“权”与“法”、“钱”与“法”的关系，做到不以情易法，以权易法，以钱易法：加强执法监督。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34a9-810a-11ee-9bf4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试论人民警察道德修养的基本方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察道德修养主要是指人民警察个人在职业活动实践中依照人民警察道德的原则和规范，自觉地进行自我教育、自我锻炼、自我改造，以形成高尚的德和达到更高的道德境界的活动过程。\n人民警察道德修养的基本方法：学，即学习，自觉地、理智地提高文化素质和道德认识。思，即思考，内省、开展自我批评。行，即弱行践履，思想见诸行动。慎，慎独，防微杜渐。恒，持之以恒，坚持不解。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34aa-810a-11ee-9b72-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正确认识和解决警察个体道德行为选择的责任与冲突，应该从哪些方面做起?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要提高思想认识，正确把握善与恶的尺度。\n要用辩证的观点看待和分析问题。\n要建立警察道德准则的价值等级次序。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34ab-810a-11ee-9b59-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德对我国社会主义政治有哪些积极促进作用?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德对维护国家政权的稳定具有一定的积极的作用。\n警察道德影响政治廉洁。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34ac-810a-11ee-81e9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学的研究方法有哪些?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "理论联系实际的方法。\n历史分析的方法。\n比较的方法。\n系统分析的方法。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34ad-810a-11ee-bc7a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "怎样加强警察道德建设，树立正确的警察权力观？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加强对人民警察进行警察权力观的教育。\n强化警察权力的道德制度保障。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34ae-810a-11ee-af1c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察应怎样树立正确的荣辱观？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真正树立全心全意为人民服务为最高荣誉的观念。\n真正树立人民公安事业重于个人荣誉的观念。\n真正树立个人荣誉和集体荣誉相统一的观念。\n反对个人英雄主义和对荣誉漠不关心的错误倾向。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34af-810a-11ee-8e6f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论建立完善的警察道德法律强制机制的措施。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法律强制机制的含义：在警察道德建设中建立法律强制机制，就是把警察道德的某些要求纳入到法律体系之中，使其变成人民警察的法律义务和责任，以法律武器来惩恶扬善。\n建立完善警察道德法律强制机制的措施：①加强道德立法，进一步以法律义务的形式，确认人民警察的道德要求。②强化法律的道德价值指向。③利用法律手段赏善罚恶，坚决制止严重违反人民警察道德的行为。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b0-810a-11ee-ab8d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论人民警察如何做到服务人民。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "服务人民的含义：是指人民警察在警务活动中，把人民的利益作为一切工作的出发点和归宿，全心全意为人民利益而工作的职业精神和道德行为。\n作好服务人民的具体要求：①全心全意为人民服务。②保持同人民的密切联系。③倾听人民的意见和建议。④接受人民的监督。⑤维护人民的利益。⑥依靠人民的支持。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b1-810a-11ee-87fa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "开展警察道德评价的途径有哪些?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "党政机关、社会团体及群众对警察的道德评价。\n公安机关内部的道德评价。\n警察个人的自我道德评价。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b2-810a-11ee-bb8d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察婚姻家庭道德的要求是什么?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "坚持先国后家的集体主义原则。\n男女平等，夫妻和睦，相敬相爱。\n尊老爱幼。\n邻里和睦相处。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b3-810a-11ee-bf8d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "哪些情况容易导致警察道德行为选择中发生道德冲突?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会生活中正确与错误的思想、价值观的存在，在特定情况下总会把警察推到需要选择的境地，从而发生道德冲突。\n警察在社会生活中承担各种角色，每一个角色承担不同责任和义务，当这些角色费任和义务发生矛盾时，要求警察作出选择。冲突。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b4-810a-11ee-9004-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察怎样做到文明执勤?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语言文明，待人谦和。\n照章办事，以理服人。\n举止端庄，风纪严整。八闽自考在线\n贯彻落实具体规定和要求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b5-810a-11ee-ae8d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "怎样坚持依法治警与以德治警相结合?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "充分认识依法治警与以德治警相结合的重要性。\n在公安队伍建设实践中要注意法治与德治的相互借鉴。\n完善和健全公安队伍建设的法范体系和职业道德规范体系。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b6-810a-11ee-8a39-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试论警察个体道德对警察道德的能动作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察个体道德的含义：指警察个人在警务活动实践中，遵照一定警察组织提出的具有普遍约束力的警察道德准则要求，所开展的道德活动以及所形成的用以自我约束的内化道德准则和道德品质。\n警察个体道德对警察道德的能动作用①警察个体道德把抽象的警察道德要求变成具体的道德活动，增强了警察道德原则和规范对警察个体行为的指导性。②警察个体道德创造性地实践箸察道德，是警察道德发展完善的重要推动力量。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b7-810a-11ee-8694-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试论提高人民警察尊重和保护人权的意识。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权的含义是指社会根据当时的经济结构和文化发展水平，经过法律和道德承认并保障其成员获得正常和发展所必须的权利。\n如何提高警察尊重和保障人权的意识①适应我国政治文明建设的需要树立正确的人权观念。②注重对警察进行尊重和保障人权方面的教育。③建立健全警察尊重和保障人权的各项执法制度。④提高警察尊重和保障人权的人文素质。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b8-810a-11ee-9e3f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德对警察严格公正文明执法有哪些促进作用？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德对法律的正确实施具有保障作用；\n警察道德对法律调整不足的地方具有弥补作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34b9-810a-11ee-aa3f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "完善警察道德人格的措施有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察道德人格的完善须立足于全面建设小康社会、加快推进社会主义现代化建设的发展实际，树立正确的道德价值观；\n根植于中华优秀传统道德文化的土壤，着眼于世界文化发展的前沿，吸取国际警察道德的宝贵经验，丰富人民警察道德人格的内涵；\n公安机关的正确引导与人民警察的道德实践和道德修养相结合；"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34ba-810a-11ee-92b5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德教育的方法有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正面教育与必要的奖惩相结合：\n开展丰富多采的道德实践活动；\n典型教育融于经常性的思想政治教育之中。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34bb-810a-11ee-be70-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在公安工作中如何做到“立警为公、执法为民”？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "转变执法观念：\n坚决维护人民群众的合法权益；\n严格依法履行职责；\n切实提高执法水平；\n进一步加强和改进公安行政管理工作。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34bc-810a-11ee-9d23-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察如何在执法活动中坚持公正？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察是社会的执法者，这一职业角色要求他们必须严格公正文明执法；\n坚持公民在法律面前人人平等的原则；\n这是公正范畴在我国政治文化生活中的集中体现，也是人民警察义不容辞的职责。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34bd-810a-11ee-8a14-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试论英美等国掀起的第四次警务革命给我们带来的警察道德建设的启示。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察在打击和预防犯罪强调预防；在主动警务与被动替务中上强调主动；在增编人员与提高素质上强调索质。\n不再过分强调警察机关的单独作用，而是重视整个社会组织和道德行为规范的警务作用\n在警察培训中，注意培养警察的精神气质，提高警察形象，注意待人接物，获取民众的信任和支持，以期达到转化社会矛盾、缓和社会冲突的目的；"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34be-810a-11ee-896f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试论人民警察应树立正确的义利观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "义利的含义一般说，义即应当、正当、合乎道义；利，即利益，功效，包括公利和私利。（1分\n树立正确的义利观①在道德和利益、道德和功利的关系上，坚持义利统一。A.要求人民警察必须正视物质利益在社会进程中的基础作用；B.要求人民警察必须弘扬道德精神；C.要求人民警察必须坚持尊重个人合法权益与承担社会责任相统。②在集体利益和个人利益关系上，坚持义利和谐，以义为上。A.要求人民警察把实现国家和人民利益作为最高价值目标；B.要求人民警察坚持集体主义的价值观，在个人利益与集体利益发生矛盾冲突时，不惜牺性个人利益，而顾全集体利益。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34bf-810a-11ee-9f76-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述中国警察道德发展的规律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德的发展直接受到国家机器状况的制约。\n警察道德在新与旧、善与恶的斗争中不断得到发展。\n警察道德的发展是一个曲折上升的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c0-810a-11ee-bfcd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述政治对警察道德的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治是促成警察道德形成和发展的重要而直接的因素。\n政治直接影响着警察道德规范的具体内容。\n政治对警察个体道德品质的形成和完善具有重要促进作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c1-810a-11ee-b1d4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察怎样才能做到文明执勤？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "语言文明，待人谦和。\n照章办事，以理服人。\n举止端庄，风纪严整。\n贯彻落实具体规定。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c2-810a-11ee-8d48-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察婚姻家庭道德的基本要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "坚持先国后家的集体主义原则。\n男女平等，夫妻和睦，相敬相爱。\n尊老爱幼。\n邻果和睦相处。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c3-810a-11ee-b752-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德评价的途径。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "党政机关、社会团体及群众对警察的道德评价。\n公安机关内部的道德评价。\n警察个人的自我道德评价。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c4-810a-11ee-bd1c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述如何更好地发挥警察道德的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察道德的提升有助于实现依法治国方略。\n人民警察道德的提升有助于社会主义市场经济的建设与发展。\n人民警察道德的提升有助于维护党和国家在人民群众心目中的形象。\n人民警察道德的提升有助于提高警察队伍的素质。\n人民警察道德的提升有助于警察实现自我完善和自我价值。\n人民警察道德的提升有助于警察更好地履行职责。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c5-810a-11ee-a80c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德行为选择中道德冲突的表现及解决办法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德冲突的表现是：\n社会生活中正确与错误的思想、价值观的存在，在特定情况下总会把警察推到需要选择境地，从而发生道德冲突。\n警察在社会生活中承担着多种角色，是一个“角色集”而每一个角色又承担着不同的责任和义务，有时候这些不同的角色责任和义务会发生矛盾，要求警察作选择。\n警察在职业生活中承担的责任是多层次的，对人民的责任、对上级的责任、对法律的责任等，有时候不同的责任之间会发生不一致。解决的办法有：\n提高思想认识，正确把握善与恶的尺度。\n用辩证的观点看待和分析问题。\n要建立警察道德准则的价值等级次序。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c6-810a-11ee-b2f5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察伦理学的研究方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "理论联系实际的方法。\n历史分析的方法。\n比较的方法。\n系统分析的方法。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c7-810a-11ee-8fb2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德对警察权力的制约作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德是制约察权力的自律机制。\n警察道德能提高警察权力的影响力。\n警察道德是实现警察权力正效应的重要条件。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c8-810a-11ee-8908-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述诚信对公安机关和人民警察的要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从人民警察个人角度来说，警察个人要讲诚信。\n从公安机关的角度来说，各级公安组织要讲诚信。\n从执法活动的角度来说，无论是警察个人还是公安机关都要体现诚信。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34c9-810a-11ee-b0f8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述人民警察遵守和维护社会公德的重要意义？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有助于提高人民警察队伍的思想道德修养。\n有助于树立人民警察的良好形象。\n有助于良好的社会风气的形成。\n有助于创造一个安定样和的社会环境。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34ca-810a-11ee-bdae-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德修养的主要内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德认识修养。\n警察道德情感修养。\n警察道德意志修养。\n警察道德关系修养。\n警察举止言谈修养。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34cb-810a-11ee-ba79-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何提高警察尊重和保障人权的意识？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适应我国政治文明建设的需要，树立正确的人权观念。\n注重对警察进行尊重和保障人权方面的教育。\n建立健全警察尊重和保障，人权的各项执法制度。\n提高警察尊重和保障人权的人文素养。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34cc-810a-11ee-be03-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试论警察道德教育的原则和方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德教育的原则：①知行统一的原则。②因人施教的原则。③教育影响的一致性与连贯性原则。④尊重受教育者人格的原则。\n警察道德教育的方法：①正面教育与必要的奖惩相结合。②开展丰富多彩的道德实践活动。③典型教育融于经常性的思想政治教育之中。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34cd-810a-11ee-ad0a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简析文艺复兴时期意大利的马基雅弗利提出的命题：“政治无道德”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“政治无道德”认为在政治活动中，统治阶级不需要讲道德。把道德从政治生活中排除出去的观点，不符合人类社会发展和政治生活的实际。马克思主义唯物史观认为，政治和道德都是由一定的社会经济关系所决定的上层建筑和社会意识形态，两者不存在谁决定谁的问题，而是处于一种既区别又有联系的辩证关系之中。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34ce-810a-11ee-8511-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述在概括和表述人民警察道德基本原则的过程中应注意的问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不能把社会主义道德基本原则或各行各业都适用的道德原则，原封不动地套用到警察道德基本原则上去。\n要抓住人民警察职业的本质和核心内容。\n要充分考虑公安工作的特殊性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34cf-810a-11ee-ad3d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述公安机关和人民警察讲求诚信的重要性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安机关和人民察是国家的执法机关和执法人员，只有讲诚信，才能体现执法信用。\n公安机关和人民警察是党和政府形象的代表，只有讲诚信，才能树立党和政府的威信。\n公安机关和人民警察作为执法者，在真体的登务活动中，只有讲诚信，才能取得良好的执法效益。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d0-810a-11ee-bd05-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述良心的社会心理特征。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是个人意识中的一种强烈的责任感。\n是个人意识中自我评价的能力。\n是多种道德心理素质在个人意识中的有机结合。（分）"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d1-810a-11ee-b8e0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述在警察道德建设中建立法律强制机制的含义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在警察道德中建立法律强制机制，就是把警察道德的某些要求纳入到法律体系之中，使其变成人民警察的法律义务和资任，以法律武器来惩恶扬善。其含义主要有：\n以法律义务的形式，确认警察道德原则和规范的地位。\n利用法律手段赏善罚恶。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d2-810a-11ee-bd8b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "联系生活实际试述坚持集体主义价值导向，反对个人主义的主要方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德价值导向，是社会道德价值体系的灵魂和“定向器”，是由统治阶级提倡或肯定的社会道德生活的总体指向。\n社会主义集体价值导向的价值目标是社会同个人的和谐发展，是每个人的全面而自由发展，最终达到共产主义。\n个人主义价值观的理论基础是“人的本性是自私的”，这是错误的、落后的、有害的道德观、价值观，它破坏了社会同个人的和谐发展，同集体主义道德原则根本对立。\n在发展社会主义市场经济条件下，要在全体人民中提倡集体主义道德原则，反对和抵制拜金主义，享乐主义和极端个人主义。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d3-810a-11ee-b0c5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述加强警察道德修养的主要方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学。即学习，是警察广泛地学习各种与道德修养有关的知识，自觉地提高文化紫质和道德认识活动，它是警察进行修养的最基本的方法。\n思。即思考、内省、开展自我批评。\n行。即弱行践展，实践。它是道德修养的最根本的方法。\n慎。即慎独，指在独自一人而无人监督时，更加注意坚持自己的道德信念，严格要求自己不做不道德的事。\n恒。即持之以恒，坚持不懈。道德修养是一个不断从认识到实践，又从实践到认识的反复过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d4-810a-11ee-a9cf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德对政治的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治制度与政治思想在对警察道德产生直接影响甚至是决定性作用的同时，警察道德也以其特有的功能，对政治发挥着不可替代的影响和作用。\n警察道德影响政治廉洁。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d5-810a-11ee-8366-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察权力代理观的含义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察受任于特定的警察职位，受人民的委托，作为人民的代理者履行特定的警务职责才能拥有警察权力。\n任何警察都不会永远拥有警察权力，不能占有警察权力，只能代理行使警察权力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d6-810a-11ee-b07b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述实现依法治警与以德治警相结合的方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "充分认识依法治警与以德治警相结合的重要性。\n在公安队伍建设实践中要注意法治与德治的相互借鉴。\n完善和健全公安队伍建设的法律规范体系和职业道德规范体系。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d7-810a-11ee-a61d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述加强人民警察道德建设，强化法律强制机制的主要措施。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加强道德立法，进一步以法律义务的形式，确认人民警察的道德要求。\n强化法律的道德价值指向。\n利用法律手段赏善罚恶，坚决制止严重违反人民警察道德的行为。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d8-810a-11ee-8438-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德人格的基本内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "忠于党，为巩固党的执政地位而务力奋斗的政治品格。\n以国家利益和公安事业为重的集体主义思想。\n全心全意为人民服务的公仆精神。\n忠于职守，积极进取的工作态度。\n严于律已，廉洁奉公的思想作风。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34d9-810a-11ee-b894-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述人民警察“全心全意为人民服务”的含义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "当人民群众的人身，财产安全受到侵犯或处于其他危难情形时，应当立即救助；\n对人民群众提出解决纠纷的要求，应当给予帮助；\n对人民群众的报警案件，应当及时处理；\n当人民群众遭受自然灾害时，应当积极参加抢险救灾；\n凡对人民群众有利的公益职业，应当积极参加。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34da-810a-11ee-adfd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述人民警察如何树立正确的荣辱观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真正树立全心全意为人民服务为最高荣誉的观念。\n真正树立人民公安事业重于个人荣誉的观念。\n真正树立个人荣誉和集体荣誉相统一的观念。\n反对个人英雄主义和对荣誉漠不关心的倾向。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34db-810a-11ee-a10b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述公安机关对人民警察进行警察权力观教育的内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学习马克思主义有关国家权力的起源和本质的理论，帮助人民警察正确认识国家权力与警察权力的关系。\n从理论上弄清警察权力的法定性、规范性、强制性、公共性等特征。\n明晰警察权力与警察义务、任务与责任的关系。\n认清警察权力的价值。\n切实牢固树立公仆观念、利益观念、接受监督的观念，为在实践中用权为民打下牢固的惠想基础。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34dc-810a-11ee-b2de-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述国民党统治时期对警察提出的道德要求的主要内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "服从命令，保守机密。\n热爱民众，保护民众。\n廉洁奉公，依法办事。\n讲究礼貌，举止端庄。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c34dd-810a-11ee-8554-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察应该怎样树立正确的荣辱观？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真正树立全心全意为人民服务为最高荣誉的观念。\n真正树立人民公安事业重于个人荣誉的观念。。日香在\n真正树立个人荣誉和集体荣誉相统一的观念。（1分mmz\n反对个人英雄主义和对荣誉漠不关心的倾向。T分）"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b92-810a-11ee-b49c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察爱情的道德要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "选择恋爱对象要以品德和志同道合为重。\n互相尊重，坚持平等自由的原则。\n对待爱情要严肃专一。\n恋爱方式要文明健康。\n摆正爱情在人生中的位置。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b93-810a-11ee-b26e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何完善警察道德的他律调控机制？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "确立和完善人民警察道德教育机制，提高人民警察的道德认识水准。\n大力开展道德评价活动，营造良好的道德环境。\n加强制度约束与引导，用法纪手段确保警察道德得到遵守。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b94-810a-11ee-bdf5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述英美等国掀起的第四次警务革命带给新中国警察道德建设的启示。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "20世纪80年代以后，英美等国家起了第四次警务革命的浪潮。\n警察在打击和预防犯罪上强调预防；在主动警务与被动警务上强调主动；在增编人员与提高素质上强调素质。\n不再过分强调警察机关的单独作用，而是重视整个社会组织和道德行为规范的警务作用。\n在警察培训中，注意培养警察的精神气质，提高警察形象，注意待人接物，获取民众的信任和支持，以期达到转化社会矛盾、缓和社会冲突的目的。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b95-810a-11ee-b97d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何在执法观念的转变上体现“立警为公、执法为民”的要求？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "具体来说，公安民警要牢固树立四种观念、四种意识做到五个一致性。\n四种观念包括：第一，法律至上观念。第二，严格依法履行职责的观念。第三，法律面前人人平等的观念。第四，尊重和保障人权的观念。\n四种意识包括：第一，证据意识。第二，程序意识。第三，权限意识。第四，监督意识。\n五个一致性包括：一是坚持对法律负责与对党负责、对人民负责的一致性。二是坚持严格执法、公正执法、文明执法的一致性。三是坚持打击犯罪与保护人权的一致性。四是追求效率与实现公正的一致性，五是执法形式与执法目的的一致性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b96-810a-11ee-9085-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述社会主义道德为什么必须反对个人主义的价值观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个人主义是一种崇尚个人自由、个人价值、个人利益至上的社会哲学和道德原则，它强调自我支配、自我控制、不受外界约束的个人或自我，在西方社会有着较长的历史发展过程，有其特定的经济基础和社会历史背景。\n个人主义道德原则是一种错误的、落后的、有害的道德观、价值观，是违背社会主义经济基础的客观要求；同发展人民群众的共同利益背道而驰的，它破坏了社会同个人和谐发展，是同集体主义道德原则根本对立的。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b97-810a-11ee-9b0b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述奥古斯特·沃尔默对美国社会警察道德的研究和发展的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "奥古斯特·沃尔欧在1905-1932年担任伯克利市警察局长时，十分重视警察道德，他借导的警察工作标准和道德准则是效率、诚实和科学。\n他最先决定推荐大学毕业生来充实警察队伍，力求使他所领导的警察队伍成为美国职业警察的楷模。\n他认为答察应该有效保护群众，为群众服务，要做到这一点，首先必须认真履行执法服务等。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b98-810a-11ee-9745-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察如何做到秉公执法?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "增强法制观念。\n模范遵守国家法律。\n正确运用法律。\n排除一切干扰。\n自觉接受执法监督。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b99-810a-11ee-8321-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察正确解决道德冲突应当从哪些方面做起?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要提高思想认识，正确把握善与恶的尺度。\n要用辩证的观点看待和分析问题。\n要建立警察道德准则的价值等级次序。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b9a-810a-11ee-97c7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察个体道德对警察道德的能动作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察个体道德把抽象的警察道德要求变成具体的道德活动，增强了警察道德原则和规范对警察个体行为的指导性。\n警察个体道德创造性地实践警察道德，是察道德发展完善的重要推动力量。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b9b-810a-11ee-9cda-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德基本原则曾经表述为“打击犯罪，保护人民”。试用历史分析法对此进行分析。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所谓历史分析法，就是以历史唯物主义的观点和态度来考察、研究社会文化现象的一种方法。\n采用历史分析法，在学习和研究警察道德现象时，必须联系当时的社会历史条件、法律关系、道德关系等，分析不同历史时期警察道德关系的变化，研究社会发展的不同阶段对警察道德的不同影响和不同要求。\n采用历史分析法，我们就要用历史的态度来看待以往的警察道德现象。\n历史分析法对警察伦理学学科本身的建设和发展也很有价值，它告诉我们，学科的建设必须顺应历史的必然和时代的要求，才能实现自我更新和自我发展。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b9c-810a-11ee-bef5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在社会主义市场经济条件下，人民警察应怎样树立正确的义利观?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在道德和利益、道义和功利的关系上，坚持义利统一。①人民警察必须正视物质利益在社会进程中的基础作用：必须弘扬道德精神：②人民警察必须坚持尊重个人合法权益与承担社会责任相统一。\n在集体利益和个人利益关系上，坚持义利和谐，以义为上。①人民警察要把实现国家和人民利益作为最高价值目标；②人民警察要坚持集体主义的价值观念，在个人利益与集体利益发生矛盾冲突时不牺牲个人利益，而顾全集体利益。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b9d-810a-11ee-af93-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述中国警察道德发展的规律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德的发展直接受到国家机器状况的制约；\n警察道德在新与旧、善与恶的斗争中不断得到发展；\n警察道德的发展是一个曲折上升的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b9e-810a-11ee-90e4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德对警察权力的制约作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德是制约警察权力的自律机制；\n警察道德能够提高警察权力的影响力；\n警察道德是实现警察权力正效应的重要条件。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5b9f-810a-11ee-aa26-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述人民警察尊重和保障人权的意义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有助于我国依法治国目标的实现；\n有助于树立党和政府的良好形象；\n有助于公安工作的顺利完成。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba0-810a-11ee-8983-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述团结协作这一警察道德规范的基本依据。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是集体主义道德原则的本质要求；\n是公安机关的优良传统；\n是警务工作的分工和特点决定的。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba1-810a-11ee-8aaa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察婚姻家庭道德的基本要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "坚持先国后家的集体主义原则；\n男女平等，夫妻和睦，相敬相爱；\n尊老爱幼；\n邻里和睦相处。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba2-810a-11ee-92f2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何理解警察道德对促进警察严格公正文明执法具有积极作用？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德对法律的正确实施具有保障作用。表现在：①警察的法律意识和法律信仰是确保警察严格公正文明执法的前提；②警察的职业道德意志力是警察做到严格公正文明执法的重要调控力量。\n警察道德对法律调整不足的地方具有弥补作用。体现在：①警察道德可以促使警察在处理案件时采取既能为当事人所接受又不违背法制原则的办法，妥善解决问题；②警察道德可以促使警察不放弃在法律不健全的情况下的执法活动，自觉保持廉洁的本色。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba3-810a-11ee-8673-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述人民警察文明执勤的主要内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "文明执勤是指人民警察在警务活动中，说话和气、行为端庄、警容严整、作风朴实、诚恩可信的道德风貌。\n谦虚谨慎。人民警察在警务活动中，处理与人、与事的关系时，具有谦逊礼让待人、严谨慎重处事的道德品格；\n不要特权。人民警察在警务活动中，不得滥用国家和人民赋予的职权搞特殊化，不得凭借职权侵犯国家和人民群众的利益；\n礼貌待人。人民警察在警务活动中，对待群众及当事人，要语言文明，态度和葛，尊重对方；\n警容严整。人民警察在警务活动中，要做到仪容外表、行为举止保持庄严、整洁。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba4-810a-11ee-aeb8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述社会经济关系对警察道德的决定作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会经济关系的性质决定警察道德体系的性质和类型；\n社会经济关系决定警察道德原则和道德规范的内容；\n社会经济关系的变化引起警察道德内容的变化。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba5-810a-11ee-b954-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德对警察严格公正文明执法的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德对法律的正确实施具有保障作用；\n警察道德对法律调整不足的地方具有弥补作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba6-810a-11ee-a5ac-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德在促进警察保障人权中的积极作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德是一种价值观念和价值取向，对警察尊重和保障人权的行为具有重要的行为定尚作用；\n普察道德着重于对管察资任感和职业良知的培养，使管察对人权的尊重和保护成为一种自觉和自律的行为；\n警察道德能使警察从更宽泛的意义上理解对人权保护的价值，更好地尽到保护人权的职资。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba7-810a-11ee-a604-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述人民警察服务人民的基本依据。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是由人民在国家和公安工作中的地位决定的；\n是由人民警察的根本宗旨决定的；\n是贯彻执行公安工作路线和方针的客观要求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba8-810a-11ee-bdb2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述社会公德存在的原因。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在阶级社会中，对立的阶级有着共同的社会生活基础。\n社会公共生活场所的性质，规定了参与人员必须共同避守有关规则。\n在阶级社会里，社会关系是复杂和多层次的。\n随着科学技术的发展，人类社会公共生活领域日益扩大。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5ba9-810a-11ee-9a79-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结合实际分析如何加强警察道德建设，树立正确的警察权力观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加强对人民警察进行警察权力观的教育，为在实践中用权为民打下牢固的思想基础。\n加强警察道德制度的建设，实现警察权力的道德制度保障，这是政府去控制其自身的必要途径和方式之一。\n我国警察道德制度建设取得的很大进展表现在：1995年颁布实施的《人民警察法》等都对人民警察道德作出了明确规定，对于人民警察树立正确的权力观等方面起到了十分重要的作用。\n结合实际部分。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5baa-810a-11ee-9df4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论述诚信对公安机关和人民警察的原则要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "诚信，即诚实守信。是中华民族的传统美德。是人立身处世之本，是人际交往的基本准则，是国家发展和强盛的根基。\n警察个人要讲诚信。一要树立诚信观念，信守公安机关提出的原则规范和理想目标。二要实事求是，忠实于自已理应承担的责任和义务。\n各级公安组织要讲诚信。在行政管理活动中，慎重决策，向人民讲真话；在面临各种利益冲突时，对人民作出的承诺必须兑现，取信于民。\n从执法活动的角度来说，警察个人和公安机关都要体现诚信。都要严格按照法律的规定办事，维护法律的尊严，兑现国家和政府对社会的群众作出的承诺。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bab-810a-11ee-990d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述政治对警察道德的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治是促成警察道德形成和发展的重要而直接的因素。\n政治直接响着警察道德规范的具体内容。\n政治对警察个体道德品质的形成和完善具有重要的促进和影响作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bac-810a-11ee-9ff8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德范畴与警察道德原则和规范的联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德范畴受警察道德原则和规范的制约。\n警察道德范畴是警察道德原则和规范发挥作用的必要条件。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bad-810a-11ee-95e4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德修养的重要性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德修养是形成和提高警察道德品质的必由之路。\n警察道德修养是提高警察素质的一项要措施。\n警察道德修养是提高公安队伍战斗力的必要条件。\n警察道德修养是公安机关反腐败斗争的单要途径。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bae-810a-11ee-9df6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述完善警察道德人格的措施。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必须立足于全面建设小康社会、加快推进社会主义现代化建设的发展实际，树立正确的道德价值观。\n根植于中华优秀传统道德文化的土境，着眼于世界文化发展的前沿、吸取国际警察道德的宝贵经验，丰富人民警察道德人格的内涵。\n公安机关的正确引导与人民警察的道德实践和道德修养相统合。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5baf-810a-11ee-aa94-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述道德与制度的内在同质性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德与制度有其发生、发展的共同基础。\n道德与制度的本质作用相同。\n制度精神和道德精神具有内在的同构性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb0-810a-11ee-9a6e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何提高和强化警察尊重和保护人权的意识?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适应我国政治文明建设的需要，树立正确的人权观念。\n注重对警察进行尊重和保障人权方面的教育。\n建立健全警察承和保障人权的备项执法制度。\n提高警察尊重和保障人权的人文索养。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb1-810a-11ee-98de-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何正确理解警察个体道德行为选择的责任与冲突?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察个体道德行为选择的责任包括如下含义：\n人民警察必须对自已的道德行为选择负道德责任。\n在道德行为抉择中应根据具体情况来确定人民警察的道德责任。人民警察为了正确地解决道德冲突，应努力做到以下几点：\n提高思想认识，正确把握善与恶的尺度。\n要用辩证的观点看待和分析问题。\n要建立警察道德准则的价值等级次序。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb2-810a-11ee-8889-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述《公安机关人民警察职业道德规范》的十条规范。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "忠诚可靠，秉公执法，英勇善战，热诚服务，文明理性，严守纪律，爱岗敬业，甘于奉献，清正廉洁，团结协作。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb3-810a-11ee-8a10-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述对警察权力单向性的理解。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力的单向性是指警察权力运行方向的不可逆性。警察权力的实施和运行时由上而下进行的，无需征得警察权力客体的同意，警察权力的客体如公民、法人和其他的组织应当无条件地服从和避守。警察权力的单向性是由警察权力执行体现的是国家意志这一特性所决定的。其基于两个基本条件，一是警察权力的主体即公安机关和人民警察代表国家行使警察权力，不存在着公安机关及人民警察与公民、法人和其他组织协商如何行使这一权利的问题；二是警察权力的行使是由国家的法律法规规定的，不仅公民、法人和其他组织必须服从，而且公安机关与人民警察也必须严格依法行使。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb4-810a-11ee-a86b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察权力广泛性的表现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安机关拥有覆盖整个社会的基层派出机构，实行24小时的勤务运作，其执法范围和权力远远大于其他行政机关。除了侦查破案、打击犯罪等刑事执法权外，还承担着治安、户政、国籍、出入境、消防、交通、逝防计算机信息系统的安全保护等多项行政职权。这些权力的行使对象不仅包括守法的公民，而且也包括违法犯罪的被告人和犯罪嫌疑人，直接涉及这些权力对象的基本权利，稍有不慎就会对其合法权利造成侵害。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb5-810a-11ee-a715-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述集体主义道德原则的基本要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集体主义道德原则所追求的最高价值目标是实现个人利益和集体利益的统和协调发展。\n集体主义道德原则坚持集体利益高于个人利益，提倡在集体利益和个人利益发生矛盾时，个人要顾全大局，在必要的条件下为了集体的利益而牺牲个人的利益。\n集体主义道德原则在强调集体利益高于个人利益的前提下，强调集体必须充分尊重个人的正当利益，并要求个人应主动承担责任和履行义务。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb6-810a-11ee-a02c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德的他律调控机制的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德的他律调控机制对民警的行为给予必要的约束，对于警察道德价值的实现具有普遍性的意义。\n警察道德的他律调控机制具有引导作用，它将道德建设与制度建设相结合，引导民警作出正确的行为选择。\n警察道德的他律调控机制强调外在力量的约束和激励，可以有效地监督和引导警察行为。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb7-810a-11ee-a9be-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何认识和把握警察道德的本质？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所谓警察道德的本质是指警察道德区别于其他社会现象的本质属性，是警察道德基本要素的内在联系和警察道德内部所包含的一系列必然性、规律性的总和。对于警察道德本质可以从两个方面来认识和把握，即警察道德是一种受社会经济关系决定的社会意识；警察道德是调节警察行为的特殊规范。\n首先，警察道德是一种受社会经济关系决定的社会意识，可以做如下三个方面的理解：（1）社会经济关系的性质决定警察道德体系的性质和类型；（2）社会经济关系决定警察道德原则和道德规范的内容；（3）社会经济关系的变化引起警察道德内容的变化。1）\n其次，警察道德是调节警察行为的特殊规范，可以做如下两个方面的理解：（1）警察道德规范是一种非强制性的行为规范；（2）警察道德是一种内化的行为规范。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb8-810a-11ee-a727-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察应如何树立正确的生死观？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察职业具有高危险性，人民警察在警务活动中，必然会面临生与死的抉择。要正确的择，就要有正确的生死观指导。人民警察的生死观就是无产阶级的生观，它是在继承历史上进步的生死观的基础上形成的。\n人民警察要树立无产阶级的生死观，就要努力做到：第一，树立正确的世界观和人生观。要承认和尊重客观规律，乐观进取、乐于率献，从客观规律和人生价值的高度来看待和把握生死问题。第二，珍惜生命，热爱生活。第三，勇于献身，视死如归。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bb9-810a-11ee-99c6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述对警察道德导向性的理解。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德的导向性是指警察道德对于规范警察活动所起的引导作用，能够使警察在社会生活中有效地识别行为的方向。\n警察道德作为一种行为规范，不仅通过约束性告诉警察什么不应该做，而且通过导向性告诉警察任么是应该做的。\n警察道德的导向性通过目的、准则、评价、荣誉、理想等调整警察行为，使警察的行为更加符合“应当”的准则。\n警察道德的导向性来源于警察道德本身所蕴涵着的理想的道德成分。\n警察道德的导向性表现为警察道德主体通过内心的道德评价和选择来确定自已的行为方向。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bba-810a-11ee-9655-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述道德与政治的区别和联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "马克思主义唯物史观认为，政治和道德都是由一定的社会经济关系所决定的上层建筑和社会意识形态，两者不存在谁决定谁的间题，而是处于一种既有区别又有联系的辩证关系之中\n道德与政治的区别在于：其一，道德和政治反映社会经济关系的途径和程度不同；其二，道德与政治对社会经济关系反作用的程度和方式不同。道德和政治的联系表现在：其一，政治变革和道德发展相互促进；其二，政治制度和道德体系相互影响。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bbb-810a-11ee-a71c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述改革开放以来我国在人权保障方面取得的突出进步。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "改革开放以来，我国的人权保障事业取得的突出进步主要有：人权状况》。此后，多次发表我国的人权状况白皮书。\n1991年11月，国务院新闻办发布了新中国成立以来的第一份人权白皮书，即《中国的人权状况》。此后，多次发表我国的人权状况白皮书。\n中共十五大报告第一次正式提出要保护和尊重人权，党的十六大报告进一步明确了要尊重和保障人权。\n2004年新修订的宪法增加国家尊重和保障人权”的内容，实现了“人权”入宪。\n2009年我国发布了《国家人权行动计划（2009-2010）》，这是我国第一次制订国家权行动计划。\n2012年新修订的《刑事诉讼法》把尊量和保障人权写入其总则”。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bbc-810a-11ee-b23d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述文明理性的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心系大局，情理统一。\n警容严整，言行文明。\n有理有节，谦虚平和。\n言行一致，诚实守信。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bbd-810a-11ee-a801-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察如何树立正确的荣辱观?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真正树立全心全意为人民服务为最高荣誉的观念。\n真正树立人民公安事业重于个人荣誉的观念。\n真正树立个人荣誉和集体荣誉相统一的观念。\n反对个人英雄主义和对荣誉漠不关心的错误倾向。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bbe-810a-11ee-b833-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德是制约警察权力的自律机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力是公安机关及人民警察完成职责的重要工具和手段。但是，警察权力的扩张性和二重性又需要对其加以制约，以保障其正确行使。而警察道德正是制约警察权力的一种自律机制。制约警察权力的自律机制是指警察自身能够自觉地依照一定的规范和要求合法合理地行使权力的自我反省自我约束、自我调节的内在机制和能力。警察道德发挥作用所凭借的道德情感道德意志和道德信念等，决定了警察道德是制纳警察权力最重要的自律机制。\n警察道德带有极强的主体自觉性与人格能动性，能够通过两条重要的途径来制约警察权力：一是将体现时代精神和警察道德理想的伦理思想、精神和其所体现的终极价值标准、评价原则和规范准则作为构成公安事业的精神基础，使其成为警察法律与其他监督形式的指导思想和规范力量，这样，警察道德就成为切监督机制的内在依据，渗透在各种机制对于警察权力的制约作用中；二是通过警察道德教育与修养，使警察道德原则溶入人民警察的内心，变成人民警察的人格、品质与行为准则，从而发挥着其他警察权力制约机制无法发挥的所谓警察“内心的法”的威力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bbf-810a-11ee-91a1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何正确开展警察道德评价?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德评价的依据是动机与效果。根据动机与效果的辩证关系，以及二者的复杂情况，要正确地开展警察道德评价，就要做到以下几点：\n把动机与效果有机的结合起来。道德行为中包含着行为的动机与效果如果动机与效果一致，评价行为的道德价值就直接根据动机和效果来判断。如果动机和效果不致，就要把动机和效果统一起来进行判断，不能片面强调某一方面，只有这样才能作出客观、正确的评价。\n联系手段与目的综合评价。目的决定手段，有什么样的目的，就有什么样的手段。手段也影响目的，手段不道德，目的的道德性也值得怀疑。\n要注重社会实践的检验作用。警察的一切动机都是在公安工作的实践中产生的，也是在实践中发展的，最终还要受到实践的检验。警察的道德行为是一个从动机到效果的过程，同时也是一个不断实践的过程，要考虑到警察个体发展进步的进程，进行客观评价。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc0-810a-11ee-94fb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警繁道德发展的规律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德的产生和发展归根结底受社会经济关系的制约。\n警察道德在与法纪和规章制度的相互促进中得以发展。\n警察道德的发展是一个不断扬弃和趋周的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc1-810a-11ee-a8f4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德制约警察权力的重要途径。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "将体现时代精神和警察道德理想的伦理思想、精神和其所体现的终极机制标准、评价原则和规范准则作为构成公安事业的精神基础，使其成为警察法律与其他监督形式的指导思想和规范力量。这样，警察道德就成为一切监督机制的内在依据，渗透在各种机制对于警察权力的制约作用中。\n通过警察道德教育与修养，使警察道德原则溶入人民警察的内心，变成人民警察的人格、品质与行为准则，从而发挥着其他警察权力制约机制无法发挥的所谓警察“内心的法”的威力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc2-810a-11ee-877e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德在警察保障人权中的积极作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在现代法治社会中，要确保警察在执法活动中真正做到尊重和保障人权，在加强法律和制度建设的同时，也要加强警察道德建设，因为警察道德对于促进警察更好地保障人权具有法律所无法取代的独特作用。\n警察道德是一种价值观念和价值取向，对警察尊重和保障人权具有重要的行为定向作用。\n警察道德强调对警察责任感和职业良知的培养，有利于使尊重和保护人权成为警察的一种自觉行为。\n警察道德中有关尊重和保护人权的规定，以人类几千年来的文明成果为基础，易使警察认同和践行。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc3-810a-11ee-a604-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述爱岗敬业的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "认真进行工作分析，优化警察人力资源配置。完善工作分析机制，优化警察人力资源配置是公安民警爱岗敬业的基本要求。\n以能力为核心，全面提升公安民警的素质与能力。爱岗敬业需要优良的职业素养保障，因此，公安民警实践爱岗敬业的道德规范，在客观上要求以能力为核心，全面提高公安民警的素质。\n改革教育训练模式，完善引导奖励机制。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc4-810a-11ee-9e74-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德教育的原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "知行统一的原则1分）\n因人施教的原则。1分）\n教育影响的一致性与连贯性原则。\n尊重受教育者人格的原则。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc5-810a-11ee-9a73-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德是调节警察行为的特殊规范"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从上层建筑和社会意识形态内部来考察，特别是把警察道德与法律、政治、纪律等规范进行比较考察，着重分析警察道德规范与法律规范、政治规范、纪律规范的区别，便可以发现警察道德是一种调节警察行为的特殊规范。\n警察道德规范是一种非强制性的行为规范。在对警察行为进行调节的规范中，警察道德规范与法律规范、纪律规范、政治规范相比，由于借用了不同的力景来实现自已的调节功能，从而体现了其特殊的规范性。法律规范、纪律规范和政治规范都是强制性的行为规范。1分）警察道德在对警察行为进行调节时较少地运用强制力量，主要是凭借教育社会舆论、内心反省和群众监督来起作用，是一种非强制性的行为规范。\n警察道德是一种内化的行为规范。对警察行为有强制约束力的法律规范、纪律规范和政治规范是他律性的行为规范。警察道德规范是一种自律性的行为规范，警察作为道德主体能够依据一定的社会道德要求，自觉自愿地以此来约束和控制自己的行为，遵守一定的道德规范。警察道德凭借警察的内心自觉而发挥调节警察行为的作用，特别需要依赖良心的作用。\n在我国人民警察道德建设实践中要把政治建警、依法治警、道德育警和纪律约警有机结合起来，充分发挥各种行为规范对人民警察行为的调节作用，保证各项公安工作任务的圆满完成。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc6-810a-11ee-81c2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德修养的方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学习的方法。学习的方法就是警察广泛地学习各种与道德修养有关的知识，自觉地提高文化素质和道德认识的活动。\n内省的方法。警察道德修养实际上是一个不断自我反省、自我解剖自我认识、自我教育、自我提高的过程。\n实践的方法。警察的道德修养是与社会主义建设的伟大实践联系在一起的，更应该坚持理论与道德实践的统一。\n慎独的方法。慎独是指在独自一个人无人监督时，更加注意坚持自已的道德信念，严格要求自己，不做不道德的事。\n持恒的方法。道德修养是一个不断从认识到实践，又从实践到认识的反复过程。社会的发展和警务实践不断向警察提出新的要求，因而警察道德修养是一个永无止境的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc7-810a-11ee-9eb0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察行为调节过程中，法律规范、纪律规范、政治规范相比于道德规范在调节手段上的区别。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法律规范、纪律规范和政治规范都依靠一定的强制力量来调节警察的行为，都具有一定的强制性。法律规范、纪律规范和政治规范都是要求警察必须遵守、履行，不得选择、违反的行为规范。如果警察违背了这些规范的要求，必然要受到相应的严厉惩处。\n警察道德在对警察行为进行调节时较少地运用强制力量，主要是凭借教育、社会舆论、内心自省和群众监督来起作用，教育、宣传、大众传播媒介也就常常成为警察道德规范转化为警察实际行动的重要手段。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc8-810a-11ee-aef4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述制约警察权力的他律机制所包括的主要内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "制约警察权力的他律机制是指其他政治权力及警察权力客体对警察权力主体的制约。\n制约警察权力的他律机制主要包括立法权力、司法权力及其他国家权力对警察权力的监控。党对警察权力的监督。舆论监督以及公安机关以外的其他组织与公民对警察权力的监督等。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bc9-810a-11ee-8d94-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述英勇善战的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要有不畏艰险，不怕性的大无畏革命精神。这是警察做到英勇善战其他要求的思想前提和意志品质保障。\n讲究斗争的谋略和方法。讲究谋略和方法的目的在于更有力地打击犯罪，最大限度地保护自己，实现英勇善战的最佳效益和价值。个\n善于把克敌制胜与自我保护相结合。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bca-810a-11ee-9108-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述如何完善警察道德的他律调控机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "确立和完善人民警察道德教育机制，提高人民警察的道德认识水准。\n大力开展道德评价活动，营造良好的道德环境。\n加强制度约束与引导，建立奉献与回报、违规与惩罚的良性社会机制，用法纪手段确保警察道德得到遵守。\n上述三种机制只有有机结合起来，才能在公安机关中形成促进警察道德发展的良性运行机制，真正把警察道德建设落到实处。1分）"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bcb-810a-11ee-9549-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述如何更好地发挥行政奖惩对警察道德的约束和引导作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要进一步健全完善行政奖惩所依据的各项规章制度。\n应严格管理，奖罚分明，加大执绝的力度。\n要强化监督机制，严格组织考察与内外监督。\n应加强宣传教育，坚持警戒约束为主，惩罚处分为辅的原则，促进人民警察自觉遵守规章制度和道德规范。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bcc-810a-11ee-ae0a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德对政治的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "马克思主义认为，社会上层建筑诸因素之间是相互联系和作用的。政治制度与政治思想在发挥着一定的影响和作用。\n警察道德是维护国家政权稳定的重要条件。自从近代社会有了专职的警察队伍，警察就始终是维护统治阶级政权稳定的一支重要力量。由于警察是国家公职人员队伍中人数最多的一支执法力量，加之警察面向社会执法的特点决定了警察是公务员队伍的一个形象代表，是政府公信力的“窗口”，其职业道德素质如何，能否严格执法、秉公办事、热情服务，无疑就成为影响国家政权稳定的一个重要因素。\n警察道德能提升政府的公信力。1分）警务工作直接面向社会和公众，警察是政府理念的实践者和形象的直接体现者，因而每位警察展现在公众面前的职业道德水平和状况，就成为公众衡量和评价政府优劣的直接样本，也成为决定公众对政府满意与否的一个重要参考依据。就此而言，加强警察道德建设，不仅有利于提升警察的形象，赢得公众对警察的尊重和信任，而且有利于提高公众对政府的满意度，提升政府的公信力。\n警察道德影响政治廉洁。警察职业的权力性和公众联系的广泛性，决定了警察做到为警清愿既是防止权力腐败的必然要求，也是树立警察良好职业形象的要求。因为警察做到廉洁奉公会通过广泛的社会影响而对国家机关其他部门产生良好的示范效应，进而促进公权力部门廉政建设的加强。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bcd-810a-11ee-b4ab-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德人格完善的措施。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "完善警察道德人格，是人民警察修身立德的途径，又是人民警察修身立德的目标。P分\n立足中国特色社会主义建设的实际，树立正确的道德价值观。人民警察必须立足中国特色社会主义的建设实际，立是社会主义和社会建设的发展实际，转变政观念确立正确的道德价值观。\n根植于中华优秀传统道德文化的土壤，尊重和吸收国际警察道德的宝贵经验。首先，人民警察道德人格的完善必须根植于中华优秀传统文化的土壤，利用传统文化资源。其次，人民警察道德人格的完善必须尊重和吸收国外警察道德的宝贵经验。\n公安机关的正确引导与警察的道德实践和道德修养相结合。公安机关要加强对警察进行道德教育，通过道德教化，把人民警察的道德原则和道德规范及遵守道德规范的社会意义偿递给民警，对民警个体的道德实践进行指导和强化，对于人民警察道德人格的完善具有极为重要的导向作用。民警的道德修养与道德实践则是警察道德人格完善的内在基础，因而公安机关的道德引导和道德教育必须与警察个体的道德修养和道德实践结合起来。鉴于此，人民警察一是要加强学习，确立崇高的道德理想。去是要积极参加道德实践，加强自身的道德修养。三是要从一点一滴做起，坚持不懈，特之以恒，"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bce-810a-11ee-ac87-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德是一种受社会经济关系决定的社会意识。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "历史唯物主义认为，道德是种社会意识形式，是对一定社会经济基础和政治制度的自觉反映，属于上层建筑的重要内容，受着人们的物质生活条件特别是经济关系的制约，并随着社会经济关系的变革而发生变化。\n社会经济关系的性质决定警察道德体系的性质和类型：\n社会经济关系决定警察道德原则和道德规范的内容；（1公）\n社会经济关系的变化引起警察道德内容的变化。（1分"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bcf-810a-11ee-9ef4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德对警察执法的积极作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德对国家法律的正确实施具有保障作用。警察的法律意识和法律信仰是确保警察正确执法的前提，警察的道德意志力是确保警察正确执法的重要调控力量。\n警察道德对法律调整本是之处的警察执法活动具有弥补作用。①警察道德会使警察纵高度的责任感，面对影响社会稳定的矛盾和纷以及难题，不消极等待，而是主动作为，运用法律的原则和精神来填补法律的漏洞与空白，积极妥善地解决矛盾和纠纷，维护社会稳定。②警察道德还有助于警察在法律不健全的情况下自觉保持廉洁的政治本色，不钻法律的空承为个人谋取不正当利益，做有损警察声誉的事。1分）"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bd0-810a-11ee-b7f2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察权力观的基本内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权方观是指警察对于警察权力的总的看法，包括对权力的来源、掌握权力的自的、行使权力的方武、为谁掌权、为谁服务等问题的认识和态度。包括：\n警察权力价值观。\n警察权力代理观。\n警察权力责任观。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bd1-810a-11ee-9572-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述人民警察应如何树立正确的义利观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在道德和利益、道义和功利的关系上，坚持义利统一。首先，要求人民警察必须正视物质利益在社会进程中的基础作用。其次，要求人民警察必须弘扬道德精神。最后，要求人民警察坚持尊重个人合法权益与承担社会责任相统一。\n在集体利益和个人利益关系上堡持义利和谐，以义为上。首先，要求人民警察把实现国家和人民利益作为最离价值目标。其次，要求人民警察坚持集体垒义的价值观念，在个人利益与集体利益发生矛盾冲突时，不惜牺牲个人利益，而顾全集体利益。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bd2-810a-11ee-99cb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德评价的途径。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据评价的主体不同归纳起来，警察道德评价的途径有以下几种：\n党政机关、社会团体及群众对警察的道德评价。\n公安机关内部的道德评价。\n警察个人的自我道德评价。\n这三种道德评价的途径相互联系、相互促进。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bd3-810a-11ee-a4c5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述与警察尊重和保障人权有关的警察道德要求的主要内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察是人民的公仆，是服务者。人民警察的宗旨是全心全意为人民服务，要“热爱人民，甘当公仆”，做到执法为民，这是警察一切工作的出发点和落脚点，也是警察在尊重和保障人权方面所应遵循的基本原则。\n警察是执法者，在执法活动中要涉及与群众、被告人、犯罪嫌疑人等多方面的职业关系因而必须做到秉公执法。具体来说，警察在执法时要严格、公正、文明、理性，平和、规范；按程序办事，注重证据，严禁刑讯逼供，不得侵犯群众利益，不打骂群众，不滥用警械和武器。\n警察是治安管理者，与公民有着广泛的接触，在具体的管理和服务过程中，必须尊重行政相对方的人格尊严。（分）要做到不要特权，力戒冷、硬、横、推，要“热情服务”，“说话和气、办事公平”，讲究”文明礼貌”。由此可见，我国的警察道德规范涉及警察尊重和保障人权多方面的肉容和要求，较为完备。国家和公安机关还通过完善相关的法律和制度，使警察道德对警察尊重和保障人权的资求有了法律和制度的保障。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bd4-810a-11ee-b9ae-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述“甘于奉献”对公安机关和人民警察的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "甘于奉献是公安机关和公安千警为了党和人民的利益，为了公安事业不计报酬、不求回报，全身心投人，必要时能够舍弃和性个人利益的一种高尚精神和品格。\n忠于职守，做好本职工作。公安民警要做到甘午奉献，最基本的途径就是要忠于职穿爱岗敬业，把自己的本职工作做好。奉献对公安民警最基本的要求就是立足岗位做贡献，做尽职尽责的党和人民的卫士。\n业精技强，掌握过硬本领。业精技强是对广大公安民警精通业务，熟练掌握岗位专业技术和技能的要求，它是公安民警甘于奉献的内在要求和前提，是公安民警忠于职守的重要保证。要做到甘于奉献，就必须具备奉献的本领和能力。理个人利益和集体利益的关系，自觉把国家和人民利益放在首位，努力为国家和人民做贡献，当个人利益与国家和人民利益发生矛盾时，就要服从国家和人民利益，必要时舍弃和牺性个人利益。甘于奉献的公安民警职业精神和道德，并不否认公安民警的个人利益，而是强调公安民警个人利益与国家利益和公安事业整体利益的有机统一，坚持奉献精神和利益原则的有机统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c5bd5-810a-11ee-aae1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "筒述警察道德规范是一种非强制性的行为规范。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在对警察行为进行调节的各种规范中，道德规范与法律、纪律、政治等规范由丁借用不同的力来实现调节功能，从而体现了其特殊的规范性。\n法律规范、纪律规范、政治规范都依带一定的强制力量来调节警察的行为，都具有一定的强制性都是强制性的行为规范。\n警察道德规范不以强制性手段为自已开辟道路，在对警察行为进行调节时较少地运用强制力量，主要是凭借教育、社会舆论、内心自省和群众监督来起作用教者、宣传、大众传播媒介也就常常成为警察道德规范转化为警察实际行动的重要手段。\n与法律规范、纪律规范和政治规范相比较，等察道德规范有非强制性的特点，也就是说，它是一种非密制性的行为规范。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c8297-810a-11ee-b818-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述政治对警察道德的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治是促进警察道德形成利发展的重要而直接的因素。\n政治直接影响着警察道德的价值取向和相关内容。\n政治影响和促进整察个体道德品质的形成和完善。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c8298-810a-11ee-bf8c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述在道德行为选择中，应根据具体情况来确定警察的道德责任。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人的道德责任不是无限的，责任的大小取决于行为者自由选择的范用和能力\n客观环境的制约和人的自由选择的能力构成了人的选择的白由度。\n应当根据人在选择行为时的自由度米衡量他的行为选择的责任。\n警察在选择行为中的自由度和责任其是成止比的关系。\n在主客观条件都受到严格限制，警察个人的主观努力无济丁事的情况下，对由此引发的行为后果，警察不应该承担责任或只承担轻微资任。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c8299-810a-11ee-9088-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德评价的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德评价对道德行为的善恶起裁决作用，是警察道德原则和道德规范转化为警察道德行为的重要环节。\n道德评价具有深刻的教育作用，是人民警察明辨善恶、形成正确的道德观念的重要手段。\n道德评价突出地有调节作用，是形成良好道德风尚，调节警察道德行为的“杠杆”。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c829a-810a-11ee-b696-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德修养的可能性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "马克思主义关于人性及其善恶的基本理论所揭示的人的道德品质可变性思想，为警察道德修养的可能性提供了理论依据。\n社会主义制度和社会主义精神文明建设为警察道德修养开辟了广阔的道路。\n警察具有进行道德修养的内在思想基础和日益成熟的心理条件。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c829b-810a-11ee-b7a1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述提高警察尊重和保障人权意识的必要性与途径。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察的执法和管理工.作以警察尊亚和保障人权意识为基础。警察只有有了较强的尊重和保障人权的意识能在执法和管理活动中更好地尊重和保障公民、被告人和犯罪嫌疑人的权利。\n适应政治文明建设的需要树立正确的人权观念。政治交明建设是与社会的物质文明和帮神文明建设相并列的重要环节，是社会协调发展的重要保证。人民警察是国家的执法人员，必须顺应社会发展的这一趋势，明确我国政治文明建设对警察执法工作中保障人权的要求，转变观念调整行为，以促进我国政治文明建设的顺利发展。\n注重对警察的人权教育工作。尊重和保护人权是我国依法治国对警察让警察了解有关人权发展、人权理论、国际人权法以及我国人权发展的现状和趋势等，籍此强化签察人权保护的意识和做好人权保护工作的自觉性。\n完善人权保护的各项制度我们在保护人权的相关法律制度方面还存在着很大的不足，在公众意见较大的某些方面还有很大的改进余地。此外，公安机关还应该进一步完善热法监督和执法公开制度。\n加强警察道德建设。（「分）加强警察德建设，就是要通过领导表率、文化熏陶、环境浸润、信念培养、习惯养成等环节，加深答察对人权知识的了解，培育警察树立正确的人权观，进而在执法切实做到尊重和保护人权。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c829c-810a-11ee-a36b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论述“秉公执法”对公安机关和人民警察的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "增强法制观念，树立止确的执法理念。首先，要学法懂法，提高公安民警执法规范化的水平。其次要加强思想政治教育，端正公安民醫执法指导思想。\n以事实为依据，以法律为准绳。首先，要查明实真相。其次，要重证据不轻信口供。再其次，要按实体法和程序法办案。复次，要坚持公民在法律面前律平等的原则。最后，要坚决纠止宽假错案，\n排除干扰，刚正不阿。首先，要正确处理请与法的关系，不能以情易法。其次，要正确处理权与法的关系，要敢丁碰硬。最后，要正确处理钱与法的关系，不搞权钱交易。\n加强执法监督。一是要加强公安机关的内部监督，主要是警察之间的相互监督，公安机关内部纪检、监察，政工部门的监督和领导监督：二是各级公安机关要接受同级党委、人代会、政协等部门和上级公安机关的监督：三是接受司法机关的法律监督；四是接受人民群众和新闻媒体的监督。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c829d-810a-11ee-95b1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德教育功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察道德通过说明，讲解，评论，奖惩等方式，在警察中形成的舆论，养成一定风气，树立道德榜样，塑造理想人格，培养道德观念和道德品质的功用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c829e-810a-11ee-b868-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述法律可以提高警察道德的效力的原因。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法律具有国家意志性，强制性，具体性，可操作性，行为结果可预期性等特点，如果警察不履行法定的责任和义务，就要承担一定的后果。\n警察道德属于一种软约束的控制力量，对警察工作疏忽，懈怠，不负责任的行为，警察道德一般只能通过教育，批评，舆论谴责等方式来约束和纠正其行为，这使得警察道德在对警察行为进行调控方面具有一定的局限性和明显的缺憾。\n通过警察道德法律化的做法，即以法律规范的形式将警察道德的某些要求予以确认，使之具备法律的强制性，以提高警察道德的效力，就成为中外警察队伍管理的一种普遍实践。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c829f-810a-11ee-b753-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述团结协作的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "树立全局观念。\n提供方便，协同作战。\n发扬风格，不争功诿过。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a0-810a-11ee-8e81-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察个体道德发展他律阶段的特点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察个体对警察职业所蕴含的道德要求以及警察职业与道德的关系还缺乏深入的了解。\n警察个体遵守警察道德规范和要求更多的是出于被动的服从，即处于“让我做”的境界\n警察个体在践行警察道德规范的实践活动中，在运用警察道德原则和规范解决道德问题的能力还不是很强。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a1-810a-11ee-9d41-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德修养的重要性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德修养是形成和提高警察道德品质的必由之路。\n警察道德修养是提高警察素质的一项重要措施。\n警察道德修养是提高公安队伍战斗力的必要条件。\n警察道德修养是公安机关开展反腐败斗争的重要途径。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a2-810a-11ee-accf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述如何加强警察道德建设，树立正确的警察权力观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真正做到权为民所用。权为民所用是正确的权力观的本质。谁授权，就要为谁服务，就要对谁负责，这是政治学的-条普遍原理，也是权力运行的一条基本法则。公安机关是国家机关的组成部分，是人民民主专政的重要工具，所拥有的执法权力当然来自于人民，也必须对人民负责、为人民服务。\n加强对警察进行权力观的教育。辩证唯物主义认为，社会意识是人民对社会存在的反映,人们的认识及其水平受其社会实践的影响和制约。人民警察不可能自发地产生正确的警察权力观，它需要公安机关提高有目的、有意识的教育和引导，帮助人民警察逐步树立起来。\n建立健全正确权力观的生成机制。要教育广大警察懂得手中的权力是人民赋予的，那么国家和公安机关的相关体制、机制和制度,就要确保警察的权力确确实实是人民赋予的。教育广大警察树立正确的权力观，必须注重健企相关的体制、机制和制度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a3-810a-11ee-889d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德建设中建立完善的法律强制机制的措施。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加强道德立法,进一步以法律义务的形式，确认人民警案的某些道德要求。这是完善法律强制机制的一项基础性工作。法律具有强制性、具体性和针对性，它能够保证人民警察履行道德义务，遵守道德规范加强道德立法，要随着社会的发展以及公安工作的发展，针对公安业务工作和队伍建设中出现的新情况、新问题，抓紧制定，逐步建立健全一系列带有公安特色、旨在体现权力制约、防范的廉政法规和内外监督制约制度，加强队伍建设。,\n强化法律的道德价值指向。要发挥法律的强制作用，加强警察道德建设，必须强化法律的道德价值指向，明确法律制定的根本目的，突出法律的道德精神。上只有这样，才能提高公安民警对法律的信仰和认同度、充分发挥法律的强制作用,引导人民警察朝着党和人民期望的方向发展。\n利用法律手段赏善罚恶，坚决制止违反人民警察道德行为。道德与法律虽然在内容上往往直接重合,法中有德，德中有法。但是由于法律中所包含的强制性，往往给人们以启示、威慑和教育作用。道德为法律提供深广的思想基础和社会基础，法律又反过来巩固和提高了公安民警的道德水平。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a4-810a-11ee-9f79-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述如何完善警察道德的他律调控机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "确立和完普人民警察道德教育机制，提高人民警察的道德认识水准。\n人力开展道德评价活动，营造良好的道德环境。\n加强制度约束与引导，建立奉献与回报、违规与惩罚的良性社会机制，用法纪手段确保警察道德得到遵守。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a5-810a-11ee-ad8d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述文明理性的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心系大局，情理统一。\n警容严整，言行文明。\n有理有节，谦逊平和。\n言行一致，诚实守信。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a6-810a-11ee-9572-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述对保障人权是警察基本职责的理解。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力的特殊性决定了保障人权是警察的基本职责。警察拥有的行政职权和刑事职权既具有范围上的广泛性，又具有手段上的强制性。\n警察角色的特殊性决定了保障人权是警察的基本指责。警察是国家的执法者，这一基本角色定位决定了警察在执法工作中必须具有很强的法律意识，严格按照国家的法律规定办事。而现代法治要求法律必须以尊重和保护人权为根本的出发点和归宿。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a7-810a-11ee-a9d8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述忠诚可靠的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加强政治理论修养。\n坚决贯彻执行党的路线、方针和政策。\n坚持党对公安工作的绝对领导，反对“警察中立论”"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a8-810a-11ee-bf7f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德行为选择的责任问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察必须而且只能在当时客观条件和主观能力所能够和应该选择、并有可能实行其选择的范围内，对自已的行为承担责任。\n具体来说，包含着以下两层意思：第一，警察必须对自已的道德行为选择负道德资任。警察的日常工作离不开选择，他们在选择道德行为的同时，也就选择了责任，换言之，警索必须为自已的行为选择负责，承担由此选择引发的一切后果。第二，在道德行为选择中，应根据具体情况来确定警察的道德责任。警察在选择行为中的自由度和责任量是成正比的关系。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82a9-810a-11ee-9733-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德在警察权力行使中的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德能够提高警察权力的影响力。①警察权力的影响力是指警察权力影响和改变他人心理与行为的能力。管察权力的影响力要通过人民整察的具体运用来得以体现，直接表现为人民警察的影响力。②警察权力掌握在品德高尚、享有成望的人民警察手中，能够对改交警察权力客体的心理与行为产生巨大的作用，提高人民警察的素质，尤其是通过提高警察道德而增强人民警察的威望和可信度，是提高警察权力影响力的重要途径。\n警察道德是实现警察权力正效应的重要条件。①警察权力的正效应集中体现在它能够作为公安机关和人民警察完成治安行政管理和型事执法职能，巩固中国共产党的执政地位，保证国家的长治久安，保证人民群众安居乐业方面。②注意加人民警察的道德建设，不断提高警察的道德素质，把警察道德原则真正变成了人民警察的内在猜神追求和行为依据与准则，能够有效地规范和！约束人民警察的行为，防止警察权力的滥用，抑制警察权力负效应的产生。从而提高了人民群众对党和政府的信任，巩固了国家政权的稳固，提离了人民群众的生活质量，实现了警察权力的正效应。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82aa-810a-11ee-a265-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述公安机关和人民警察践行执法为民的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执法为民作为人民警察道德的基本原则，对公安机关和人民警察的执法观念、法治意识和履行职费等方面都提出了明确的要求。\n牢固树立法律至上的观念。法律至上，是指法律在各项行为规范中具有室高无上的地位，任何其他规则、规范不得同法律抵触。\n强化程序意识和证据意识。程序意识，是指国家机关及其工作人员，无论办理什么事情，都必须具有避循一定制度、程序和手续的自觉性。证据意识，是指执法人员应具有正确运用证据查处各类案件的自觉性。\n切实做到享量和保护人权。天公安民警要严格遵守有关法律和制度的规定，在执法过程中切实做到尊重和保护人权，只有这样，执法为民才能落到实处。\n提高公安民警的执法水平。执法为民作为人民警察的道德原则，要在实践中得到信守和践行，必须以公安民警具备良好的执法水平为前提。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82ab-810a-11ee-b4ef-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述政治是促成警察道德形成和发展的重要而直接的因素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在某种意义上，社会经济关系对警察道德的决定作用有时需要通过政治这一中间环节来实现，这也是在许多方面人们更多地看到的是政治制度和政治思想对警察道德形成和发展具有重要影响基至决定作用的原因所在。\n适应维护统治的需要而诞生的警察组织从一开始就具有鲜明的政治性和阶级性。\n纵观古今中外的警察道德，莫不体现若所维护的统治阶级所信奉的政治价值观和政治理想。为了使体现统治阶级政治价值观念和政治理想的警察道德能为警察所认同，并身体力行，统治阶级还要动用国家政权的力量来推行和维系管察道德。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82ac-810a-11ee-920e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述政治对于警察个体道德品质形成与完善的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "任何统治阶级都会对警察提出政治信念和政治品质方面的要求。\n许多人立志从警也是为了实现自己所笃信的政治理想和政治信念。\n有政治理想和政治信念的警察，往往能够比较自觉接受和认同警察道德的要求。\n胸怀远大政治理想和抱负的管察，更能具备符合政治要求的警察道德品质和理想道德人格。\n在我国，每一位警察的道德品质和道德人格与其政治立场、政治理想密不可分。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82ad-810a-11ee-8856-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述执法为民的依据。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执法为民是党的宗旨和执政理念的必然要求。\n执法为民是“一切权力压于人民的宪法原则的具体体现。\n执法为民是始终保持公安工作正确方向的根本保证。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82ae-810a-11ee-aa2b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述爱岗敬业的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "认真进行工作分析，优化警察人力资源配置。完善工作分析机制，优化警察人力资源配置是公安民警爱工敬业的基本要求。\n以能力为核心，全面提升公安民警的素质与能力。公安民警实践爱岗敬业的道德规范，在客观上要求以能力为核心，全面提高公安民警的素质。\n改革教育训练模式，完善引导奖励机制。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82af-810a-11ee-8936-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察个人的自我道德评价。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自我道德评价，就是警察依据自己内心的道德信念，对自己的行为进行评判\n这是出自警察个体内心的制裁力，通过警察内心的“道德法庭\"发生作用。格产生一种精神上的满足，当警察感到自已的行为违背道德要求时，就会进行自我遣责，产生一种内疚、悔恨之感。可见，自我道德评价能促使警察正确地选择行为，增强个人行为的自控能力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b0-810a-11ee-8b91-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察行为调节中非强制性规范与强制性规范的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德规范是一种非强制性的行为规范，警察道德是一种内化的行为规范，政治规范、法律规范、纪律规范是一种强制性的行为规范。\n法律规范、政治规范、纪律规范与警察道德规范形成了一个调节警察行为的规范系统，警察道德规范以独立之姿与法律规范、政治规范、纪律规范发生性规范与非强制性规范割裂开来"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b1-810a-11ee-a676-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述人民警察要树立正确的生死观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察在警务活动中，必然会面临生与死的扶择。要做出正确的扶择，就要有正确的生死观的指导。\n人民警察要树立正确的生死观，就要努力做到以下几点：第一，树立正确的世界观和人生观。生死观归根结底反映若世界观和人生观，缺之科学正确的世界观和人生观的指导，是人们在生死问题上误入歧途的根本原因。因此，人民警察首先必须树立正确的世界观和人生观。第二，珍惜生命，热爱生活。每个人的生命只有一次，无比宝贵，必须珍惜。每个察都要加倍爱借身体，强健体晚，热爱生活，延年益寿，以期为人民和公安事业做出更大的贡献。的利益受到侵害时，警察必须义无反顾，流血牺牲在所不惜。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b2-810a-11ee-9757-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德对警察尊重和保障人权具有行为定向作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人的行为都是受价值观念支配的，价值观念是人对社会生活中各种现象的对错、好坏、是非的看法和判断，这种看法和判断决定人的价值取向，而价值取向又决定人做出不同的行为选择。\n在保护人权和侵犯人权的道德冲突面前，只要有正确的价值观念和价值取向作指导，警察就会自觉地选择正确，摒弃错误。\n警察道德以明确的行为规范要求，给警察提供正确的价值取向和价值标准，"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b3-810a-11ee-ac9f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述政治对于警察道德价值取向的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在阶级社会里，社会经济关系首先表现为阶级利益关系。\n政治制度和政治思想是社会经济关系与其他社会意识形态的中介。\n政治制度与政治思想对道德内容的产生和发展具有直接影响甚至决定作用\n警察职业的性质和特点，决定了警察道德的价值取向受政治制度和政治思想的直接影响。\n我国的政治制度和政治思想决定了人民警察的道德规范和价值取向。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b4-810a-11ee-847f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述在处理道德和利益、道义和功利的关系上如何坚持义与利的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要求人民警察必须正视物质利益在社会进程中的基础作用。\n要求人民警察必须弘扬道德精神。\n要求人民警察坚持尊重个人合法权益与承担社会责任相统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b5-810a-11ee-b9af-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察个体道德对警察道德的能动作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察个体道德是对警察道德的内化，它的成熟与完善取决于每位警察的努力和坚持的程度。\n警察个体道德把抽象的警察道德要求变成具体的道德活动，增强了警察道德原则和规范对警察个体行为的指导性。量。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b6-810a-11ee-8759-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述公安机关内部的道德评价。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安机关内部的道德评价主要有集体评价和相互评价两种形式。。\n集体评价就是在一定范围内，通过口头或书面的形式，议论评价警察个体的职业道德行为。\n集体评价对警察个体的行为起着极大的限制或鼓励作用。\n相互评价就是警察相互之间采取谈心或讨论的方式，对对方的行为加以议论和判断。\n开展相互评价，不仅可以调整警察之间的相互关系，而且对增强队伍的向心力都有重要的作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b7-810a-11ee-9e4c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德对政治廉洁的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治廉洁包括两个方面的内容，一是公务人员个人廉洁奉公的品德，二是确保廉洁品德的制度和机制。\n现代社会，警察已经成为集执法、管理、服务于一体的公务人员，社会影响力极大，其自身的廉洁对于公务人员政治廉洁具有重要示范意义。\n警察还掌握看很大的社会权力，必须廉洁从警，否则就会导致政治腐败。\n警察自身廉洁自律能够产生广泛的社会影响，能够对国家机关其他部门产生良好示范作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b8-810a-11ee-bb7b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述“清正廉洁”对公安机关和人民警察的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "保持和发扬公安机关艰苦朴素、为警清廉的优良传统。在长期的公安工作实践中，公安机关在思想、作风、行为和习惯等方面形成和传承了许多优秀的传统，艰苦朴素、为警清廉则是其主要的内容。\n依法行使权力。公安民警在行使权力的过程中，必须杜绝违法违规用权的现象。\n合理节制欲望和需求。对公安民警正当、合理的需求应予以满足和尊重，而对不正当、不合理的欲望和需求必须采取措施加以遇制。\n注意小节，防微杜渐。公安民警在工作中注意自己的生活小节，在小事上严格要求自己，防微杜渐，具有十分重要的现实意义。\n慎重选择朋友圈。在日趋复杂的社会环境下，公安民警不可小慎交友的必要性和重要性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82b9-810a-11ee-8b5e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德的发展是一个不断扬弃和趋同的过程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德的发展经历了古代、近代和现代三个阶段。\n新的警察道德扬弃旧的警察道德已经成为一个普遍规律。\n新的警察道德总要对传统的警察道德从形式和内容上进行批判和继承。\n在历史发展中警察道德具有很大程度的趋同性。\n古今中外的警察道德规范在表述和理解上具有很大的一致性和相似性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82ba-810a-11ee-bf07-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德对于法律调整不足之处的警察执法活动的弥补作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "任何社会都存在法律缺位、滞后现象。\n法治社会尽量通过完善法律和制度来挤压执法人员的自由裁量空间。\n法治只能限制自由裁量权，却不能使其消失。警察道德会对警察自由裁量权合理恰当使用产生积极的调节作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82bb-810a-11ee-8a8a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述英勇善战的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要有不畏艰险，不怕栖牲的大无畏革命精神。\n讲究斗争的谋略和方法。\n善于把克敌制胜与自我保护相结合。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82bc-810a-11ee-ab81-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述在处理集体利益与个人关系上，如何坚持义利和谐，以义为先。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要求人民警察能把实现国家和人民利益作为最高价值目标。尽管人民警察的利益与人民群众的利益从根本上说是一致的，在绝大多数情盾，这个时候，人民警察必须以义为先，不惜牺牲个人利益，而维护人民群众的利益。\n要求人民警察坚持集体主义的价值观念，在个人利益与集体利益发生矛盾冲突时，不惜牺性个人利益，而顾全集体利益。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82bd-810a-11ee-bbe0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述如何更好地发挥行政奖惩对警察道德的约束和引导作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "首先，要进一步健全完善行政奖惩所依据的各项规章制度。\n其次，应严格管理，奖罚分明，加大执纪的力度；\n再次，要强化监督机制，严格组织考察与内外监督：\n最后，应加强宣传教育，坚持警戒约束为主，惩罚处分为辅的原则，促进人民警察自觉遵守规章制度和道德规范。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82be-810a-11ee-ace5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德是调节警察行为的特殊规范。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德规范是一种非强制性的行为规范。警察道德规范的调节方式与法律规范、纪律规范、政治规范的调节方式是不同的；法律规范、纪律规范、政治规范通过强制性方式调节人的行为；警察道德不内心自省和群众监督来规范警察的行为；警察道德是一种非强制性的行为规范。\n警察道德是一种内化的行为规范。警察道德规范是一种自律性的道德规范；警察能够依据一定社会道德要求，自觉约束自已的行为；警察的自律性是在警务实践中通过他律阶段，经过自我认识逐渐形成的；警察道德凭借警察内心自觉而发挥调节警察行为的作用：警察道德规范一旦变成警察的内在自觉，就会变成巨大的精神力量。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82bf-810a-11ee-bba6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察在道德冲突面前如何做出正确的选择。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要提高思想认识，正确把握善与恶的尺度。警察应该具备一定的理论素养，了解复杂社会条件下是非、对错的善恶标准，熟悉国家法律和警察道德原则和规范要求，从而使自已在复杂的社会生活中能明辨是非对错。\n要用辩证的观点看待和分析问题。警察学会运用辩证法看待问题，\n要正确认识警察道德准则要求的绝对性和相对性的辩证关系。任何道德准则都是绝对性和相对性的统一。要努力把道德准则的要求同行为选择的特殊情境结合起来，这是正确认识和解决道德冲突的一条重要的原则，也是不断提高警察个体道德水平的重要条件。\n要建立警察道德准则的价值等级次序。解决道德冲突的另一个重要的原则就是要建立区分道德价值大小的等级次序，要能够择大善而舍小善，按照道德价值大的准则要求来选择自已的行为，这样才能有效地解决道德冲突，获得行为的更大的道德价值。警察职业的性质决定了警察道德的价值等级次序只能是先国家利益后个人利益，先人民利益后家庭利益。。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c0-810a-11ee-8dc0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察伦理学的研究任务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "探讨警察道德形式和发展的一般规律。\n确立和论证警察道德规范体系。\n研究警察道德实践的途径和方法。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c1-810a-11ee-8225-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述集体主义道徳原则的基本要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集体主义道德原则所追求的最高价值目标是实现个人利益与集体利益的统一和协调。\n集体主义道德原则坚持集体利益高于个人利益，提倡在集体利益和个人利益发生矛盾时，个人要顾全大局，在必要的条件下为了集体的利益而牲个人的利益。\n集体主义道德原则在强调集体利益高于个人利益的前提下，强调集体必须充分尊重个人的正当利益，并要求个人应主动承担责任和履行义务。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c2-810a-11ee-85ed-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述提供方便，协同作战。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要努力做到信息共享，互通情报。\n要相互扶持，实现警力人才资源共享。\n要在警务装备上，要在协同作战中，互通有无，互相支援，主动配合，提供方使"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c3-810a-11ee-a7e8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述如何完善警察道德的他律调控机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "确立和完善人民警察道德教育机制，提高人民警察的道德认识水准。\n大力开展道德评价活动，营造良好的道德环境。\n加强制度约束与引导，建立奉献与回报、违规与惩罚的良性社会机制，用法纪手段确保警察道德得到遵守。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c4-810a-11ee-86dd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德教育的知行统一原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安民警只有在提高理性认识的基础上才能将理论认识引向实践活动。知是行的先导，行是知的目的，是知的现实体现。提高思想认识的目的在于指导人民警察的行动。\n在警察道德教育中，如果只讲空洞的大道理，不要求人民警察付诸行动，势必养成言行脱节的恶习，减弱教育的作用。因而，只有将理论认识转化为行动，做到知行统一、言行一致，才能真正提高人民警察的道德水平。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c5-810a-11ee-be25-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德能提升政府的公信力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政府的公信力历来是增强社会公众的信任感和归属感，提升自身合法性，维护社会稳定的重要前提。\n理论和实践表明，政府公信力的强弱，一方面取决于政府所拥有的信用资源的丰富程度：另一方面则取决于政府及其工作人员在公民心目中的具体形象。正是后一点，凸显了警察道德与提升政府公信力之间的密切联系。重和信任，而且有利于提高公众对政府的满意度，提升政府的公信力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c6-810a-11ee-8057-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述人民警察应树立正确的苦乐观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确对待苦乐标准。衡量苦与乐的标准，既不是纯粹主观的体验，也不是客观实在本身，而是把两者统一起来的警务工作实践。只有在警务工作实践中，通过自己的艰辛付出给国家和人民带来安宁和幸福，才能给警察自身带来职业成就感，带来身心的愉悦和快乐。\n以苦为荣，以苦为乐。警察只有具备吃苦在前，享受在后，以苦为荣，以苦为乐的精神，才能把个人的苦乐与国家、集体和人民群众的苦乐紧密联系在一起，为了千千万万老百姓的快乐和幸福，甘愿流血流汗，付出自己的所有。人民警察吃尽千辛万苦，就是为了换来人民群众的安宁和快乐。因而，这种苦就意味着乐，就是一种光荣。\n在本职工作中体味快乐和幸福。警察也是人，也有对快乐和幸福的向往与追求，但警察职业决定了警察又别于普通人，警察是为普通人提供公共安全服务产品的人员，这就决定了警察的快乐和幸福不仅来自于家人和朋友，更来自于忙忙碌碌、琐琐碎碎的警务工作。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c7-810a-11ee-8247-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德对国家法律正确实施的保障作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察的法律意识和法律信仰是确保警察正确执法的前提。\n警察的法律意识和法律信仰对警察执法行为具有重要的自我约束作用。警察法律意识的有无和强弱，对于确保警察正确执法至关重要。\n警察的道德意志力是确保警察正确执法的重要调控力量，警察具有坚定的道德意志力就能够在诱惑面前合理地节制自己的欲望和需求，始终坚守执法者的行为底线。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c8-810a-11ee-b07e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述人民警察道德基本原则和道德规范的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从本质上讲，人民警察道德的基本原则和道德规范是一致的，道德原则可以说是较大范围的规范，道德规范是一定范围的基本原则。\n警察道德的基本原则与道德规范又有区别。人民警察道德的基本原则是带有根本性质的警察最高行为准则，它统帅和规定着人民警察道德的一切规范，在警察道德规范体系中具有极大的概括性、稳定性和一贯性；而人民警察道德规范是人民警察在一定条件下或一定范围内所应遵循的道德行为准则，是人民警察道德基本原则的进一步具体展开和应用，相对而言，有其局限性、可变性和阶段性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82c9-810a-11ee-a649-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察必须对自己的道德行为选择负道德责任。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "责任是道德选择的属性，在警务活动中，警察经常处于善与恶、正义与非正义、是与非并存的“十字路口”，需要警察根据一定的法律和道德标准，谨慎地做出正确的行为选择。\n警察必须为自己的行为选择负责，承担由此选择引发的一切后果。\n特别是警察的职责涉及社会公共秩序和人民群众生命财产安全，与国家的长治久安密切相关，因而其行为选择就具有更为重要的意义，由此引发的责任就更加重大。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82ca-810a-11ee-b26c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述公安机关内部的道德评价。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安机关内部的道德评价主要有集体评价和相互评价两种形式。\n集体评价就是在一定范围内，通过口头或书面的形式，议论评价警察个体的职业道德行为。\n集体评价对警察个体的行为起着极大的限制或鼓励作用。\n相互评价就是警察相互之间采取谈心或讨论的方式，对对方的行为加以议论和判断。\n开展相互评价，不仅可以调整警察之间的相互关系，而且对增强队伍的向心力都有重要的作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82cb-810a-11ee-ba45-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德在警察权力行使中的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德能够提高警察权力的影响力。\n警察道德是实现警察权力正效应的重要条件。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82cc-810a-11ee-932a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德修养的方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学习的方法。\n内省的方法。\n实践的方法。\n慎独的方法。\n持恒的方法。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82cd-810a-11ee-9186-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察伦理学的研究方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "理论联系实际的方法。\n历史分析的方法。\n阶级分析的方法。\n比较的方法。\n系统分析的方法。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82ce-810a-11ee-bb5b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德是制约警察权力的自律机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "制约警察权力的自律机制是指警察自身能够自觉地依照一定的规范和要求合法地行使权力的自我反省、自我约束、自我调节的内在机制和能力。\n警察道德带有极强的主体自觉性与人格能动性，以警察的终极价值标准作为警察权力的指导思想和规范力量，以加强警察道德修养，使警察道德原则溶入警察内心等手段实现对警察权力的制约。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82cf-810a-11ee-b45a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述人民警察应树立正确的荣辱观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真正树立全心全意为人民服务为最高荣誉的观念。\n真正树立人民公安事业重于个人荣誉的观念。\n真正树立个人荣誉和集体荣誉相统一的观念。\n反对个人英雄主义和对荣誉漠不关心的错误倾向。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d0-810a-11ee-aac4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察个体道德自律阶段警察职业良心的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在行为之前，警察的职业良心对警察选择行为的动机起着制约作用。\n在行为之中，警察的职业良心对行为起着监督的作用。\n在行为之后，警察的职业良心对行为的后果和影响有评价作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d1-810a-11ee-bcaa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德教育原则中因材施教原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一把钥匙开一把锁。\n由于每位警察的家庭情况、社会关系以及生活经历不同，其个性便存在着巨大的差异。\n警察道德教育必须根据不同的对象，有的放矢，因材施教，才能收到良好的效果。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d2-810a-11ee-8717-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德是维护国家政权的重要条件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自近代专职警察队伍出现以来，警察始终是维护统治阶级政权稳固的一支重要力量。\n在我国，党的执政地位的稳固有赖于人民警察的敬业奉献。\n人民警察要想肩负起神圣的政治和社会责任，必须具备良好的警察道德素质。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d3-810a-11ee-bbca-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述“热诚服务”对公安机关和人民警察的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "努力践行全心全意为人民服务的宗旨。\n要服务于全党和现代化建设的大局。\n要认真履行职责，做好本职工作。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d4-810a-11ee-a91b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德的发展规律是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德的产生和发展归根结底受社会经济关系的制约。\n警察道德在写法纪和规章制度的相互促进中得以发展。\n警察道德的发展是一个不断扬弃和趋同的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d5-810a-11ee-a60c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对警察权力进行制约的必要性和重要性是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加强管察权力制约是警察权力的特点所决定的。\n加强警察权力制约是由人民整察职业价值的双重性所决定的。\n加强警察权力制约对于反对警察权力腐败有者特别重要的现实意义。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d6-810a-11ee-a042-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "忠诚可靠的具体要求是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加强政治理论修养。\n坚决贯彻执行党的路线、方针和政策。\n坚持党对公安工作的绝对领导，反对“警察中立论”。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d7-810a-11ee-b3eb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在道德行为选择中，应如何理解根据具体情况来确定警察的道德责任？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人的道德责任不是无限的，责任的大小取决于行为者自由选择的范围和能力以及外界环境的制约和必然性支配，正是客观环境的制约和人的自由选择的能力构成了人的选择的自由度。\n警察在选择行为中的自由度和贵任量是成正比的关系。\n在主客观条件都受到严格限制，警察个人的主观努力无济于事的情况下，对由此引发的行为后果，警察不应该承担责任，或只承担轻微的责任。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d8-810a-11ee-9a0f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德评价的途径是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "党政机关、社会团体及群众对警察的道德评价。\n公安机关内部的道德评价。\n警察个人的自我道德评价。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82d9-810a-11ee-8c4d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结合实际，论述公安机关和人民警察践行执法为民的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执法为民作为人民警察道德的基本原则，对于公安机关和人民警察的执法观念、法治意识和履行职责等方面都提出了明确的要求。\n牢固树立法律至上的观念。\n强化程序意识和证据意识。\n切实做到尊重和保护人权。\n提高公安民警的执法水平。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82da-810a-11ee-a3f7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结合实际，论述警察道德人格完善的措施。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "立足中国特色社会主义建设实际，树立正确的道德价值观。\n植根于中华优秀传统道德文化的生境，尊重和吸取国际警察道德的宝贵经验。\n公安机关的正确引导与警察的道德实践和道德修养相结合。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82db-810a-11ee-9543-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会经济关系对警察道德产生和发展的制约是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据马克思主义经济关系决定上层建筑和意识形态的这一基本原理，警察道德作为一种意识现象，也是受社会的经济关系决定的。\n警察道德的阶级性质、加警察道德规范的些内容及调整变化都要受制于一定社会的经济关系。\n有什么样的社会经济关系就会有什么性质和类型的警察道德，就会有与之相适应的警察道德规范。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82dc-810a-11ee-9ca8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德提升对人民警察自我价值实现的作用是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察在多人程度上实现自我完善和自我价值与其道德水平，特别是职业道德状况有着密切的关联。\n人民警察只有切实履行人民警察职业道德规范，创造优异的工作业绩才能够真正体现自身的意义和价值。\n人民警察道德建设是人民警察实现自我完善和自我价值的重要保证。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82dd-810a-11ee-ab4a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察责任感和职业良知的培养对于警察保障人权的积极作用是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从实质上说，警察道德是一种自律，每位警察只有从内心真正认识到警察尊重和保护人权的必要性，并把它变成自已的职业良知和责任感，才能切实承担起尊重和保护人权的职贵。\n在现实生活中，凡是能够做到尊重和保护人权的警察，人都是基于一种职业良知和责任感，而不完企是出于对法律的畏惧。\n法律可以规范警察的外在行为，而不能作用于警察的内心，而没有内心责任感支撑的行为，是不会一以贯之的。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82de-810a-11ee-948f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "团结协作的具体要求是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "树立全局观念。\n提供方使，协同作战。\n发扬风格，不争功诿过。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82df-810a-11ee-ad12-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何理解人民警察应反对个人英雄主义和对荣誉漠不关心的错误倾向？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个人英雄主义的实质在于夸人个人作用，贬低人民群众的作用。个人英雄主义是一种唯心史观，人民警察必须坚决反对个人英雄主义。\n人民警察也要反对那种对荣誉漠不关心、麻木不仁的无所谓态度。这种态度反映了对自已所从事的公安事业的冷漠，是对自已行为后果不负责任的表现。\n人民警察应该有荣誉感和自尊心。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82e0-810a-11ee-b4fb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结合实际，论述在公安队伍建设实践中如何做到法治与德治相结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安队伍建设要依法从严治警，始终按照法律和制度的规定，对队伍严格要求，严格管理。\n在依法从严治警中坚持以人为本，爱护和关心民警，尊重民警的人格，激发其工作的主动性和创造性，做到把依法治警的“严”与以德治警的“情\"结合起来。\n在公安队伍建设中，要体现制度的公平和公正，只有公正的制度才能有约束警察的力量，才能为依法治警提供可行的制度依据。\n公安队伍建设要以德治警，加强对警察进行企心企意为人民服务的宗旨教育和“立警为公，执法为民”的教育，加强公安文化建设，努力提高民警的职业道德素质。\n在警察的职业道德建设中有效地借鉴法制的手段，赋予基本的警察职业道德规范以强制性的力量，把警察职业道德教育纳入公安队伍管理之中，凭借制度和管理的手段来提高警察职业道德的自觉性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82e1-810a-11ee-b858-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结合实际，论述公安机关和人民警察践行“执法为民”要牢固树立法律至.上观念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法律至上，是指任何其他规则、规范不得同法律抵触。\n法律至上的观念，是《宪法》所确立的。\n我国已基本建成了以宪法为核心的社会主义法律体系。\n人民警察作为国家的执法人员，必须树立法律至上的观念，唯法为上。\n只有坚持法律至上，警察才有可能正确合法行使执法权，真正实现执法为民。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82e2-810a-11ee-8c52-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察伦理学的学科特性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察伦理学是一门规范科学。警察伦理学作为一门规范科学，其规范性渗透于警察职业生活的各个方面，贯穿于警察职业生活的全过程。\n警察伦理学是一门价值科学。警察伦理学研究警察道德，就是要揭示警察道德的本质特征，研究警察道德价值的各个方面，阐释警察道德蕴含的特殊价值。\n警察伦理学是一门实践科学。警察伦理学必须关注警察道德实践，必须对道德实践的理论和方法进行研究。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82e3-810a-11ee-b778-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述道德与法律的区别。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "产生的条件和方式不同。\n发挥作用所依靠的力量不同。（I分）\n调整人和社会生活的范围不同。\n对待权利本位和义务本位的主张不同。\n调解人们行为的形式不同。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82e4-810a-11ee-b90f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述坚持党对公安工作的绝对领导，反对“警察中立论”"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "西方“警察中立论”认为警察是国家的，主张警察与政党分开，警察行政应与政治分离，它只执行法律，不能成为政党竞争的工具，不偏祖任何政党。\n“警察中立论”的观点实质是代表资产阶级不同利益的党派通过这种方式来协调相互之间的利益并对人民实行政治统治，是资产阶级的统治工具。FF\n我国是人民民主专政的国家，中国共产党代表工人阶级和广大人民群众治理国家，代表广大人民群众的根本利益。因此，人民警察作为维护我国人民民主专政国体的武装队伍，必须坚持党对公安的绝对领导，反对“警察中立论\"。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82e5-810a-11ee-b783-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德教育原则中的因人施教的原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一把钥匙开一把锁，由于每位警察的家庭情况、社会关系以及生活经历不同，其个性便存在着巨大差异。\n警察道德教育必须根据不同的对象，有的放矢，因材施教，才能收到良好的教育效果。\n要求教育者要深入了解民警的实际，掌握其思想动态，对症下药，帮助他们解开思想上的疙瘩，引导他们形成正确的认识，有针对性指导他们的道德行为。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3c82e6-810a-11ee-98b1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述加强警察道德建设，树立正确的警察权力观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真正做到权为民所用。做到权为民所用，首先要牢固树立“公仆”意识。人民警察树立公仆意识，就是要从权力视角正确把握与人民群众的关系，视人民为国家的真正主人，坚持一切从人民需要出发，一切以人民满意为标准，坚决反对一味奉迎领导的作风，自觉摒弃以管人者自居的态度，满怀赤子之心，细心体察群众生活，积极回应群众关切，倾力办好每一项公务。\n加强对警察进行权力观的教育。人民警察不可能自发地产生正确的警察权力观，它需要公安机关通过有目的、有意识的教育与引导，帮助人民警察逐步树立起来。因此，公安机关应特别重视加强对人民警察进行权力观教育。\n建立健全正确权力观的生成机制。要教育广大警察懂得手中的权力是人民赋予的，那么，国家和公安机关的相关体制、机制和制度，就要确保警察的权力确确实实是人民赋予的。教育广大警察树立正确的权力观，必须注重健全相关的体制、机制和制度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca99d-810a-11ee-9a65-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试迷人民警察秉公执法的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "增强法治观念，树立正确的执法理念。首先要学法懂法，提高公安民警执法规范化的水平。其次要加强思想政治教育，端正公安民警执法指导思想。\n以事实为依据，以法律为准绳。要查明事实真相，要重证据不轻信口供。要按实体法和程序法办案，要坚持法律面前人人平等。\n排除干扰，刚正不阿。要正确处理好情与法、权与法、钱与法的关系，不能以情代法，不能以权代法，不能以钱代法。\n加强执法监督。既要加强公安机关的内部监督，也要加强同级党委、人大等监督，以及司法机关和人民群众，新闻媒体的监督。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca99e-810a-11ee-809e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德现象三方面的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在警察职业生活中，警察道德现象的三人方面既独立存在，文租互关联有时还可以互相转化。\n警察道德意识对于警察道德活动具有指导和制约作用，若作为心理活动过程来看，还可以把它视为警察道德活动的一个方面。\n警察道德活动是形成一定警察道德意识的基础，并能使已经形成的警察道德意识得以深化和提高。\n警察道德规范是在一定的警察道德活动和警察道德意识的基础形成的：作为对整察道德关系的概括，指导和制约着警察的道德意识和道德活动，是警察道德现象的核心。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca99f-810a-11ee-8c58-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述对警察权力工具性的理解。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力的工具性是指警察权本身并不是目的，而是实现目的的手段。\n整紧权力的目的不产生于公安机关和人民警察本身，而是来自公安系统列部。\n警察权力作为一种派生的权力是由立法机关通过法律授予公安机关和人民警察的，旨在确保公安机关和人民警察完成治安行政管理和刑事执法职责实现国家意志和维护公共利益。\n相对于国家意志和公共利益来说，警察权力只是一种手段，是实现国家意志和公共利益的工具。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a0-810a-11ee-a623-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德教育的尊重受教育者人格原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在警察道德教育中如何对待受教育者，是采取平等、信任、尊重的态度，还是盛气凌人、自以为是，这不是一个简单的方法问题，而是一个教育者对待受教育者的根本态度问题。\n尊重受教育者的人格，互和之间平等、信任是做好普察道德教育工作的基本前提。\n尊重受教育者，就是要使道德民主化，以平等的态度尊重对方的人格和尊证，双方平等地交流思想，建立互相信任的关系。\n一个民警经常受到教育者的尊重，会促使其积极接受教育者的教诲，收到良好的教育效果。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a1-810a-11ee-807f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察个体道德实践活动中善恶行为选择的具体含义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "善的选择即有利于国家和人民利益、符合法律和道德规范要求的选择，\n恶的选择即违反国家法律和道德规范、损害国家和人民利益的选择。\n无论是哪种性质的行为选择，只要是出于警察个人的自主决择，就是一种道德行为选择。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a2-810a-11ee-8bdd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察道德修养对提高公安队伍战斗力的重要性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安队伍战斗力包活整黎的数量与质量、公安工作的决策、公安装备等方而的因素。而在这诸多因素中，关键的因素是警察的质量，在警察的质量因素中居于核心地位的文是警察的思想道德素质。因此，警察的道德素质是构成公安队伍战斗力的核心因素。\n警察作为国家治安行政和刑事司法力量，由于职业的需要，经常按触社会的阴暗面，工作危险性大，条件艰苦，政策性强，同时又广泛与人民群众联系，且常常各自为战。\n警察需要自觉地加强道德修养，经常按照警察道德原则和规范检查自已，磨炼自已，坚定道德意志，有效地抵制腐朽思想的侵蚀和金钱诱恶，不断清除思想上的灰尘，纯洁自已的灵魂。只有这样，才能不断提高公安队伍的战斗力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a3-810a-11ee-8d57-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述“严守纪律”对公安机关和人民警察的具体要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "发场优良传统，提高遵守纪律自觉性。严守纪律是公安民警的天职也是公安机关的优良传统。正是由于公安机关对严守纪律的反复强调，并不断加强纪律建设，才使得广大公安民警的纪律意识不断增强，遵纪守纪水平不断提开。随者社会的发展，一些公安民警遵规守纪的意识有所淡漠，有的公安民警不能正确认识纪律与自由、纪律与民主的关系，忽视甚至否认严守纪律的意义与价值。公安民警要切实做到产守纪律，必须消除各种错误的思想认识，增强严守纪律的自觉性。\n严格遵守公安机关的各项纪律。首先，要全而遵守公安机关的各项纪律。公安机关根据党和国家对公安工作的求，对公安民警提出了政治纪律、组织纪律、工作纪律、群众纪律、保密纪律、外事纪律和财经纪律等的纪要求，对这些纪律要求公安民警必须不折不扣地遵守。其次，要加强管理与监督，确保公安机关各项纪律得到严格的遵守。为确保公爱机关纪律的严肃性，促使公安民警切实严守纪律，必须进一步加强公安队伍的正规化建设，坚持严格管理，切实强化监督，进一步推行警务公开，对违纪公安民警，依法依纪予以查处。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a4-810a-11ee-b2d1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德评价中动机与效果有机结合的必要性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德行为中包含者行为的动机与效果，如果动机与效果一致，评价人的行为的道德价值就不困难了，但是，动机与效果也有不一致的时候，这就造成了道德评价的困闲难。\n进行警察道德评价不能单独看一人方面，必须把励机效果结合起来，既看动机，文看效果，要联系动机看效果，通过效果者看动机。如果只片面强调动机而无视效果，就会把一些空泛的动机视作实际的行为，甚至把虚假的动机当作真实的动机，或把善于说大话的人的行为，把不顾及行对后果而一味童千的人的行为，视为道德的行为。如果只片面强调效果而忽视动机，势必出现两种情况：一是把出于善良愿望，并尽了最大努力，只是因为预料不到的原因，没有送到应有效果的行为，看作是不道德的行为：二是把并非行为者所愿意的原因而出现的“奎打正着”的效果，甚至把行为者掩饰罪恶阴谋的伪善行为，当成道德的行为。\n无论是强调动机忽视效果，还是强调效果忽视动机，都不能对警察的道德行为作出正确的评价。只有把动机和效果统一起来进行判断，为能作出客观、准确的评价。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a5-810a-11ee-8f31-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述法律对提高警察道德效力的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "首先，法律把警察道德规范由软约束变为硬约束，成为警察必须遵守的行为规范，大大提高了警察道德调控警察行为的效力。\n其次，警察道德规范一旦成为法律要求，就会改变警察道德较为原则和抽象的特点，而变得较为具体、明确，从而有利于警察的理解和遵守。\n再其次，赋予警察道德以法律的强制性，有助于警察道德自律精神的养成。\n最后，警察道德法律化的做法，有助于把警察道德纳入到教育、培训、监督、考评等一系列警察管理活动中，这样就使警察道德有了更加稳定的发挥作用的机制，从而更好地调控和约束警察的行为。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a6-810a-11ee-8981-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述人民警察职业价值的双重性对加强警察权力制约的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "答案\n警察职业的存在与发展毫无疑问是为了人民警察通过行使警察权力，履行警察职责，实现打击犯罪，保卫人民，谋取社会公共利益的。\n但是，在当前的社会条件下，警察职业的存在也是人民警察谋取个人及其家庭生存与发展的一种手段。这就使得警察职业具有了谋取公共利益和使人民警察谋得“个人利益”的双重价值。\n这一双重价值属性，又反映出了警察职业中所蕴涵的集体利益与警察个人利益之间的矛盾状况。人民警察在职业活动中，应该正确运用手中的警察权力，维护国家利益和公安事业的整体利益，在此前提下，合法合理地获得个人利益，实现集体利益和个人利益的有机结合。而当集体利益与个人利益发生矛盾与冲突而不得兼顾时，要维护警察权力的公共性，以权为公。\n但在复杂的现实社会中，特别是在集体利益和个人利益发生一定程度的矛盾与冲突的情况下，一些警察就有可能背离人民的意志，放弃公共利益，把警察权力变成谋取个人利益的工具。因此，要确保警察权力的公共性，防止利益的倒错，就必须加强对警察权力的监督。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a7-810a-11ee-b9c6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述在团结协作中如何树立全局观念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "树立全局观念，就是要求公安民警在思想认识上要有大局和一盘棋的意识，以党和人民及国家的利益以及公安事业的整体利益为重。\n树立全局观念，正确处理局部和全局、个人和集体的利益关系，做到局部利益服从全局利益，个人利益服从集体利益，这是公安民警必须具备的一种政治意识。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a8-810a-11ee-9325-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述党政机关对警察道德评价的必要性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察作为具有武装性质的国家治安行政力量，具有专政与民主的双重职能，必须服从党的领导，体现国家的意志。既然人民警察是在党和政府直接领导下的一支武装力量，这就决定了党和政府必然十分关注警察的职业道德状况，重视对警察行为进行道德评价。\n我国各地的党政机关每年都要为警察举行各种形式的命名表彰会,并针对存在的问题，提出批评或建议。这实际上都属于对警察的一种道德评价活动。党和政府、社会团体及人民群众在警察的道德评价中起着极为重要的作用，是促使公安机关和人民警察改进工作，提高执法和服务水平的重要力量。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9a9-810a-11ee-8cb4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述马克思主义关于人性及其善恶的基本观点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "马克思主义关于人性及其善恶的基本理论所揭示的人的道德品质可变性思想，为警察道德修养的可能性提供了理论依据。\n马克思主义认为，人性或人的道德品质不是先天的，而是在后天形成的。人无所谓先天的善，也无所谓先天的恶。人性是具体的、历史的，人性是由人的社会性所决定的。\n人的道德品质也是在一定的社会关系下，在教育和自我锻炼中形成和不断发展变化的。警察道德品质也是一样，它是警察在职业活动中，通过接受教育,经受职业熏陶和自我反省、自我选择、自我锻炼而逐步形成并发展的。正是因为警察道德品质有一个形成和发展的历史过程，所以,警察道德水平和境界不是一成不变的，它能够通过道德修养而不断得以提高和完善。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9aa-810a-11ee-b61a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述如何树立适应政治文明建设需要的人权观念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治文明是人类政治生活的进步状态和政治发展取得的成果。党的十六大在物质文明、精神文明建设的基础上，又提出了“发展社会主义民主政治，建设社会主义政治文明”的重要目标和任务，号召全国人民要“不断促进社会主义物质文明、政治文明和精神文明的协调发展，推进中华民族的伟大复兴。”政治文明是由政治意识、政治制度和政治行为组成的统一体。其中，尊重和保障人权，维护和实现人民群众的根本利益，是我国政治文明建设的基本题中之义。政治文明建设是与社会的物质文明和精神文明建设相并列的重要环节，是社会协调发展的重要保证。人民警察是国家的执法人员，必须顺应社会发展的这一趋势，明确我国政治文明建设对警察执法工作中保障人权的要求，转变观念，调整行为，以促进我国政治文明建设的顺利发展。\n为了做好保障人权的工作，摆在警察面前的首要任务就是要树立正确的人权观念。观念是行动的先导，没有正确的人权观念，就不会产生保障人权的行为。由于我国具有几千年的封建专制发展历史，人权观念较为缺乏和淡漠，加之新中国成立后相当长的时期内，公安机关重打击、轻保护的错误影响，导致许多警察特权思想严重，人权观念错位，把人权与执法相对立，认为讲人权就会影响执法工作，就是对犯罪分子的仁慈和放纵。因而在执法活动中一些警察不注重对公民权益的保护，粗暴、野蛮执法的事件时有发生,极大地伤害了人民群众的感情，严重地破坏了法治的尊严和权威。鉴于此，警察必须挨弃错误的人权观念，把保护人权、捍卫公民的基本自由、维护民主社会的基本价值作为警察执法的基本职责，把尊重和保障人权提升为执法工作的一项基本原则和要求来对待。只有从思想观念上对尊重和保障人权与执法工作的关系有一个正确的认识，才能在执法活动中自觉地依法做好保护人权的工作，促进我国政治文明建设的发展。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9ab-810a-11ee-bde0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述如何正确对待苦乐标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确对待苦乐标准是树立正确的苦乐观的前提条件。从历史上来看，由于不同的阶级和人们的世界观、价值观和人生观不同，用来衡量苦与乐的标准也不尽相同。总的说来，中外历史上曾经有两种具有代表性的苦乐标准。\n一是流行于西方的自然主义苦乐标准。如，起源于古希腊的感官快乐主义就是把人的本质归结为肉体感觉性，视快乐与享受为人的根本需要，是人的一切行为的动机和目的。认为快乐与享受是否得到满足，是衡量一切善恶的标准。后来这种感官快乐主义与资产阶级的个人主义和自由主义相结合，不可避免地导致了腐朽的纵欲主义，最终成为反社会、反人性的重要思想来源。\n二是以儒家为代表的安贫乐道的苦乐标准。儒学的核心是“仁”，行仁是为建立和恢复一个有“礼治”的社会。孔子欣赏和提倡的“乐道”就是乐治国安邦之道，孔子认为生活中的苦与“乐道”相比是微不足道的。他赞扬弟子颜回的安贫乐道精神：“一箪食，一瓢饮,在陋巷，人不堪其忧，回也不改其乐。”可见，儒家的安贫乐道,不追求物欲感官之乐，但并完全排除物质生活享受。后来的宋明理学把儒学的这种节欲思想，发展成“寡欲”和“灭欲”，走上了不食人间烟火的极端道路，为后人所唾弃。\n无论是西方自然主义的苦乐标准还是古代儒家安贫乐道的苦乐标准，都有其各自的局限性。无产阶级以马克思主义为理论指导,坚决反对各种不科学的苦乐标准，认为苦与乐作为一种主观的体验和感受，有其实实在在的客观内容。因此，衡量苦与乐的标准，既不是纯粹主观的体验，也不是客观实在本身，而是把两者统一起来的警务工作实践。只有在警务工作实践中，通过自己的艰辛付出给国家和人民带来安宁和幸福，才能给警察自身带来职业成就感，带来身心的愉悦和快乐。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9ac-810a-11ee-b3ce-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察权力的时效性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力的实效性是指其注重公安行政效率的特征。警察权力作为一种特定的行政权力，相对于注重公正地表达公共利益的立法权和注重于明确地界定公共利益的司法权而言，更注重有效地执行国家意志和迅速地实现公共利益。因此，警察权力不仅追求实现国家的意志和公共的利益，强调其打击犯罪，保护人民，有效地实施社会治安行政管理和刑事执法的职责与效能，而且追求公安行政的效率，强调警务工作的时效性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9ad-810a-11ee-9982-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述警察权力的广泛性和强制性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察拥有的行政职权和刑事职权既具有范围上的广泛性，又具有手段上的强制性。权力的广泛性表现在：公安机关拥有覆盖整个社会的基层派岀机构，实行24小时的勤务运作，其执法范围和权力远远大于其他行政机关。除了侦查破案、打击犯罪等刑事执法权外，还承担着治安、户政、国籍、岀入境、消防、交通、边防、计算机信息系统的安全保护等多项行政职权。这些权力的行使对象不仅包括守法的公民，而且也包括违法犯罪的被告人和犯罪嫌疑人，直接涉及这些权力对象的基本权利，稍有不慎就会对其合法权利造成侵害。权力手段的强制性表现在：为了保证公安机关行使职能、履行职责，国家法律规定公安机关和人民警察可以实施约束措施、留置盘查、强行驱散、戒严扣留、强行遣送、紧急拘留等行政强制措施；拘留、搜查、逮捕、使用武器等刑事强制措施。这些强制性的手段和措施表明警察权力不同于国家其他行政部门的权力，它可以依法限制人身自由，必要时可以依法剥夺他人的生命。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9ae-810a-11ee-9ff6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述个人荣誉和集体荣誉的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察的个人荣誉和整个警察队伍的集体荣誉从根本上说是一致的。这是因为，每一位人民警察都是整个公安队伍中的一员，人民警察个人成就的取得无不包含着集体的力量、集体的智慧。所以，集体荣誉永远是个人荣誉的基础和归宿。如果一位公安民警认识不到这个辩证关系，一味地去追求个人荣誉，不能实事求是地评价自己所取得的成绩，甚至虚报浮夸地去获得荣誉，或者在得到人民所赋予的荣誉之后，把荣誉仅仅归于个人，骄傲自大、目中无人、自炫其能、贬低别人，这样做不仅不会给人民警察队伍带来荣誉，反而还会给人民警察队伍的荣誉造成损害。相反，那些在平凡岗位上不图名利、默默奉献的民警，必将获得真正的荣誉，受到人民的尊敬和爱戴。诚然，集体荣誉也离不开个人荣誉，个人荣誉是集体荣誉的组成部分和体现，集体荣誉本身就是众多个人共同努力的结果。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9af-810a-11ee-8468-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述职业良心对警察个体道德自律阶段警察行为的监督作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对于符合警察道德要求的情感、意志和信念予以坚持和激励，对不符合警察道德要求的情感、欲念和冲动予以克制，以保证警察的行为不出偏差。\n警察在行为前有一个良好的动机，只是达到好的行为结果的前提条件，因为在行为过程中，什么情况都可能发生，警察个人认识上可能产生的错误、情欲和干扰，物质利益的诱惑，所采取的方式和手段的失当等因素，都可能会导致警察在行为过程中违背原有良好的动机,使行为方向发生改变。\n在这种情况下，警察的职业良心能及时地发挥作用，纠正某些警察自私的欲念和情感，改变其行为的方式和方向，以避免行为产生不良的后果。良心的这种监督作用，即人们常说的“良心的发现”。对警察来说，这种“良心的发现”，可以使每位警察保持正直的人格，在行为过程中不出任何偏差，始终保持正确的方向。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9b0-810a-11ee-9080-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述国家和人民的整体利益是警察道德评价的根本标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察是我国人民民主专政的重要工具之一，是武装性质的国家治安行政力量。\n其道德评价标准，必须服从于国家和人民的整体利益。\n全心全意为人民服务是人民警察的宗旨，有利于国家和人民的整体利益的行为便是善的，反之就是恶的。\n为此，国家和人民的整体利益，是判断警察道德行为是非、善恶的根本标准。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9b1-810a-11ee-964f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述警察道德是一种内化的行为规范。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对警察行为有强制约束力的法律规范、纪律规范和政治规范是他律性的行为规范，也就是说，无论警察是否真正认同、自愿遵守这些行为规范，都必须接受它们对自己行为的调节，必须在行动中落实这些行为规范。而警察道德规范与之不同，它是一种自律性的行为规范，警察作为道德的主体能够依据一定的社会道德要求，自觉自愿地以此来约束和控制自己的行为，遵守一定的道德规范。如果没有这种自律，则警察也就不成其为道德主体。这也就是说，警察道德是被警察内心认同，自愿接受，并转化为自己的情感和信念，以此来发挥调节警察行为作用的行为规范。但是，在这里必须指出，自律性并不是警察天然就有的，而是在警务实践中通过他律阶段，经过自我认识和我走约束而逐渐走向自律的过程。警察道德凭借警察的内心自觉而发挥调节警察行为的作用，特别需要依赖良心的作用。良心是警察道德自律性的最集中和最高的表现。正是因为警察道德作用的发挥要依靠警察内心的信念、意志和自省自律的良心，警察道德的力量来自警察良知的自责和舆论的压力，因而如果有人违背警察道德的要求，一般只能用说服教育、社会舆论遣责等方法来处理，而不能釆取制裁、惩罚的手段来解决。\n警察道德作为自律性的行为规范，看似作用不大，但实际上由于它与警察的道德情感、信念、意志等内在的因素有着密切的关系，因此，警察道德一旦变成警察的内在自觉，就会变成巨大的精神力量，发挥着法律规范、纪律规范、政治规范无法起到的重要作用。\n警察道德是对警察行为进行调节的特殊行为规范，这是对警察道德特殊本质的科学揭示。认识这一特殊本质，对于明晰警察道德与法律规范、纪律规范和政治规范的区别，更深刻地理解警察道德的特殊认识功能和在对警察职业行为调节中所发挥的特殊作用，充分认识警察道德存在的必要性和价值，从而更自觉地加强警察道德建设有着重要的在用。但是，我们也必须认识到，警察道德以相对独立的姿态与法律规范、纪律规范和政治规范等发生交互作用。它与法律规范、纪律规范和政治规范不是对立的，而是有机统一的,它们在内容上相互吸收，在社会功能上相互补充，在实施过程相互凭借，共同构成调节警察行为的规范体系。因此，不能把警察道德规范与法律规范、纪律规范和政治规范割裂开来，更不能把它们对立起来。在我国人民警察道德建设实践中要把政治建警、依法治警、道德育警和纪律约警有机结合起来，充分发挥各种行为规范对人民警察行为的调节作用，保证各项公安工作任务的圆满完成。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3ca9b2-810a-11ee-a54a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述“执法为民”中强化程序意识和证据意识的必要性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所谓程序意识，是指国家机关及其工作人员，无论办理什么事情，都必须具有遵循一定制度、程序和手续的自觉性。实行依法治国的方略，一个重要的前提就是要求办案和办事必须依照程序进行。特别是对执法者而言，如果不按程序办事，处理问题就会随心所欲，就会偏离法治的轨道。人民警察要做到执法为民，就必须使自己的每一个执法行为都应具备合法性。执法行为的合法性不仅体现为实体内容的合法，也包括程序的合法，只有程序的合法才能保证实体的公正。少数公安民警之所以会形成“重实体，轻程序”的错误观念，在一定程度上源于对程序公正性的认识不足，因而在追求实体真实的过程中，一旦发现程序妨碍了他们发现实体真实,往往就会舍程序而求实体，以牺牲正当程序为代价来追求实体公正，导致执法犯法。因而公安民警在执法活动中，必须树立程序意识，充分认识程序的公正性及程序公正对于整个法治秩序、法治建设的重要意义，从受理、立案、调查取证、审批到结案以及执法文书、各类登记统计文书的制作管理环节上确保程序合法、规范，减少执法的随意性。\n所谓证据意识，是指执法人员应具有正确运用证据、查处各类案件的自觉性。证据是证明案情的手段。社会主义法律适用的基本原则之一是“以事实为根据，以法律为准绳”。这一原则要求执法者处理案件，必须建立在尊重案件事实的基础上。而对案件事实的揭示，依赖于证据的使用。只有运用确实、充分的证据，对案件事实进行证明，才能让人们看清案件的真相。长期以来，重证据，不轻信口供，已经成为我国证据制度的核心，也是执法工作公正性与科学性的保证。公安民警在执法过程中，必须坚持实事求是的精神，树立牢固的证据意识，不断提高取证的能力，严格依法收集证据、运用证据，依据客观、充分的证据，正确处理案件，只有这样，才能有效地追究违法人员和犯罪嫌疑人的法律责任，正确认定案件事实，打击违法犯罪、保障无辜人合法权益，进而更好地做到执法为民。"
+	}
+]

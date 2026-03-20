@@ -1,0 +1,800 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08d0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780b7a11-6cde-11ee-b0a3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类语言具有双重性，也就是具有语音和意义两种系统。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。人类语言的双重性是指，语言既具有任意性，又具有理据性。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08dfa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc81c-6cde-11ee-bf92-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。语言每时每刻都处在变化之中，是异质有序的系统。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。语言是动态开放的符号系统，每时每刻都处在变化之中。它是异质有序的，即因言语交际造成内部不一致的语言系统其内在结构和演变仍有规律。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08e36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc81d-6cde-11ee-8b1b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。记事图画都不是独立的文字。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。记事图画还不是文字，图画表达信息的方式是以形体直接描画现实，而文字是通过以形体对应语言中音义结合的成分和排列的方式来表达信息的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08e68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc81e-6cde-11ee-81cf-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国境内汉藏语系的语言最多。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。汉藏语系是以汉语和藏语为代表的亚洲一个有亲属关系的语言群，中国为该语系使用人数最多的国家，中国南方民族多为汉藏语系民族。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08e90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc81f-6cde-11ee-8da6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。大多数汉字是指事字。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。古代汉字有象形、指事、会意、形声四种主要的造字法，象形是用描绘事物的形状来表示字义；指事是用象征性符号或在象形字上加提示符号来表示字义；会意是用两个或几个部件合成一个字，把这些部件的意义合成新字的意义；形声则是由表示字义类属的部件和表示字音的部件组成新字。现代汉字大部分是形声字。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08ec2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc820-6cde-11ee-8d81-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。汉字记录的语音单位相当于音节，所以汉字可视为音节文字。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。汉字是属于表意体系的文字。汉字大都代表语素，表示语素之义带有语素之音。它是用成千上万个符号去表示语素或词的意义，同时附带地表示语素的声音。汉字与音节文字性质不同。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08eea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc821-6cde-11ee-aa71-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。语言是开放的、动态的符号系统。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。一切人类的自然语言，都是开放的动态平衡的符号系统。自然语言之所以是开放的，这是它作为人类重要的思维工具、交际工具和文化载体的本质特征所决定的。语言符号系统之所以是开放的，是因为这个系统本身是巨大的、复杂的、有⽆限潜力的，不管一种发达的语言是多么地丰富多彩，它所具有的音位、语素、词、短语、句子等也都是有限的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08f1c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc822-6cde-11ee-94fa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。现代汉语还包括侗族等少数民族语言。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。现代汉语是现代汉民族所使用的语言，而侗族等民族属于少数民族，少数民族的语言不属于现代汉语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08f44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc823-6cde-11ee-946a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。⼴西是粤方言的分布区域之一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。粤方言主要分布在华南的⼴东省中部和西部、⼴西东南部、香港特别行政区、澳门特别行政区以及海南省个别地区。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08f76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc824-6cde-11ee-a593-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。汉语和泰语属于一个语族。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。汉语和泰语属于同一个语系，都属于汉藏语系，但不是一个语族。汉语属于汉语语族，泰语属于侗泰语族。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08f9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc825-6cde-11ee-806c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。⾪变是汉字古今演变的分⽔岭。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。⾪变以前的字体统称为古文字，⾪变以后的字体统称为今文字，⾪变是汉字古今演变的分⽔岭。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08fc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc826-6cde-11ee-bc28-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。现代汉字中形声字的读音都可根据其声旁的读音而正确地读出来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。声旁的主要作用是表示读音，但大约只有1/4的形声字声旁和整个字的读音完全相同。其余形声字声旁的读音已与整个字的读音产生了变化，如“勺”和用“勺”字充当声旁的“约、灼、酌”等的读音就是不相同的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d08ff8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc827-6cde-11ee-98c8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。甲⾻文、金文、篆书、⾪书、行书都是在一定的历史阶段正式运用的字体，草书和楷书一直是辅助性字体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。汉字在历史上出现过甲⾻文、金文、篆书、⾪书、楷书五种正式字体以及草书、行书等辅助字体。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0902a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc828-6cde-11ee-8db6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。形声字的形旁原来大多都是象形字。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。形声字的形旁大都是象形字，如“芬、吩、氛、纷、汾、忿、份、盆”的形旁“艹、又、气、纟、氵、⼼、亻、⽫”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09052-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc829-6cde-11ee-b220-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。小篆是秦始皇统一六国后整理、推行的标准字体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。小篆是秦始皇统一六国后在大篆的基础上整理、简化、推行的标准字体。泰⼭刻⽯是小篆的典型代表。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09084-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc82a-6cde-11ee-acbc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。⾪书有秦⾪和汉⾪两种，属于古文字阶段的最后一种形体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。⾪书有秦⾪和汉⾪两种，秦⾪又称古⾪，是古文字阶段的最后一种形体，而汉⾪是属于今文字。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d090ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc82b-6cde-11ee-b019-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。声调调值取决于音高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。声调是依附在音节上的超音段成分，调值指依附在音节里高低升降的音高变化的固定格式，是声调的实际读音。根据调值的语音特⾊，调值是由音高决定的，这里的音高指的是相对音高，而不是绝对音高。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d090d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc82c-6cde-11ee-a947-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。普通话中所有的元音都是浊音，也是乐音。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。浊音为发音时声带振动的音。发元音时，气流从肺部通过声门冲击声带，使声带发出均匀震动，震音气流不受阻碍地通过又腔，通过舌、唇的调节而发出不同的声音，故普通话中的元音都是浊音。乐音是复杂而有规则的，指的是单纯靠声带震动而不受其他方式阻碍发出的声音，与之相对的是单纯靠又腔阻碍方式发出的噪音，元音属于乐音。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09106-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc82d-6cde-11ee-be98-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。普通话中的舌尖前辅音可以和齐齿呼相拼。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。普通话中的舌尖前辅音z、c、s不能与齐齿呼（i或以i起头的韵母）相拼，只能与开又呼、合又呼相拼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0912e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc82e-6cde-11ee-b15b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。汉语的声调是一种音位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。汉语的声调是⾮音质音位。音位可以分为音质音位和⾮音质音位两大类，一般把从音素的音质角度分析归并出来的音位叫作音质音位，除了音质以外，音高、音强、音长这些⾮音质形式也能区别词的语音形式，由这些形式构成的音位叫作⾮音质音位。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09160-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc82f-6cde-11ee-a5f2-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。把普通话中的“院”念成“燕”音，是因为丢掉了韵头。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。院的韵母为üan，是圆唇音，燕的韵母为ian，是展唇音。读错是因为圆唇和展唇没有区分清楚。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09192-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc830-6cde-11ee-ad18-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“欢”的发音是开又呼。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。“欢”的发音是合又呼。“欢”的韵母是uan，韵母开头是u。凡是用u开头的韵母均属于合又呼韵母，如 u，ua，uo，uai，uei，uan，uang，ueng。开又呼是指不是以i、u、ü开头的云母，比如a、o、e、er 等。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d091ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc831-6cde-11ee-b4ef-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。普通话极少有两个辅音相连的音节。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。普通话语音的一个重要特点就是没有复辅音。即没有两个辅音相连的音节。“zh、ch、sh”和“nɡ”是在书写时，用两个字母表示一个辅音。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d091ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc832-6cde-11ee-bc82-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。普通话中辅音只能充当声母。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。声母和辅音是两个不同的概念。虽然声母主要由辅音充当，但有的辅音不作声母，只作韵尾，如“ɡuanɡ”中的/nɡ/。辅音n既可作声母，也可作韵尾，如“nan”中的两个辅音n，在音节开头的是声母，在音节末尾的是韵尾。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09214-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc833-6cde-11ee-9053-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某些⼉化韵母发音时主要元音带有鼻化⾊彩。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。“⼉化”指的是一个音节中，韵母带上卷舌⾊彩的一种特殊音变现象。⼉化时由于舌头上翘，致使舌位又高又前的韵尾（-i、-n）发不成而丢失，同时使韵腹元音也受影响而“央化”，还使后鼻音韵尾（nɡ）丢失而使韵腹元音“鼻音化”（使元音带鼻音⾊彩）。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09246-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc834-6cde-11ee-ae0a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“怪可怜的”和“别怪他”，前后两个“怪”是多义词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。“怪可怜”和“别怪他”中的“怪”意思分别为“很，⾮常（又）”“责怪”。“怪”本义为“奇异，不平常。”这两句中意思没有联系，不是多义词，属于同音词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0926e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc835-6cde-11ee-b0a8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“猩猩”是单纯词，“哥哥”是合成词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。单纯词是指由一个语素构成的词；合成词是指由两个或两个以上的语素构成的词。“猩猩”是一个语素，而“哥哥”是两个语素。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d092a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc836-6cde-11ee-8f52-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“大学”“船只”“地震”都是偏正型的复合词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。“船只”是补充型的复合词，“地震”是主谓型的复合词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d092c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc837-6cde-11ee-9503-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。汉语一个语素一定与一个音节相对应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。语素是最小的有音又有义的语言单位。现代汉语的语素绝大部分是单音节的，例如，“天、地”等；也有两个音节的，如“蝴蝶、马虎”等；还有三个或三个以上音节的，如“巧克力、奥林匹克、布尔什维克”等。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d092fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc838-6cde-11ee-8a05-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“你这样做完全没问题的”中的“的”是结构助词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。“你这样做完全没问题的”中的“的”是语气词。可以通过“的”的位置来判断“的”是结构助词还是语气词。结构助词的“的”主要表示定语和中⼼语之间的结构关系，因此位于定语和中⼼语之间，例如“远处的景⾊”。语气词“的”主要放在句子的末尾，表示陈述语气。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09322-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc839-6cde-11ee-92ac-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“汉族”和“上班族”中“族”的性质相同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。“上班族”的“族”是类词缀，其构词位置基本固定，意义虚化、读音不变，如上班族、追星族、打工族等，而“汉族”中“族”是词根，表示“民族”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09354-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc83a-6cde-11ee-9b96-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“波动”是主谓型复合词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。波动是偏正复合词。偏正短语由修饰语和中⼼语组成，结构成分之间有修饰与被修饰关系的短语。“波动”为状中结构，中⼼语为动词“动”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0937c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc83b-6cde-11ee-9afe-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“全家人都希望她出国留学”是兼语句。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。此句为主谓短语作宾语。与兼语句的区别主要有：①停顿处不同。第一个动词后，兼语句不能停顿，主谓短语作宾语的句子可以。②插入状语的位置不同。在第一个动词后，兼语句不可以插入状语，主谓短语作宾语的句子可以。③第一个动词性质不同，⽀配的对象不同。兼语句的动词多有使令意义或是表情感动词，⽀配的是人，不是一件事，而主谓短语作宾语的句子动词⽆使令意义，一般是言语动词或感知动词，像“想、希望、知道、证明、标志”⽀配的是一件事，不是人。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d093ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc83c-6cde-11ee-b677-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。动词加动词可以构成述宾短语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。述宾短语是由有⽀配、涉及关系的两个成分组成，前面起⽀配作用的部分是述语，表示动作、行为，后面被动作⽀配的部分是宾语，表示做什么、是什么。动词加动词只要是表示这样的关系，也是述宾短语，例如，“接受批评”，“接受”是动词，“批评”也是动词，“批评”又是“接受”的对象，因此是述宾短语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d093d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc83d-6cde-11ee-b8af-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“萝⼘快了不洗泥”这个熟语中“快了”是谓语，是陈述“萝⼘”的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。“萝⼘快了不洗泥”中的“快了”，是指在市场上某种商品卖得快，买得多，货物供不应求。平时要把萝⼘上的泥⼟洗干净，打扮一番，让买的人看着好看，愿意买。现在卖得快了，就是不洗泥也有人买。这句话中“萝⼘快了”是主语，“不洗泥”是谓语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d093fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc83e-6cde-11ee-b4a9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“浪费了一个上午”和“忙了一个上午”都是动补短语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。“浪费了一个上午”是动宾短语，“忙了一个上午”是动补短语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09426-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc83f-6cde-11ee-8826-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“说了又怎么样？”是单句。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。“说了又怎么样？”是假设关系紧缩复句。复句是由两个或两个以上意义上相关、结构上互不做句法成分的分句加上贯通全句的句调构成的。紧缩句是由复句紧缩而成。“说了又怎么样”的一般复句是：“即使说了，我们又能怎么样？”在该复句中，偏句提出假设，正句表示假设实现后所产生的关系。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09458-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc840-6cde-11ee-b77f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“她突然哭了”一句中的“突然”是副词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。“突然”为形容词，在本句中作状语，修饰动词“哭”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d09480-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc841-6cde-11ee-9b6e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“去上学”是连谓短语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。“去上学”中有两个谓词成分“去”和“上”，属于连谓短语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d094b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc842-6cde-11ee-8c12-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“飞的”“红的”“我的”都是名词性短语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。名词性短语指语法功能相当于名词的短语，一般可以在句子中充当主语、宾语、定语等，包括“的” 字短语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d094da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc843-6cde-11ee-bd25-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“你吃不吃榴莲？”是选择问。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。选择问句是把几个项⽬并列提出来，要求从中选择一项作答，常采用复句形式，前后分句常用“是” 和“还是”相呼应，常用语气助词“呢、啊”，如“你吃榴莲，还是吃苹果？”而“你吃不吃榴莲？”为正反问句。正反问句是用谓语或谓语中的一部分组成肯定与否定相叠的方式提问，要求听话人从肯定或否定中挑选一项回答。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0950c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "780bc844-6cde-11ee-991d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“有人来了”属于“存现句”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。存现句是⾮主谓句，语义上表示何处存在、出现消失了何人或何物，结构上一般有三段，即“处所段＋存现动词＋人或物段”。“有人来了”不是存现句，是动词性⾮主谓句。"
+	}
+]

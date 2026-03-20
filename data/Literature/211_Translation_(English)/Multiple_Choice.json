@@ -1,0 +1,762 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdba12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb0-6be2-11ee-9d9e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "<Outsourcing> involves the transfer of the management and/or day-to-day execution of an entire business function to an external service provider.\n“utcontracting”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：utcontracting。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdba12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb1-6be2-11ee-8e17-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "<Outsourcing> involves the transfer of the management and/or day-to-day execution of an entire business function to an external service provider.\n“ffshoring”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：utcontracting。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdba12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb2-6be2-11ee-82b1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "<Outsourcing> involves the transfer of the management and/or day-to-day execution of an entire business function to an external service provider.\n“omeshoring”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：utcontracting。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdba12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb3-6be2-11ee-a808-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "<Outsourcing> involves the transfer of the management and/or day-to-day execution of an entire business function to an external service provider.\n“roduct procuring”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：utcontracting。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbada-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb4-6be2-11ee-b4da-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The Democrats complained that the bailout helps the banks, but doesn’t help the man on the street, the average homeowner being <foreclosed>.\n“acilitated”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：locked。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbada-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb5-6be2-11ee-9d8e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The Democrats complained that the bailout helps the banks, but doesn’t help the man on the street, the average homeowner being <foreclosed>.\n“orecasted”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：locked。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbada-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb6-6be2-11ee-981a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The Democrats complained that the bailout helps the banks, but doesn’t help the man on the street, the average homeowner being <foreclosed>.\n“locked”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：locked。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbada-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb7-6be2-11ee-afff-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The Democrats complained that the bailout helps the banks, but doesn’t help the man on the street, the average homeowner being <foreclosed>.\n“eprived of”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：locked。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb8-6be2-11ee-88d3-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The <lucrative> construction industry enabled me to fulfill a lifelong dream, to own my own ships.\n“ruitful”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：oneymaking。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acb9-6be2-11ee-af04-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The <lucrative> construction industry enabled me to fulfill a lifelong dream, to own my own ships.\n“oneymaking”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：oneymaking。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acba-6be2-11ee-9bef-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The <lucrative> construction industry enabled me to fulfill a lifelong dream, to own my own ships.\n“aminating”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：oneymaking。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acbb-6be2-11ee-85e7-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The <lucrative> construction industry enabled me to fulfill a lifelong dream, to own my own ships.\n“igh-profiled”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：oneymaking。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acbc-6be2-11ee-b307-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The city’s proactive move in accepting public scrutiny and open governance was <hailed> by the media as an innovative way of advancing democracy.\n“ocked cruelly”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：cclaimed enthusiastically。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acbd-6be2-11ee-84a8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The city’s proactive move in accepting public scrutiny and open governance was <hailed> by the media as an innovative way of advancing democracy.\n“ppraised excitedly”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：cclaimed enthusiastically。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acbe-6be2-11ee-8527-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The city’s proactive move in accepting public scrutiny and open governance was <hailed> by the media as an innovative way of advancing democracy.\n“cclaimed enthusiastically”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：cclaimed enthusiastically。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acbf-6be2-11ee-9ff1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The city’s proactive move in accepting public scrutiny and open governance was <hailed> by the media as an innovative way of advancing democracy.\n“ssessed positively”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：cclaimed enthusiastically。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acc0-6be2-11ee-88b8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "President Chavez and visiting President Correa met in Caracas in March as South American diplomats struggled to defuse a regional crisis triggered by Columbia’s cross-border attack in Ecuador.\n“onfront”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：lleviate。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acc1-6be2-11ee-ad6a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "President Chavez and visiting President Correa met in Caracas in March as South American diplomats struggled to defuse a regional crisis triggered by Columbia’s cross-border attack in Ecuador.\n“olve”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：lleviate。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acc2-6be2-11ee-9bdb-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "President Chavez and visiting President Correa met in Caracas in March as South American diplomats struggled to defuse a regional crisis triggered by Columbia’s cross-border attack in Ecuador.\n“lleviate”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：lleviate。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acc3-6be2-11ee-ac8e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "President Chavez and visiting President Correa met in Caracas in March as South American diplomats struggled to defuse a regional crisis triggered by Columbia’s cross-border attack in Ecuador.\n“ggregate”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：lleviate。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acc4-6be2-11ee-a0f1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The author’s attitude toward television can best be described as _____.\n“ullenness at defeat”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：ighteous indignation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acc5-6be2-11ee-a649-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The author’s attitude toward television can best be described as _____.\n“econciliation with the broadcasters”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：ighteous indignation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acc6-6be2-11ee-a644-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The author’s attitude toward television can best be described as _____.\n“ighteous indignation”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：ighteous indignation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbb8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4acc7-6be2-11ee-a09d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The author’s attitude toward television can best be described as _____.\n“etermination to prevail”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：ighteous indignation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbbc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d3f7-6be2-11ee-bfe1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.Concerning programs for children, it may be inferred that the author believes that such programs should _____.\n“nclude no cartoons at all”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：nclude ones which provide culture。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbbc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d3f8-6be2-11ee-af87-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.Concerning programs for children, it may be inferred that the author believes that such programs should _____.\n“nclude ones which provide culture”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：nclude ones which provide culture。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbbc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d3f9-6be2-11ee-9461-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.Concerning programs for children, it may be inferred that the author believes that such programs should _____.\n“e presented only in the morning”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：nclude ones which provide culture。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbbc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d3fa-6be2-11ee-b545-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.Concerning programs for children, it may be inferred that the author believes that such programs should _____.\n“e presented without commercials”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：nclude ones which provide culture。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbbe8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d3fb-6be2-11ee-98d8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The statement that “the people own the air” implies that _____.\n“itizens have the right to insist on worthwhile television programs”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：itizens have the right to insist on worthwhile television programs。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbbe8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d3fc-6be2-11ee-a82b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The statement that “the people own the air” implies that _____.\n“elevision should be socialized to cater to the nation’s whims”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：itizens have the right to insist on worthwhile television programs。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbbe8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d3fd-6be2-11ee-90d3-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The statement that “the people own the air” implies that _____.\n“he government may build above present structures”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：itizens have the right to insist on worthwhile television programs。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbbe8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d3fe-6be2-11ee-b717-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The statement that “the people own the air” implies that _____.\n“he people own nothing, for air is worthless”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：itizens have the right to insist on worthwhile television programs。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbc1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d3ff-6be2-11ee-9fb2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.It can be inferred from the passage in regard to television programming that the author believes _____.\n“he broadcasters are trying to do the right thing but are failing”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：he listeners do not necessarily know what is good for them。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbc1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d400-6be2-11ee-aef6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.It can be inferred from the passage in regard to television programming that the author believes _____.\n“oreign countries are going to pattern their programs after ours”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：he listeners do not necessarily know what is good for them。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbc1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d401-6be2-11ee-b83c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.It can be inferred from the passage in regard to television programming that the author believes _____.\n“he listeners do not necessarily know what is good for them”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：he listeners do not necessarily know what is good for them。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbc1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d402-6be2-11ee-adf3-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.It can be inferred from the passage in regard to television programming that the author believes _____.\n“ix o’clock in the morning is too early for a television show”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：he listeners do not necessarily know what is good for them。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbc42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d403-6be2-11ee-a19d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The author believes that his tastes are _____.\n“etter than most people’s”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：he same as most people。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbc42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d404-6be2-11ee-8298-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The author believes that his tastes are _____.\n“etter than those of the television industry”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：he same as most people。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbc42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d405-6be2-11ee-a2ac-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The author believes that his tastes are _____.\n“he same as most people”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：he same as most people。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cdbc42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "e5e4d406-6be2-11ee-82aa-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "When the television is good, nothing—not the theater, not the magazines, or newspapers—nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set when your station goes on the air and stay there without a book, magazine, newspaper, or anything else to distract you and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence, audience-participation shows, formula comedies about totally unbelievable families, blood and thunder, Mayhem, more violence, sadism, murder, Western badmen, Western goodmen, private eyes, Gangsters, still more violence, and cartoons. And endlessly, commercials that stream and cajole and offend. And most of all, boredom. True, you will see a few things you will enjoy. But they will be very, very few. And if you think I exaggerate, try it.Is there no room on television to teach, to inform, to uplift, to stretch, to enlarge the capacities of our children? Is there no room for programs to deepen the children’s understanding of children in other lands? Is there no room for a children’s news show explaining something about the world for them at their level of understanding? Is there no room for reading the great literature of the past, teaching them the great traditions of freedom? There are some fine children’s shows, but they are drowned out in the massive doses of cartoons, violence, and more violence. Must these be your trademarks? Search your conscience and see whether you cannot offer more to your young beneficiaries whose future you guard so many hours each and every day.There are many people in this great country, and you must serve all of us. You will get no argument from me if you say that, given a choice between a Western and a symphony, more people will watch the Western. I like Westerns and private eyes, too—but a steady diet for the whole country is obviously not in the public interest. We all know that people would more often prefer to be entertained than stimulated or informed. But your obligations are not satisfied if you look only to popularity as a test of what to broadcast. Yon are not only in show business: you are free to communicate ideas as well as to give relaxation. You must provide a wide range of choices, more diversity, more alternatives. It is not enough to cater to the nation’s whims—you must also serve the nation’s needs. The people own the air. They own it as much in prime evening time as they do at six o’clock in the morning. For every hour that the people give you--you own them something. I intend to see that your debt is paid with service.The author believes that his tastes are _____.\n“etter than the average children”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：he same as most people。"
+	}
+]

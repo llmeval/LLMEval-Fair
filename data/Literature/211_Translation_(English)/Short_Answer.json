@@ -1,0 +1,287 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69824d-6be3-11ee-b612-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Directions: Read the following topic. Write on your Answer Sheet a composition of about 200 words. Be sure to provide a title for your composition and write in paragraphs.\nTopic: Nowadays some students start their own business companies before they graduate. How do you look at this phenomenon?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nCut Your Coat according to Your Cloth\nNowadays, more and more college students start their own business companies before they graduate. Consequently, some are fairly successful, making certain sum of money and gaining a lot of experiences, while some others meet their waterloos after a short time. There are many reasons for the results. And I think before you decide to get your own business started, you should know all your plans and all what you have very well. Please cut your coat according to your cloth.\nAdmittedly, it is a good way to help the students to grow up, and also as we all know, the American universities encourage their students to start their business when they are still college students. In this way, they can learn how to put into practice what they have learned in class, and get well prepared for the future jobs after graduation. From this perspective, we should be for this deed.\nHowever, not everyone has a clear idea of what he or she should do, and then, what they can do according to their own financial conditions, the understanding of the marketing information or the use of human resources. Some guys start their own business just on the spur of moment or for fun. Without considering the conditions well, and a well-studied plan, there is a quite slim chance for your business to be on track. As a result, you may fail many subjects as well and, therefore, suffer double loss. If all the preparations are well-done, from my point of view, you can have a try. Therefore, you should cut your coat according to the cloth you have.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde0fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a583-6be3-11ee-a631-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Directions: You are to write an essay according to the following situation:\nIt seems that in the information age we are spending less and less time in outdoor activities such as biking, camping, fishing, hiking and walking than we are watching TV, playing video games, blogging and hanging out online. This new human tendency to focus on sedentary activities involving electronic media, particularly television, the Internet, and video games is now termed “videophilia.” Experts worry that videophilia may affect our society in significant ways. What do you think of videophilia?\nRequirements: Write an essay of about 350 words to expound clearly your viewpoint on this topic. You need to supply a title for your essay.\nIn the first part of your writing you should present your viewpoi\nnt in a well-formulated thesis statement: in the second part, you should support the thesis statement with appropriate details; in the last part you should bring what you have written to a natural conclusion with a comment.\nMarks will be awarded for content, organization, syntactic variety, proper length, and appropriate word choice. Failure to follow the above instructions may result in the loss of marks. Remember to produce a clean fair copy."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nMy Viewpoints on Videophilia\nNowadays, with the rapid growth of science and technology, so many electronic media like the Internet and video games have started emerging. Although electronic media can enrich people’s life, it also brings some negative impacts. The most distinct harm is that people are spending less and less time in outdoor activities to contact with nature so that their health is becoming worse and worse. Because of a new tendency to emphasize sedentary activities involving electronic media, a new term “videophilia” occurs. As far as I am concerned, I think videophilia may affect our life in significant ways.\nFirst of all, face-to-face communications are becoming less and less. Although there are many ways and platforms for people to communicate with each other, all of these methods are limited to the Internet. Nowadays people use blog and some newly-designed devices to get in touch with their friends and relatives. They have less chance to have a face-to-face communication. Thus the relationship between them will not be solid. Therefore, videophilia will greatly influence people’s interpersonal relationship. Secondly, videophiia can affect people’s health. On one hand, nowadays people are reluctant to take outdoor activities, owing to the tremendous appeal of electronic media. They would like to stay at home to watch TV, or play video games rather than camp, fish, and walk. Hence, the condition of their health is rather worrying. On the other hand, there is a tendency that people will have a sedentary habit which would do harm to people’s health. Last but not least, videophilia would decrease the time to contact with nature. As we know, people will stay indoor to surf the Internet and browse the blog. As a result, there is less chance for them to travel and to get the knowledge of nature, which is not beneficial to their development.\nFrom what has been discussed above, we may reasonably arrive at the conclusion that we should try our best to avoid the negative effects of videophilia and make a balance between indoor activities and outdoor activities. Videophilia can be a good form to share ideas and get information. However, videophilia can also be a double-edged sword. Therefore, we should make full use of the advantageous impact and get rid of unfavorable factors.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde136-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a584-6be3-11ee-8c6f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Write an English composition of about 250-300 words, illustrating how new media are changing our life with one or two examples. Your writing will be assessed for language, format, structure, content and length. Write it on your ANSWER SHEET.\nMy Personal Views on New Media"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nMy Personal Views on New Media\nThroughout the spread of the evolution of human, from oral communication to handwriting, and then printing, now we have entered the new media era, which is spread by Internet, mobile phones. New media is a media form under the new technical support system, using digital and network technology, providing users with information and entertainment services through computers, mobile phones, digital TV and some other terminals.\nIn my opinion, new media is definitely a fantastic way to know this world better in a more simple way and gather information in a completely new way. Recently, I have tried the RSS and I find it such an amazing thing to put all the things I love in only one page. Actually, I had absolutely no idea about what new media is. Then, after two-week’s classes, I explored the course and it turned out that the course has a very close relation to the digital world. That’s exactly what I want to learn about since the digital technology has brought our lives far away repetitive labor work.\nEven though new media shows up as a more and more important role in our daily life, old media still has its shares. I used to read the Economist and Financial Times through the Internet since I had no access to the print edition. But then, it appeared to be too difficult for me to read without background information, especially news from “the Economist”. I also read “I Weekly”, which puts a week’s news and fashion all together in an issue. I love to read that because it contains a load of pictures. The internet is always my first choice of getting information from the outside world, so I often browse BBC and some famous Chinese websites.\nThe involvement of new media changes our lives without any doubt. I use new media like podcasts to listen to world news by phone, wiki to search for information. Of course, every youngster send text message nowadays for it is so convenient to reach someone and transmit information.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde15e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a585-6be3-11ee-a089-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Directions: As the saying goes, “The more elaborate our means of communication, the less we communicate.” Do you agree with it? Why and why not? Write an essay of no less than 200 words to comment on it."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nCommunication Today\nIt is well- known to all that there are more and more means of communication nowadays. As a result, it becomes more and more convenient for us to communicate than before, for example, you can get in touch with your friends by calling him or her, by writing to them in pen or via e-mail, or by chatting on MSN or QQ. But I heard one saying that goes, “The more elaborate our means of communication, the less we communicate.” I can not agree with this kind of saying while I firmly believe that with the rapid development of the means of communication, we communicate more than before.\nTo begin with, let’s recall the communication in the past. If we wanted to write to our parents in the South of China while we were in the North, it would take almost a month for our parents to receive our letter, not to mention when we were in foreign countries. Then please think about the communication at present, if we want to hear the voices of our parents, what you should do is only to pick up the phone and dial your home number directly; or you can have video chatting with your parents by computer. In the latter form we can also see our parents no matter how far it is away your home and finally you can hear your parents’ voices in less than 1 minute. In this way, we can have more contacts with our family members and our friends at any time you want since the present means of communication make communication so easy. Since communication is so easy to achieve, why not contact with our friends more often?\nTherefore, I believe that with the improvement of the means of communication, there will be more and more communications among people.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde190-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a586-6be3-11ee-ac71-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "The following report is taken from China Daily, Nov 23, 2011. The primary purpose of this excerpt is intended to provide a source of inspiration for writing rather than tempt you into copying the same thing in your composition.\nNowadays, some people who cannot afford top brand products are buying paper carry bags with brand names or logos to gratify their vanity. Some are even finding top brand labels, instruction books and receipts sold online.\nThese purchases, which are not for practical needs, but merely to show off and gratify the owners’ vanity, are called “face consumptions”.\nA survey of 1,104 people conducted by China Youth Daily shows 84.2 percent interviewees think “face consumptions” are widespread amid young people.\nAs for “face consumptions” 48.4 percent interviewees show their distain; 39.9 percent express their sympathy; 36.5 percent feel indignation; 30.3 percent are indifferent and 5.1 percent approve the practice.\nAccording to the survey, clothes (75.3%); gifts (60.7%) and cars (59.5%) rank in the top three as the most likely sectors in which “face consumption” occurs, followed by electronic goods (55.6), catering (50.5%), liquor and tobacco (49.5%), cosmetics (43.9%) and entertainment (26.9%).\nWrite an argumentative essay of about 400 words on the following topic (30 points)：\nMy Comment on Face Consumption amid Young People"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nMy Comment on Face Consumption amid Young People\nA new phenomenon needs our special attention recently, which is called “face consumption”, namely, when people cannot afford the famous brand products, they buy paper carry bags with brand names or logos. It is quite popular among young people and remains a mounting increase. According to the survey conducted by China Daily, it is a relief to see that most people do not agree with this kind of doing, and as far as I am concerned, I absolutely oppose to it.\nLet’s go back to the origin of this phenomenon. What makes it popular among youngsters? Nothing could provide a better explanation than the word “vanity”, probably. Young people have been living in a world in which multi-values and ideas are mixing up, with money worship and utilitarianism being the representatives. It is certain that they would be crazy for famous brands and luxury goods. It seems that only the successful purchase of rich goods could prove that they are not humble and obscure. Since the luxury goods are far from affordable to young people, purchasing the paper bags becomes a good way which may help to make a false impression that they enjoy fame and respect. In this way, somebody may think at least they had bought Dior, Chanel or Gucci before.\nBut it is really ridiculous to conduct “fake consumption”. We can not live a life simply for vanity or showing off wealth. Even though our houses are filled with various types of luxuries, the emptiness in spiritual world always exists forever. Imaging what the world will be if all of us are at home with the purchase of “fake consumption”, or the craze for vanity and fame? Beyond any doubt, the value system will encounter a dreadful ruin. It is not difficult at all for us to see such examples through the history of human civilization. Just like what F.S. Fitzgerald had depicted in his masterpiece The Great Gatsby, people were living in a world where all wars were fought, all gods were dead and all faiths were gone. Vanity and fame made no contribution to the development of the society, and only the pureness of moral standard and innocence for life could make a brighter day.\nIn short, “fake consumption” is a wrong doing, which, may lead the value system of the society to a distorted way and deviate it from the normal path. The craze for vanity and fame deserves serious concern, and the pureness and innocence for life and morality should remain perpetual."
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde1b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a587-6be3-11ee-a0ec-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Directions: Read the following topic. Write a composition of about 200 words on your Answer Sheet. Be sure to provide a title for your composition and write in paragraphs.\nTopic:\nNowadays, young people tend to get information from the Internet and gradually lose the habit of reading and consequently the ability of hand-writing. A lot of people are worried about this trend and they try to find ways to keep the habit of reading. Do you think it is necessary in modern times? Why or why not?\nWrite an article to the school newspaper to express your opinion on this issue. You could use your knowledge or experiences to generate support for your argument."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nThe Habit of Reading on Internet\nReading on the Internet should really have only positive effect to a reader’s habit. Without opening the pages of books or newspapers, you are able to read about interesting topics, fresh news, and any kind of information. More often than not, you don’t have to wait for the newspapers anymore.\nHowever, a lot of people are starting to speculate on the credibility and validity of the news found on the web. Some newspaper companies claim that the online news articles are deliberately written with a bit of exaggeration to make them catchy and attention-grabbing. This claim is highly debatable though. But people are starting to realize that the Internet is not a reliable source of true and correct information at all times.\nOn my personal opinion, reading on the Internet should not be the only source of knowledge and information for anyone. It should depend on the need of the moment, and also the mood. If you read because you want to relax, you must find a good book and a comfortable chair. Reading while sitting outside in the garden, and while the birds chirp and bees hum around, your tired body and mind will be fully recharged in no time at all.\nObviously, reading on the Internet is a lot different from reading a book. So, keeping the habit of reading or requiring news from the Internet depends on your clever choice.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde1ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a588-6be3-11ee-9702-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Please write a composition of 400 words on the following topic:\nSome people believe that visitors to other countries should follow local customs and behavior. Others disagree and think that the host country should welcome cultural differences. Discuss both these views and give your own opinion.\nMarks will be awarded for content, organization, grammar and appropriateness. Failure to follow the instructions may result in a loss of marks."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nFollow the Local Customs?\nWhen tourists visit other countries or regions, one problem will appear. It is whether the tourists should follow the local customs and behaviors or not.\nSome people believe that visitors to other countries should follow the local customs and behaviors. Firstly, “do as the Romans do when in Rome”. In fact, one reason of our trip is to experience the different culture of other countries. This needs us to follow and join in the local customs and we will get more joy. For example, if we step into the Western America, what we should do is riding the horse and regarding ourselves as a cowboy, lying on the farm and enjoying the country music. Secondly, we should respect the local customs and behaviors; if not, we will be trapped into the troublesome. In India, if a tourist doesn’t respect the cattle, I think, he will experience a bad trip. So if we want to get a wonderful trip, we should follow the local customs and behaviors.\nOthers disagree and think that the host country should welcome cultural differences. This is also true and right. It is very difficult to get used to another country’s customs and what is necessary is the cultural differences. So the host country should welcome cultural differences. For instance: If a Muslim comes into China, we can’t force him to eat pork. The other example: It will be uncomfortable and disgusted for some people from inland to accept the sea food. And some customs or behaviors are not suitable for tourists to follow. For example: When we go on a trip in a tribe of the Southern Africa, we may have the opportunity to see their characteristic festivals. Sometimes, they need swallow a snake to celebrate the festivals. That’s very terrible and I think that is dangerous for tourists to follow. So we should respect the tourists’ customs and behaviors too. The host country can’t force the tourists.\nIn my opinion, the tourists should respect the local customs and behaviors. Similarly, the host country should welcome cultural differences. The most important thing is to respect each other and achieve the balance and harmony. I have a friend; she is now in Si Chuan University. She told me: Though I know Stinky tofu (Smelly tofu) is very delicious, I still have no appetite to eat it. When I was faced with the Si Chuan black smelly tofu, I nearly passed out. I know it is still difficult for her to follow the customs of Si Chuan people completely. Fortunately, she need not eat it imperatively. Finally, let me share you a joke: If an English gentleman as a visitor comes into my home. He can enjoy the delicious Chinese traditional food and he also can give thanks before this meal. This is a joke, but interesting. It simplify tells us the biggest happiness is harmony.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde212-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a589-6be3-11ee-8a53-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Directions: Please write an essay of about 400 words on the following topic\nTranslation and Interpreting in the Global Age"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nNew trends of Translation Industry in the Global Age\nWith the rapid development of the domestic economy, exchanges between China and other economies become more and more frequent every day. Various international conferences are being held in many Chinese provinces and cities, thus the translation market in China begins to hot up. In Beijing, Shanghai, Guangzhou and other big cities, the demand gap of translation industry known as “golden rice bowl”, is becoming larger in the talent market. It has become a sun rising industry in China. Although the industry itself still has many problems, it demonstrates many new trends.\nThe whole world is globalizing, so does the translation industry. The business is becoming international and personalized at the same time. More and more translation companies and interpreting service firms will focus on the global translation market. And according to one or several specific target markets, the companies are going to design appropriate personalized products. For example, different target countries will receive different translating and interpreting services. More translators and interpreters will alter their way of using words, idioms and phrases according to different cultural backgrounds. Thus the industry will be more diverse stratified.\nFurther, those companies and firms will derive more and more related services for their clients, such as providing tourist guiding services and publishing the translated books. In this way Translation service can obtain greater profit margins not only by providing high quality translation services, but also by providing related services to customers. The company will be more integral and complex. That is the blueprint of many translation companies and interpreting service firms.\nWhat’s more, the translation will be combined with high-technology in the future. Cutting-edged translation tools will be invented in the future and the phonetic devices helping filter the accents will be used in the interpreting process, adding the success of understanding. The process of translating will become much easier.\nWith the promising future of translation and interpretation, more and more students make up their mind to be a member of this excellent group, and I am one of them. I believe the industry will develop towards the brightest angle.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde244-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a58a-6be3-11ee-b339-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Directions: Please write an essay of about 400 words on the following topic:\nProfessional Translation in the 21st Century"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nProfessional Translation in the 21st Century\nWith the deepening globalization in the 21st Century, there is a lot more content we could add to what “professional translation” means, and how it should be done. In fact, many hold that anybody with a basic knowledge of two languages can translate from one language to another, which is far from the truth. The growing E-business also results in a boom of translation companies, and some of these deliver translation of rather poor quality.\nProfessional translation requires abilities and skills at many levels, both technical and personal. In order to become qualified to this standard, translators have to work very hard for many years. It is vital for translators to have full competence in both the target language, or the language they are translating into, and the source language, or the one they are translating from. Though grammar and idiom is essential, translators should also understand different cultural backgrounds and know how to use the language in every social situation, and how to interpret social signals. Furthermore, the expanding business world has a greater demand to have their documents translated for communication between business partners speaking different languages. Therefore, professional translation should be highly specialized. That means, translators should have specialized competence in a particular area. For instance, clients may require translations of technical instructions or specifications, articles for scientific or medical journals, or legal judgments. If you do not have the corresponding terminology in mind, it is still no easy task to translate, for instance, a German medical term correctly into your own language, even if you know what it means. In addition, improvement of translators’ computer skills is also required, as most assignments today are received and delivered online. There are also a number of newly developed translation softwares to help increase working efficiency. The voice translation software, for instance, can recognize the sentences that translators utter and transform the verbal message directly into written one, thus free translators from typing all the time.\nProfessional translation in the 21st Century is about sharing of investments, technology, resources, cultures and personal views. As we all know, enabling better communication is always the overarching task for all translators, whose job may be tough and demanding but also highly enjoyable and satisfying.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde26c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a58b-6be3-11ee-b5db-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Plagiarism in graduation thesis is becoming an indisputable fact. What do you think about it? Write an essay of about 400 words to state your view on the following topic:\nPlagiarism in Graduation Thesis\nIn the first part of your essay you should state clearly your main argument, and in the second part you should support your argument with appropriate details. In the last part you should bring what you have written to a natural conclusion or make a summary.\nMarks will be awarded for content, organization, grammar and appropriateness. Failure to follow the above instructions may result in a loss of marks. Write your essay on the ANSWER SHEET."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nPlagiarism in Graduation Thesis\nPlagiarism is intellectual theft. It occurs when an individual submits or presents the oral or written work of another person as his or her own. Failing to properly cite the work of another also constitutes plagiarism, even if it is accidental. It is defined in dictionaries as the \"wrongful appropriation,\" \"close imitation\" of another author’s \"language, thoughts, ideas, or expressions,\" and the representation of them as one’s own original work.\nPlagiarism is prevalent among the students in China when writing a graduation thesis. It can be called a national scandal. When given English-language writing assignments, it is common for Chinese students to rely upon translating Chinese sources into English and passing it off as their own work, or simply copying and pasting directly from Wikipedia. In general, in China there is a kind of climate of temptation to use other people’s work and put your name on it. No one condemns you for it. This is really a dangerous situation which can has serious consequences.\nPlagiarism is not a crime per se but is disapproved more on the grounds of moral offence, and cases of plagiarism can involve liability for copyright infringement. China’s universities will be the source of much of the brainpower propelling China to a higher development level. But problems endemic to China’s higher education system, specifically plagiarism and the lack of academic integrity will render this journey quite difficult. Understanding why plagiarism and a lack of academic integrity are embedded in the Chinese higher education system is important for understanding why China will find it difficult to take its economic growth to the next level.\nSo we must try our best to prevent plagiarism from happening. From a student’s perspective, all their school life they have been taught to copy and memorize. To then be placed in a different environment where they have to cite sources and generate unique viewpoints, is a radical change. Here are some tips for the students. If you use someone else’s ideas, you should cite the source. If the way in which you are using the source is unclear, make it clear. If you received specific help from someone in writing the paper, acknowledge it. From a humanistic perspective Chinese students need to be treated less as robotic study machines and more as unique individual minds.\nThere is a lot needing work and it requires a holistic approach to combat plagiarism.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde294-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a58c-6be3-11ee-9235-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Write an essay of about 400 words to comment on the very short story below:\nFailed SAT. Lost scholarship. Invented rocket."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nGPA Means Not Everything\nMaybe we have already used to hearing such a comment: that young guy does very well on his study and achieves a high GPA, so he must be something in the future. People always judge a person’s future simply by his GPA without stopping to think whether this judgment make any sense. There is one short story, saying, failed SAT, lost scholarship, invented rocket. This story raises us a question: does high GPA really mean great achievements? From my point of view, I don’t think that GPA can mean everything, instead, one’s achievements are determined by creative minds, hard work and opportunities.\nTo begin with, creative minds are sources of new ideas and inventions. One with creative minds usually shows great interests in all things and draws inspiration from the world around him. Nowadays, too many people concentrate on exams rather than study and they study hard simply to get high scores and scholarship. Considering this condition, I am not surprised that many high-GPA-students can neither find jobs nor make academic achievements. Only those who really love to learn can be fully-devoted and have creative minds, like Bill Gates, like Albert Einstein.\nSecondly, we should attach significant importance to hard work, for action speaks louder than words. Having creative minds is just a beginning and far from enough---we have to work hard to test new ideas and put them into practice. In my childhood I used to read many fairy tales, in which only those who are diligent enough can live a happy life; on the contrary, those who are too lazy to do any work will suffer hunger and homelessness in the end. Fairy tales as they are, they also teach us something: hard work is the only way to bring dreams to reality. Creative minds produce various dreams, but only hard work can prevent these beautiful dreams to fragile bubbles.\nAt last, opportunity is of the same importance in getting achievements. In history there were so many people who endeavored all his life but could not attain success, like Van Gogh. Van Gogh is not so unfortunate because his talent was finally admired after his death. However, for those who worked hard but died in obscurity, we can do nothing but heave a sigh.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde2c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a58d-6be3-11ee-a0cf-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Directions: 400 words are required to write a composition on the following topic:\nDiscuss the possibility or impossibility of the transfer of knowledge and skill of one profession to another."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nThe Possibility of Knowledge Transfer between Professions\nIt is a truth universally acknowledged that each profession has its particular knowledge and skills. Generally speaking, one who is an expert in a specific profession may be an absolutely layman of another profession. For example, a mental physician may not have a clear notion of how a cardiac surgeon do a coronary bypass operation. Just as the saying goes, “insiders see tricks while outsiders see flicks”. However, another Chinese saying goes like this: “every profession produces its own leading authority.” Therefore, people may wonder: Is there any possibility to transfer the knowledge and skill of one profession to another and cultivate an all-rounder for the society? From my point of view, the answer is a positive one.\nSome people may argue that it is not an easy task for outsiders to get an access to a whole new field. This is true, yet, it is also not a truth if one could keep the following suggestions in mind.\nFirst of all, always remember that knowledge is interlinked. While each profession has its own basic theories and regulations, all professions have a common ground, which is they all need to be dealt with meticulously. When transfering knowledge and skill of a particular kind of profession to another, one should firstly compare the two professions respectively and try to find out the similarities between the two. Then, one can start from these similarities to solve the problems waiting ahead. Grasp a typical example, and you will grasp the whole category.\nSecondly, draw support from advanced technologies to accomplish the final goal, that is, the transfer. Nowadays, with the increasing development of computer technology, people are much easily accessible to the previous difficult field of skills. There are also enormous resources on the Internet, which is freely sharable around the globe. If one could make a full use of these various kinds of resources, the transfer of knowledge and skill from one profession to another can be done in a slipshod way. As is known to all, technology is a revolution. All one has to do is to find an innovative way to apply these technologies into practical use.\nThird, where there’s a will, there’s a way. This has been a motto encouraging countless persons to overcome the difficulties they encountered on their way to success. It is still and will be a good way for millions of others in realizing their dreams. The transfer of knowledge of one profession to another is not an empty word. It needs perseverance and hard-working, which are lacking or still need strengthening on the majority field of modern society.\nTo conclude, nothing is impossible under the guidance of the truths above. If only we are capable of applying what we have learnt into practical use, the transfer of knowledge and skill of one profession into another is most likely to occur in the near future.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde2ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a58e-6be3-11ee-a245-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Directions: You are supposed to write a composition of at least 150 words on the following topic. Your composition must be written on the Answer Sheet.\nPromises"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nPromise\nA saying goes that: Promise is debt. That is, once one makes a promise to others, he or she has the obligation to live up to his or her words.\nNowadays, individuals as well as groups are likely to make sincere promises to people—governments promise that housing price will stop soaring; Businessmen promise that their products are of superior quality, etc. We treat all these promises seriously but gradually lose faith on them, realizing that it is kind of stupid to think too much of these easy-made promises. I cannot help but regarding this change as a sorrowful thing. Why? Our Chinese people have been attaching significant importance on promises and holding the opinion that keeping promises is a fundamental personality of being human being.\nNow comes another question: How can we practice our promises? First, do not make promises easily. Whenever you are to make a promise, think before you leap. Second, try your best to fulfill your promise. When we are trapped by unexpected things and can not live up to our promises, we’d better make a sincere apology to other people.\nTo conclude, promise is a touchstone testing our characters. Once a promise is made, we are obliged to live up to it. Anyway, promise is debt."
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde316-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a58f-6be3-11ee-9a65-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Nobody is living alone and people are living in a team or teams, so team spirit is of great importance in the present society. What do you think of team spirit? Write an essay of about 400 words entitled:\nOn Team Spirit\nIn the first part of your essay you should state clearly your main argument, and in the second part you should support your argument with appropriate details. In the last part you should bring what you have written to a natural conclusion or make summary.\nMarks will be awarded for content organization, grammar and appropriateness. Failure to follow the above instructions may result in a loss of marks.\nWrite your essay on the ANSWER SHEET"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nOn Team Spirit\nWe are living in a highly-globalized world and the multicultural communications are increasing nowadays. In other words, we have never been so closely connected with each other in the human histories. As a philosopher has pointed out, nobody is an isolated island. If we want to have a bright future, we need more cooperation for the development. Therefore, team spirit is very important. It is the ability that people can understand each other and cooperate with each other for the successful completion of some important tasks. We need such kind of ability in particular during the globalization for several reasons.\nFirst of all, team spirit offers us a platform where we can operate our collective talent to work out the best. Only when we work effectively together can we have the best chance to get the success. Taking the 2008 Beijing Olympics for example, I think the success of the event first goes to the superb team spirit of the organizers and millions of volunteers. So many people work hard and cooperate well for the single aim and the solitary goal: an exceptional Olympics for the whole world. A lot of student volunteers in Beijing are committed and work tirelessly during the hot summer. History has witnessed their brilliant teamwork and valuable contributions. What is more, team spirit is quite useful for personal career.\nAs young students, we must learn the core and sharpen our skills in the team. If you work in a company, most of the time you have to finish or design a huge project with your colleagues. Each person can contribute their wisdom to the completion of the task. You cannot do it so well single－handedly. When we watch the Olympic Games on TV, we are so amazed by the excellent performances of the players. If they want to win the gold medals, they must compete as one person and exercise their own part well for the whole success. So we can say the team spirit is the secret of success.\nFinally, team spirit is the symbol of national power and strength. As we all know, the Chinese delegation has won the most medals during the 2008 Olympics and all Chinese people are so proud of our country. Another example is the touching power of the team spirit in the Sichuan earthquake. We were moved by the perseverance and persistence of the rescue workers, who were eager to help their compatriots.\nIn conclusion, team spirit is an important ability and skill in the 21th century because we are all faced with the globalization and the question of how to live better. Therefore, we must learn to work well in the team and let the team spirit guide us to success.\n"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cde348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6e69a590-6be3-11ee-9409-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Write an English essay of 250-300 words describing Maslow’s hierarchy of human needs and analyze this model with ONE example. Your writing will be assessed for language, format, structure and content."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "【参考范文】\nMaslow’s hierarchy of human needs\nThe famous humanistic psychologist Maslow developed the theory of the Maslow’s hierarchy of human needs, which proposed that there are five levels of human needs that are arranged in a hierarchical order as shown above in the triangle.\nFirstly, there are biological needs, which include needs for breathing, food, water and money. All these needs are inseparable from one’s life, because if one is deprived of any of these physiological needs, he cannot survive, let alone make a happy living.\nNext, there are psychological needs which can be satisfied from other people or a group. People need love, affection both from and to their family and friends. Besides, they also need to have a sense of belonging. In a team, people can seek encouragement and motivation from each other and thus have the power to go on until they achieve success.\nLast but not least, there are needs for self-esteem and self-actualization. When the basic needs are realized, the requirements for high reputation and respect from others become dominant. One expects to be recognized and valued by the society in which he lives. That is why there are so many people working hard so as to climb up to the top of the social ladder in our daily life. The self-actualization is the most holy one, which means that a person needs to do what he was born to. They do these kinds of things not to make a living, but to realize his goal of life. Without the works, their life would become meaningless and colorless.\nTo sum up, the theory of Maslow’s hierarchy of human needs tells us not only what we human needs, but also that only the needs in the lower levels are satisfied, will people have the desire for the satisfaction of needs in the higher levels. Therefore, his theory serves as guidance for our daily life."
+	}
+]

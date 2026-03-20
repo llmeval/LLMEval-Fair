@@ -1,0 +1,572 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d593b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfdf348-6cdc-11ee-b11f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.报价单"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "가격 견적서"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d594ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c0-6cdc-11ee-bd7e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.首脑会谈"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "정상회담"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59552-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c1-6cdc-11ee-ae0c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.硅谷"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "실리콘밸리"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d595ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c2-6cdc-11ee-96c8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.道琼斯工业指数"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "다우존스공업지수"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d595fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c3-6cdc-11ee-b4b8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "코스트, 원가"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d5964c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c4-6cdc-11ee-88c8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.风险投资"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "벤처"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d5969c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c5-6cdc-11ee-9f05-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.下一代"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "차세대"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d596ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c6-6cdc-11ee-962d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.共识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "컨센서스"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59732-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c7-6cdc-11ee-ada0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.服务产业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "서비스산업"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d5978c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c8-6cdc-11ee-b557-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.首尔大学校友"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "서울대 동문"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d597dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe41c9-6cdc-11ee-b97c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.卡路里"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "칼로리"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d5982c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68d3-6cdc-11ee-9a5a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.苏格拉底"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "소크라테스"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59886-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68d4-6cdc-11ee-992d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.乌托邦"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "유토피아"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d598d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68d5-6cdc-11ee-aef7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.欧盟"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "유럽 연합"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59926-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68d6-6cdc-11ee-8def-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.家纺"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "홈텍스타일"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59976-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68d7-6cdc-11ee-b414-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.大学者"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "석학"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d599c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68d8-6cdc-11ee-bafa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.占有"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "차지하다"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59a16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68d9-6cdc-11ee-b8d1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.充满"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "벅차다"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59a66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68da-6cdc-11ee-9717-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.腾飞"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "웅비하다"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59ac0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68db-6cdc-11ee-a0fb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.预见"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "예측"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59b10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68dc-6cdc-11ee-be45-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.亚里士多德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "아리스토텔레스"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59b60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68dd-6cdc-11ee-a8d4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.缅甸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "미얀마"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59bb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68de-6cdc-11ee-ba9d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.面巾纸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "티슈"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59c00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68df-6cdc-11ee-a366-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.尖端化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "첨단화"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59c50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68e0-6cdc-11ee-aa77-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.框架"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "패러다임"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59ca0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68e1-6cdc-11ee-84f4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.和平共处"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "평화공존"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59cf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68e2-6cdc-11ee-8582-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.平等协商"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "평등협상"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59d40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68e3-6cdc-11ee-9b2e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.采取"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "취하다"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59d90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68e4-6cdc-11ee-97e5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.相互尊重"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "상호존중"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d59de0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7cfe68e5-6cdc-11ee-a86a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的中文翻译成韩文：\n请把下面的汉语词汇翻译成朝鲜语.公布"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "공포하다"
+	}
+]

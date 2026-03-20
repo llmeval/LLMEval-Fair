@@ -1,0 +1,2700 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0672-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab52a85e-72dc-11ee-b46c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Catabolism"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Catabolism即分解代谢，是指有机营养物质通过一系列反应逐步变为较小的、较简单的物质，并释放能量的过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0758-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364db-72dc-11ee-b5d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Tricarboxylicacidcycle"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Tricarboxylicacidcycle的中文名称是三羧酸循环，是指以乙酰CoA和草酰乙酸缩合生成柠檬酸开始，经过4次脱氢、2次脱羧，生成4分子还原当量和2分子CO₂,重新生成草酰乙酸的循环反应过程，又称柠檬酸循(Krebs循环、TCA循环)。三羧酸循环是糖、脂质和氨基酸代谢的枢纽物质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0794-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364dc-72dc-11ee-ac73-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Acylcarrierprotein"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Acylcarrierprotein即酰基载体蛋白，是指脂酸合成过程中，脂肪酸合成酶系的脂酰基的载体，不具有催化活性，脂酰基合成的各步反应均在酰基载体蛋白上进行。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b07c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364dd-72dc-11ee-bd56-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：P/O值(P/Oratio)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "P/O值是指氧化磷酸化过程中每消耗1mol氧原子所消耗的无机磷酸的物质的量。电子经过呼吸链的传递作用最终与氧结合生成水，在此过程中所释放的能量用于ADP磷酸化生成ATP。经此过程每消耗lmol原子氧所消耗无机磷或生成ATP的物质的量称为磷氧比值(P/O)。如NADH的磷氧比值是"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b07ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364de-72dc-11ee-aef9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：0-氧化(o-Oxidation)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "氧化是Cs、C₆、Cio、Ci₂脂酸在远离羧基的烷基末端碳原子被氧化成羟基，再进一步氧化而成为羧基，生成a,w-二羧酸的过程。形成二羧酸以后，依次从两端进行β氧化。此种氧化形式在肝脏微粒体或细菌中也能见到，需要NADPH与分子氧，P-450和非血红素铁硫蛋白参与反应"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0816-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364df-72dc-11ee-b007-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：SAM"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "SAM即S-腺苷甲硫氨酸，是重要的活化甲基供体。在动植物体内广泛存在，它是由底物L-甲硫氨酸和ATP经S-腺苷甲硫氨酸合成酶酶促合成的，带有一个活化了的甲基，是一种参与甲基转移反应的辅酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0870-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364e0-72dc-11ee-9ac5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：cDNA文库(cDNAlibrary)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以mRNA为模板，利用反转录酶合成与mRNA互补的DNA称为cDNA,单链的cDNA再复制双链的DNA片段，与适当的载体连接后，转入受体菌，所建立的文库称为cDNA文库。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0898-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364e1-72dc-11ee-8b1c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：同多糖"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同多糖是指水解时只产生一种单糖或单糖衍生物的糖类，即由相同的单糖缩合而成的多糖，如淀粉、糖原、纤维素和壳多糖等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b08c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364e2-72dc-11ee-b6d5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：杂聚多糖"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "杂聚多糖是指水解时产生两种或两种以上的单糖或单糖衍生物的糖类，如果胶物质、半纤维素、肽聚糖和糖胺聚糖等。自然界存在的杂多糖通常只含有两种不同的单糖，并且大都与脂类或蛋白质结合，构成结构复杂的糖脂和糖蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b08f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364e3-72dc-11ee-92eb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：构型与构象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)构型是指一个有机分子中各个原子或基团特有的、固定的空间排列。构型的改变必须涉及共价键的断裂和重组。构型的改变往往使分子的光学活性发生变化。(2)构象是指在相同构型的有机化合物分子中，由于单键碳链的自由旋转运动，引起碳原子上结合的原子或基团的相对位置改变而形成的各种相对空间排列或立体结构。一种构象改变为另一种构象时，不要求共价键的断裂和重新形成。构象改变不会改变分子的光学活性。在各个构象中，结构式相同，构型相同，但相互不成键的原子或基团间影响不同，因而各构象的稳定性也不同，重叠型构象不稳定，而交叉型构象最稳定，因而是主要的构象存在形式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b091a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5364e4-72dc-11ee-9a58-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：必需脂肪酸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必需脂肪酸是指人体维持机体正常代谢不可缺少而自身又不能合成、或合成速度慢而无法满足机体需要，必须通过食物供给的脂肪酸。例如亚油酸、α-亚麻酸、花生四烯酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379ba-72dc-11ee-913a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：磷脂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "磷脂又称磷脂类、磷脂质，是指含有磷酸的脂类，属于复合脂质。它是组成生物膜的主要成分，为两亲分子，一端是亲水的含氮或磷的头，另一端是疏水(亲油)的长烃基链。根据醇成分的不同，分为甘油磷脂与鞘磷脂两大类，分别由甘油和鞘氨醇构成。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0974-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379bb-72dc-11ee-b39c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：必需氨基酸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必需氨基酸是指人体自身(或其他脊椎动物)不能合成或合成速度不能满足机体需要，必须从食物中摄取的氨基酸。成人体内必需氨基酸共有八种，即赖氨酸、色氨酸、苯丙氨酸、甲硫氨酸、苏氨酸、异亮氨酸、亮氨酸和缬氨酸。而婴儿体内必需氨基酸有九种，还包括组氨酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b099c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379bc-72dc-11ee-a682-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肽平面"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肽平面又称酰胺平面，指肽链主链上的肽键因具有部分双键性质，不能自由旋转，连接在肽键上的六个原子共处于同一平面，这一平面即肽平面。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b09c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379bd-72dc-11ee-9e35-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Ubiquitin"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Ubiquitin即泛肽，是一个高度保守的76个氨基酸残基组成的蛋白质单体，通过共价键与被选定降解的蛋白质连接，被标记的蛋白质会被泛肽连接降解酶降解。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b09f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379be-72dc-11ee-8cf2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：亚基"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "亚基是指具有三级结构的多肽链。亚基与亚基之间呈特定的三维空间排布，并以非共价相互作用彼此缔合在一起，它是具有四级结构的蛋白质中最小的单位。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0a1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379bf-72dc-11ee-8720-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：蛋白质家族"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白质家族是指由一个共同的祖先蛋白形成的氨基酸序列相似并且结构与功能十分相近的一类蛋白质，来自同一蛋白质家族的成员称为\"同源蛋白质\"。人们可以通过对蛋白质家族成员的比较来研究物种的进化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0a46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c0-72dc-11ee-a628-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：结构域"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "结构域是指蛋白质多肽链在二级结构的基础上进一步卷曲折叠成几个相对独立的近似球形的组装体。在球形蛋白中，结构域具有自己特定的四级结构，其功能部分依赖于蛋白质分子中的其余部分，但是同一种蛋白质中不同结构域间常可通过不具二级结构的短序列连接起来。蛋白质分子中不同的结构域常由基因的不同外显子所编码。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0a78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c1-72dc-11ee-9821-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：寡聚蛋白质与别构蛋白"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)寡聚蛋白质是指由两个或两个以上亚基组成的蛋白质，多数寡聚蛋白质分子亚基排列是对称的，数目为偶数，亚基的种类为一种或两种。(2)别构蛋白又称变构蛋白或调节蛋白，是指除了具有结合底物的活性部位，还具有结合调节物别构部位的蛋白质。别构蛋白的活性部位和别构部位可以分属不同的亚基。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0aa0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c2-72dc-11ee-922d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：丝氨酸蛋白酶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "丝氨酸蛋白酶是一类重要的蛋白水解酶，这种类型酶的催化中心都有一个有特异活性的Ser侧链。胰蛋白酶、胰凝乳蛋白酶、弹性蛋白酶及血液凝固中的凝血酶都属于丝氨酸蛋白酶家族。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0ad2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c3-72dc-11ee-ac04-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：外周蛋白(Peripheralproteins)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外周蛋白为水溶性蛋白质，靠离子键或其他较弱的键与膜表面的膜蛋白分子或膜脂分子结合。外周蛋白以静电力和氢键等松弛地结合于膜表面，较易分离，通过升高离子强度和改变pH或加入金属螯合剂就可将它们抽提出来。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0afa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c4-72dc-11ee-aa91-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：外肽酶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外肽酶又称肽链端解酶，或端解酶，是蛋白水解酶一类，可催化多肽链末端肽键水解，游离末端氨基酸。根据其所剪切肽链末端为氨基端或羧基端又可分为氨基肽酶和羧基肽酶。此外，还包括催化二肽水解的二肽酶，从多肽链末端剪切二肽的二肽基肽酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c5-72dc-11ee-86b7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：沉降系数"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "沉降系数是指颗粒在单位离心力场中粒子移动的速度，以每单位离心力场的沉降速度表示，大多数蛋白质和核酸的沉降系数在4S和40S之间，核糖体及其亚基在30S和80S之间，多核糖体在100S以上。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0b54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c6-72dc-11ee-995e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：盐析作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "盐析作用是指在蛋白质水溶液中加入中性盐，随着盐浓度增大而使蛋白质沉淀出来的现象。中性盐是强电解质，溶解度又大，在蛋白质溶液中，一方面与蛋白质争夺水分子，破坏蛋白质胶体颗粒表面的水膜；另一方面又大量中和蛋白质颗粒上的电荷，从而使水中蛋白质颗粒积聚而沉淀析出。常用的中性盐有硫酸铵、氯化钠、硫酸钠等，但硫酸铵最常用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0b7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c7-72dc-11ee-8598-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：活化能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "活化能是指分子从常态转变为容易发生化学反应的活跃状态所需要的最低能量。活化能的大小与反应速率相关，活化能越低，反应速率越快，因此降低活化能会有效地促进反应的进行。酶通过降低活化能来促进一些原本很慢的生化反应得以快速进行。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0ba4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c8-72dc-11ee-a6fc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：酶的化学修饰"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酶的化学修饰是指对酶分子进行化学改造，即在体外将酶分子通过人工方法与一些小分子化学基团或具有生物相容性的大分子进行共价连接，使其具有优良性能。常用酶的化学修饰技术包括小分子修饰技术、定点修饰技术、化学交联技术、单功能聚合物化学修饰技术以及辅因子引入技术等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0bd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379c9-72dc-11ee-be0d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：同工酶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同工酶是存在于同一种属生物或同一个体中能催化同一种化学反应，但酶蛋白分子的结构、理化性质和生化特性(Km、电泳行为等)存在明显差异的一组酶。它们是由不同位点的基因或等位基因编码的多肽链组成。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0bfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379ca-72dc-11ee-9c5d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生物膜的相变温度"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "相变温度是指由单一类型磷脂构成的脂双层的热吸收曲线峰顶对应的温度。生物膜的相变温度是指膜脂在发生相态转变时的温度。在相变温度时，膜脂的流动性会随之改变，由液相转变为凝胶相或由凝胶相转变为液晶相。影响膜的相变温度的外部因素可分为化学因素和物理因素，化学因素主要为pH值，物理因素主要为电磁场、力场等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0c26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379cb-72dc-11ee-bda2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：氨基酸(aminoacids)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "氨基酸(aminoacids)是羧酸碳原子上的氢原子被氨基取代后的化合物，氨基酸分子中含有氨基和羧基两种官能团。与羟基酸类似，氨基酸可按照氨基连在碳链上的不同位置而分为α-,β,γ-氨基酸，但经蛋白质水解后得到的氨基酸都是α-氨基酸，而且仅有二十几种，它们是构成蛋白质的基本单位。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0c58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379cc-72dc-11ee-97be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：基本氨基酸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "组成蛋白质的常见氨基酸有20种，又称组成蛋白质的基本氨基酸，除R为氢原子(即甘氨酸)外都是L-氨基酸。组成蛋白质的20种基本氨基酸可以按R基的性质：大小、酸碱性、极性等进行分类。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0c80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379cd-72dc-11ee-92f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：稀有氨基酸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "稀有氨基酸是组成蛋白质中的20种常见氨基酸以外的其它蛋白质氨基酸，它们是正常氨基酸的衍生物，如5-羟赖氨酸。它们没有对应的遗传密码，都是在肽链合成后由相应的常见的氨基酸经过化学修饰衍生而来的氨基酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0ca8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379ce-72dc-11ee-a8ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：必需氨基酸(essentialaminoacid)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必需氨基酸(essentialaminoacid)是指人或动物机体自身不能合成或合成速度不能满足人体需要，必须由食物提供的氨基酸。人体必需氨基酸有8种，即：赖氨酸、色氨酸、苯丙氨酸、蛋氨酸、苏氨酸、缬氨酸、异亮氨酸、亮氨酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0cda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379cf-72dc-11ee-b18c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：半必需氨基酸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "半必需氨基酸又称为条件必需氨基酸，主要是指半胱氨酸和酪氨酸，它们在体内分别由蛋氨酸和苯丙氨酸转变而成，如果膳食中能够直接提供这两种氨基酸，则人体对蛋氨酸和苯丙氨酸的需要可减少。半必需氨基酸有：半胱氨酸、酪氨酸、精氨酸、丝氨酸、甘氨酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0d02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d0-72dc-11ee-928c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：两性离子"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "两性离子是指在溶液中即起路易斯碱又起路易斯酸作用的物质，即同一分子上带有等量正负电荷时，分子所处的状态。两性离子是总电荷为0,电中性的化合物。比如氨基酸、蛋白质的酸碱催化就是基于氨基酸的这种性质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0d34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d1-72dc-11ee-9fb2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：氨基酸的等电点"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "氨基酸的等电点是指氨基酸所带净电荷为零时所处溶液的pH,以pI代表。在某一pH的溶液中，氨基酸解离成阳离子和阴离子的趋势及程度相等，成为兼性离子，呈电中性，此时的溶液pH称该氨基酸的等电点或等电pH。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0d5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d2-72dc-11ee-a0b3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：茚三酮(ninhvdrin)反应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "茚三酮(ninhvdrin)反应是指α-氨基酸与茚三酮中共热，引起氨基酸氧化脱氨、脱羧作用，最后茚三酮与反应产物(氨和还原茚三酮)发生作用生成蓝紫色物质(最大吸收峰在570nm)的反应。两个亚氨基酸，即脯氨酸和羟脯氨酸，与茚三酮反应并不释放NH₃,而直接生成亮黄色化合物(最大吸收峰在440nm)。利用茚三酮显色可以定性鉴定并用分光光度法定量测定各种氨基酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0d84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d3-72dc-11ee-b6db-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肽(peptide)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肽(peptide)又称肽链(peptidechain),是氨基酸的线性聚合物。蛋白质是由一条或多条具有特定氨基酸序列的多肽链构成的大分子。一个氨基酸的氨基与另一个氨基酸的羧基可以缩合成肽，形成的酰胺基在蛋白质化学中称为肽键。氨基酸的分子最小，蛋白质最大，两个或以上的氨基酸脱水缩合形成若干个肽键从而组成一个肽，多个肽进行多级折叠就组成一个蛋白质分子，蛋白质有时也被称为\"多肽\"。二肽就是由两个氨基酸组成的蛋白质片断。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d4-72dc-11ee-b944-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肽键(peptidebond)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肽键(peptidebond)是由一个氨基酸的α-氨基与另一个氨基酸的a-羧基失水缩合而形成的酰胺键，是肽和蛋白质一级结构的基本化学键。氨基酸借肽键联结成多肽链，是蛋白质分子中的主要共价键，性质比较稳定。它虽然是单键，但具有部分双键的性质，难以自由旋转而有一定的刚性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0dde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d5-72dc-11ee-8808-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：单纯蛋白质(simpleprotein)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单纯蛋白质(simpleprotein)又称简单蛋白质，是指只由氨基酸组成，不含氨基酸以外的其它化学成分的蛋白质分子。如核糖核酸酶、肌动蛋白等。根据来源、受热凝固性及溶解度等理化性质的不同，分为白蛋白、球蛋白、谷蛋白、醇溶蛋白、组蛋白、鱼精蛋白和硬蛋白等七类。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d6-72dc-11ee-a9a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：结合蛋白质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "结合蛋白质是指除含有氨基酸外还含有其它化学成分(如糖、脂肪、核酸、磷酸及色素等),保证蛋白质的正常生物学活性的蛋白质分子。如核蛋白、糖蛋白、脂蛋白、金属蛋白、黄素酶、磷蛋白等。按其非蛋白部分的不同而分为核蛋白(含核酸)、糖蛋白(含多糖)、脂蛋白(含脂类)、磷蛋白(含磷酸)、金属蛋白(含金属)及色蛋白(含色素)等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d7-72dc-11ee-9ef8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：蛋白质的一级结构(primarystructure)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白质的一级结构(primarystructure)也称初级结构或基本结构，是指肽链中的氨基酸排序，包括二硫键的位置。维持一级结构的化学键为共价键，主要为肽键。蛋白质的一级结构决定了蛋白质的二级、三级等高级结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0e60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d8-72dc-11ee-9ee4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Edman降解法(Edmandegradation)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Edman降解法(Edmandegradation),又称苯异硫氰酸酯法，是指从肽链的游离的N-末端测定氨基酸残基的序列的过程。N-末端氨基酸被苯异硫氰酸酯(PITC)修饰，然后从肽链上分离修饰的氨基酸，再用乙酸乙酯抽提后，可用层析等方法鉴定。余下一条缺少一个氨基酸残基的完整的肽链再进行下一轮降解鉴定循环。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0e88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379d9-72dc-11ee-9121-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肽单位(peptideunit)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肽单位(peptideunit)也称肽基，是指组成肽键的4个原子(C、H、O、N)和2个相邻的a-碳原子所组成的基团，是肽链主链上的复合结构，具有刚性平面性质。与氨基酸残基不同，肽单位侧重研究蛋白质的高级结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0eb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379da-72dc-11ee-b3ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：氨基酸残基(aminoacidresidue)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "氨基酸残基(aminoacidresidue)是指不完整的氨基酸。组成多肽的氨基酸在相互结合时，由于其部分基团参与了肽键的形成而失去一分子水，因此把多肽中的氨基酸单位称为氨基酸残基，即由肽键连接的氨基酸失水部分。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0ed8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379db-72dc-11ee-b451-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：蛋白质三级结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白质的三级结构是指多肽链在二级结构的基础上进一步盘绕、折叠成复杂的空间结构，包括肽链中一切原子的空间排列方式，即原子在分子中的空间排列和组合的方式。维系三级结构的力有疏水作用、氢键、范德华力、离子键。另外二硫键在某些蛋白质中也起非常重要的作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0f0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379dc-72dc-11ee-bbf5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：α-螺旋"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "α-螺旋是蛋白质中最常见的一种二级结构，肽链主链骨架围绕中心轴盘绕成螺旋状。在α-螺旋结构中，每"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0f32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379dd-72dc-11ee-8a12-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：β-折叠"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "β-折叠是蛋白质中常见的一种二级结构，β-折叠结构的肽链几乎是完全伸展的，邻近两链以相同或相反方向平行排列成片状结构。两个氨基酸残基之间的轴心距为"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0f5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379de-72dc-11ee-97b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：β-转角"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "β-转角又称β-弯曲，是指在蛋白质的多肽链中经常出现180°的回折，在肽链回折处的结构，或称发夹结构。它一般由4个连续的氨基酸残基组成，由第一个氨基酸残基的C-O与第四个氨基酸残基的N-H之间形成氢键，使β-转角成为比较稳定的结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0f82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379df-72dc-11ee-8545-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：无规卷曲"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "无规卷曲，又称不确定的二级结构，泛指那些不能或未能归入明确的二级结构如折叠片或螺旋的蛋白质肽段。它们受侧链相互作用的影响很大。这类有序的非重复性结构经常构成酶活性部位和其它蛋白质特异的功能部位。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0fb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e0-72dc-11ee-8dd8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：超二级结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "超二级结构是指二级结构的基本结构单位(a-螺旋、β-折叠等)相互聚集，形成有规律的二级结构的聚集体。超二级结构主要涉及α-螺旋、β-折叠等在空间上是如何聚集在一起的问题。已知的超二级结构有3种基本组合形式：α-螺旋的聚集体(aa),α-螺旋和β-折叠的聚集体(βaβ),β-折叠的聚集体(邴)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b0fdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e1-72dc-11ee-b857-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：蛋白质的变性作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白质的变性作用是指天然蛋白质受到某些物理因素(如热、紫外线照射、高压和表面张力等)或化学因素(如有机溶剂、脲、酸、碱等)的影响，生物活性丧失，溶解度降低，分子内部原有的高度规则性的空间排列发生变化，致使其原有性质和功能发生部分或全部丧失的作用。蛋白质变性的实质是蛋白质分子中的次级键被破坏，引起天然构象解体。变性不涉及共价键(肽键和二硫键等)的破裂，一级结构仍保持完好。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1004-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e2-72dc-11ee-af1d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：氢键(hydrogenbond)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "氢键(hydrogenbond)是稳定蛋白质和DNA二级结构的主要化学键。由电负性强的原子与氢形成的基团如N-H和O-H有很大的偶极矩，成键电子云分布偏向负电性大的原子，使正电荷的氢原子在外侧裸露。当带正电荷的氢原子遇到另一个电负性强的原子时，就产生静电引力，而形成氢键：X-H…Y。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1036-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e3-72dc-11ee-bc2c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：疏水作用(hydrophobicinteraction)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "疏水作用(hydrophobicinteraction)是疏水基团或疏水侧链出自避开水的需要而被迫接近，并非疏水基团之间有什么吸引力。疏水作用使水介质中球状蛋白质折叠总是倾向把疏水残基埋藏在分子的内部，它对稳定蛋白质三维结构有突出重要的作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b105e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e4-72dc-11ee-82bc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：蛋白质四级结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白质的四级结构是指蛋白质分子中各亚基的空间排布及亚基接触部位的布局和相互作用，即寡聚蛋白中各亚基的空间排布。蛋白质亚基之间主要通过疏水作用、氢键、离子键、范德华力等作用力形成四级结构，其中最主要的是疏水作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1086-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e5-72dc-11ee-acad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：蛋白质的别构作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白质的别构作用是指一些蛋白质受某些因素影响，其一级结构不变，空间构象发生一定的变化，导致其生物功能改变的现象。不直接涉及蛋白质活性的物质，结合于蛋白质活性部位以外的其它部位(别构部位),引起蛋白质分子的构象变化，从而导致蛋白质活性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b10ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e6-72dc-11ee-89da-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：抗原和抗体"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)抗原是指凡能刺激动物机体产生抗体并能特异地与这种抗体结合的物质。(2)抗体又称免疫球蛋白，是一类特殊的蛋白质，也是机体内最复杂的分子，它以巨大的多样性识别着外部世界纷繁的抗原结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b10e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e7-72dc-11ee-a4ed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：同源蛋白质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同源蛋白质是指存在于不同物种、起源相同、序列和功能类似的蛋白质，例如人与牛的血红蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1108-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e8-72dc-11ee-b158-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：同功蛋白质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同功蛋白质是指不同种属来源的执行同种生物学功能的蛋白质。它们的分子组成基本相同，但有差异。同功蛋白质的氨基酸组成可区分为两部分：一部分是不变的氨基酸顺序，它决定蛋白质的空间结构与功能，各种同功蛋白质的不变氨基酸顺序完全一致；另一部分是可变的氨基酸顺序，这部分是同功蛋白质的种属差异的体现。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1130-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379e9-72dc-11ee-89e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：镰刀形细胞贫血病(sickle-cellanemia)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "镰刀形细胞贫血病(sickle-cellanemia)是指病人的血红蛋白分子与正常人血红蛋白分子的主要差异在β-链上第6位氨基酸残基，正常人为谷氨酸，病人则为缬氨酸的一种疾病。缬氨酸侧链与谷氨酸侧链的性质和在蛋白质分子结构形成中的作用完全不同，所以导致病人的血红蛋白结构异常，红细胞呈镰刀状，当红细胞脱氧时，这种镰刀状细胞明显增加。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1162-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379ea-72dc-11ee-9d72-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：分子病"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分子病是指由于基因突变引起的某个功能蛋白的某一个或几个氨基酸残基发生了遗传性替代，从而导致整个分子的三维结构发生改变，功能部分或全部丧失从而引发的疾病。镰刀状细胞贫血病是最早被认识的一种分子病。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b118a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379eb-72dc-11ee-bec9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：协同效应(cooperativity)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "协同效应(cooperativity)是指一个寡聚体蛋白质的一个亚基与其配体结合后，能影响此寡聚体中另一个亚基与配体结合能力的现象。如果是促进作用则称为正协同效应，如：带氧的Hb亚基协助不带氧亚基结合氧；如果是抑制作用则称为负协同效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b11b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379ec-72dc-11ee-aa90-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：波尔效应(Bohreffect)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "波尔效应(Bohreffect)是指增加CO₂分压，提高CO₂的浓度，能够提高血红蛋白亚基的协同效应，降低血红蛋白对氧的亲和力。并且发现增加H离子浓度或降低pH值，也能增加亚基协同效应，促进血红蛋白释放氧。反之高浓度的O2或者增加O₂的分压，都将促进脱氧血红蛋白分子释放H和CO₂这些相互有关的现象。波尔效应主要是描述H浓度或pH值及CO₂分压的变化，对血红蛋白结合氧的影响，它具有重要的生理意义。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b11da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379ed-72dc-11ee-a1a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：盐析"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "盐析是指在蛋白质溶液中加入大量中性盐而使蛋白质沉淀的现象。这是由于大量的盐离子可与蛋白质竞争溶液中的水分子，从而破坏蛋白质颗粒表面的水化层，失去水化层的裸露的蛋白质分子易于聚集而沉淀。盐析法是蛋白质分离过程中最常用的方法之一，用于盐析的中性盐以硫酸铵为最佳。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b120c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379ee-72dc-11ee-a809-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：盐溶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "盐溶是指加入少量中性盐而使蛋白质溶解度增加的现象。中性盐对蛋白质的溶解度有显著影响，在盐浓度较低时，由于静电作用，使蛋白质分子外围聚集了一些带相反电荷的离子，从而加强了蛋白质和水的作用，减弱了蛋白质分子间的作用，故增加了蛋白质的溶解度"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1234-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379ef-72dc-11ee-bd95-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：凝胶过滤层析"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凝胶过滤层析又称分子排阻层析，是一种利用带孔凝胶珠作基质，按照分子大小分离蛋白质或其他分子混合物的层析技术。层析柱中的填料是某些惰性的多孔网状结构物质，多是交联的聚糖(如葡聚糖或琼脂糖)类物质，小分子物质能进入其内部，流下时路程较长，而大分子物质却被排除在外部，下来的路程短，当一混合溶液通过凝胶过滤层析柱时，溶液中的物质就按不同分子量筛分开了。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1266-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f0-72dc-11ee-808e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：亲和层析和离子交换层析"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)亲和层析是指利用共价连接有特异配体的层析介质分离蛋白质混合物中能特异结合配体的目的蛋白或其他分子的层析技术。(2)离子交换层析是指使用带有固定的带电基团的聚合树脂或凝胶层析柱分离离子化合物的层析方法。它是以离子交换剂为固定相，依据流动相中的组分离子与交换剂上的平衡离子进行可逆交换时的结合力大小的差别来进行分离的一种层析方法。离子交换层析中，基质是由带有电荷的树脂或纤维素组成。带有正电荷的称之阴离子交换树脂；而带有负电荷的称之阳离子树脂。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1298-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f1-72dc-11ee-bad7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：等电聚焦电泳"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "等电聚焦电泳(IFE,isoelectricfocusingelectrophoresis)是指利用一种特殊的缓冲液(两性电解质)在聚丙烯酰胺凝胶内制造一个pH梯度的电泳方法，电泳时每种蛋白质迁移到它的等电点(pI)处，即梯度中的某一pH时，由于表面静电荷为零而停止泳动。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b12de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f2-72dc-11ee-ad73-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：超滤法(ultrafiltration)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "超滤法(ultrafiltration)是指应用正压或离心力使蛋白质溶液透过有一定截留分子量的超滤膜，达到浓缩蛋白质溶液目的的方法。超滤除了可以对蛋白质进行粗略的分离外，更重要的是可以除去水分和小分子杂质，达到浓缩样品的目的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b131a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f3-72dc-11ee-9a6c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：可逆沉淀反应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可逆沉淀反应，又称不变性沉淀，是指在发生沉淀反应时，蛋白质虽已析出，但是其分子内部结构未发生显著变化，沉淀因素去除后，能再溶于原来的溶剂中的沉淀反应，如盐析作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1360-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f4-72dc-11ee-a15f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：不可逆沉淀反应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不可逆沉淀反应是指在发生沉淀反应时，蛋白质分子内部结构、空间构象失去原来的天然性质，这时蛋白质已经变性，不能再溶于原来的溶剂中的沉淀反应，如有机溶剂、重金属盐、生物碱试剂、某些酸类和碱类、加热变性等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b13c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f5-72dc-11ee-8e87-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：分段盐析"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分段盐析是指利用不同蛋白质盐析时所需盐浓度不同，逐渐增加中性盐(常用硫酸铵)的浓度，从而使不同蛋白质先后析出的方法。例如血清中加入50%的(NH₄)₂SO₄可使球蛋白析出，加入100%的(NH₄)₂SO₄可使清蛋白析出。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b140a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f6-72dc-11ee-adc5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：酶的辅助因子"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酶的辅助因子是指酶中非蛋白质的部分，在酶促反应中主要起着递氢、传递电子和传递某些化学基团的作用。常见的酶的辅助因子包括金属离子和一些分子量不大的有机化合物。一般常见的金属离子有锌离子、镁离子、铁离子、铜离子等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1446-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f7-72dc-11ee-b70c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：活化能(activationenergy)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "活化能(activationenergy)是指分子从常态转变为容易发生化学反应的活跃状态所需要的能量。活化能的大小可以反映化学反应发生的难易程度。化学反应速率与其活化能的大小密切相关，活化能越低，反应速率越快，因此降低活化能会有效地促进反应的进行。酶通过降低活化能(实际上是通过改变反应途径的方式降低活化能)来促进一些原本很慢的生化反应得以快速进行。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b148c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f8-72dc-11ee-9d8d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：核酶(ribozyme)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "核酶(ribozyme)是指具有催化功能的RNA。核酶是生物催化剂，可降解特异的mRNA序列。核酶又称核酸类酶、核酶类酶RNA。它的发现打破了酶是蛋白质的传统观念。核酶通过催化靶位点RNA链中磷酸二酯键的断裂，特异性地剪切底物RNA分子，从而阻断靶基因的表达。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b14d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379f9-72dc-11ee-b191-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：辅酶(coenzyme)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "辅酶(coenzyme)是指那些与酶蛋白结合松散、使用透析的方法就容易去除的有机小分子。许多维生素及其衍生物，如核黄素、硫胺素和叶酸，都属于辅酶。这些化合物无法由人体合成，必须通过饮食补充。不同的辅酶能够携带的化学基团也不同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1518-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379fa-72dc-11ee-9720-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：抗体酶(abzyme)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抗体酶(abzyme)又称催化性抗体，是抗体的高度特异性与酶的高效催化性巧妙结合的产物，其本质上是一类在可变区赋予了酶活性的免疫球蛋白。即通过一系列化学与生物技术方法制备出的具有催化活性的抗体，它既具有相应的免疫活性，又能像酶那样催化某种化学反应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b155e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379fb-72dc-11ee-b55c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：单纯酶和结合酶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)单纯酶是指一些只由蛋白质组成，不包含辅因子的酶，例如脲酶、一些消化蛋白酶、淀粉酶、酯酶、核糖核酸酶等均属此列。(2)结合酶是指结合有辅因子的酶。结合酶包括两部分：蛋白质部分，称酶蛋白，决定反应的特异性；非蛋白质部分(通常称为辅助因子),多为小分子有机化合物或金属离子，决定反应的种类与性质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b15a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379fc-72dc-11ee-8b35-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：酶的专一性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酶的专一性是指酶对底物及其催化反应的严格选择性。通常酶只能催化一种化学反应或一类相似的反应。不同的酶具有不同程度的专一性，酶的专一性可分为三种类型：绝对专一性、相对专一性和立体专一性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b15e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379fd-72dc-11ee-8045-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：寡聚酶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "寡聚酶是指由两个或两个以上亚基组成的酶。寡聚酶中的亚基可以是相同的，也可以是不同的。绝大部分寡聚酶都含偶数亚基，但个别寡聚酶含奇数业基，如荧光素酶、嘌呤核苷磷酸化酶均含3个亚基。亚基之间靠次级键结合，彼此容易分开。大多数寡聚酶，其聚合形式是活性型，解聚形式是失活型。相当数量的寡聚酶是调节酶，在代谢调控中起重要作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1626-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379fe-72dc-11ee-b09e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：诱导酶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "诱导酶是指在环境中有诱导物(通常是酶的底物)存在的情况下，由诱导物诱导而生成的酶。例如，大肠杆菌分解乳糖的半乳糖苷酶就属于诱导酶。如果细胞内没有控制某种酶合成的基因，即便有诱导物存在也不能合成这种酶。因此，诱导酶的合成取决于内因和外因两个方面。诱导酶在微生物需要时合成，不需要时就停止合成。这样既保证了代谢的需要，又避免了不必要的浪费，增强了微生物对环境的适应能力。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1680-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab5379ff-72dc-11ee-8ee8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：多酶体系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "多酶体系是指由几个酶彼此嵌合形成的，催化一系列连续反应的酶体系。多酶复合体有利于细胞提高酶的催化效率，同时便于机体对酶的调控。多酶复合体的相对分子质量都在几百万以上，一般分为可溶性的、结构化的和在细胞结构上有定位关系的三种类型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b16bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a00-72dc-11ee-bbc8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：底物"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "底物为参与生化反应的物质，可为化学元素、分子或化合物，经酶作用可形成产物。一个生化反应的底物往往同时也是另一个化学反应的产物。某一酶的底物是指被该酶作用的物质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1702-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a01-72dc-11ee-994b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：酶工程"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酶工程是指在一定生物反应装置中利用酶的催化性质，将相应原料转化成有用物质的技术，是酶学和工程学相互渗透结合、发展而成的一门新的技术科学，是酶学、微生物学的基本原理与化学工程有机结合而产生的边缘科学技术。包括化学酶工程和生物酶工程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b173e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a02-72dc-11ee-b69a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Km"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Km是米氏常数，是指米氏酶反应速率达到最大值一半的时候底物的浓度，它可以用来反映底物与酶的亲和力。Km是酶的特征常数之一。不同的酶Km值不同，同一种酶与不同底物反应Km值也不同。Km的大小只与酶的性质有关，而与酶浓度无关。Km值随测定的底物、反应的温度、pH及离子强度而改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1784-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a03-72dc-11ee-8b74-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：竞争性抑制作用、非竞争抑制作用和反竞争性抑制作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)竞争性抑制作用是指竞争性抑制剂因具有与底物相似的结构，通常与正常的底物或配体竞争酶的结合部位从而产生的抑制作用。这种抑制使得Km增大，而Vmx不变。(2)非竞争抑制作用是指抑制剂与酶活性中心以外的基团结合，形成酶-抑制剂或酶-底物-抑制剂复合物的一种酶促反应抑制作用。这种抑制使得Vmx变小，但Km不变。这种抑制不能通过增加底物浓度的方法解除。(3)反竞争性抑制作用是指抑制剂与酶-底物复合物结合，而不与游离酶结合的一种酶促反应抑制作用。这种抑制作用使得Vmax和Km都变小，但Vm/Km比值不变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b17c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a04-72dc-11ee-b82b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：可逆抑制作用和不可逆抑制作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)不可逆抑制作用是指由某些抑制剂通常以共价键与酶蛋白中的必需基团结合，而使酶失活，抑制剂不能用透析、超滤等物理方法除去这样的不可逆抑制剂引起的抑制作用。(2)可逆抑制作用是指抑制剂以非共价键与酶蛋白中的必需基团结合，可用透析等物理方法除去抑制剂而使酶重新恢复活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1806-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a05-72dc-11ee-9dc4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：激活剂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "激活剂是指所有能提高酶活性的物质，其中大部分是无机离子或简单的有机化合物。有些小分子有机化合物可作为酶的激活剂，例如半胱氨酸，还原型谷胱甘肽等还原剂对某些含巯基的酶有激活作用，使酶中二硫键还原成巯基，从而提高酶活性。另外酶原可被一些蛋白酶选择性水解肽键而被激活，这些蛋白酶也可看成为激活剂。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1860-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a06-72dc-11ee-b439-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：抑制剂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抑制剂是指能使酶的某些必需基团或酶活性部位中的基团的化学性质改变，但酶未变性，而降低酶的催化活性，甚至使酶的催化活性完全丧失的物质。一种抑制剂只能使一种酶或一类酶产生抑制作用，因此抑制剂对酶的抑制作用是有选择性的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b18a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a07-72dc-11ee-8f3e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：最适温度"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在较低的温度范围内，酶反应速率随温度升高而增大，但超过一定温度后，反应速率反而下降，因此只有在某一温度下，反应速率达到最大值，这个温度通常就称为酶反应的最适温度。最适温度不是酶的特征物理常数，常受到其他条件如底物种类、作用时间、pH和离子强度等因素影响而改变。如最适温度随着酶促作用时间的长短而改变，由于温度使酶蛋白变性是随时问累加的。一般讲反应时间长，酶的最适温度低，反应时间短则最适温度就高，因此只有在规定的反应时间内才可确定酶的最适温度。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b18ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a08-72dc-11ee-a1f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：金属激活酶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "金属激活酶是指有些金属离子虽为酶的活性所必须，但不与酶直接作用，而是通过底物相连接的一类酶。这些金属离子结合在基团的表面并保持平衡，它们的解离会使酶活性丧失。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1932-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a09-72dc-11ee-932d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：最适pH"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酶的活力受环境pH的影响，在一定pH下，酶表现最大活力，高于或低于此pH,酶活力降低，通常把表现出酶最大活力的pH称为该酶的最适pH。各种酶在一定条件下都有其特定的最适pH,因此最适pH是酶的特性之一。但酶的最适pH不是一个常数，受许多因素影响，随底物种类和浓度、缓冲液种类和浓度的不同而改变，因此最适pH只有在一定条件下才有意义。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1964-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a0a-72dc-11ee-8b96-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：活性中心(activesite)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "活性中心(activesite)是指酶分子上与底物结合并直接催化底物变成产物的区域，它是一种三维实体结构，呈裂缝、裂隙或口袋状。酶的活性中心按照其功能可分为结合部位和催化部位两个部位。酶的活性部位并不是和底物的形状正好互补的，而是在酶和底物结合的过程中，底物分子或酶分子，有时是两者的构象同时发生了一定的变化后才互补的，这时催化基团的位置也正好在所催化底物键的断裂和即将生成键的适当位置。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b198c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a0b-72dc-11ee-a486-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：别构酶(allosterieenzyme)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "别构酶(allosterieenzyme)是指具有别构效应的酶。当某些化合物与酶分子中的别构部位可逆地结合后，酶分子的构象发生改变，使酶活性部位对底物的结合与催化作用受到影响，从而调节酶促反应速度及代谢过程，这种效应称为别构效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b19b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a0c-72dc-11ee-8470-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：临近和定向效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)临近效应是指在酶促反应过程中，底物在酶活性部位的累积，有研究发现溶液中的底物浓度为"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b19e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a0d-72dc-11ee-84c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：调节酶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "调节酶是指对代谢途径的反应速度起调节作用的酶。它们的分子一般具有明显的活性部位和调节部位。位于一个或多个代谢途径内的一个关键部位的酶，它的活性可因调节剂结合而改变，有调节代谢反应的功能。调节酶一般可分为别构酶和共价调节酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1a0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a0e-72dc-11ee-bb2c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：共价调节酶"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "共价调节酶是指结构可以在其它酶的作用下进行共价修饰，从而使其在活性形式与非活性(或高活性与低活性)形式之间相互转变的某些酶。共价调节酶一般都存在相对无活性和有活性两种形式，两种形式之间互变的正、逆向反应由不同的酶催化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1a36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a0f-72dc-11ee-8b47-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：酶原的激活"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酶原的激活是指在一定条件下，受某种因素的作用，酶原分子的部分肽键被水解，使分子结构发生改变，形成酶的活性中心，无活性的酶原转化成有活性的酶的过程。酶原是指有些酶在细胞内合成和初分泌时，并不表现有催化活性的无活性的酶的前身物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1a5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a10-72dc-11ee-b49a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：同促效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同促效应是指当一个效应物分子与酶结合之后，影响到另一相同的效应物分子与酶的另一部位的结合。是底物分子本身对别构酶的调节作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1a90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a11-72dc-11ee-b465-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：异促效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "异促效应是指非底物分子的调节物对别构酶的调节作用。若一分子效应物和酶结合之后，影响到另一不同的效应物分子与酶的另一部位结合则称为异促效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1ab8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a12-72dc-11ee-b6ac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：酶的必需基团"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酶的必需基团是指与酶活性有关的基团。酶的分子中存在着许多功能基团，例如—NH₂、—COOH、—SH、—OH等，但并不是这些基团都与酶活性有关。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1aea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a13-72dc-11ee-ac2f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：酶活性的可逆磷酸化调节。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酶活性的可逆磷酸化调节是指通过蛋白激酶催化的将ATP或CTP的γ-磷酸基转移到底物蛋白质氨基酸残基上以及在蛋白磷酸化酶催化下的逆过程，从而使酶蛋白在活性状态与非活性状态之间互变，从而来调节酶的活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1b12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a14-72dc-11ee-b00f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：异头碳"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "异头碳是指环化单糖的氧化数最高的碳原子。异头碳具有羰基的化学反应性。即单糖由直链变成环状结构时，羰基碳原子成为新的手性中心，导致C1差向异构化，产生两个非对映异构体。在环状结构中，半缩醛碳原子称为异头碳原子。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1b3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a15-72dc-11ee-9920-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：变旋"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "变旋是指吡喃糖、呋喃糖或糖苷伴随它们的α和β异构形式的平衡而发生的比旋光度变化。变旋是由于分子立体结构发生某种变化的结果。变旋现象往往能被某些酸或碱催化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1b62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a16-72dc-11ee-a823-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：蛋白聚糖"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白聚糖(PG)是指由杂多糖与一个多肽链组成的杂化的大分子，多糖是分子的主要成分。蛋白聚糖是一类特殊的糖蛋白，除含糖胺聚糖链外，尚有一些N—或(和)O—链接的寡糖链。蛋白聚糖不仅分布于细胞外基质，也存在于细胞表面以及细胞内的分泌颗粒中。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1b94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a17-72dc-11ee-a07f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：差向异构体"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "差向异构体是指分子之间仅有一个手性碳原子的构型不同的非对映异构体，例如葡萄糖和甘露糖、半乳糖和葡萄糖之间除仅有一个-OH位置不同外，其余结构完全相同，它们之间称为差向异构体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1bbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a18-72dc-11ee-a4db-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：脂多糖(lipopolysaccharide)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "脂多糖(lipopolysaccharide)是革兰氏阴性细菌细胞壁特有的结构成分，种类很多，分子结构一般由外层专一性寡糖链、中心多糖链和脂质三部分组成。脂多糖对宿主是有毒性的。脂多糖只有当细菌死亡溶解或用人工方法破坏菌细胞后才释放出来，所以叫做内毒素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1be4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a19-72dc-11ee-909b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：脂肪酸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "脂肪酸是指一端含有一个羧基的长的脂肪族碳氢链。脂肪酸是最简单的一种脂，它是许多更复杂的脂(例如三酰甘油、甘油磷脂、鞘磷脂和蜡)的成分。脂肪酸可以发生氧化和过氧化，不饱和脂肪酸在双键处可以发生加成如卤化和氢化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1c16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a1a-72dc-11ee-bd80-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：皂化值(saponificationnumber)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "皂化值(saponificationnumber)又称皂化价，是皂化1g脂肪所需的KOH毫克数，它与脂肪(或脂酸)相对分子质量成反比。皂化值的高低表示油脂中脂肪酸分子量的大小(即脂肪酸碳原子的多少)。皂化值愈高，说明脂肪酸分子量愈小，亲水性较强，易失去油脂的特性；皂化值愈低，则脂肪酸分子量愈大或含有较多的不皂化物，油脂接近固体，难以注射和吸收，所以注射用油需规定一定的皂化值范围，使油中的脂肪酸在C16～C18的范围。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1c3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a1b-72dc-11ee-83a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：碘值(iodinenumber)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "碘值(iodinenumber)又称碘价，是100g脂质样品所吸收的碘的克数，通常用它来表示油脂中脂酸的不饱和程度。主要用于油脂、脂肪酸、蜡及聚酯类等物质的测定。不饱和程度愈大，碘值愈高。干性油的碘值大于非干性油的碘值。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1c66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a1c-72dc-11ee-b7fe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：鞘磷脂(sphingomyelin)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "鞘磷脂(sphingomyelin)又称鞘氨醇磷脂，是由鞘氨醇、脂肪酸和磷酰胆碱(少数是磷酰乙醇胺)组成，主要存在于神经的髓鞘中。神经酰胺是鞘脂类(鞘磷脂和鞘糖脂)共同的基本结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1c98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a1d-72dc-11ee-9c1a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：鞘糖脂(glycosphingolipid)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "鞘糖脂(glycosphingolipid)是指单糖或寡糖的糖链与神经酰胺C1上的羟基以糖苷键相连而形成的化合物，可分为中性鞘糖脂和酸性鞘糖脂两类，主要包括脑苷脂和神经节苷脂。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1cc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a1e-72dc-11ee-941e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：脑苷脂(cerebroside)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "脑苷脂(cerebroside)又称酰基鞘氨醇己糖苷，脑苷脂为神经鞘糖脂的一种，由神经酰胺和半乳糖(或葡萄糖)组成，糖链与神经酰胺C₁上的羟基以糖苷键相连，最初从脑组织提取到，故称脑苷脂。脑苷脂不属于磷脂。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1ce8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a1f-72dc-11ee-a743-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：神经节苷脂(gangliosides)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "神经节苷脂(gangliosides)是由神经酰胺和至少含有一个唾液酸残基的寡糖组成，寡糖链与神经酰胺C₁上的羟基以糖苷键相连，主要存在于大脑灰质细胞和神经节细胞。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1d1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a20-72dc-11ee-85ac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：外周蛋白"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外周蛋白是指以非共价键结合于膜表面，可被高浓度的尿素、盐溶液洗脱的蛋白质。外周蛋白又称附着蛋白或外在膜蛋白，占膜蛋白总量的20%～30%,这种蛋白完全外露在脂双层的内外两侧(胞质侧或胞外侧).主要是通过非共价键(如弱的静电作用)附着在脂类分子头部极性区或跨膜蛋白亲水区的一侧，间接与膜结合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1d42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a21-72dc-11ee-87c0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：整合蛋白"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "整合蛋白又称内在蛋白。部分或全部镶嵌在细胞膜中或内外两侧，以非极性氨基酸与脂双分子层的非极性疏水区相互作用而结合在质膜上。例如膜结合的酶类、载体蛋白、通道蛋白、膜受体等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1d6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a22-72dc-11ee-a565-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：流体镶嵌模型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "流动镶嵌模型是针对生物膜的结构提出的一种模型。在这个模型中，生物膜被描述成镶嵌有蛋白质的流体脂双层，脂双层在结构和功能上都表现出不对称性。有的蛋白质\"镶\"在脂双层表面，有的则部分或全部嵌入其内部，有的则横跨整个膜。另外，脂和膜蛋白都可以进行侧向扩散"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1d9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a23-72dc-11ee-9dbe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：核酸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "核酸是指由单核苷酸通过磷酸二酯键相连而组成的高分子化合物称。它可以分为DNA和RNA两类。核酸不仅是基本的遗传物质，而且在蛋白质的生物合成上也占重要位置，因而在生长、遗传、变异等一系列重大生命现象中起决定性的作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1dc4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a24-72dc-11ee-a2de-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：信使核糖核酸(mRNA,messengerribonucleicacid)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "信使核糖核酸(mRNA,messengerribonucleicacid)即信使RNA,是一类用作蛋白质合成模板的RNA,它决定着一个蛋白质氨基酸排列的顺序。信使RNA是由DNA的一条链作为模板转录而来的、携带遗传信息的能指导蛋白质合成的一类单链核糖核酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1dec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a25-72dc-11ee-bd44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：帽子结构(capstructure)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "帽子结构(capstructure)是真核细胞中mRNA的5'-端有一段特殊的结构。它是由甲基化鸟苷酸经焦磷酸与mRNA的5'-端核苷酸相连，形成5',5'-三磷酸连接。通常有三种类型：mG⁵PPP⁵Np、m'G′ppp⁵'NmpNp、m²G⁵PPP⁵NmpNmpNp,分别称为O型、I型、Ⅱ型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1e1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a26-72dc-11ee-8d56-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：转移核糖核酸(tRNA,transferribonucleicacid)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "转移核糖核酸(tRNA,transferribonucleicacid)是一类携带激活氨基酸，将它带到蛋白质合成部位并将氨基酸整合到生长着的肽链上的RNA。tRNA含有能识别模板mRNA上互补密码的反密码。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1e46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a27-72dc-11ee-b14d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：染色质(chromatin)与染色体(chromosome)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)染色质(chromatin)是存在于真核生物间期细胞核内，易被碱性染料着色的一种无定形物质。染色质中含有作为骨架的完整的双链DNA,以及组蛋白、非组蛋白和少量的RNA。(2)染色体(chromosome)是染色质在细胞分裂过程中经过紧密缠绕、折叠、凝缩和精细包装形成的具有固定形态的遗传物质的存在形式。简而言之，染色体是一个大的单一的双链DNA分子与相关蛋白质组成的复合物，DNA中含有许多贮存和传递遗传信息的基因。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1e6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a28-72dc-11ee-91f3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：核小体(nucleosome)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "核小体(nucleosome)是构成染色体的基本结构，由200bp左右的DNA和五种组蛋白组成的小球状结构组成。每个核小体包括200bp左右的DNA和一个组蛋白八聚体以及一分子的组蛋白H1。两个相邻核小体之间以连接DNA相连，典型长度为60bp,不同物种变化值为0～80bp不等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1ea0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a29-72dc-11ee-a135-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：snRNA"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "snRNA主要存在于细胞核中，也存在于细胞质中，占细胞RNA总量"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1ec8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a2a-72dc-11ee-a22f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Tm"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Tm即解链温度，是指核酸(DNA)小与其所含碱基中的G+C比例相关，G+C热变性过程中双螺旋解开一半时的温度。一种DNA分子的Tm值大比例越高，Tm值越高。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1ef0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a2b-72dc-11ee-98ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：增色效应和减色效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)增色效应是指将DNA的稀盐溶液加热时，双螺旋结构解体，两条链分开，形成无规则线团，260nm紫外吸收值升高。DNA变性后DNA双螺旋解开，于是碱基外露，碱基中电子的相互作用更有利于紫外吸收，故而产生增色效应。(2)减色效应是指变性的DNA在适当条件下，可使两条彼此分开的链重新缔合成为双螺旋结构，260nm紫外吸收值降低。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1f22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a2c-72dc-11ee-92e9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：核酸的变性与复性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)核酸的变性是指核酸双螺旋的氢键断裂，变成单链，并不涉及共价键的断裂的过程。(2)核酸的复性是指变性DNA在适当条件下，可使两条彼此分开的链重新缔合成为双螺旋结构的过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1f4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a2d-72dc-11ee-90b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：分子杂交(hybridization)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "杂交分子(hybridization)是指当两条不同来源的DNA(或RNA)链或DNA链与RNA链之间存在互补顺序时，在一定条件下可以发生互补配对形成的双螺旋分子，形成杂交分子的过程称为分子杂交。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1f72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a2e-72dc-11ee-894b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：退火(annealing)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "退火(annealing)是指DNA由单链复性变成双链结构的过程。来源相同的DNA单链经退火后完全恢复双链结构，不同来源DNA之间或DNA和RNA之间，退火后形成杂交分子。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1f9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a2f-72dc-11ee-80f7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：拓扑异构酶(topoisomerase)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "拓扑异构酶(topoisomerase)是指通过切断DNA的一条或两条链中的磷酸二酯键，然后重新缠绕和封口来改变DNA连环数的酶。拓扑异构酶I通过切断DNA中的一条链减少负超螺旋，增加一个连环数。某些拓扑异构酶Ⅱ也称为DNA促旋酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1fcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a30-72dc-11ee-8856-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：核酸内切酶(endonuclease)与核酸外切酶(exonuclease)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(1)核酸内切酶(endonuclease)是核糖核酸酶和脱氧核糖核酸酶中能够水解核酸分子内磷酸二酯键的酶。(2)核酸外切酶(exonuclease)是从核酸链的一端逐个水解核苷酸的酶。可大致分为水解磷酸二酯键的3'端生成5'-单核苷酸的酶，及水解5'端生成3'-单核苷酸的酶。前者有蛇毒磷酸二酯酶及大肠杆菌核酸外切酶I、Ⅱ和Ⅲ等；后者有脾脏磷酸二酯酶、嗜酸乳杆菌核酸酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b1ff4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a31-72dc-11ee-afb1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：限制性内切酶(restrictionendonuclease)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "限制性内切酶是一种在特殊核苷酸序列处水解双链DNA的内切酶。I型限制性内切酶既能催化宿主DNA的甲基化，又可催化非甲基化的DNA的水解；而Ⅱ型限制性内切酶只催化非甲基化的DNA的水解。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b2026-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a32-72dc-11ee-82dc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：维生素"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维生素是机体所需要的微量有机化合物，机体不能合成或合成不足。因而需要从膳食中获取，维生素通过衍生为辅酶和激素实现对代谢的调节。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b204e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a33-72dc-11ee-a1b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：第二信使学说"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第二信使学说是一种解释信号传递的理论。含氮激素首先和细胞膜受体结合，受体将激素信号通过另外的物质传递到细胞内，信号逐级放大后产生各种细胞内反应，如促进或抑制相关代谢途径，这种传递激素信号的物质叫做第二信使，如cAMP,cGMP等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b2076-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a34-72dc-11ee-83ca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：内源因子"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内源因子是胃幽门黏膜分泌的一种糖蛋白，维生素B2只有与它结合才可能透过肠壁被吸收，且不被肠细菌破坏。缺乏内源因子可导致维生素B₁₂的缺乏。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b209e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a35-72dc-11ee-9f9c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：抗维生素"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抗维生素是指结构类似于维生素的结构，它们在体内与维生素竞争，而使维生素不能发挥作用的某些化合物。在研究维生素缺乏病的过程中经常使用某些抗维生素来造成动物的维生素缺乏病。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b20d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a36-72dc-11ee-b57d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：维生素缺乏症"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维生素缺乏症是指因缺乏某种维生素而引起机体不能正常生长，甚至引起的疾病。维生素缺乏常见的原因是摄入量不足或缺乏、吸收障碍、需要量增加等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b20f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a37-72dc-11ee-8e22-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：拮抗剂(antagonist)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "拮抗剂(antagonist)是指能与特定激素的受体结合，但并不能诱发靶细胞产生生物学效应的分子。拮抗剂分为竞争性拮抗剂和非竞争性拮抗剂。竞争性拮抗剂是与相应激动剂竞争相同受体的拮抗剂。该拮抗作用可逆，其效应取决于激动剂和拮抗剂的浓度和亲和力；非竞争性拮抗剂是不与相应激动剂竞争相同受体，但其与其他受体结合后会阻碍激动剂与特异性受体结合的拮抗剂。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b212a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a38-72dc-11ee-8cbe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：第二信使(secondmessenger)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第二信使(secondmessenger)是指水溶性激素和少数脂溶性激素在结合膜受体以后，通过某种方式激活了细胞上特定的酶，而产生的可以代替原来的激素发挥功能的小分子物质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b2152-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a39-72dc-11ee-8723-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：胸腺素"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "胸腺素是由胸腺合成与分泌的一种蛋白质类激素，出生婴儿和少儿期体内含量比较高，到了青春期以后逐渐下降。主要功能是增强免疫力，促进胸腺中原始的干细胞和未成熟的T淋巴细胞分化成为成熟的具有免疫作用的T淋巴细胞。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b2184-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a3a-72dc-11ee-a236-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：激素反应元件"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "激素反应元件是指DNA分子中担负接受非膜受体激素的序列，当激素与核内或胞内受体结合形成复合物并引起受体构象改变时，此复合物可结合到DNA特定的序列(即激素反应元件)上，促进或抑制相邻的基因转录，进而促进或阻遏蛋白质或酶的合成，调节细胞内酶的含量，从而对细胞代谢进行调节"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b21ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a3b-72dc-11ee-88db-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：级联放大作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "级联放大作用是指在激素作用过程中，信号被逐级放大，最终使生物学效应大大增强的作用。信号的级联放大作用对细胞来说至少有两个优越性：①同一级联中所有具有催化活性的酶受同一分子调控，如糖原分解级联中有三种酶：依赖于cAMP的蛋白激酶、糖原磷酸化酶激酶和糖原磷酸化酶都是直接或间接受cAMP调控的。②通过级联放大作用，使引起同一级联反应的信号得到最大限度的放大。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352b21de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ab537a3c-72dc-11ee-afda-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：胰岛素"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "胰岛素是一种蛋白质激素，由胰腺的胰岛B细胞分泌。它由A、B两条肽链，共51个氨基酸组成，并含有3个二硫键。胰岛素有十分广泛的调节细胞代谢的生物功能。主要作用部位在肌肉、肝脏和脂肪等组织。胰岛素能增加细胞膜的通透性，促进葡萄糖的氧化和储存，刺激蛋白质、脂肪以及核酸的合成。"
+	}
+]

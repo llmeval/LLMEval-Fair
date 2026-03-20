@@ -1,0 +1,2054 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299954-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734b862-7085-11ee-b6a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "光照强度减弱时，植物光合作⽤下降可通过增加______得到部分补偿；但在植物的春化作⽤阶段，______是必不可少的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "CO2浓度；低温"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299a62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df70-7085-11ee-8fcf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "通常物种多样性具有种的______和种的______两⽅⾯含义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "丰富度；均匀度"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299a9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df71-7085-11ee-ac98-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "群落中优势层的优势种起着构建群落的作⽤，所以常称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "建群种"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299ad0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df72-7085-11ee-a137-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 两个或多个群落或⽣态系统之间的过渡区域称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "交错区"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299af8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df73-7085-11ee-bbad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据⽣物因⼦作⽤强度与种群密度的关系，可将其分为______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "密度制约因⼦；⾮密度制约因⼦"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299b2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df74-7085-11ee-8e54-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "⼟壤根据质地分为______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "砂⼟；壤⼟；黏⼟"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299b52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df75-7085-11ee-88c1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按演替进程时间的长短，可划分为______、______和______三类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "世纪演替；长期演替；快速演替"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299b84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df76-7085-11ee-8e6c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "⽣物群落都具有______组成，这是区分不同群落的⾸要特征；调查群落中的______是研究群落特征的第⼀步；______可以反映群落结构特征。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼀定的物种种类；物种组成；群落最⼩⾯积"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299bac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df77-7085-11ee-8710-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据⽣物在⽣态系统中发挥的作⽤和地位⽽分为______、______和______三⼤功能类群。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣产者；消费者；分解者"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299bde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df78-7085-11ee-8c1f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由于群落交错区⽣境条件的特殊性、异质性和不稳定性，增⼤了交错区中物种的多样性和种群密度，增⼤了某些⽣物种的活动强度和⽣产⼒，这⼀现象称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "边缘效应"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299c06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d734df79-7085-11ee-ad42-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据群落变化形式可将波动划分为3种类型：______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不明显波动；摆动性波动；偏途性波动"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299daa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350682-7085-11ee-8891-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据rm＝lnR0/T可知，内禀增长率决定于______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "出⽣率；死亡率；年龄结构"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299e7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350683-7085-11ee-8bc7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果群落中的建群种只有⼀个，则称该群落为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单建种群落（单优势种群落）"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299ef4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350684-7085-11ee-904b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 关于顶极群落的学说有______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单元顶极论；多元顶极论；顶极-格局假说"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299f4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350685-7085-11ee-aa55-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "⽣命表包括______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "动态⽣命表；静态⽣命表"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299fa8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350686-7085-11ee-b5b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "陆⽣动物减少失⽔的主要适应有______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "减少蒸发失⽔；减少排泄失⽔"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35299ff8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350687-7085-11ee-bf4a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "随时间的推延，⽣物群落内⼀些物种消失，另⼀些物种侵⼊，群落组成及其环境向⼀定⽅向产⽣有顺序的发展变化，称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "进展演替"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a052-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350688-7085-11ee-8a37-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "种群处于理想条件下⽆任何⽣态因⼦的限制，繁殖只是受⽣理因素决定的出⽣率，称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "理想出⽣率"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a0ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350689-7085-11ee-afb8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从种群调节的⾓度，可将⽣态因⼦分为______和______两类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "密度制约因⼦；⾮密度制约因⼦"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a0fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735068a-7085-11ee-9e20-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据⼟壤质地可把⼟壤区分为______、______和______三⼤类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "砂⼟；壤⼟；黏⼟"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a156-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735068b-7085-11ee-b58a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 陆⽣植物随⽣长环境的⽔分状态可分为______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "湿⽣植物；中⽣植物；旱⽣植物"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a1a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735068c-7085-11ee-a546-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "种群的分布格局可以分为三种类型：______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "随机型；均匀型；成群型"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a200-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735068d-7085-11ee-a183-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分解过程主要包括______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "碎裂；异化；淋溶"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a250-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735068e-7085-11ee-85a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阳光对动物的______、______、______、______、______和______有影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "体⾊；视觉；繁殖；活动；⽣长发育；⽣活习性"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a2aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735068f-7085-11ee-a9e8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "种群年龄结构可以是______或______结构。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同龄结构；异龄结构"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a2fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350690-7085-11ee-ade7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "因过度捕捞⽽处于资源衰退的鱼类种群，⼀般在年龄结构上会出现______，性别⽐例上会出现______的现象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "下降型；雌多雄少"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a3f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350691-7085-11ee-9947-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "群落的⽔平结构是指群落在⽔平⽅向的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "镶嵌性"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a44e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350692-7085-11ee-9384-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "环境中影响⽣物的______、______和______等的因素叫⽣态因素，⽣态因素可分为______和______两类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "形态；⽣理；分布；⽣物因素；⾮⽣物因素"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a49e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350693-7085-11ee-aba5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "调查⽣物种群的个体数量（或密度）时，对于植物种群常使⽤______法，对于移动性较⼤的动物种群常使⽤______法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "样⽅；标志重捕"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a4f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350694-7085-11ee-9805-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "世界上的热带⾬林分成3⼤群系类型，即______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "印度马来⾬林群系；⾮洲⾬林群系；美洲⾬林群系"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a552-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350695-7085-11ee-9310-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在⼀个群落中，数量最多的种可能是______种或______种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "优势；建群"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a5a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350696-7085-11ee-9742-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 对群落的结构和群落环境的形成起决定作⽤的植物称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "优势种"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a5f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350697-7085-11ee-9ee8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 根据植物对⽇照长度的反应类型将其分为______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "长⽇照植物；短⽇照植物；中间性植物"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a656-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350698-7085-11ee-a25f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国植物群落分类的三级单位是______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "植被型；群系；群丛"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a6a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7350699-7085-11ee-be90-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在植被型内根据优势层⽚或指⽰层⽚的差异可划分______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "植被亚型"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a6f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735069a-7085-11ee-8f76-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "种群内个体的空间分布⽅式或配置特点，称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "种群空间格局"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a746-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735069b-7085-11ee-a632-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "⽣态因⼦作⽤的⼀般特点包括______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "综合性；⾮等价性；不可替代性和互补性；限定性"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a7aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735069c-7085-11ee-8bba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法瑞学派研究群丛内变异的3条途径是______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼟壤-⽣态的；历史-地理的；群落动态的"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a7f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735069d-7085-11ee-91b4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国的沼泽可分为______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽊本沼泽；草本沼泽；苔藓沼泽"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a840-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735069e-7085-11ee-bc6a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据⽣态因⼦的性质可将其分为______、______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽓候因⼦；⼟壤因⼦；地形因⼦；⽣物因⼦；⼈为因⼦"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a890-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d735069f-7085-11ee-814c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阳光对植物的______和______起决定作⽤，另外对植物的______也有影响"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣理；分布；开花时期"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a8ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a0-7085-11ee-9e10-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "依据Haeckel（1866）的定义，⽣态学是研究______及______相互关系的科学。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣物；环境间"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a93a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a1-7085-11ee-9709-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "⼴义捕⾷包括：______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾁⾷；植⾷；杂⾷"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a98a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a2-7085-11ee-8339-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 据演替起始基质的性质不同，⽣态演替可分为______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾃养型演替；异养型演替"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529a9da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a3-7085-11ee-9967-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "拉恩基尔将不同地区植物区系的⽣活型谱进⾏⽐较，归纳出4种植物⽓候，分别是______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾼位芽；地⾯芽；地上芽；⼀年⽣植物"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529aa20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a4-7085-11ee-bb65-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "aunkiaer陆⽣植物⽣活型分为：______、______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾼位芽植物；地上芽植物；地⾯芽植物；地下芽植物；⼀年⽣植物"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529aa5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a5-7085-11ee-ae1e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "研究生态学的三大类方法是______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "野外调查；实验研究；理论研究"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529aaa2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a6-7085-11ee-843d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在海平面20m以下红藻很难生存，这是受非生物因素中的______的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "光照"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529aae8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a7-7085-11ee-8e3b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有效积温法则T＝C＋KV中，V的含义是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "发育速率"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ab24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a8-7085-11ee-9e71-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "种群的空间格局的内分布类型有______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "随机分布；均匀分布；集群分布"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ab88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506a9-7085-11ee-9205-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "次级种群参数有______、______、______和分布型等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "性比；年龄分布；种群增长"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529abce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506aa-7085-11ee-b700-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某个物种在调查中出现的样方数占全部调查样方数的百分比是该物种的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "频度"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ac1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506ab-7085-11ee-947f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按演替进程时间的长短，生物群落演替类型可划分为______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "快速演替；长期演替；世纪演替"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ac64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506ac-7085-11ee-b1dd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态系统的两大基本功能是______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物质循环；能量流动"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529acb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506ad-7085-11ee-8ee6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据Shelford耐性定律，生态因子的作用具有三个基点，即______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "最低；最适；最高"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529acf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506ae-7085-11ee-85b6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "群落演替按照演替发生的时间进程可分为：______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "快速演替；长期演替；世纪演替"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ad36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506af-7085-11ee-aaca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据生态系统中生物对能量的利用特征，生产力可分为______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "初级生产力；次级生产力"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ad7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b0-7085-11ee-8792-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态系统的两种主要食物链有______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "捕食食物链；腐食食物链"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529adc2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b1-7085-11ee-b5d7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响陆地生物群落分布的主要因素是：______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "光照；温度；水分"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ae12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b2-7085-11ee-80b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北半球森林植被纬度由高到低依次为______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "寒带苔原；寒温带北方针叶林；温带夏绿阔叶林；亚热带常绿阔叶林及热带雨林"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ae76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b3-7085-11ee-b4f8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生物地化循环可分为______、______和______三大类型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "水循环、气体循环；沉积循环"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529aeda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b4-7085-11ee-96f4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Raunkiaer植物生活型分为：______、______、______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高位芽植物；地上芽植物；地面芽植物；地下芽植物；一年生植物"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529af3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b5-7085-11ee-b657-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据生物在生态系统中发挥的作用和地位而分为______、______和______三大功能类群。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生产者；消费者；分解者"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529afa2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b6-7085-11ee-b629-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从沿海向内陆依次出现的地带性生物群落类型有______、______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "森林；草原；荒漠"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b010-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b7-7085-11ee-97b6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "三向地带性指______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经向地带性；纬向地带性；垂直地带性"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b06a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b8-7085-11ee-8520-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "基础生态位比较实际生态位______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b0ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506b9-7085-11ee-895d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "季相最明显的森林群落是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "温带落叶阔叶林"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b11e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506ba-7085-11ee-8715-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生物对昼夜交替周期性变化的适应形成的节律变化称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "昼夜节律"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b164-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506bb-7085-11ee-96ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "不同生物，长期生存在相同生态条件下，形成相同的适应，称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "趋同适应"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b1aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506bc-7085-11ee-b772-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某一物种的盖度与盖度最大物种的盖度比称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "盖度比"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b1fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506bd-7085-11ee-b63a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在生态因子中，对生物生存和繁殖的关键性因子称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "限制因子"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b236-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506be-7085-11ee-bdbe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______通过感受昼夜长短变化而控制开花、落叶、休眠等，______通过感受昼夜长短变化而调节繁殖、冬眠、迁徙和换羽等现象称为光周期现象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "植物；动物"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b290-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506bf-7085-11ee-bbd0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "太阳辐射中能被绿色植物用来进行______的那部分能量，380～710nm，称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "光合作用；光合有效辐射"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b2d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c0-7085-11ee-a16e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态学者Hutchinson曾经提出了______生态位与______生态位的概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基础；实际"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b31c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c1-7085-11ee-b242-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "盖度指植物体______的垂直投影面积占______的百分比，又称投影盖度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "植物地上部分；地面"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b362-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c2-7085-11ee-88ca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一种生物攻击、损伤或杀死另一种生物，并以其为食的过程称为捕食，前者称为______，后者称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "捕食者；被捕食者"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b3bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c3-7085-11ee-96a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态系统中，一般均有两类食物链，即______和______，前者以草食动物吃植物活体开始，后者从分解动植物尸体或粪便中的有机物颗粒开始。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "捕食食物链；碎屑食物链"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b40c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c4-7085-11ee-9ef8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "利比希提出“植物的生长取决于那些处于______状态的营养元素”。其基本内容是：低于某种生物需要的最少量的任何特定因子，是决定该种生物生存和分布的根本因素。后人便将这一定律称为利比希______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "最少量；最小因子定律"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b452-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c5-7085-11ee-8bca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是指日照小于某一数值或黑夜长于某一数值时才能______的植物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "短日照植物；开花"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b4a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c6-7085-11ee-8494-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "狭义的生物共生关系一般指以下三种：（1）寄生；（2）______；（3）______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "互利共生"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b4e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c7-7085-11ee-8a46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______也称异株克生，通常指植物通过向体外分泌代谢过程中的______，对其他植物产生直接或间接的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "他感作用；化学物质"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b538-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c8-7085-11ee-a86a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态系统中的生物组分一般分为三大功能类群：（1）生产者、（2）______和（3）______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "消费者；分解者"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b588-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506c9-7085-11ee-8731-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "食物链是指______获取光能后制造的食物供给各级______所形成以食物营养为中心的链索关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生产者；消费者"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506ca-7085-11ee-a436-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "大气能使太阳的______到达地面，但地表向外放出的______却被大气吸收，尤其是水蒸气、二氧化碳、甲烷和氧化氮，这样就使地表与低层大气温度增高，因其作用类似于栽培农作物的温室，故名温室效应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "短波辐射；长波热辐射"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506cb-7085-11ee-9690-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "群落的不同层次可以有各自的______，优势层的优势种常称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "优势种；建群种"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506cc-7085-11ee-8eea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中日照植物是指昼夜长度接近相等时才开花的植物，______超过或低于这一时数，对其开花都有影响。而日中性植物指开花不受______的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "光照；日照长度"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b664-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506cd-7085-11ee-9ada-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态系统中，一般有两类食物链，即______和______，前者以植食动物吃植物的活体开始，后者从分解动植物尸体或粪便中的有机物质颗粒开始。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "捕食食物链；碎屑食物链"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b696-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506ce-7085-11ee-b6ae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "种间关系包括______、______、互利共生等，是构成生物群落的基础。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "捕食；寄生"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b6be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506cf-7085-11ee-804c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "植物的开花结果、落叶及休眠，______的繁殖、冬眠、迁徙和换毛换羽等，是对日照长短的规律性的反应，这种反应称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "动物；光周期现象"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b6f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d0-7085-11ee-b5c2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是指环境要素中对______起作用的因子，如温度、光照、水分等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态因子；生物"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b722-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d1-7085-11ee-8c9f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据物质的主要储存库不同，可将物质循环分为以下三大类型：______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "水循环；气体型循环；沉积型循环"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b74a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d2-7085-11ee-8010-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态系统氮素循环的来源主要有三种：______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大气中的氮；土壤中的氮；海洋中的氮"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b786-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d3-7085-11ee-958c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态金字塔可分为______、______和______三种类型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生物量金字塔；能量金字塔；数量金字塔"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b7ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d4-7085-11ee-a073-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "种群的空间格局大致可分为3类：______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集群分布；随机分布；均匀分布"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b7ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d5-7085-11ee-8644-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生物对每一种生态因子都有耐受上限和下限，上下限之间是生物对这种生态因子的耐受范围，这就是______定律。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Shelford耐受定律"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b81c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d6-7085-11ee-b12c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态系统的生物组分中，除了生产者还有______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "消费者；分解者"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b84e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d7-7085-11ee-8410-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态系统中的生物可分______、______和______三大功能类群。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生产者；消费者；分解者"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b876-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d8-7085-11ee-a77e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "植物生态型可分为______、______和______三种类型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "旱生植物；湿生植物；水生植物"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b8a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506d9-7085-11ee-99b9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "能量流动的途径和渠道是______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "食物链；食物网"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b8da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506da-7085-11ee-9e59-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生态系统的基本功能是：______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "能量流动；物质循环；信息传递"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b90c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506db-7085-11ee-9669-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "种群分布格局通常分为______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集群分布；随机分布；均匀分布"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b93e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506dc-7085-11ee-89f1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "⽣物圈中⽔的循环平衡是靠世界范围的______与______来调节的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蒸发；降⽔"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b966-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506dd-7085-11ee-bbc6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "⽣物地球化学循环的3个基本类型是______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽔循环；⽓体型循环；沉积型循环"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b998-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506de-7085-11ee-9a7e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "全球碳循环是⼀种______循环，由于⼈类影响碳循环⽽产⽣的问题是______，进⽽产⽣______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽓体型；CO；浓度升⾼；温室效应"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b9c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d73506df-7085-11ee-93ce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在⽣态系统的⾮⽣物环境中，有3个含氮的库：______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼤⽓；⼟壤；⽔"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529b9f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7352d91-7085-11ee-adc5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代⼈类⾯临的突出环境问题主要有______、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全球性的⼤⽓环境变化；⼤⾯积的⽣态破坏；突发性的严重污染"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ba1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7352d92-7085-11ee-8012-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "烟雾事件是由于______和______排放的有害⽓体，在⼀定的______形成的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼯⼚；汽车；⽓候条件"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3529ba4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d7352d93-7085-11ee-a8e9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "治理沙漠化最有效的措施是______、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "发展植被；改善⽣态环境"
+	}
+]

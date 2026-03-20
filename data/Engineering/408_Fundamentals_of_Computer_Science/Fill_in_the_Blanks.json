@@ -1,0 +1,40 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350df348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30e0e23e-71ad-11ee-a0b6-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设主串的长度为m，子串的长度为m，那么简单的模式匹配算法的时间复杂度为______，KMP算法的时间复杂度为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "O（m×n）；O（m＋n）"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350e9e74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "30e0eb08-71ad-11ee-a0b6-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "路由表的分组转发部分由______，______，______组成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "交换结构；输入端口；输出端口"
+	}
+]

@@ -1,0 +1,2624 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350712c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4265ba9-703b-11ee-aca1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：祾恩殿"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "祾恩殿是明长陵中谒陵时举行祭祀仪式的大殿，是中国现存最大的木构大殿，原称~享殿”，嘉靖十七年 （1538年）明世宗到天寿山朝陵，更名为“祾恩殿”。“祾取祭而受福’之意，“恩”取•罔极之恩”之意。祾恩殿建成于明成祖永乐十三年（1415年），外观重檐四阿顶，坐落在三层汉白玉石栏杆国绕的须弥座式台基上。下檐斗拱单杪双下昂，上\n檐双杪双下昂，顶部是重檐庑殿式，面阔九间，进深五间，象征着皇帝的~九五”之位，采用60根楠木大柱支撑殿顶。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507137a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681d7-703b-11ee-95a2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：北京颐和园"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（1）颐和园的构成\n颐和园的布局按照使用性质和所在区域大致分为四部分：\n①宫门和万寿山东部的朝廷官室部分；\n②万寿山前山部分；\n③万寿山后山和后湖部分；\n④昆明湖、南湖和西湖部分。全园总面积4000余亩，水面占3/4。\n（2） 颐和园的建筑特点\n颐和园的大门主要有两处：一处是东官门，另一处是北宫门。此园利用万寿山一带地形，加以人工改造，造成前山开阔的湖面和后山幽深的曲溪、水院等不司境界。佛香阁的有力体量使全园产生突出的构图中心。在借景方面，也把西山玉泉山和平畴远村收入园景。浩瀚辽阔的湖面，更是其独有的长处。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350713c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681d8-703b-11ee-bf89-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：有机建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（1）有机建筑的含义\n有机建筑是由美国著名的现代主义大师赖特提出的。赖特认为每一种生物的特殊外貌，是由其内在因素决定的。每个建筑的形式、构成，以及与之有关的各种问题的解决，也同样地需要依据各自的内在因素进行思考，力求合情合理。赖特十分欣赏中国老子的哲学，该思想“道法自然“为核心，就是要求依照大自然所启示的道理行事，而不是模仿自\n然。因为自然界是有机的，因而得名“有机建筑’。\n（2） 有机建筑的代表作\n①1902年赖特在芝加哥设计的威利茨住宅。\n②1907年在伊利诺伊州河谷森林区设计的罗伯茨住宅。\n③1908年在芝加哥设计的罗比住宅。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350713e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681d9-703b-11ee-b472-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：形式追随功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（1）形式追随功能”的提出者\n“形式追随功能”是由芝加哥学派的得力支柱与理论家沙利文提出的。\n（2）形式追随功能”的内涵\n沙利文说：“自然界中的一切东西都具有一种形状，也就是说有一种形式，一种外部的造型，以此来告诉我们，这是些什么，以及如何和别的东西互相区别开来。“因此沙利文对建筑的结论是，要给每个建筑物-个适合的和不错误的形式，这才是建筑创作的目的。他认为世界上一切事物都是〝形式永远随从功能，这是规律”。同时他还进一步强调他的主张：“那里功能不变，形式就不变。”\n（3）沙利文的代表作\n沙利文的代表作品是1899~1904年建造的芝加哥CP-s-百货公司大厦。它的立面采用了典型的由“芝加哥式窗“组成的网格形构圈。至于装饰只在重点的部位，如入口处才有，装饰题材是类似新艺术派然而又兼有沙利文特点的图案。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507141a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681da-703b-11ee-8e78-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：枋心"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "枋心是指梁枋彩画的中心部分，长度约占整个梁枋的三分之一。彩画是我国古代建筑上极富特色的装饰，用色彩油漆在梁、枋、斗拱、柱、天花板等处刷饰或绘制花纹、图案乃至人物故事等，这些被绘画出来的各色纹样与图案就是彩画。彩画除了具有装饰作用外，还可增加木料的防腐防蛀性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681db-703b-11ee-bc27-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：中山陵"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中山陵是孙中山先生的陵墓，建1926~1929年，位于今南京市东郊紫金山南麓，东毗灵谷寺，西邻明孝陵，整个建筑群依山势而建，由南往北沿中轴线逐渐升高，主要建筑物排列在一条中轴线上。中山陵各个建筑在型体组合、色彩运用、材料表现和细部处理上均取得极好的效果，色调和谐统一，增强着庄严的气氛，含意深刻，气势宏伟，被\n誉为“中国近代建筑史上第一陵”"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507146a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681dc-703b-11ee-8a60-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：金宝座塔"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "金刚宝座塔是一种佛塔建筑形式，由方形的塔座和在塔座上部的五座塔构成，其中中间的塔最大，另外四座塔较小。仅见于明、清二代，数量很少。台上塔的式样分为密檐塔和唎嘛塔。它本指建于印度菩提伽耶城释迦牟尼悟道成佛之处的纪念塔，后来，凡仿该塔形制而建的塔，均称为金刚宝座塔。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071492-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681dd-703b-11ee-8859-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：御路"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "御路，又称龙升、螭陛，是指位于宫殿中轴线上台基与地坪以及两侧阶梯间的坡道，原为汉族宫殿建筑形制，后来为孔庙和民间庙宇所沿用。它是街接庙埕和基座中间的台阶，两面是阶梯，中间有一斜面上雕云龙。封建社会宫殿的中轴线只有皇帝才能使用，但因皇帝进出时多乘坐轿子，于是便将阶梯中央做成斜坡，上面雕刻祥云腾龙图案，而\n两侧石阶则供桥夫行走。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350714c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681de-703b-11ee-8456-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：偷心造"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偷心造是汉族木结构建筑跳头上不置横棋的斗拱构造形式之一，其横拱的设置少于斗拱出踩，如斗拱各向内外两侧挑出三拽架称为七踩，应列有七列横拱，但在制作时却省去一列或数列横拱。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350714ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681df-703b-11ee-a683-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：姜寨遗址"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "姜寨遗址是中国黄河中游地区新石器时代的仰韶村落遗址。位于陕西临潼，它为研究关中地区仰韶文化的发展序列提供了重要依据;揭露了一处保存完好、布局清晰的半坡类型聚落遇址；发现的大量遗迹、遗物，有利于了解仰韶文化诸方面的内容。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507151e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681e0-703b-11ee-9432-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：面朝后市"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "面朝后市是《周礼- 考工记》里中国古代的城市规划思想。“朝“指外朝，也就是处理诉讼、领布法令的重要场所;“市°为商品交换市场。面朝后市则是说，在王城前为~朝”，后为“市”。“朝“是王权的象征，将它置于王城的前面，更加突出了它的尊严性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071546-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681e1-703b-11ee-bc77-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：闾里"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "闾里是春秋、战国时期都城内的居住单元，指古代城镇中有围墙的住宅区。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071578-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681e2-703b-11ee-8f73-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：盘龙城"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "盘龙城遗址于1954年发现，1974、1976年进行较大规模发掘，其位于湖北省黄陂区叶店。年代约为公元前15世纪前后，属于商代中期的城市遗址。这一遗址的发现对于了解商代文化的分布、城市性质、宫殿的形制和建筑技术等都有重要的意义。古城位于府河北岸高地偏东南部，平面略呈方形。遗迹的分布状况表明，城内仅有宫殿，具有宫城形制，城外侧则是居民区和手工业区，表明该古城尚属早起城市的形态。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350715a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681e3-703b-11ee-b8e6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：方上"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "方上是古代建筑学术语，是指秦汉起使用的陵基形式，累土为方锥形而截去其上能"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350715c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681e4-703b-11ee-9491-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：都柱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "都柱是指泰汉宫室遗址与崖墓中，平面中央仅设一根柱子的做法。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350715fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681e5-703b-11ee-9b8e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：工官"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "工官是秦汉时管理官府手工业的官署。从睡虎地泰墓出士的泰律竹简中可以看到，当时管理官府手工业的官署，县有工官、司空。汉承秦制，在中央及有些郡县设置工官，诸侯王国也有工官。工官产品主要供皇室御用、赏赐及官府军队的需要。考古发现的汉代铁器、漆器外多有工官字样。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071622-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681e6-703b-11ee-98d2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：空心砖墓"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "空心砖墓是中国战国至西汉时期出现的墓葬形制之一，主要以河南郑州、洛阳为中心，并逐渐辐射到临近地区，到东汉即告绝迹。在横穴式的士洞内用空心砖堆砌墓室，墓道多为竖井式。空心砖墓的墓顶大致经历了由无顶（或木顶）到空心砖砌筑的平顶-人字顶-屋脊顶之类的发展演变；小砖墓最初也是无顶（或木顶）结构，到后来才出现了券顶、 穹窿顶等不同的墓顶结构形式。西汉前期，墓室呈长方形，形状像木椁。到了西汉中后期，顶部往往砌成券顶，前壁做成门的样子，显得像房屋。墓室内的砖面上印有花纹和图像，河南洛阳西汉后期的个别墓里还绘有稻色的壁画。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071654-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f42681e7-703b-11ee-a120-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：卜千秋墓"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "卜千秋墓是河南省洛阳市烧沟村附近的西汉晚期壁画墓，1976年由洛阳市博物馆发掘出士。墓主为卜干秋，卜千秋墓为夫妇合葬墓，由长方形主室和左右两耳室组成，主室全部由特制的空心砖砌筑，顶部仿券顶做成两坡平脊形式。卜千秋墓画以绘于脊顶的墓主升仙图为主，壁画分布在主室脊顶、 门额、后壁上部及隔梁的两面。在门额和后壁上部绘有仙禽、怪兽和四神等。在狭长的脊顶上，绘着由日、月、伏義、女娲以及四神、仙禽神兽构成的天上世界，男女墓主则在仙人的引1导下，乘仙乌和龙舟凌云飞升，风格朴拙传神。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507167c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a966-703b-11ee-8d81-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：砖室墓"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "砖室墓是指大约在西汉中晚期出现在中原和关中一带的用砖建筑的小型墓。到了东汉，砖室基迅速普及，成为全国各地最常见的一种墓。经六朝、隋唐，墓室的细部结构和设施方面有了新的发展。北未时期出现了仿木结构建筑的砖室墓，此种墓葬一直延续至明清时期。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350716a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a967-703b-11ee-8f00-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：沂南汉画像石墓"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "沂南汉画像石墓是指发现于沂南的东汉晚期大型画像石墓。墓主姓名无考，从墓形及车骑出行画像的导从制度看，应是高级官吏。墓室由前、中、后3个主室和4个耳室及1个东后侧室组成，全部用预制石材筑成。画像多采用减地平面线刻，少部分为阴线刻，中室八角柱上的曲拱，则用透雕技法刻成应龙形象。出士画像内容主要包括战争、祭祀\n吊唁、车骑出行、乐舞百戏、宴饮庖厨、历史故事、家居生活等。在中室的八角柱上刻有两尊带背光的仙人图像，有学者认为是中国最早的佛教图像之一。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350716d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a968-703b-11ee-a20b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：须弥座"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "须弥座是一种非常考究的台基，由佛座演变而来，一股用于高级建筑。它开始时形式简单，由数道直线叠涩与较高束腰组成，没有多少装饰，且对称布置。后来逐渐出现了莲瓣，卷纹饰，力神。角柱，间柱等，造型日益复杂。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350716fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a969-703b-11ee-8fec-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：舍宅为寺"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "舍宅为寺是指北魏洛阳有很多佛寺是贵族官僚的宅邸改建的，前堂改为大殿，后堂改为讲堂。佛寺由此进一步中国化，把中国庭园式木架建筑和私家园林成为佛寺。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071730-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a96a-703b-11ee-9103-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：步移景异"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "步移景异是指在中国园林中，由于园中景物均为自然式布置，园之总体布局的不对称和景物的自然天成，以及游路设计尤为奇巧，所以在欣赏游玩过程中景观变化不断。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071758-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a96b-703b-11ee-8107-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：建康"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "建康是东晋、三国时的吴、南朝宋、齐、梁  陈京师六朝的名称，又称建邺，故址位于今南京，六朝时期中国的经济、文化、政治、军事中心，它也是六朝时期世界上第一个人口超过百万的城市。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507178a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a96c-703b-11ee-b6ea-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《洛阳伽蓝记》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《洛阳伽蓝记》 是由北魏杨街之所著，以记洛阳的佛寺为题，着重记达的是当时的政治、人物、风俗、地理、以及传间的故事等等。这部书记述了北魏洛阳都城的建制、佛寺建筑和历史古迹。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350717b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a96d-703b-11ee-aa6e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：模印拼嵌画像砖墓"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "模印拼嵌画像砖墓是指墓内壁面用模印画像砖拼嵌成大幅砖画的东晋南朝墓葬，分布于南京市及附近的丹阳市等地。其做法是将画像按粉本分别模印在多块砖坏上，入窑烧成砖后，再拼嵌在墓壁上。模印拼嵌画像砖墓是在一块单砖构成一幅画的基础上发展而成的，到东晋末南朝初出现了由多达十块到数百块砖构成的大幅画面。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350717da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a96e-703b-11ee-8656-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：天井与甬道"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "天井与甬道是中国古代基葬的组成部分。天井是指开凿于长墓道中的坚井，最初出现于北魏时期，或为对现实生活中院落的模仿，唐以后由于墓道的缩短并消失，天井也随之消失。甬道是指墓葬中连接墓门和墓室的通道，多见于魏晋隋唐墓。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507180c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a96f-703b-11ee-bbd3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：克孜尔石窟"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "克孜尔石窟，又称克孜尔千佛洞或赫色儿石窟，是古龟兹境内现存规模最大的石窟群。该石窟位于新疆拜城县克孜尔镇，是龟兹石窟的典型代表。早期以中心柱窟、大像窟和僧房窟为主；中期出现了较多方形窟;晚期规模变小，渐趋衰落。壁画早、中期以佛本生、因缘故事和佛传为主要内容；晚期壁画出现大乘佛教的千佛一类题材，说明大乘佛教对龟兹佛教艺术的影响逐渐加深。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071834-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a970-703b-11ee-8b8c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：冯素弗墓"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "冯素弗墓是十六国时期北燕贵族冯素弗夫妇基，共两座，位于辽宁省北票市。两座基都是长方形石椁结构，东西向。椁顶盖以极厚的石板，椁内绘壁画，有星象、人物、建筑等内容。木棺彩画羽人、建筑等图像，棺环、棺钉铁质而饰金。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071866-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a971-703b-11ee-95f2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：里坊制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "里坊制是中国古代主要的城市和乡村规划的基本单位与居住管理制度的复合体，它在春秋至汉代得到确立。里坊是古代城市规划中的居住单元，其平面接近方形，外包士墙，内有街巷，设有坊门。把全城分割为若干封闭的~里”作为居住区，商业与手工业则限制在一些定时开闭的“市”中。统治者们的宫殿和衙署占有全城最有利的地位，并用城墙\n保护起来。“里•和:市“都环以高墙，设里门与市门，由史卒和市令管理，全城实行宵禁。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507188e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a972-703b-11ee-910b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：玄奘塔"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "玄奘塔是中国佛教史上有名的高僧玄奘和尚的墓塔，位于陕西西安市长安区。其为唐朝楼阁式砖塔，平面方形，高五层，每层檐下都用砖做成简单的斗棋。斗棋上面，用斜角砌成的“牙子”，其上再加書涩出檐。它是中国现存楼阁式砖塔中年代最早和形制简练的代表作。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350718c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a973-703b-11ee-a5b6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：南禅寺"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "南神寺是中国现存最早的木构建筑，距今1200多年，位于山西省忻州市。其大殿为中国现存最古老的一座唐代木结构建筑，寺中唐代雕塑精湛，堪称唐代雕塑艺术的珍品，具有重要的历史地位和艺术价值。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350718e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a974-703b-11ee-bb45-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：佛寺"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "佛光寺是指位于山西佛光山腰的佛寺，其依山势自下而上并沿东西向轴线布置。寺内现存主要建筑有成于晚唐的大殿、金代的文殊殿、唐代的无垢净光禅师墓塔及两座石经幢。佛光寺大殿是我国现存最大的唐代木建筑，其建于唐大中十一年（857年），面阔七间，进深八架椽（清称九檩），单檐四阿顶（清称庑殿顶），虽然经过多次修葺，大体\n仍保持唐代原来面貌庑殿。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507191a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a975-703b-11ee-8ff8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：前蜀王建墓"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前蜀王建墓是指五代前蜀主王建的墓，称永陵，位于四1省成都市。王建基有前、中、后3室，三室之间皆用木门相隔，中室中央偏北有石棺床，上置棺椁，棺床四周有浮雕。后室出土有墓主石雕像。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a976-703b-11ee-9fa3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：大明宫"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大明宫是唐代宫殿，始建于唐代早期，唐后期毁于兵乱。根据史籍，大明宫为唐高宗以后的主要朝会之所。大明宫的平面形状，南部呈长方形，北部呈梯形，面积3.2平方公里，版筑夯士城墙。在东西北三面都有与宫墙平行的夹城，殿亭建筑遗址多在宫城北部。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071974-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a977-703b-11ee-9fa7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：分心斗底槽"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分心斗底槽是宋代殿阁四种空间划分方式之一，简称分心槽，是指用一列中柱及柱上斗栱将空间分为前后两个相同的部分，一般用作殿门处理。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507199c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a978-703b-11ee-beed-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：应县木塔（佛宫寺释伽塔）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应县木塔位于山西应县，建于辽清宁二年，它位于寺南北中轴线上的山门与大殿之间，塔建在方形及八角形的二层砖台基上，塔身也是八角形，底径30米，高九层67.31米（外观5层，暗层四层）。塔身的收分合理，暗层用来结构处理以加固塔身，使其在经过数次地震，仍安然无恙，是世界现存木塔中最高的，也是我国仅存两个木塔之一，也是现存最早的木塔。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350719c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a979-703b-11ee-a6e5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：独乐寺观音阁"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "独乐寺观音阁，又称天津蓟县独乐寺，是一座佛寺建筑，相传建于唐。观音阁为辽代建筑，位于山门以北，重建于辽统和二年。面阔S间，外观2层，内部3层。屋顶用九脊殿式样。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350719f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426a97a-703b-11ee-b653-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：晋祠圣母殿"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "晋祠圣母殿是我国现存最早采用国廊式平面的古建筑实例，位于山西太原。其建于北宋天圣年间，殿内采用“减柱法”，造成十分宽敞的大殿空间，有利于布置大群塑像。此建筑风格上承隋唐，下启元明清，具有极其重要的意义。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071a1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce70-703b-11ee-bbb5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：批竹昂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "批竹昂是中国古建筑结构系统中的重要组成部分，因将昂头削成批竹形而得名。《营造法式》中将其定义为*亦有自斗外斜杀至尖者，其昂面平直，谓之批竹昂。“唐佛光寺大殿柱头铺作中的批竹昂是现知最早的实例，清代已不再使用。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce71-703b-11ee-bbe5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：减柱造"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "减柱造是古代建筑柱网平面中减掉部分金柱的做法。始于11世纪，辽金时庙宇建筑常用此种做法，可使室内空间完敞，明以后少用。紫禁城内保和殿、乾清官、坤宁宫等尚保留此种做法。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071a78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce72-703b-11ee-97fd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：梭柱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "梭柱是指上下两端均有收缩、路如梭形的柱子。《营造法式》中已有梭柱做法，规定将柱身依高度分三等，上段有收杀，中、下二段平直。六朝至宋期间，它主要在官式建筑上出现，明代江南民间某些建筑仍采用梭桂。河北定兴北齐义慈惠石柱上端的建筑雕刻是我国现知最早的梭柱现象。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071aa0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce73-703b-11ee-9a89-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《营造法式》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《营造法式》是北宋时政府领布的一部建筑设计、施工的规范书，是我国古籍中最完整的-部建筑技术专书，著书人是将作监李诚，书中资料主要来自历来工匠相传的可行之法。此书是王安石推行政治政革的产物，目的是掌握设计与施工标准，节制国家财政开支，保证施工质量。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071ad2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce74-703b-11ee-8c38-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：以材为祖"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以材为祖是《营造法式》中规定的建筑预算定额，以与建筑规模等级相应的某一尺度作为建筑的空间尺度及构件尺度的模数。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071afa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce75-703b-11ee-bbda-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：经幢"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经幢是指在八角形的石柱上刻经文，用以宣扬佛法的纪,念性建筑物，由基座、幢身、幢顶三部分组成。始见于唐，到宋辽时颇有发展，以后又少见。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce76-703b-11ee-a172-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：堂与殿"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "堂与殿都是指合基。古建中台基均作堂，宋代称阶基”，清代及今称为“台基”。殿也指台基，后把高显崇丽之建筑称之为堂或殿，汉以后般成为官中之堂的专称，并以正脊是否筑吻区别堂与殿，有吻者为殿，无吻者为堂。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071b54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce77-703b-11ee-b0ca-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：材"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "材是宋代建筑之中的计量单位。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071b7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce78-703b-11ee-b53e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生起"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生起是指建筑的柱子由明间向两侧逐渐升高的做法。未《营造法式》规定当心间两柱不生起，次问柱升高2寸，往外各柱依此递增2寸，使建筑的整个檐口及屋脊成为两端向上缓和翘起的曲线。明、清时期建筑较少使用生起做法。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071ba4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce79-703b-11ee-a998-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：乌头门"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "乌头门，又称棂星门，是宋《营造法式》中的门的一种类型。地上栽两根木柱，柱间上方架横额，形成门框，内装双扇门。宋代因柱头装黑色瓦筒，故称乌头门。门扇四周有框，上部装直棂，下部嵌板，大的在背面加剪刀撑。一般用作官邸及祠庙、陵墓之前。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071bd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce7a-703b-11ee-8be1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：圭角"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "圭角是清式须弥座的最下层部分，整个高度分51份，圭角高度为10份。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071bfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce7b-703b-11ee-90b9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：霸王拳"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "霸王拳是额枋在角柱处出头的一种艺术处理式样。清代老角梁头也作成霸王拳样式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071c26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce7c-703b-11ee-88c2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：清式彩画"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "清式彩画是指清式梁枋彩画的整体构图，其造型与分类主要表现在梁、枋上。它分为三种：旋子彩画，合玺彩画，苏式彩画，前两者梁思成总结为殿式彩画。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071c58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce7d-703b-11ee-8e39-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：九脊项"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "九脊顶，清称歇山顶，是中国古建筑的一种屋顶形式，屋顶上半部为两面坡，下半部为巴面坡，是悬山顶与庑殿顶上下相交而成。它由正脊，四条垂脊，四条创脊组成。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071c80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce7e-703b-11ee-887d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：耍头"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "耍头，又称“爵头“胡孙头”，清式称蚂蚱头。是斗拱村方头下所用出跳木料，称为要头木，位于最上一层拱昂之上，与令拱相交而向外伸出蚂蚱头状者。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071ca8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce7f-703b-11ee-876d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《园冶》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《园冶》是我国古代造园专著，明末造园家江苏吴江人计成著，崇祯四年成稿。其主要内容为园说和兴造论两部分。其中园说又分为相地、立基、屋宇、装折、门窗、墙垣、铺地、级山、选石、借景10篇。全书论述了宅园、别墅营建的原埋和具体手法，反映了中国古代造园的成就，总结了造园经验。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071cda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce80-703b-11ee-9ca7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：乾隆花园"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "乾隆花园是乾隆帝兴建太上皇宫宁寿官时在近旁营建的花园，供他养老休憩，建于乾隆三十六年到四十一年（1771~1776年），位于北京故官宁寿官区西北角，为四进院落。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071d0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce81-703b-11ee-aed0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：寒碧庄"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "寒碧庄是苏州留园的别称，是中国四大名园之一，以园内建筑布置精巧、奇石众多而知名。现园分四部分，东部以建筑为主，中部为山水花园，西部是士石相间的大假山，北部则是田园风光。留园是中国大型古典私家园林，代表清代风格，厅堂宏敞华丽，庭院富有变化，太湖石以冠云峰为最。其建筑空间处理精湛，造园家运用各种艺术手法，构成了有节奏有韵律的园林空间体系，成为世界闻名的建筑空间艺术处理的范例。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071d34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce82-703b-11ee-823f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：刘秉忠"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "刘秉忠是元朝开国元勋和丞相，郭守敬的老师，元朝国号的拟定者，元大都修建者，著名元代政治家，元曲作家，阴阳风水学家和建筑专家。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071d66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce83-703b-11ee-b764-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：大木大式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“大木大式“是清式大木做法的两种类型之一，另一种是“大木小式”，可简单认为有斗拱和无斗拱建筑的不同处理，其中有斗拱建筑称为大式建筑（殿式建筑），无斗拱建筑称为小式建筑。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071d8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce84-703b-11ee-a10c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：苏式彩画"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "苏式彩画是古代中国建筑装饰艺术之一，一般用于住宅园林。其源于江南苏杭地区民间传统作法，于明永乐年间传入北方。其主要特征是在开间中部形成包袱构图或枋心构图，在包袱、枋心中均画各种不同题材的画面，如山水、人物、翎毛、花卉、走兽、鱼电等，是其装饰的突出部分。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071db6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce85-703b-11ee-b9b9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：十三陵的特点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "十三陵是中国历史上最大的统一陵区，是明代十三个皇帝的陵墓。除明太祖孝陵在南京钟山南麓和景泰帝葬于北京西郊外，其余十三帝都葬于北京北郊昌平天寿山麓，统称十三陵。其特点有："
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071de8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce86-703b-11ee-8fdd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《建筑十书》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《建筑十书》是古罗马建筑学家维特鲁威撰亏的建筑学著作，是现存最古老、最有影响的建筑学专著，书中系统总结了古希腊建筑的经验和罗马建筑的经验，它提出建筑学的基本内涵和基本理论，建立起建筑学的基本体系，主张一切建筑物都应考虑*实用、坚固、美观”，认为建筑物的均衡之关键在于局部。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071e10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce87-703b-11ee-a4a0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：伊旺"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "伊旺是指建筑物正面中段檐口升高，正中设置的一个通高大叫龛，上面是半个拱顶，深处是门洞，它是11世纪后，中亚和伊朗等纪念性建筑逐渐强调-个正面所形成的重要特征。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071e42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce88-703b-11ee-af41-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：枯山水"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "枯山水是指源于日本本士的缩微式园林景观，多见于小巧、静谧、深邃的禅宗寺院。枯山水用石块象征山峦，用白沙象征湖海，只点级少量的灌木或苔藓、薇蕨，代表性建筑物是京都府龙安寺和大仙院。枯山水常和禅学联系在一起，运用隐喻和顿悟，对空与有、虚与实作出心灵的观照。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071e6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce89-703b-11ee-9430-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：法国古典主义建筑"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法国古典主义建筑是指17世纪到18世纪初法国建造的众多古典主义风格的建筑。法国古典主义建筑造型严谨，普遍应用古典柱式、纵横二段对称，内部装饰丰富多彩。法国古典主义建筑的代表作大多是规模巨大、造型雄伟的宫廷建筑和纪念性的广场建筑群，凡尔赛官是其中最杰出的代表作。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071e9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce8a-703b-11ee-bbd0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：坦比哀多"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "坦比哀多是为纪念圣彼得殉教所建的礼拜堂，建造者是伯拉孟特，建成于1510年，位于意大利甲尼可洛山腰的一座圣彼得教堂侧院，相传此地是耶稣门徒圣彼得被钉上十字架的地方。坦比哀多礼拜堂呈园形平面集中式，以古典围柱式神殿为蓝本，上盖半球形园形，平面由柱廊和圣坛两个同心园组成，柱廊由多立克式柱子组成，立面由两个精细不同的圆筒形构成，柱廊宽度等于圣坛高度。教堂下层的围柱廊采用多立克柱式。坦比哀多礼拜堂被称为文艺复兴盛期的纲领性作品。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071ec4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce8b-703b-11ee-b9ea-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：券柱式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "券柱式是古罗马人在继承希腊柱式基础上发展起来的新柱式，柱子凸出于墙面大约3/4个柱径，是在墙上或墩子上贴装饰性的柱式，从柱础到檐口，——具备，同时，把柱式的开间放宽，其他的细节比例不变，贴在券洞的表面，券脚券面也用柱式线脚。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071ef6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce8c-703b-11ee-8e7b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：巴西利卡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "巴西利卡是古罗马的一种公共建筑形式，其特点是平面星长方形，外侧有一圈柱廊，主入口在长边，短边有耳室，采用条形拱券作屋顶。巴西利卡源于希腊语，最早是一种王室或大贵族的建筑，而不是一种建筑形式，后来，基督教采用巴西利卡来建造教堂。巴西利卡采用长方形大厅，纵向杜子把它分为数个长条空间，中央较宽，是中厅，两侧较窄，是侧廊，中厅比侧廊高很多，可以利用高差在两侧开高窗，内部疏朗，便于群众聚会。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071f1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce8d-703b-11ee-b7a4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：凯旋门"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凯旋门是一种古罗马纪念性建筑，目的在于炫耀对外战争的胜利。凯旋门的典型形制是两个小圆拱中间一个大圆拱的样式。凯旋门的三段式结构也成为一种经典的建筑布局结构，尤其在文艺复兴时期更成为一种经典样式而被广泛使用。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071f50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce8e-703b-11ee-8ea3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：雅典卫城"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "雅典卫城是指位于雅典市中心的卫城山丘上的古建筑群，它始建于公元前580年，面积约有4平方千米。亡由山门胜利神庙、帕提农神庙、伊瑞克提翁神庙组成，是综合性的公共建筑，为宗教政治的中心地。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071f78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce8f-703b-11ee-bcb7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：帕提农神庙"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "帕提农神庙是祀奉雅典护神雅典娜的神庙，是卫城的主题建筑物，也是古希腊多立克式建筑的最高成就。它是建筑群的中心，处于卫城最高点，体量最大，型制最隆重，装饰最华丽。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071fa0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce90-703b-11ee-9f91-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：巴西利卡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "巴西利卡是古罗马一种用作法庭、交易所、会场的大厅性综合建筑。其平面一般为长方形，两端或一端有半圆形龛，大厅常被2排或者4排柱子纵分为3或5部分，当中部分完旦高，称中厅，两侧窄而低，称侧廊，侧廊上常有夹层。它对后来的基督教堂有较大影响。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35071fd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce91-703b-11ee-ba16-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：罗马五柱式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "罗马无柱式是指多立克柱式、爱奥尼柱式、科林斯柱式、塔斯干桂式和混合柱式，其中前三个是罗马继承的希腊柱式，后两者是罗马在原基础是创新的新柱式。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072004-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce92-703b-11ee-91d7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：券柱式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "券柱式是指券加柱，即在墙上或敦子上贴装饰性的柱式。它是为了解决柱子与券的矛盾，从而使柱墩不至于太强壮。柱子本身不承重，只是为了装饰立面构图。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507202c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426ce93-703b-11ee-b573-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：建筑十书"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《建筑十书》是奥古斯都的军事工程师维特鲁威创作的书籍，公元前20年完稿，书分十卷，比较完备地介绍了建筑各个方面的知识，奠定了欧洲建筑的基本体系。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072054-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f795-703b-11ee-9bab-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：拉丁十字平面"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "拉丁十字平面基督教堂形制的一种，是教堂最正统的平面形式，形成于罗马风时期，其十字架的基于长于其他三臂。在这种形式的教堂里，东西向的本堂和南北向的轴廊垂直相交，状如十字架，故得名拉丁十字式。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072086-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f796-703b-11ee-b37d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：十字拱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "十字拱是一种拱券形式，即相交的筒形拱。亡覆盖在方形的间上，只需要四角有柱子，而不必要连续的承重墙，解放了建筑的内部空间;而旦便于开侧窗，有利于大型建筑物的采光。它是拱券技术的极有意义的重大进步。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350720ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f797-703b-11ee-9753-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：凯旋门"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凯旋门是古罗马时期产生的，为了炫耀战争胜利而建的一种建筑风格。它采用方方的立面，高高的基座和女儿墙，3开间的券柱式，中间1间采用通常的比例，券洞高大宽阔，两侧开间比较小，券洞小，上面设浮雕。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350720d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f798-703b-11ee-afea-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：米诺斯王宫"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "米诺斯王宫是爱琴文明时期的建筑，位于埃及与希腊之间、地中海的克里特岛。由于此地气候温和，所以王宫中的建筑大都有着宽大的门窗，而支撑这些门窗的上粗下细的柱子也极为特别。米诺斯王宫地形复杂，有大量错落的柱廊和院落，有“迷官”之称。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072108-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f799-703b-11ee-9000-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：迈锡尼狮子门"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "迈锡尼狮子门是迈锡尼卫城的主要入口，全部由巨大的石块垒砌而成，在大门等处使用了叠涩挑出的砌筑方法，顶部由雕刻着双狮图案的薄石板装饰，狮子的头部采用了园雕的形式。狮子头部与身体通过木质的轴连接，头部可以自由转动。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072130-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f79a-703b-11ee-b5c4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：圣菲正大教堂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "圣索菲亚大教堂是拜占庭建筑的光辉代表，它的平面为希腊十字平面型制，集中式，外观中央穹顶统帅，小穹顶筷拥，如众星捧月，它解决了方形平面上盖穹顶的承接过渡问题，利用的帆拱结构，既集中统—又曲折多变的内部空间，采用立在独立柱上的穹顶覆盖较大的空间，形成宽周，丰富的内部空间和有组织的外部构，内部灿烂夺目的色彩\n效果，墩子和墙是大理石贴面，穹顶和拱顶用马赛克装饰，豪华富丽。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072162-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f79b-703b-11ee-b6ba-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：飞扶壁"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "飞扶壁是指为了平衡拱券对外墙的推力，而在外墙上附加的墙或其他结构，其含义就是扶持墙壁的意思。因为中间的拱对墙有向外的推力，所有需要扶壁将墙向内推。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507218a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f79c-703b-11ee-841f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：穆达迦风格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "穆达迦风格是指十世纪后在西班牙，大量伊斯兰建筑手法掺入到哥特建筑中去，形成的一种特殊风格。它的特点是采用马路形券、镂空的石窗棂、大面积的几何图形或其他花纹。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350721b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f79d-703b-11ee-9ad4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：帆拱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "帆拱是指沿方形平面的四边发券，在四个券之间砌筑以对角线为直径的穹顶，又在四个券的顶点之上做水平切口，水平切口所余下的四个角上的球面三角形部分。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350721e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f79e-703b-11ee-b784-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：拜占庭式柱头"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "拜占庭式柱头是指欧洲中世纪建筑盛行的一种柱头形制。虽受古罗马风格影响，但苕茛叶和涡旋都被重新演绎，茗茛叶被表现得更加夸张，涡旋形则被减弱了，柱头上以不平衡的构图和生动的叶纹弥补了其相对于古罗马柱式路显轻浮的缺点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507220c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f79f-703b-11ee-865a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：纳兰科圣马利亚殿"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "纳兰可圣玛利亚殿是兼有罗马建筑与拜占庭建筑的双重风格的教堂。该教堂内部大殿采用筒形拱，侧面则采用半圆形拱门。此教堂最具代表性的是其东西立面上，无论上下结构还是左右墙面的分配都采用三段式，这种设置方法又被称为“三三制-结构，是一种应用较为广泛的建筑形式。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507223e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a0-703b-11ee-a491-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：圣魏塔菜教堂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "圣魏塔莱教堂是大约建于公元540~548年，位于拉芬纳的一座拜占庭建筑。该教堂采用希腊十字形平面，这种平面很容易被扩展成正方形或其他多边形，后来穹顶也转化为多边形式，因为只要在正方形的四角加斜梁，就可以容易地形成八边形。这种结构星然简单，但无法承受穹顶的重量和侧推力，因而教堂顶部就改由陶制或木制的结构支撑，\n屋顶形态也转化为两坡或金字塔状的尖屋顶形式。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072266-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a1-703b-11ee-9cd9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：比萨大教堂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "比萨大教堂是意大利罗马式教堂的典型代表。其平面为拉丁十字形，主要特点是十字形横向边短，竖向边长。这种教堂建筑较长的十字边为中厅，通常南北设置，而较短的横边称为侧翼，东西设置，并以西侧翼为教堂正立面。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072298-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a2-703b-11ee-9bb1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：隅折"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "隅折是一种呈弯曲状的枕梁结构，多用于穹顶建筑的屋顶部分，可以起到一定的支撑作用。同时，也可以在穹顶底部门窗设计隅折，不仅为室内增加光照，还能成为建筑顶部的一种装饰。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350722c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a3-703b-11ee-a67b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：罗亚那塔式柱头"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "罗亚那塔式柱头是指采用了大小柱式组合的形式，从底部看是两个柱子，但其柱头上却采用了连续的雕刻装饰的柱头。这种柱头是仿照自然界生长的植物样式做装饰，用一种自然的方式将两个柱头联系在一起。这种做法在古典建筑中非常新颖。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350722f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a4-703b-11ee-997c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：马蹄拱门"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "马蹄拱门是一种有大半个圆形的拱券形式，拱券主要由墙面支撑，底部的柱子则是装饰性的壁柱。这种在矩开门中设置马蹄形拱券的形式被称为阿符兹，在摩尔人的建筑中非常多见。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507231a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a5-703b-11ee-a05a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：三角穹窿"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "三角穹窿是一种带帆拱的穹顶，这是拜占庭时期建筑的主要特征。三角穹隆不仅使穹顶可以与底部任意正多边形的平面相搭配，还使建筑内部空间更加连通和集中。这种做法是此时期在穹顶建造技术上所取得的最大成就。帆拱、鼓座与穹顶相配套的构造方法，也被以后欧洲各地的穹顶建筑所使用。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072342-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a6-703b-11ee-97ff-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：马赛克装饰图案"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "马赛克装饰图案是拜占庭时期重要的装饰图案，承袭自古罗马。由于制作工艺的提高使得马赛克的色彩与种类更多样，样式更加活泼，风格更加奢华。此时的马赛克不仅用来装饰地面和墙面，还被镶嵌在建筑页部，并出现了表面镶嵌金箔的马赛克。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072374-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a7-703b-11ee-9f86-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：赛萨洛尼卡圣徒教堂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "赛萨洛尼卡圣徒教堂是拜占庭时期的重要建筑。其顶部采用了类似圣索菲亚大教堂的穹顶形式，由中部穹顶统领周国四个小穹顶构成。五个穹顶都采用高鼓座的形式，并国绕鼓座开高侧窗，形成了起伏的檐部形式。由于穹顶距离较近，从空中俯瞰，整个教堂顶部还形成了独特的梅花状平面。教堂外部入口处还设有一个U形的门厅。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507239c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a8-703b-11ee-98d7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：拱形线脚"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "拱形线脚是由整个半圆和中间断裂的半园相间组成的线脚，底部还有半个突出的钉状物，如同在一个完整的圈案中截取下来的一样，这也是一种独特的“不完整性”装饰线脚。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350723ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7a9-703b-11ee-b345-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：诺曼风格柱顶端"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "诺曼风格柱顶端是流行于英国的一种柱子形式。其特点是柱顶端头的装饰线脚变大，而且只用两个大小相问的圆凹线脚，桂顶端形态变得棱角分明，给人以硬朗之感。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350723f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7aa-703b-11ee-a67c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：诺曼风格祭司席"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "诺曼风格祭司席是开设在墙面上的祭司席，采用连续拱券式壁龛，增加了墙面的通透感。同时与建筑外墙面上的拱窗、拱顶相协调，而细小的支柱则与拱券形成对比，也与建筑中粗大的墩柱形成对比。这种追求变化的细部处理在中世纪的建筑尤为多见。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072428-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7ab-703b-11ee-af6d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：多立克式挑檐"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "多立克式挑檐是一种经常出现在多利克式建筑中的装饰，位于三陇板卜部或柱间壁中楣上，由排列整齐的圆柱状或兩珠状凸出物组成。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072450-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7ac-703b-11ee-bd69-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：卵形装饰"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "卵形装饰是卵形与枪尖形的组合式线脚。由于二者都采用了较为简单的表现形式，所以整个线脚也显得简练而大方。卵形或叶片形的弧形面通常是园或梢园形的四分之一个面。卵形的线脚装饰从古希腊时期就已经出现，其样式也经历了一个由简到繁、再由繁到简的过程。各个国家对古典建筑及装饰样式的接受程度不同，表现方式也不同。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072478-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7ad-703b-11ee-90fa-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：法国沙特尔主教堂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法国沙特尔主教堂是位于法国厄尔一卢瓦尔省沙特尔市的一座哥特式天主教堂。其平面采用了法国教堂传统的拉丁十字式，两边的横翼突出较短。教堂的西立面为主立面，采用了法国哥特式教堂所普遍使用的形式，有大面积的圆形玫瑰窗和尖塔;东头的环廊为小礼拜室。其正立面两边的尖塔因为建造时间上的差异而在外观上有所区别，长达几\n个世纪的修建工作使得这座教堂星现几种不同的风格特点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350724aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7ae-703b-11ee-a4a6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：火焰式风格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "火焰式风格是法国后期过度讲究装饰和变化的哥特式风格，讲究曲线的变化和组合形式，因其装饰图案如燃烧的火焰而得名。其独特之处在于纵横的曲线上突出的尖角，如同交错的玫瑰花刺一样。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350724d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7af-703b-11ee-8dbd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：圣芭芭拉教堂"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "圣芭芭拉教堂是位于科特博格的晚期哥特式教堂。由于教堂结构的发展成熟，教堂的墙面被大面积的玻璃窗所代替，而且外部林立的扶壁也变得越来越精美，尤其在后殿的外部，主体建筑仿佛建在一个石尖塔的丛林之中。位于底部尖拱窗上的老虎窗将尖塔连接起来，这种新形式的窗户显露出文艺复兴风格的气息。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072504-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7b0-703b-11ee-8057-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：圣马可广场"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "圣马可广场是~欧洲最漂亮的客厅”，主要完成于文艺复兴时期，它包括大小两个广场，围合广场的主要建筑有新、旧市政厅，总督宫，图书馆，圣马可教堂以及钟塔。星然建筑建造年代不同，但由于运用共同的构图母题，使它既统一又变化丰富。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507252c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7b1-703b-11ee-8c14-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：巴黎圣母院"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "巴黎圣母院是一座位于法国巴黎市中心、西堤岛上的教堂建筑，也是天主教巴黎总教区的主教堂，是巴黎大主教莫里斯-德-苏利决定兴建的，始建于1163年，在1345年才全部建成，历时180多年。圣母院的西立面风格独特，结构严谨，看上去十分雄伟庄严。它是一座典型的哥特式教堂，其国名于世的原因在于，它是欧洲建筑史上一个划时代的标志。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507255e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7b2-703b-11ee-ba72-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：帕拉第奥"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "帕拉第奥（1508~1580年） 是文艺复兴时期意大利的建筑师，著有《建筑四书》。其设计作品以邸宅和别墅为主，最著名的为位于维琴察的圆厅别墅，此外还有威尼斯的圣马焦雷教堂等。其建筑设计和著作的影响在18世纪时达到顶峰，所谓“帕拉第奥主义”在当时传遍世界各地。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072586-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7b3-703b-11ee-80e1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：透视门"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "透视门是一层层逐渐缩小的园拱集合起来而有深度的大门。基督教时期教堂墙垣很厚，以致门窗洞很深，为了减轻建筑的沉重感，将门窗的墙壁做成一排排锯齿形装饰，如法国阿尔勒城圣特洛圣母教堂。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350725b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7b4-703b-11ee-817c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：洛可可"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "洛可可是8世纪20年代，法国古典主义晚期出现的一种室内装饰风格，它追求柔媚细腻的情调，通常用各种曲线和涡卷，爱用娇艳的颜色，是富贵气的装饰。其代表作是巴黎苏俾士府邸公主沙龙或尚蒂依小城堡的亲王沙龙。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350725e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f426f7b5-703b-11ee-9e5a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：泰姬马哈尔陵"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "泰姬马哈尔陵是伊斯兰教的宗教建筑，被称为印度的一颗明珠，陵墓建在一个大坪台上，全部用白色大理石建成，建筑形体四面对称，中央大穹隆是波斯的尖顶式，坪台四角有四座邦克楼。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072612-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e94-703b-11ee-8bd3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：玛斯塔巴"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "玛斯塔巴是指古埃及早期陵基建筑。在公元前28世纪，除了宽大的地下墓室之外，出现了地上建筑结构的陵墓，即在地上用砖造了祭祀的厅堂，仿照在上埃及比较流行的佳宅，像路有收分的长方形台子，在一端有入口。内有厅堂，墓室在地下，上下有阶梯或斜坡甬道相连。后来的金字塔是以此发展起来。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507263a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e95-703b-11ee-abad-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人首翼牛像"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人首翼牛像是亚述王宫门洞口两侧和塔楼转角上的石板雕刻，它有正、侧两个面，正面园雕，侧面浮雕，正面2条腿，侧面4条腿，转角一条两面共用，一共5条腿。人首翼牛是亚达常用装饰题材，象征睿智和健壮。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072662-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e96-703b-11ee-b2c7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：山台"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "山岳台是古代两河流域（西亚）的一种建筑形式，它是一种用士坯或夯士砌筑的高台，一般为四层，自下而上逐层缩小，有坡道或阶梯逐层通达台顶，顶上有一间不大的神堂。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072694-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e97-703b-11ee-84f0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：方尖碑"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "方尖碑是古埃及崇拜太阳神的实质柱式纪念碑，常成对置于神庙前。其断面呈方形，长细比1：9~1：10.柱身向上渐缩，顶端覆以金字塔状物，通常为整块花岗石制成。碑身布满阴刻象形文字或图案，形式简洁，富于变化，是古埃及重要的建筑形象。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350726bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e98-703b-11ee-a1d9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《建筑十书》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《建筑十书》是古罗马建筑学家维特鲁威撰亏的建筑学著作，是现存最古老、最有影响的建筑学专著，书中系统总结了古希腊建筑的经验和罗马建筑的经验，它提出建筑学的基本内涵和基本理论，建立起建筑学的基本体系，主张一切建筑物都应考虑*实用、坚固、美观”，认为建筑物的均衡之关键在于局部。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350726ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e99-703b-11ee-9663-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：枋心"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "枋心是指梁枋彩画的中心部分，长度约占整个梁枋的三分之一。彩画是我国古代建筑上极富特色的装饰，用色彩油漆在梁、枋、斗拱、柱、天花板等处刷饰或绘制花纹、图案乃至人物故事等，这些被绘画出来的各色纹样与图案就是彩画。彩画除了具有装饰作用外，还可增加木料的防腐防蛀性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507273e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e9a-703b-11ee-9503-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：金宝座塔"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "金刚宝座塔是一种佛塔建筑形式，由方形的塔座和在塔座上部的五座塔构成，其中中间的塔最大，另外四座塔较小。仅见于明、清二代，数量很少。台上塔的式样分为密檐塔和唎嘛塔。它本指建于印度菩提伽耶城释迦牟尼悟道成佛之处的纪念塔，后来，凡仿该塔形制而建的塔，均称为金刚宝座塔。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072766-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e9b-703b-11ee-a960-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：御路"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "御路，又称龙升、螭陛，是指位于宫殿中轴线上台基与地坪以及两侧阶梯间的坡道，原为汉族宫殿建筑形制，后来为孔庙和民间庙宇所沿用。它是街接庙埕和基座中间的台阶，两面是阶梯，中间有一斜面上雕云龙。封建社会宫殿的中轴线只有皇帝才能使用，但因皇帝进出时多乘坐轿子，于是便将阶梯中央做成斜坡，上面雕刻祥云腾龙图案，而\n两侧石阶则供桥夫行走。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507278e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e9c-703b-11ee-ad1f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：偷心造"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偷心造是汉族木结构建筑跳头上不置横棋的斗拱构造形式之一，其横拱的设置少于斗拱出踩，如斗拱各向内外两侧挑出三拽架称为七踩，应列有七列横拱，但在制作时却省去一列或数列横拱。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350727c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e9d-703b-11ee-8ab7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：姜寨遗址"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "姜寨遗址是中国黄河中游地区新石器时代的仰韶村落遗址。位于陕西临潼，它为研究关中地区仰韶文化的发展序列提供了重要依据;揭露了一处保存完好、布局清晰的半坡类型聚落遇址；发现的大量遗迹、遗物，有利于了解仰韶文化诸方面的内容。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350727e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e9e-703b-11ee-a99d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：面朝后市"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "面朝后市是《周礼- 考工记》里中国古代的城市规划思想。“朝“指外朝，也就是处理诉讼、领布法令的重要场所;“市°为商品交换市场。面朝后市则是说，在王城前为~朝”，后为“市”。“朝“是王权的象征，将它置于王城的前面，更加突出了它的尊严性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072810-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271e9f-703b-11ee-b1f8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：闾里"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "闾里是春秋、战国时期都城内的居住单元，指古代城镇中有围墙的住宅区。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072838-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea0-703b-11ee-a88a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：盘龙城"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "盘龙城遗址于1954年发现，1974、1976年进行较大规模发掘，其位于湖北省黄陂区叶店。年代约为公元前15世纪前后，属于商代中期的城市遗址。这一遗址的发现对于了解商代文化的分布、城市性质、宫殿的形制和建筑技术等都有重要的意义。古城位于府河北岸高地偏东南部，平面略呈方形。遗迹的分布状况表明，城内仅有宫殿，具有宫城形制，城外侧则是居民区和手工业区，表明该古城尚属早起城市的形态。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507286a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea1-703b-11ee-a9e0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：方上"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "方上是古代建筑学术语，是指秦汉起使用的陵基形式，累土为方锥形而截去其上能"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072892-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea2-703b-11ee-ac46-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：都柱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "都柱是指泰汉宫室遗址与崖墓中，平面中央仅设一根柱子的做法。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350728ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea3-703b-11ee-acc7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：工官"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "工官是秦汉时管理官府手工业的官署。从睡虎地泰墓出士的泰律竹简中可以看到，当时管理官府手工业的官署，县有工官、司空。汉承秦制，在中央及有些郡县设置工官，诸侯王国也有工官。工官产品主要供皇室御用、赏赐及官府军队的需要。考古发现的汉代铁器、漆器外多有工官字样。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350728e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea4-703b-11ee-9d3c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：卜千秋墓"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "卜千秋墓是河南省洛阳市烧沟村附近的西汉晚期壁画墓，1976年由洛阳市博物馆发掘出士。墓主为卜干秋，卜千秋墓为夫妇合葬墓，由长方形主室和左右两耳室组成，主室全部由特制的空心砖砌筑，顶部仿券顶做成两坡平脊形式。卜千秋墓画以绘于脊顶的墓主升仙图为主，壁画分布在主室脊顶、 门额、后壁上部及隔梁的两面。在门额和后壁上部绘有仙禽、怪兽和四神等。在狭长的脊顶上，绘着由日、月、伏義、女娲以及四神、仙禽神兽构成的天上世界，男女墓主则在仙人的引1导下，乘仙乌和龙舟凌云飞升，风格朴拙传神。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507290a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea5-703b-11ee-b053-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：建康"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "建康是东晋、三国时的吴、南朝宋、齐、梁  陈京师六朝的名称，又称建邺，故址位于今南京，六朝时期中国的经济、文化、政治、军事中心，它也是六朝时期世界上第一个人口超过百万的城市。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507293c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea6-703b-11ee-8c4e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：冯素弗墓"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "冯素弗墓是十六国时期北燕贵族冯素弗夫妇基，共两座，位于辽宁省北票市。两座基都是长方形石椁结构，东西向。椁顶盖以极厚的石板，椁内绘壁画，有星象、人物、建筑等内容。木棺彩画羽人、建筑等图像，棺环、棺钉铁质而饰金。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072964-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea7-703b-11ee-8546-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：苏式彩画"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "苏式彩画是古代中国建筑装饰艺术之一，一般用于住宅园林。其源于江南苏杭地区民间传统作法，于明永乐年间传入北方。其主要特征是在开间中部形成包袱构图或枋心构图，在包袱、枋心中均画各种不同题材的画面，如山水、人物、翎毛、花卉、走兽、鱼电等，是其装饰的突出部分。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507298c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea8-703b-11ee-841f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：大木大式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“大木大式“是清式大木做法的两种类型之一，另一种是“大木小式”，可简单认为有斗拱和无斗拱建筑的不同处理，其中有斗拱建筑称为大式建筑（殿式建筑），无斗拱建筑称为小式建筑。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350729b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ea9-703b-11ee-88dd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《园冶》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《园冶》是我国古代造园专著，明末造园家江苏吴江人计成著，崇祯四年成稿。其主要内容为园说和兴造论两部分。其中园说又分为相地、立基、屋宇、装折、门窗、墙垣、铺地、级山、选石、借景10篇。全书论述了宅园、别墅营建的原埋和具体手法，反映了中国古代造园的成就，总结了造园经验。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350729e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271eaa-703b-11ee-a74e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：九脊项"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "九脊顶，清称歇山顶，是中国古建筑的一种屋顶形式，屋顶上半部为两面坡，下半部为巴面坡，是悬山顶与庑殿顶上下相交而成。它由正脊，四条垂脊，四条创脊组成。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072a0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271eab-703b-11ee-bd7d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：乌头门"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "乌头门，又称棂星门，是宋《营造法式》中的门的一种类型。地上栽两根木柱，柱间上方架横额，形成门框，内装双扇门。宋代因柱头装黑色瓦筒，故称乌头门。门扇四周有框，上部装直棂，下部嵌板，大的在背面加剪刀撑。一般用作官邸及祠庙、陵墓之前。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072a36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271eac-703b-11ee-ba06-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：材"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "材是宋代建筑之中的计量单位。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072a5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271ead-703b-11ee-af48-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：以材为祖"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以材为祖是《营造法式》中规定的建筑预算定额，以与建筑规模等级相应的某一尺度作为建筑的空间尺度及构件尺度的模数。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072a90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271eae-703b-11ee-adfd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：佛寺"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "佛光寺是指位于山西佛光山腰的佛寺，其依山势自下而上并沿东西向轴线布置。寺内现存主要建筑有成于晚唐的大殿、金代的文殊殿、唐代的无垢净光禅师墓塔及两座石经幢。佛光寺大殿是我国现存最大的唐代木建筑，其建于唐大中十一年（857年），面阔七间，进深八架椽（清称九檩），单檐四阿顶（清称庑殿顶），虽然经过多次修葺，大体\n仍保持唐代原来面貌庑殿。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072ab8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271eaf-703b-11ee-a424-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：大明宫"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大明宫是唐代宫殿，始建于唐代早期，唐后期毁于兵乱。根据史籍，大明宫为唐高宗以后的主要朝会之所。大明宫的平面形状，南部呈长方形，北部呈梯形，面积3.2平方公里，版筑夯士城墙。在东西北三面都有与宫墙平行的夹城，殿亭建筑遗址多在宫城北部。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072ae0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271eb0-703b-11ee-9749-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：分心斗底槽"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分心斗底槽是宋代殿阁四种空间划分方式之一，简称分心槽，是指用一列中柱及柱上斗栱将空间分为前后两个相同的部分，一般用作殿门处理。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35072b12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "f4271eb1-703b-11ee-a9b2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：《营造法式》"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《营造法式》是北宋时政府领布的一部建筑设计、施工的规范书，是我国古籍中最完整的-部建筑技术专书，著书人是将作监李诚，书中资料主要来自历来工匠相传的可行之法。此书是王安石推行政治政革的产物，目的是掌握设计与施工标准，节制国家财政开支，保证施工质量。"
+	}
+]

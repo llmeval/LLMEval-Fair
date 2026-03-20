@@ -1,0 +1,211 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f127ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d99db4e-6b44-11ee-aabc-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nIn 1924 America’s National Research Council sent two engineers to supervise a series of experiments at a telephone-parts factory called the Hawthorne Plant near Chicago. It hoped they would learn how shop-floor lighting___1___workers’ productivity. Instead, the studies ended___2___giving their name to the “Hawthorne effect,” the extremely influential idea that the very    3    of  being experimented    upon changed subjects’ behavior.\nThe idea arose because of the  4    behavior of the women in the plant. According to___5     of  the experiments, their hourly output rose when lighting  was increased, but also when it was dimmed. It did not    6     what was done in   the experiment;     7       something was changed, productivity rose. A(n)     8      that  they were being experimented upon seemed to be   9    to  alter workers’  behavior    10      itself.\nAfter several decades, the same data were  11    to econometric analysis. The Hawthorne  experiments had another surprise in store.  12   the descriptions on   record, no systematic   13    was found  that levels of productivity were  related to changes in lighting.\nIt turns out that the peculiar way of conducting the experiments may have led to  14    interpretations of  what happened.   15   , lighting was always changed on a Sunday. When work started again on Monday, output    16     rose compared with the previous Saturday and   17    to  rise for the next couple of  days.   18   , a comparison with data for weeks when there was no experimentation showed that output always went up on Mondays. Workers    19     to be diligent for  the first  few  days  of the  week in any case, before    20     a  plateau and then  slackening off. This suggests that the alleged “Hawthorne effect” is hard to pin down.\n1. [A] affected[B] achieved[C] extracted[D] restored\n2. [A] at[B] up[C] with[D] off\n3. [A] truth[B] sight[C] act[D] proof\n4. [A] controversial[B] perplexing[C] mischievous[D] ambiguous\n5. [A] requirements[B] explanations[C] accounts[D] assessments\n6. [A] conclude[B] matter[C] indicate[D] work\n7. [A] as[B] for[C] in[D] so\n8. [A] awareness[B] expectation[C] sentiment[D] illusion\n9. [A] suitable[B] excessive[C] enough[D] abundant\n10. [A] about[B] for[C] on[D] by\n11. [A] compared[B] shown[C] subjected[D] conveyed\n12. [A] Contrary[B] Consistent[C] Parallel[D] Peculiar\n13. [A] evidence[B] guidance[C] implication[D] source\n14. [A] disputable[B] enlightening[C] reliable[D] misleading\n15. [A] In[B] For[C] In[D] As\n16. [A] duly[B] accidentally[C] unpredictably[D] suddenly\n17. [A] failed[B] ceased[C] started[D] continued\n18. [A] Therefore[B] Furthermore[C] However[D] Meanwhile\n19. [A] attempted[B] tended[C] chose[D] intended\n20. [A] breaking[B] climbing[C] surpassing[D] hitting"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A; B; C; B; C; B; D; A; C; D; C; A; A; D; B; A; D; C; B; D"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f12844-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a2955-6b44-11ee-86cd-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nAncient Greek philosopher Aristotle viewed laughter as “a bodily exercise precious to health.” But   1    some claims to the contrary, laughing probably has   little  influence on physical  fitness. Laughter  does     2       short-term  changes  in the function of the heart and its blood vessels,    3    heart rate and oxygen  consumption. But  because hard laughter is  difficult to   4   , a good laugh is   unlikely to have   5      benefits the way, say, walking or jogging does.\n      6  , instead of straining muscles to build them, as exercise does, laughter apparently accomplishes the  7  . Studies dating back to the 1930s indicate that  laughter    8    muscles, decreasing muscle tone for up to 45 minutes after the laugh  dies down.\nSuch bodily reaction might conceivably help    9    the effects of psychological  stress. Anyway, the act of laughing probably does produce other types of   10    feedback that improve an individual’s emotional state.    11     one classical theory  of emotion, our feelings are partially rooted      12      physical reactions. It was argued at the end of the 19th century that humans do not cry   13    they are sad but they become sad  when the tears begin to flow.\nAlthough  sadness  also    14     tears,  evidence  suggests  that  emotions  can flow  15   muscular responses. In an experiment published  in  1988,  social psychologist Fritz Strack of the University of Würzburg in Germany asked volunteers to   16   a pen either with their teeth – thereby creating an artificial smile – or with their lips, which would produce a(n)    17      expression. Those forced to exercise    their smiling muscles   18    more enthusiastically to funny cartoons than did those  whose mouths were contracted in a frown,   19   that expressions may influence  emotions rather than just the other way around.    20    , the  physical  act  of  laughter could improve mood.\n1. [A] among[B] except[C] despite[D] like\n2. [A] reflect[B] demand[C] indicate[D] produce\n3. [A] stabilizing[B] boosting[C] impairing[D] determining\n4. [A] transmit[B] sustain[C] evaluate[D] observe\n5. [A] measurable[B] manageable[C] affordable[D] renewable\n6. [A] In[B] In[C] In[D] In\n7. [A] opposite[B] impossible[C] average[D] expected\n8. [A] hardens[B] weakens[C] tightens[D] relaxes\n9. [A] aggravate[B] generate[C] moderate[D] enhance\n10. [A] physical[B] mental[C] subconscious[D] internal\n11. [A] Except[B] According[C] Due[D] As\n12. [A] with[B] on[C] in[D] at\n13. [A] unless[B] until[C] if[D] because\n14. [A] exhausts[B] follows[C] precedes[D] suppresses\n15. [A] into[B] from[C] towards[D] beyond\n16. [A] fetch[B] bite[C] pick[D] hold\n17. [A] disappointed[B] excited[C] joyful[D] indifferent\n18. [A] adapted[B] catered[C] turned[D] reacted\n19. [A] suggesting[B] requiring[C] mentioning[D] supposing\n20. [A] Eventually[B] Consequently[C] Similarly[D] Conversely"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; D; B; B; A; B; A; D; C; A; B; C; D; C; B; D; A; D; A; C"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f12880-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a2956-6b44-11ee-9485-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nThe ethical judgments of the Supreme Court justices have become an important issue recently. The  court  cannot     1      its legitimacy as guardian of the rule  of   law   2    justices behave like politicians. Yet, in several instances, justices acted in ways that     3      the court’s reputation for being independent and impartial.\nJustice Antonin Scalia, for example, appeared at political events. That kind of activity makes it less likely that the court’s decisions will be   4   as impartial  judgments. Part of the problem is that the justices are not     5     by an ethics code.   At  the  very least, the court should make itself     6     to  the code of  conduct    that    7     to the rest of the federal judiciary.\nThis  and  other  similar  cases       8       the  question  of  whether  there  is  still a     9     between the court and politics.\nThe framers of the Constitution envisioned law   10    having authority apart  from politics. They gave  justices  permanent positions     11      they would  be free to   12    those in power and have no need to    13    political support. Our legal  system was designed to set law apart from politics precisely because they are so closely 14 .\nConstitutional law is political because it results from choices rooted in fundamental social    15    like liberty and property. When  the court deals with    social policy decisions, the law it  16    is inescapably political –  which is why  decisions split along ideological lines are so easily   17     as unjust.\nThe justices must  18   doubts about the  court’s  legitimacy by making themselves     19     to the code of conduct. That would make rulings more likely to  be seen as separate from politics and,     20     , convincing as law.\n1. [A] emphasize[B] maintain[C] modify[D] recognize\n2. [A] when[B] lest[C] before[D] unless\n3. [A] restored[B] weakened[C] established[D] eliminated\n4. [A] challenged[B] compromised[C] suspected[D] accepted\n5. [A] advanced[B] caught[C] bound[D] founded\n6. [A] resistant[B] subject[C] immune[D] prone\n7. [A] resorts[B] sticks[C] leads[D] applies\n8. [A] evade[B] raise[C] deny[D] settle\n9. [A] line[B] barrier[C] similarity[D] conflict\n10. [A] by[B] as[C] through[D] towards\n11. [A] so[B] since[C] provided[D] though\n12. [A] serve[B] satisfy[C] upset[D] replace\n13. [A] confirm[B] express[C] cultivate[D] offer\n14. [A] guarded[B] followed[C] studied[D] tied\n15. [A] concepts[B] theories[C] divisions[D] conventions\n16. [A] excludes[B] questions[C] shapes[D] controls\n17. [A] dismissed[B] released[C] ranked[D] distorted\n18. [A] suppress[B] exploit[C] address[D] ignore\n19. [A] accessible[B] amiable[C] agreeable[D] accountable\n20. [A] by[B] at[C] in[D] as"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; A; B; D; C; B; D; B; A; B; A; C; C; D; A; C; A; C; D; D"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f128a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a2957-6b44-11ee-ae0d-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nPeople are, on the whole, poor at considering background information when making individual decisions.  At  first glance this might seem like a strength that\n    1     the ability to make judgments which are unbiased by      2      factors. But Dr Uri Simonsohn speculated that an inability to consider the big     3     was leading decision-makers to be biased by the daily samples of information they were working with.     4     , he theorised that a judge     5     of appearing too soft     6      crime might be more likely to send someone to prison    7     he had already sentenced five or six other defendants only to forced community service on that day.\nTo     8      this idea, he turned to the university-admissions process.  In  theory, the   9   of an applicant should not depend on the few others  10   randomly for interview during the same day, but Dr Simonsohn suspected the truth was    11   .\nHe studied  the  results of  9,323  MBA interviews   12   by  31  admissions officers. The  interviewers had     13     applicants  on a scale  of one  to five. This scale      14      numerous factors into consideration. The scores were       15      used  in conjunction with an applicant’s score on the Graduate Management Admission Test, or GMAT,  a  standardised  exam which is    16    out  of 800  points, to make  a   decision on whether to accept him or her.\nDr Simonsohn found if the score of the previous candidate in a daily series of interviewees was 0.75 points or more higher than that of the one    17     that, then   the score for the next applicant would   18   by an average of 0.075 points. This   might sound small, but to   19    the effects of such a decrease a candidate would   need 30 more GMAT points than would otherwise have been    20    .\n1. [A] grants[B] submits[C] transmits[D] delivers\n2. [A] minor[B] external[C] crucial[D] objective\n3. [A] issue[B] vision[C] picture[D] moment\n4. [A] Above[B] On[C] In[D] For\n5. [A] fond[B] fearful[C] capable[D] thoughtless\n6. [A] in[B] for[C] to[D] on\n7. [A] if[B] until[C] though[D] unless\n8. [A] test[B] emphasize[C] share[D] promote\n9. [A] decision[B] quality[C] status[D] success\n10. [A] found[B] studied[C] chosen[D] identified\n11. [A] otherwise[B] defensible[C] replaceable[D] exceptional\n12. [A] inspired[B] expressed[C] conducted[D] secured\n13. [A] assigned[B] rated[C] matched[D] arranged\n14. [A] put[B] got[C] took[D] gave\n15. [A] instead[B] then[C] ever[D] rather\n16. [A] selected[B] passed[C] marked[D] introduced\n17. [A] below[B] after[C] above[D] before\n18. [A] jump[B] float[C] fluctuate[D] drop\n19. [A] achieve[B] undo[C] maintain[D] disregard\n20. [A] necessary[B] possible[C] promising[D] helpful"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A; B; C; D; B; B; A; A; D; C; A; C; B; C; B; C; D; D; B; A"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f128d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a2958-6b44-11ee-9f8c-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nAs many people hit middle age, they often start to notice that their memory and mental clarity are not what they used to be.  We suddenly can’t  remember\n    1     we put the keys  just a moment  ago,  or an old acquaintance’s name, or the  name of an old band we used to love. As the brain     2     ,  we  refer  to  these occurrences as “senior moments.”  3    seemingly  innocent, this loss of mental   focus can potentially have  a(n)   4    impact  on  our  professional,  social,  and personal      5      .\nNeuroscientists, experts who study the nervous system, are increasingly showing that there’s actually a lot that can be  done. It   6     out that the brain  needs exercise in  much the  same way our  muscles do, and the  right  mental\n    7     can significantly improve our basic cognitive     8   . Thinking is essentially a     9     of making connections in the brain. To a certain extent, our ability to       10    in  making  the  connections  that drive  intelligence is  inherited.\n    11   , because these connections are made through effort and practice, scientists  believe   that  intelligence  can  expand   and  fluctuate    12     mental   effort.\nNow,  a  new Web-based company  has  taken  it  a   step    13     and developed the first “brain training program” designed to actually help people improve and regain their mental    14    .\nThe  Web-based   program   15   you  to  systematically  improve  your   memory and attention skills.  The  program  keeps   16    of  your  progress  and provides detailed feedback 17   your performance and improvement. Most importantly, it      18      modifies and enhances the games you play to      19      on   the  strengths  you  are  developing  –  much  like  a(n)   20   exercise  routine  requires you to increase resistance and vary your muscle use.\n\n  \n1. [A] that[B] when[C] why[D] where\n2. [A] fades[B] improves[C] collapses[D] recovers\n3. [A] Unless[B] While[C] Once[D] If\n4. [A] damaging[B] limited[C] uneven[D] obscure\n5. [A] relationship[B] environment[C] wellbeing[D] outlook\n6. [A] figures[B] finds[C] points[D] turns\n7. [A] responses[B] associations[C] workouts[D] roundabouts\n8. [A] genre[B] criterion[C] circumstances[D] functions\n9. [A] channel[B] process[C] condition[D] sequence\n10. [A] persist[B] feature[C] excel[D] believe\n11. [A] However[B] Moreover[C] Otherwise[D] Therefore\n12. [A] according[B] regardless[C] apart[D] instead\n13. [A] back[B] further[C] aside[D] around\n14. [A] framework[B] stability[C] flexibility[D] sharpness\n15. [A] hurries[B] reminds[C] allows[D] forces\n16. [A] order[B] track[C] pace[D] hold\n17. [A] on[B] to[C] for[D] with\n18. [A] habitually[B] constantly[C] irregularly[D] unusually\n19. [A] carry[B] put[C] build[D] take\n20. [A] idle[B] risky[C] familiar[D] effective"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "D; A; B; A; C; D; C; D; B; C; A; A; B; D; C; B; A; B; C; D"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f12902-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a2959-6b44-11ee-b97b-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nThough not biologically related, friends are as “related” as fourth cousins, sharing about 1% of genes. That is     1      a study, published from the University   of California and Yale University in the Proceedings of the National Academy of Sciences, has    2    .\nThe study is a genome-wide analysis conducted   3    1,932 unique subjects which   4    pairs of unrelated friends and unrelated strangers. The same  people  were used in both    5   .\nWhile 1% may seem   6   , it is not so to a geneticist. As James Fowler, professor of medical genetics at UC San Diego, says, “Most people do not even\n  7 their fourth cousins but somehow manage to select as friends the people who   8  our kin.”\nThe study   9    found  that the genes  for  smell  were something  shared in friends but not genes for immunity. Why this similarity exists in smell genes is difficult to explain, for now.  10  , as the team suggests, it draws us to similar environments but there  is more   11   it. There could  be many mechanisms   working together that  12    us in choosing genetically similar friends  13       “functional kinship” of being friends with    14   !\nOne of the remarkable findings of  the study was that the similar genes seem   to be evolving    15    than other genes. Studying this could help    16     why   human evolution picked pace in the last 30,000 years, with social environment  being a major   17     factor.\nThe findings  do not simply explain people’s    18    to befriend those of   similar   19     backgrounds, say the researchers. Though all the subjects were    drawn from a population  of  European  extraction, care was taken  to     20     that all subjects, friends and strangers, were taken from the same population.\n1. [A] when[B] why[C] how[D] what\n2. [A] defended[B] concluded[C] withdrawn[D] advised\n3. [A] for[B] with[C] on[D] by\n4. [A] compared[B] sought[C] separated[D] connected\n5. [A] tests[B] objects[C] samples[D] examples\n6. [A] insignificant[B] unexpected[C] unreliable[D] incredible\n7. [A] visit[B] miss[C] seek[D] know\n8. [A] resemble[B] influence[C] favor[D] surpass\n9. [A] again[B] also[C] instead[D] thus\n10. [A] Meanwhile[B] Furthermore[C] Likewise[D] Perhaps\n11. [A] about[B] to[C] from[D] like\n12. [A] drive[B] observe[C] confuse[D] limit\n13. [A] according[B] rather[C] regardless[D] along\n14. [A] chances[B] responses[C] missions[D] benefits\n15. [A] later[B] slower[C] faster[D] earlier\n16. [A] forecast[B] remember[C] understand[D] express\n17. [A] unpredictable[B] contributory[C] controllable[D] disruptive\n18. [A] endeavor[B] decision[C] arrangement[D] tendency\n19. [A] political[B] religious[C] ethnic[D] economic\n20. [A] see[B] show[C] prove[D] tell"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "D; B; C; A; C; A; D; A; B; D; B; A; B; D; C; C; B; D; C; A"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f1292a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a295a-6b44-11ee-968d-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nIn Cambodia, the choice of a spouse is a complex one for the young male. It may involve not only his parents and his friends,     1       those of the young woman,     but  also  a matchmaker. A young man can     2       a likely spouse on his own and then ask his parents to     3     the marriage negotiations, or the young man’s      parents may make the choice of a spouse, giving the child little to say in the  selection.    4     , a girl may veto the spouse her parents have chosen.     5      a  spouse has been selected, each family investigates the other to make sure its child is marrying       6      a good family.\nThe traditional wedding is a long and colorful affair. Formerly it lasted three days,    7     by  the 1980s it more commonly lasted a  day and a half.  Buddhist  priests offer a short sermon and   8    prayers of blessing. Parts of the ceremony  involve ritual hair  cutting,       9       cotton threads soaked  in  holy water  around the  bride’s  and groom’s  wrists, and   10    a candle around a circle of happily  married and respected couples to bless the       11     . Newlyweds traditionally move  in with the wife’s parents and may      12       with them up to a year,       13       they can build a new house nearby.\nDivorce is legal and easy to  14 , but not common. Divorced persons are\n15     with some disapproval. Each spouse retains  16    property he or she G 17 into the  marriage, and jointly-acquired  property  is      18    equally. Divorced persons may remarry, but a gender prejudice     19  up: The divorced male  doesn’t have  a  waiting period  before  he can remarry   20   the woman must wait ten months.\n1. [A] as[B] by[C] on[D] with\n2. [A] adapt[B] provide[C] compete[D] decide\n3. [A] renew[B] close[C] arrange[D] postpone\n4. [A] In[B] In[C] Above[D] For\n5. [A] Although[B] Lest[C] After[D] Unless\n6. [A] within[B] into[C] from[D] through\n7. [A] since[B] or[C] so[D] but\n8. [A] test[B] recite[C] copy[D] create\n9. [A] folding[B] piling[C] wrapping[D] tying\n10. [A] passing[B] lighting[C] hiding[D] serving\n11. [A] association[B] meeting[C] collection[D] union\n12. [A] grow[B] part[C] live[D] deal\n13. [A] whereas[B] until[C] for[D] if\n14. [A] follow[B] obtain[C] challenge[D] avoid\n15. [A] isolated[B] persuaded[C] viewed[D] exposed\n16. [A] whatever[B] however[C] whenever[D] wherever\n17. [A] changed[B] brought[C] shaped[D] pushed\n18. [A] withdrawn[B] invested[C] donated[D] divided\n19. [A] clears[B] shows[C] warms[D] breaks\n20. [A] while[B] once[C] so[D] in"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A; D; C; A; C; B; D; B; D; A; D; C; B; B; C; A; B; D; B; A"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f1295c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a295b-6b44-11ee-ac94-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nCould a hug a day keep the doctor away? The answer may be a resounding “yes!”     1      helping you feel  close and      2      to people you care about, it     turns out that hugs can bring a     3     of health benefits to your body and mind.   Believe  it  or not,  a  warm  embrace  might  even help you      4     getting sick this winter.\nIn a recent study    5   over 400 healthy adults, researchers from Carnegie   Mellon University in Pennsylvania examined the effects of  perceived  social  support  and  the  receipt  of  hugs      6     the  participants’  susceptibility to   developing  the common cold  after  being    7    to  the  virus.  People  who   perceived greater social  support  were  less likely to come     8     with a cold, and   the researchers     9      that the stress-reducing effects of hugging      10      about   32  percent of that beneficial effect.    11     among those who got  a cold, the ones who felt greater social support and received more frequent hugs had less severe     12    .\n“Hugging  protects  people  who  are  under  stress  from  the    13     risk  for colds that’s usually  14   with stress,” notes Sheldon  Cohen,  a  professor  of psychology at Carnegie. Hugging “is a marker of intimacy and helps   15   the   feeling that others are there to help     16      difficulty.”\nSome  experts     17      the  stress-reducing, health-related benefits  of hugging to  the  release  of  oxytocin,  often   called  “the  bonding  hormone”  18    it promotes attachment in relationships, including that between mothers and their newborn babies. Oxytocin is made primarily in the central lower part of the brain,  and some  of it is released  into the bloodstream. But some  of it    19     in the   brain, where it   20     mood, behavior and physiology.\n1. [A] Unlike[B] Besides[C] Despite[D] Throughout\n2. [A] connected[B] restricted[C] equal[D] inferior\n3. [A] choice[B] view[C] lesson[D] host\n4. [A] recall[B] forget[C] avoid[D] keep\n5. [A] collecting[B] involving[C] guiding[D] affecting\n6. [A] of[B] in[C] at[D] on\n7. [A] devoted[B] exposed[C] lost[D] attracted\n8. [A] across[B] along[C] down[D] out\n9. [A] calculated[B] denied[C] doubted[D] imagined\n10. [A] served[B] required[C] restored[D] explained\n11. [A] Even[B] Still[C] Rather[D] Thus\n12. [A] defeats[B] symptoms[C] tests[D] errors\n13. [A] minimized[B] highlighted[C] controlled[D] increased\n14. [A] equipped[B] associated[C] presented[D] compared\n15. [A] assess[B] moderate[C] generate[D] record\n16. [A] in[B] in[C] in[D] in\n17. [A] transfer[B] commit[C] attribute[D] return\n18. [A] because[B] unless[C] though[D] until\n19. [A] emerges[B] vanishes[C] remains[D] decreases\n20. [A] experiences[B] combines[C] justifies[D] influences"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; A; D; C; B; D; B; C; A; D; A; B; D; B; C; A; C; A; C; D"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f12984-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a295c-6b44-11ee-b133-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nTrust is a tricky business. On the one hand, it’s a necessary condition     1      many worthwhile things: child care, friendships, etc. On the other hand, putting your    2   in the wrong place often carries a high      3     .\n    4   , why do we trust at all? Well, because it feels good.    5    people place their trust in an individual or an institution, their brains release oxytocin, a hormone that   6   pleasurable  feelings  and triggers  the herding  instinct that  prompts   humans to   7    with one another.  Scientists have found that exposure   8   this   hormone puts us in a trusting  9  : In a Swiss study, researchers sprayed oxytocin into the noses of half the subjects; those subjects were ready to lend significantly higher amounts of money to strangers than were their    10    who inhaled something else.\n    11   for us, we also have a sixth sense for dishonesty that may   12   us. A Canadian study found that children as young as 14 months can differentiate   13    a credible person and a dishonest one. Sixty toddlers were each    14    to an adult   tester holding a plastic container. The tester would ask, “What’s in here?” before looking into the container, smiling, and exclaiming, “Wow!” Each subject was then invited to look    15    . Half of them found  a  toy;  the other half    16    the    container was empty – and realized the tester had    17     them.\nAmong the children who had not been tricked, the majority were   18   to  cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership.   19  ,  only five of the 30 children paired with the “  20  ” tester  participated in a follow-up activity.\n1. [A] on[B] like[C] for[D] from\n2. [A] faith[B] concern[C] attention[D] interest\n3. [A] benefit[B] debt[C] hope[D] price\n4. [A] Therefore[B] Then[C] Instead[D] Again\n5. [A] Until[B] Unless[C] Although[D] When\n6. [A] selects[B] produces[C] applies[D] maintains\n7. [A] consult[B] compete[C] connect[D] compare\n8. [A] at[B] by[C] of[D] to\n9. [A] context[B] mood[C] period[D] circle\n10. [A] counterparts[B] substitutes[C] colleagues[D] supporters\n11. [A] Funny[B] Lucky[C] Odd[D] Ironic\n12. [A] monitor[B] protect[C] surprise[D] delight\n13. [A] between[B] within[C] toward[D] over\n14. [A] transferred[B] added[C] introduced[D] entrusted\n15. [A] out[B] back[C] around[D] inside\n16. [A] discovered[B] proved[C] insisted[D] remembered\n17. [A] betrayed[B] wronged[C] fooled[D] mocked\n18. [A] forced[B] willing[C] hesitant[D] entitled\n19. [A] In[B] As[C] On[D] For\n20. [A] inflexible[B] incapable[C] unreliable[D] unsuitable"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; A; D; B; D; B; C; D; B; A; B; B; A; C; D; A; C; B; A; C"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f129ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a295d-6b44-11ee-8351-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nToday we live in a world where GPS systems, digital maps, and other navigation apps are available on our smartphones.     1    of us just walk straight into the woods without a phone. But phones    2    on batteries, and batteries can die faster than we realize.    3    you  get  lost without a phone or a  compass,  and you    4   can’t find north, we have a few tricks to help you navigate    5    to civilization, one of which is  to follow the land.\nWhen you find yourself well     6     a trail, but not in a completely    7     area, you  have to answer two questions: Which     8    is downhill,  in this particular area? And where is the nearest water source? Humans overwhelmingly live in valleys, and on supplies of fresh water.      9     , if you head downhill, and follow any H2O you find, you should    10    see signs of people.\nIf you’ve explored the area before, keep an eye out for familiar sights – you may be    11     how quickly identifying a distinctive rock or tree can restore your bearings.\nAnother   12   : Climb high and look for  signs of human habitation.    13    ,  even in dense forest, you should be able to   14    gaps in the tree line due to roads,   train  tracks,   and  other  paths   people  carve    15    the  woods.  Head  toward  these    16   to find a way out. At night, scan the horizon for   17    light sources, such as fires and streetlights, then walk toward the glow of light pollution.\n     18   , assuming you’re  lost  in  an area  humans  tend  to  frequent, look  for the      19     we leave on the landscape. Trail blazes, tire tracks, and other features   can    20    you to civilization.\n1. [A] Some[B] Most[C] Few[D] All\n2. [A] put[B] take[C] run[D] come\n3. [A] Since[B] If[C] Though[D] Until\n4. [A] formally[B] relatively[C] gradually[D] literally\n5. [A] back[B] next[C] around[D] away\n6. [A] onto[B] off[C] across[D] alone\n7. [A] unattractive[B] uncrowded[C] unchanged[D] unfamiliar\n8. [A] site[B] point[C] way[D] place\n9. [A] So[B] Yet[C] Instead[D] Besides\n10. [A] immediately[B] intentionally[C] unexpectedly[D] eventually\n11. [A] surprised[B] annoyed[C] frightened[D] confused\n12. [A] problem[B] option[C] view[D] result\n13. [A] Above[B] In[C] On[D] For\n14. [A] bridge[B] avoid[C] spot[D] separate\n15. [A] from[B] through[C] beyond[D] under\n16. [A] posts[B] links[C] shades[D] breaks\n17. [A] artificial[B] mysterious[C] hidden[D] limited\n18. [A] Finally[B] Consequently[C] Incidentally[D] Generally\n19. [A] memories[B] marks[C] notes[D] belongings\n20. [A] restrict[B] adopt[C] lead[D] expose"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; C; B; D; A; B; D; C; A; D; A; B; D; C; B; D; A; A; B; C"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f129d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "4d9a295e-6b44-11ee-a919-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nEven if families don’t sit down to eat together as frequently as before, millions of Britons will nonetheless have got a share this weekend of one of that nation’s great traditions:the Sunday roast.    1    a cold winter’s day, few culinary pleasures can          2     it. Yet as we report now, the food police are determined that this    3      should be rendered yet another guilty pleasure    4    to damage our health.\nThe Food Standards Authority (FSA) has     5      a public warning about the risks of a compound called acrylamide that forms in some foods cooked   6   high temperatures. This means that people should     7     crisping their roast potatoes, reject thin- crust pizzas and only      8      toast their bread.But where is the evidence to support such alarmist advice?     9     studies have shown that acrylamide can cause neurological damage in mice, there is no     10      evidence that it causes cancer in humans.\nScientists say the compound is    11    to cause cancer but have no hard scientific proof    12     the precautionary principle,  it could be argued that it is     13    to follow the FSA advice.    14    , it was rumoured that smoking caused cancer for years before the evidence was found to prove a    15    .\nDoubtless a piece of boiled beef can always be    16    up on Sunday alongside some steamed vegetables, without the Yorkshire pudding and no wine. But would life be worth living?   17   , the FSA says it is not telling people to cut out roast foods    18    ,but to reduce their lifetime intake. However, their     19     risks coming a cross as being pushy and overprotective.Constant health scares just    20    with    one listening.\n1. [A] In[B] Towards[C] On[D]Till\n2. [A] match[B] express[C] satisfy[D] influence\n3. [A] patience[B] enjoyment[C] surprise[D] concern\n4. [A] intensified[B] privileged[C] compelled[D] guaranteed\n5. [A] issued[B] received[C] ignored[D] cancelled\n6. [A] under[B] at[C] for[D] by\n7. [A] forget[B] regret[C] finish[D] avoid\n8. [A] partially[B] regularly[C] easily[D] initially\n9. [A] Unless[B] Since[C] If[D] While\n10. [A] secondary[B] external[C] conclusive[D] negative\n11. [A] insufficient[B] bound[C] likely[D] slow\n12. [A] On[B] At[C] In[D] In\n13. [A] interesting[B] advisable[C] urgent[D] fortunate\n14. [A] As[B] In[C] By[D] After\n15. [A] resemblance[B] combination[C] connection[D] pattern\n16. [A] made[B] served[C] saved[D] used\n17. [A] To[B] For[C] To[D] In\n18. [A] reluctantly[B] entirely[C] gradually[D] carefully\n19. [A] promise[B] experience[C]campaign[D] competition\n20. [A] follow[B] pick[C]open[D] end"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; A; B; D; A; B; D; A; D; C; C; A; B; D; C; B; A; B; C; D"
+	}
+]

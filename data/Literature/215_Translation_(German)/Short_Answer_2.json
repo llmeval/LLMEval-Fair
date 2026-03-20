@@ -1,0 +1,5702 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0159e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42850-6bdf-11ee-b5b9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:AOK"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大众疾病保险地方管理处。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01698-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42851-6bdf-11ee-8d4d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:DAX"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德国股票指数(德国股指。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f016d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42852-6bdf-11ee-b91a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:DIN"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德国工业标准。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01706-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42853-6bdf-11ee-b45f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:FDP"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自由民主党。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01738-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42854-6bdf-11ee-920e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:IHK"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "工商业联合会/国际商会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01760-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42855-6bdf-11ee-80dd-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:ICE"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "城际特快列车。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01788-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42856-6bdf-11ee-8063-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:ISBN"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国际标准书号。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f017ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42857-6bdf-11ee-a06b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:OECD"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济合作与发展组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f017ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42858-6bdf-11ee-86f3-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Okotourismus"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态旅游。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01814-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42859-6bdf-11ee-ac29-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Bruttosozialprodukt"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国民生产总值。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0183c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4285a-6bdf-11ee-8b82-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Elektromobilitat"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "电动汽车。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0186e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4285b-6bdf-11ee-9ce2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Rechtsstaatsdialog"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法治国家对话。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01896-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4285c-6bdf-11ee-afc8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Inflation"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通货膨胀。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f018c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4285d-6bdf-11ee-ac03-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Solidaritatszuschlag"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "团结附加税。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f018fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4285e-6bdf-11ee-af2c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Koalitionspartei"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "联盟党。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01922-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4285f-6bdf-11ee-8b7c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:标本兼治"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "sowohl die Symtome als auch die Ursachen behandeln; die Erscheinung und ihreUrsache gleichzeitig behandeln。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01954-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42860-6bdf-11ee-8459-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:恢复生态平衡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "das ökologische Gleichgewicht wiederherstellen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01986-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42861-6bdf-11ee-b5ea-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:城市结构转型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die stadtische Umstrukturierung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f019ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42862-6bdf-11ee-b9da-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:科学发展观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "das wissenschaftliche Entwicklungskonzept。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f019d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42863-6bdf-11ee-92c5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:中低收入者"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Durchschnitts-und Wenigverdienende。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01a08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42864-6bdf-11ee-ad16-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:小康社会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "eine Gesellschaft mit bescheidenem Wohlstand。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01a30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42865-6bdf-11ee-89c9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:依法治国"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Staatsverwaltung nach Recht und Gesetz; rechtstaatlich verwalten。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01a62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42866-6bdf-11ee-8744-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:形式主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Formatismus。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01a8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42867-6bdf-11ee-b300-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:中小企业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die mittelstandischen und kleinen Unternehmen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01ab2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42868-6bdf-11ee-8e63-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:劳动密集型行业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die arbeitsintensiven Branchen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01ae4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42869-6bdf-11ee-ab56-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:素质教育"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "auf die allgemeine Hebung des Kulturniveaus abzielende Erziehung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01b0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4286a-6bdf-11ee-ac3c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:教学相长"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Lehrende und Lernende wachsen aneinander; Lehren und Lernen ergänzt sich und fordert sich gegenseitig。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01b3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4286b-6bdf-11ee-a165-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:中庸之道"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der goldene Mittelweg。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01b66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4286c-6bdf-11ee-9dcf-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:自强不息"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "unermüdlich vorwärtsstreben; mit groBem FleiB und Eifer aufstreben。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01b98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4286d-6bdf-11ee-b998-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:以人为本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "den Menschen in den Mittelpunkt stellen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01bc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4286e-6bdf-11ee-9fa6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:APEC"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "亚太经济合作组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01be8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4286f-6bdf-11ee-9bfb-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:DAAD"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德意志学术交流中心。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01c1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42870-6bdf-11ee-b918-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:CeBIT"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汉诺威消费电子、信息及通信博览会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01c42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42871-6bdf-11ee-aa8a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:AG"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "股份公司。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01c74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42872-6bdf-11ee-9291-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:CDU"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基民盟。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01c9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42873-6bdf-11ee-b07a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:FKK"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "裸体主义。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01cce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da42874-6bdf-11ee-bcc7-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:UNESC"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "联合国教科文组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01cf6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f53-6bdf-11ee-bf4c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:ZDF"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德国电视二台。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01d1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f54-6bdf-11ee-a3ff-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Fiskalpolitik"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "财政政策。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01d50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f55-6bdf-11ee-91a4-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Pilotprojekt"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "试点项目。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01d78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f56-6bdf-11ee-ab0e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Volkerwanderung"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民族大迁移；大批移民。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01daa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f57-6bdf-11ee-9346-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Aufenthaltstitel"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "居留许可。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01dd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f58-6bdf-11ee-b7ed-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Minderheitsregierung"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "少数派(组成)的政府。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01dfa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f59-6bdf-11ee-83ee-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Asylbewerber"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "寻求政治避难者。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01e2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f5a-6bdf-11ee-87e7-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Kabinettssitzung"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内阁会议。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01e54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f5b-6bdf-11ee-93ad-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:学分制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Leistungspunktsystem zur Beurteilung von Studenten durch Verwendung vonCredits。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01e86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f5c-6bdf-11ee-afd9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:老字号"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "alteingesessenes Geschaft。。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01eae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f5d-6bdf-11ee-9683-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:祝酒词"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Tischrede。。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01ee0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f5e-6bdf-11ee-9add-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:经适房"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Wohnungen fur einkommensschwache Bewohner。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01f08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f5f-6bdf-11ee-be62-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:因地制宜"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Rücksicht auf die örtlichen Bedingungen nehmen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01f3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f60-6bdf-11ee-85df-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:网络犯罪"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Cyber-Verbrechen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01f62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f61-6bdf-11ee-958f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:丝绸之路"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "SeidenstraBe。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01f8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f62-6bdf-11ee-8efe-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:同工同酬"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gleiche Arbeit,gleicher Lohn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01fbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f63-6bdf-11ee-9799-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:调整产业结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Industriestruktur regulieren。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f01fe4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f64-6bdf-11ee-971e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:社会弱势群体"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "schwache Bevolkerungsschichten der Gesellschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0200c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f65-6bdf-11ee-b891-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:下岗职工"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die freigestellten Arbeiter。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0203e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f66-6bdf-11ee-a1be-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:与人为善"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "anderen Wohlwollen entgegenbringen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02066-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f67-6bdf-11ee-932c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:精神文明"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die geistige Zivilisation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02098-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f68-6bdf-11ee-a99d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:良莠不齐"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Darunter gibt es gute und schlechte Menschen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f020ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f69-6bdf-11ee-8cf0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:天道酬勤"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Wer fleiBig arbeitet, wird reich belohnt; ohne FleiB kein Preis。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f020f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f6a-6bdf-11ee-b5cb-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:ZDF"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德国电视二台。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02124-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f6b-6bdf-11ee-94e5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:BWL"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业经济学。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0214c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f6c-6bdf-11ee-b56e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:DPA"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德新社。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02174-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f6d-6bdf-11ee-96ea-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:FAZ"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法兰克福汇报。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f021a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f6e-6bdf-11ee-b266-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:IHK"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "工商业联合会/国际商会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f021ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f6f-6bdf-11ee-abb7-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:GmbH"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有限责任公司。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02200-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f70-6bdf-11ee-8d58-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:ISBN"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国际标准书号。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02228-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f71-6bdf-11ee-b2f8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:OECD"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济合作与发展组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02250-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f72-6bdf-11ee-9870-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Asylrecht"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "庇护权/政治避难权。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02282-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f73-6bdf-11ee-91df-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Bruttoinlandsprodukt"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国内生产总值。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f022b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f74-6bdf-11ee-a5cf-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Ballungsraum"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人口稠密地区/工业集中地区。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f022dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f75-6bdf-11ee-bee9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Rechtsstaatsdialog"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法治国家对话。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0230e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f76-6bdf-11ee-8e91-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Inflation"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通货膨胀。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02336-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f77-6bdf-11ee-8184-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Regierungskonsultationen"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政府磋商。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02368-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f78-6bdf-11ee-ac62-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Referendum"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全民公决/全民投票。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02390-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f79-6bdf-11ee-90d2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:创客"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "innovationsfreudige Macher。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f023c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f7a-6bdf-11ee-9eef-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:新常态"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Zustand der neuen Normalitat。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f023ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f7b-6bdf-11ee-921b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:一带一路"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Wirtschaftsgirtel Seidenstrabe und die maritime SeidenstraBe des 21.Jahrhunderts。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0241c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f7c-6bdf-11ee-bf81-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:转变政府职能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Umwandlung der Funktionen der Regierung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0244e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f7d-6bdf-11ee-95c2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:中低收入者"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Durchschnitts-und Wenigverdienende。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02476-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f7e-6bdf-11ee-9a27-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:小康社会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "eine Gesellschaft mit bescheidenem Wohlstand。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f024a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f7f-6bdf-11ee-8083-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:依法治国"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Staatsverwaltung nach Recht und Gesetz; rechtstaatlich verwalten。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f024d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f80-6bdf-11ee-a51c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:爱国主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Patriotismus。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02502-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f81-6bdf-11ee-9aae-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:廉洁政府"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "eine integre Regierung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0252a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f82-6bdf-11ee-951b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:技术密集型行业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die technologieintensiven Branchen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0255c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f83-6bdf-11ee-8d0a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:互通有无"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "auf beiden Seiten benötigte Waren austauschen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02584-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f84-6bdf-11ee-adce-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:教学相长"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Lehrende und Lernende wachsen aneinander; Lehren und Lernen erganzt sich und fordert sich gegenseitig。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f025ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f85-6bdf-11ee-a18c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:远道而来"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "von weit her kommen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f025de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f86-6bdf-11ee-8097-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:自强不息"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "unermüdlich vorwärtsstreben; mit groBem FleiB und Eifer aufstreben。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02606-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f87-6bdf-11ee-bcf5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:一视同仁"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "jemanden. gleichberechtigt / ganz gleich behandeln。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02638-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f88-6bdf-11ee-8987-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: KMU"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中小企业。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02660-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f89-6bdf-11ee-8f44-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: CeBIT"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "电子科技工业博览会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02692-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f8a-6bdf-11ee-a25c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: FDP"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自由民主党。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f026ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f8b-6bdf-11ee-84d8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: DDR"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民主德国。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f026ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f8c-6bdf-11ee-ab7b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: WH"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "世界贸易组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02714-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f8d-6bdf-11ee-a24f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: WDR"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "西德广播电视台。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0273c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f8e-6bdf-11ee-accb-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Pressekonferenz"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "媒体发布会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0276e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f8f-6bdf-11ee-aad5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Menschenrechtsdialog"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权对话。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02796-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f90-6bdf-11ee-a5b1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Marktzugang"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "市场准入。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f027c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f91-6bdf-11ee-bbff-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Autoauspuff"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汽车尾气排放。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f027f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da44f92-6bdf-11ee-982a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Investitionsabkommen"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "投资协议。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02822-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4766c-6bdf-11ee-ad83-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Sonderverwaltungszone"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特别行政区。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0284a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4766d-6bdf-11ee-86a0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Schicksalsgemeinschaft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "命运共同体。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0287c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47790-6bdf-11ee-ace1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Innovationsforum"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "创新论坛。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f028a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47791-6bdf-11ee-9f53-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Lerngesellschaft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学习型社会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f028d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4786d-6bdf-11ee-bdcd-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:市场监管"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Marktüberwachung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f028fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4786e-6bdf-11ee-b900-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:文化遗产"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Die Kulturerbe。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02930-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4786f-6bdf-11ee-8820-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:学术交流"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Akademischer Austausch。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02958-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47870-6bdf-11ee-9ff6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:应用导向型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "anwendungsorientiert。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02980-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47871-6bdf-11ee-a843-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:贸易保护主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Handelsprotektionismus。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f029b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47872-6bdf-11ee-b881-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:金融货币体系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Finanz- und Währungssystem。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f029da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47873-6bdf-11ee-94b6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:流动人口"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Wanderarbeiter。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02a0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47874-6bdf-11ee-9bb1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:智能交通系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "intelligentes Verkehrssystem。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02a34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47875-6bdf-11ee-9d0f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:老龄化社会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die alternde Gesellschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02a66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47876-6bdf-11ee-90d3-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:循环经济"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Kreislaufwirtschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02a8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47877-6bdf-11ee-9834-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:网络磋商"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Cyber-Konsultation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02ab6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47878-6bdf-11ee-9514-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:初创企业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Start-ups。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02ae8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47879-6bdf-11ee-a7d5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:共塑未来"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gemeinsam Zukunft gestalten。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02b10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4787a-6bdf-11ee-8e3b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:互利共赢"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gegenseitiger Nutzen und Gewinn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02b42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4787b-6bdf-11ee-b816-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:自贸区"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Freihandelszone。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02b6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4787c-6bdf-11ee-ad0a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: KMU"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中小企业。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02b9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4787d-6bdf-11ee-b0aa-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: CeBIT"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "电子科技工业博览会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02bc4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4787e-6bdf-11ee-b109-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: FDP"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自由民主党。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02bf6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4787f-6bdf-11ee-baf9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: DDR"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民主德国。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02c28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47880-6bdf-11ee-bdbc-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: WH"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "世界贸易组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02c50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47881-6bdf-11ee-98a4-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: WDR"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "西德广播电视台。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02c82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47882-6bdf-11ee-8902-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Pressekonferenz"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "媒体发布会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02caa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47883-6bdf-11ee-a8ba-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Menschenrechtsdialog"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权对话。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02cdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47884-6bdf-11ee-8575-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Marktzugang"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "市场准入。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02d0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47885-6bdf-11ee-bd00-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Autoauspuff"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汽车尾气排放。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02d36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47886-6bdf-11ee-85ae-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Investitionsabkommen"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "投资协议。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02d5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47887-6bdf-11ee-b540-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Sonderverwaltungszone"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特别行政区。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02d90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47888-6bdf-11ee-b53d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Schicksalsgemeinschaft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "命运共同体。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02dc2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47889-6bdf-11ee-a518-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Innovationsforum"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "创新论坛。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02dea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4788a-6bdf-11ee-96b8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Lerngesellschaft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学习型社会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02e1c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4788b-6bdf-11ee-898a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:市场监管"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Marktüberwachung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02e44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4788c-6bdf-11ee-b74c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:文化遗产"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Die Kulturerbe。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02e76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4788d-6bdf-11ee-8db7-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:学术交流"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Akademischer Austausch。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02e9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4788e-6bdf-11ee-bbd0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:应用导向型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "anwendungsorientiert。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02ec6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4788f-6bdf-11ee-95a0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:贸易保护主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Handelsprotektionismus。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02ef8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47890-6bdf-11ee-8c1d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:金融货币体系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Finanz- und Währungssystem。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02f2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47891-6bdf-11ee-93a4-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:流动人口"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Wanderarbeiter。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02f52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47892-6bdf-11ee-a6b8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:智能交通系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "intelligentes Verkehrssystem。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02f7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47893-6bdf-11ee-a0f7-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:老龄化社会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die alternde Gesellschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02fac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47894-6bdf-11ee-b0ca-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:循环经济"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Kreislaufwirtschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f02fd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47895-6bdf-11ee-b793-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:网络磋商"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Cyber-Konsultation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03006-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47896-6bdf-11ee-b646-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:初创企业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Start-ups。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0302e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47897-6bdf-11ee-8a88-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:共塑未来"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gemeinsam Zukunft gestalten。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03060-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47898-6bdf-11ee-b154-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:互利共赢"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gegenseitiger Nutzen und Gewinn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03088-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da47899-6bdf-11ee-a10f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:自贸区"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Freihandelszone。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f030ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4789a-6bdf-11ee-93e0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:AOK"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大众疾病保险地方管理处。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f030e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4789b-6bdf-11ee-84b4-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:DAX"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德国股票指数(德国股指。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03114-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4789c-6bdf-11ee-97f8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:DIN"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德国工业标准。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03146-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4789d-6bdf-11ee-ab8a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:FDP"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自由民主党。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0316e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4789e-6bdf-11ee-a6cd-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:IHK"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "工商业联合会/国际商会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03196-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4789f-6bdf-11ee-942a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:ICE"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "城际特快列车。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f031d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a0-6bdf-11ee-8be3-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:ISBN"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国际标准书号。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03204-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a1-6bdf-11ee-b902-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:OECD"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济合作与发展组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0322c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a2-6bdf-11ee-90c5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Okotourismus"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态旅游。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0325e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a3-6bdf-11ee-98be-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Bruttosozialprodukt"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国民生产总值。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03286-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a4-6bdf-11ee-8c10-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Elektromobilitat"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "电动汽车。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f032b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a5-6bdf-11ee-aa77-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Rechtsstaatsdialog"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法治国家对话。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f032e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a6-6bdf-11ee-8401-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Inflation"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通货膨胀。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03312-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a7-6bdf-11ee-8ba9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Solidaritatszuschlag"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "团结附加税。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0333a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a8-6bdf-11ee-a0b4-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Koalitionspartei"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "联盟党。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0336c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478a9-6bdf-11ee-8b59-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:标本兼治"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "sowohl die Symtome als auch die Ursachen behandeln; die Erscheinung und ihreUrsache gleichzeitig behandeln。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03394-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478aa-6bdf-11ee-a649-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:恢复生态平衡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "das ökologische Gleichgewicht wiederherstellen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f033c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478ab-6bdf-11ee-a169-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:城市结构转型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die stadtische Umstrukturierung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f033ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478ac-6bdf-11ee-bf35-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:科学发展观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "das wissenschaftliche Entwicklungskonzept。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03420-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478ad-6bdf-11ee-bb2b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:中低收入者"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Durchschnitts-und Wenigverdienende。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03452-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478ae-6bdf-11ee-b96e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:小康社会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "eine Gesellschaft mit bescheidenem Wohlstand。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0347a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478af-6bdf-11ee-bd2a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:依法治国"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Staatsverwaltung nach Recht und Gesetz; rechtstaatlich verwalten。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f034ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478b0-6bdf-11ee-9d79-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:形式主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Formatismus。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f034d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478b1-6bdf-11ee-874f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:中小企业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die mittelstandischen und kleinen Unternehmen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03506-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478b2-6bdf-11ee-9c52-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:劳动密集型行业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die arbeitsintensiven Branchen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0352e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478b3-6bdf-11ee-a072-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:素质教育"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "auf die allgemeine Hebung des Kulturniveaus abzielende Erziehung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03560-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478b4-6bdf-11ee-98d0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:教学相长"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Lehrende und Lernende wachsen aneinander; Lehren und Lernen ergänzt sich und fordert sich gegenseitig。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03592-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478b5-6bdf-11ee-84f7-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:中庸之道"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der goldene Mittelweg。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f035ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da478b6-6bdf-11ee-9026-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:自强不息"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "unermüdlich vorwärtsstreben; mit groBem FleiB und Eifer aufstreben。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f035ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f7f-6bdf-11ee-ba3b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:以人为本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "den Menschen in den Mittelpunkt stellen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0361e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f80-6bdf-11ee-aa62-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:APEC"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "亚太经济合作组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0368c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f81-6bdf-11ee-8698-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:DAAD"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德意志学术交流中心。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f036d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f82-6bdf-11ee-96a1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:CeBIT"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汉诺威消费电子、信息及通信博览会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03704-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f83-6bdf-11ee-a44c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:AG"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "股份公司。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0372c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f84-6bdf-11ee-9c6b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:CDU"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基民盟。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0375e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f85-6bdf-11ee-92f5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:FKK"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "裸体主义。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03786-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f86-6bdf-11ee-b9c9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:UNESC"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "联合国教科文组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f038f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f87-6bdf-11ee-a4b2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:ZDF"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德国电视二台。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f039f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f88-6bdf-11ee-a334-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Fiskalpolitik"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "财政政策。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03a2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f89-6bdf-11ee-9732-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Pilotprojekt"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "试点项目。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03a60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f8a-6bdf-11ee-b6cf-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Volkerwanderung"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民族大迁移；大批移民。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03a92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f8b-6bdf-11ee-9666-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Aufenthaltstitel"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "居留许可。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03aba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f8c-6bdf-11ee-bf1b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Minderheitsregierung"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "少数派(组成)的政府。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03aec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f8d-6bdf-11ee-8d52-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Asylbewerber"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "寻求政治避难者。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03b14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f8e-6bdf-11ee-8738-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为中文:Kabinettssitzung"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内阁会议。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03b3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f8f-6bdf-11ee-9f9d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:学分制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Leistungspunktsystem zur Beurteilung von Studenten durch Verwendung vonCredits。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03b6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f90-6bdf-11ee-ae8d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:老字号"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "alteingesessenes Geschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03b96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f91-6bdf-11ee-99c1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:祝酒词"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Tischrede。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03bc8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f92-6bdf-11ee-9387-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:经适房"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Wohnungen fur einkommensschwache Bewohner。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03bf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f93-6bdf-11ee-a672-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:因地制宜"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Rücksicht auf die örtlichen Bedingungen nehmen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03c22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f94-6bdf-11ee-99b8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:网络犯罪"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Cyber-Verbrechen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03c4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f95-6bdf-11ee-a80c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:丝绸之路"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "SeidenstraBe。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03c7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f96-6bdf-11ee-8d0f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:同工同酬"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gleiche Arbeit,gleicher Lohn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03ca4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f97-6bdf-11ee-afa2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:调整产业结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Industriestruktur regulieren。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03cd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f98-6bdf-11ee-8dea-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:社会弱势群体"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "schwache Bevolkerungsschichten der Gesellschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03cfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f99-6bdf-11ee-ae92-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:下岗职工"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die freigestellten Arbeiter。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03d26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f9a-6bdf-11ee-bcec-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:与人为善"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "anderen Wohlwollen entgegenbringen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03d58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f9b-6bdf-11ee-9747-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:精神文明"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die geistige Zivilisation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03d80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f9c-6bdf-11ee-a351-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:良莠不齐"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Darunter gibt es gute und schlechte Menschen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03db2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f9d-6bdf-11ee-bc32-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "翻译以下句子为德语:天道酬勤"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Wer fleiBig arbeitet, wird reich belohnt; ohne FleiB kein Preis。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03dda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f9e-6bdf-11ee-a84b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:ZDF"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德国电视二台。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03e02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49f9f-6bdf-11ee-b8ab-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:BWL"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业经济学。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03e34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa0-6bdf-11ee-ad48-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:DPA"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德新社。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03e5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa1-6bdf-11ee-b114-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:FAZ"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法兰克福汇报。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03e84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa2-6bdf-11ee-831e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:IHK"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "工商业联合会/国际商会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03eb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa3-6bdf-11ee-aed9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:GmbH"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有限责任公司。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03ede-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa4-6bdf-11ee-9d84-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:ISBN"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国际标准书号。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03f06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa5-6bdf-11ee-a8c7-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:OECD"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济合作与发展组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03f38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa6-6bdf-11ee-b380-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Asylrecht"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "庇护权/政治避难权。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03f60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa7-6bdf-11ee-a4ce-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Bruttoinlandsprodukt"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国内生产总值。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03f88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa8-6bdf-11ee-ba20-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Ballungsraum"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人口稠密地区/工业集中地区。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03fba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fa9-6bdf-11ee-a498-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Rechtsstaatsdialog"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法治国家对话。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f03fe2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49faa-6bdf-11ee-8924-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Inflation"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通货膨胀。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0400a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fab-6bdf-11ee-891e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Regierungskonsultationen"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政府磋商。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0403c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fac-6bdf-11ee-a6c9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文:Referendum"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全民公决/全民投票。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04064-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fad-6bdf-11ee-9bef-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:创客"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "innovationsfreudige Macher。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04096-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fae-6bdf-11ee-a316-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:新常态"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Zustand der neuen Normalitat。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f040be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49faf-6bdf-11ee-bfb2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:一带一路"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Wirtschaftsgirtel Seidenstrabe und die maritime SeidenstraBe des 21.Jahrhunderts。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f040f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb0-6bdf-11ee-be56-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:转变政府职能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Umwandlung der Funktionen der Regierung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb1-6bdf-11ee-8993-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:中低收入者"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Durchschnitts-und Wenigverdienende。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb2-6bdf-11ee-ae63-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:小康社会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "eine Gesellschaft mit bescheidenem Wohlstand。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb3-6bdf-11ee-aaa8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:依法治国"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Staatsverwaltung nach Recht und Gesetz; rechtstaatlich verwalten。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0419a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb4-6bdf-11ee-bc81-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:爱国主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Patriotismus。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f041c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb5-6bdf-11ee-b3d6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:廉洁政府"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "eine integre Regierung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f041f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb6-6bdf-11ee-8551-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:技术密集型行业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die technologieintensiven Branchen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0421c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb7-6bdf-11ee-a0c4-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:互通有无"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "auf beiden Seiten benötigte Waren austauschen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04244-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb8-6bdf-11ee-9c3c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:教学相长"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Lehrende und Lernende wachsen aneinander; Lehren und Lernen erganzt sich und fordert sich gegenseitig。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0426c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fb9-6bdf-11ee-b219-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:远道而来"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "von weit her kommen。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0429e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fba-6bdf-11ee-a86a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:自强不息"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "unermüdlich vorwärtsstreben; mit groBem FleiB und Eifer aufstreben。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f042c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fbb-6bdf-11ee-a479-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将以下短语翻译成德语:一视同仁"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "jemanden. gleichberechtigt / ganz gleich behandeln。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f042f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fbc-6bdf-11ee-a818-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: KMU"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中小企业。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04320-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fbd-6bdf-11ee-82a3-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: CeBIT"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "电子科技工业博览会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fbe-6bdf-11ee-b547-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: FDP"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自由民主党。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0437a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fbf-6bdf-11ee-9a61-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: DDR"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民主德国。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f043a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc0-6bdf-11ee-9ca1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: WH"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "世界贸易组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f043d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc1-6bdf-11ee-be34-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: WDR"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "西德广播电视台。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f043fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc2-6bdf-11ee-a400-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Pressekonferenz"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "媒体发布会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04424-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc3-6bdf-11ee-95a1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Menschenrechtsdialog"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权对话。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04456-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc4-6bdf-11ee-90f2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Marktzugang"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "市场准入。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0447e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc5-6bdf-11ee-a29f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Autoauspuff"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汽车尾气排放。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f044a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc6-6bdf-11ee-8695-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Investitionsabkommen"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "投资协议。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f044d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc7-6bdf-11ee-815e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Sonderverwaltungszone"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特别行政区。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04500-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc8-6bdf-11ee-aa5b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Schicksalsgemeinschaft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "命运共同体。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fc9-6bdf-11ee-9efc-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Innovationsforum"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "创新论坛。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0455a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fca-6bdf-11ee-ba7b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Lerngesellschaft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学习型社会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04582-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fcb-6bdf-11ee-803c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:市场监管"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Marktüberwachung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f045aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fcc-6bdf-11ee-b2ea-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:文化遗产"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Die Kulturerbe。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f045dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fcd-6bdf-11ee-be59-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:学术交流"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Akademischer Austausch。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04604-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da49fce-6bdf-11ee-9fa2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:应用导向型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "anwendungsorientiert。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0462c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c694-6bdf-11ee-99d9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:贸易保护主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Handelsprotektionismus。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0465e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c695-6bdf-11ee-9f5e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:金融货币体系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Finanz- und Währungssystem。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04686-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c696-6bdf-11ee-a966-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:流动人口"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Wanderarbeiter。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f046b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c697-6bdf-11ee-b6e6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:智能交通系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "intelligentes Verkehrssystem。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f046e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c698-6bdf-11ee-b59c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:老龄化社会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die alternde Gesellschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04708-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c699-6bdf-11ee-b2bc-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:循环经济"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Kreislaufwirtschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0473a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c69a-6bdf-11ee-b94b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:网络磋商"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Cyber-Konsultation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04762-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c69b-6bdf-11ee-ada4-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:初创企业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Start-ups。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04794-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c69c-6bdf-11ee-8eeb-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:共塑未来"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gemeinsam Zukunft gestalten。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f047bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c69d-6bdf-11ee-bf9f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:互利共赢"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gegenseitiger Nutzen und Gewinn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f047ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c69e-6bdf-11ee-b985-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:自贸区"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Freihandelszone。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04816-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c69f-6bdf-11ee-94cb-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: KMU"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中小企业。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0483e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a0-6bdf-11ee-b379-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: CeBIT"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "电子科技工业博览会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04866-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a1-6bdf-11ee-9681-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: FDP"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自由民主党。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04898-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a2-6bdf-11ee-ab78-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: DDR"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民主德国。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f048c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a3-6bdf-11ee-98ae-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: WH"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "世界贸易组织。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f048f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a4-6bdf-11ee-b129-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: WDR"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "西德广播电视台。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0491a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a5-6bdf-11ee-a5ba-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Pressekonferenz"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "媒体发布会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a6-6bdf-11ee-a16f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Menschenrechtsdialog"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权对话。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0496a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a7-6bdf-11ee-b520-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Marktzugang"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "市场准入。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0499c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a8-6bdf-11ee-9cf6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Autoauspuff"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汽车尾气排放。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f049c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6a9-6bdf-11ee-9c40-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Investitionsabkommen"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "投资协议。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f049ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6aa-6bdf-11ee-9d7f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Sonderverwaltungszone"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特别行政区。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04a14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6ab-6bdf-11ee-97c0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Schicksalsgemeinschaft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "命运共同体。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04a46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6ac-6bdf-11ee-92d2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Innovationsforum"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "创新论坛。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04a6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6ad-6bdf-11ee-8645-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下缩写和术语翻译成中文: Lerngesellschaft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学习型社会。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04a96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6ae-6bdf-11ee-ac44-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:市场监管"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Marktüberwachung。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04ac8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6af-6bdf-11ee-aca2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:文化遗产"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Die Kulturerbe。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04af0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b0-6bdf-11ee-be7c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:学术交流"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Akademischer Austausch。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04b22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b1-6bdf-11ee-966d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:应用导向型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "anwendungsorientiert。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04b4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b2-6bdf-11ee-96a9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:贸易保护主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Handelsprotektionismus。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04b7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b3-6bdf-11ee-95e6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:金融货币体系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Finanz- und Währungssystem。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04ba4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b4-6bdf-11ee-b235-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:流动人口"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Wanderarbeiter。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04bd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b5-6bdf-11ee-9e3d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:智能交通系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "intelligentes Verkehrssystem。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04bfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b6-6bdf-11ee-a535-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:老龄化社会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die alternde Gesellschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04c26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b7-6bdf-11ee-a4ec-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:循环经济"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "der Kreislaufwirtschaft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04c4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b8-6bdf-11ee-887a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:网络磋商"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Cyber-Konsultation。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04c80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6b9-6bdf-11ee-83ec-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:初创企业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Start-ups。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04ca8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6ba-6bdf-11ee-a159-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:共塑未来"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gemeinsam Zukunft gestalten。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04cd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6bb-6bdf-11ee-9f3f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:互利共赢"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "gegenseitiger Nutzen und Gewinn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f04d02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7da4c6bc-6bdf-11ee-9b50-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将以下短语翻译成德语:自贸区"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "die Freihandelszone。"
+	}
+]

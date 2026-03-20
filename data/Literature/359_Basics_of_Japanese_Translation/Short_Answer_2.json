@@ -1,0 +1,3498 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a3cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "326281c6-6b63-11ee-bcc1-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 边缘化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "窓際化"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a4d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263451c-6b63-11ee-9aa7-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 签字仪式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "調印式"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a516-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263451d-6b63-11ee-81f1-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 剖腹产"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "帝王切開"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a53e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263451e-6b63-11ee-bec4-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 导盲犬"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "盲導犬"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a570-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263451f-6b63-11ee-a73f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 团队精神"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集団主義精神"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a5a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634520-6b63-11ee-aedc-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 日本制造"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "日本製"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a5ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634521-6b63-11ee-ab4f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 推荐信"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "推薦状"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a5fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634522-6b63-11ee-a271-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 出口商品"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "輸出製品"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a624-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634523-6b63-11ee-b21b-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 顾虑"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "懸念"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a64c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634524-6b63-11ee-a63c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 记者招待会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "記者会見"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a67e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634525-6b63-11ee-9772-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 工匠"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "職人"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a6a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634526-6b63-11ee-afab-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 疲软"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "軟調"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a6ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634527-6b63-11ee-80b2-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 绿色蔬菜"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "無公害野菜"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a700-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634528-6b63-11ee-9db8-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 民意测验"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "世論調査"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a728-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634529-6b63-11ee-bc05-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 以人为本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人間本位"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a75a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263452a-6b63-11ee-898f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 优柔寡断"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "優柔不断"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a782-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263452b-6b63-11ee-8c88-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 豪言壮语"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大言壮語"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a7b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263452c-6b63-11ee-92a4-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 招商引资活动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "誘致活動"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a7dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263452d-6b63-11ee-b5a3-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 违章停车"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "違法駐車"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a80e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263452e-6b63-11ee-b5e0-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 接地气"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "地域密着運動"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a836-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263452f-6b63-11ee-9ba1-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 新常态"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "新常態"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a85e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634530-6b63-11ee-8763-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 全国⼈民代表⼤会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全国⼈民代表⼤会"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a8b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634531-6b63-11ee-bdc1-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 蓝⽪书"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "青書"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a8e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634532-6b63-11ee-84f3-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: ⽩⽪书"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽩書"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a912-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634533-6b63-11ee-8e30-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 建⽴外交（关系）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国交樹⽴"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a93a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634534-6b63-11ee-876a-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 断绝外交（关系）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国交断絶"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a96c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634535-6b63-11ee-a215-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 亲笔信"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "親書"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a994-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634536-6b63-11ee-afab-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 附件"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "付属書"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a9bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634537-6b63-11ee-a0ee-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 草签"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "仮調印/仮署名"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4a9ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634538-6b63-11ee-9ab7-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 谈判纪录"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": " ⼜上書"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aa20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634539-6b63-11ee-8980-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 周旋，居中调解"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": " 斡旋"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aa48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263453a-6b63-11ee-9de1-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: ⾃然⽣效"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾃然承認"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aa70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263453b-6b63-11ee-a3fe-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 省政府办公厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "省政府弁公室"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aa98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263453c-6b63-11ee-859a-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 司法厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "司法庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aaca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263453d-6b63-11ee-972c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 林业厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "林業庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aaf2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263453e-6b63-11ee-b3b6-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 商务厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "商務庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ab24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263453f-6b63-11ee-b133-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: ⼯业和信息化委员会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼯業と情報化委員会"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ab4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32634540-6b63-11ee-bc01-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 民政厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民政庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ab7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c2c-6b63-11ee-b3e1-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 交通运输厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "交通運輸庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aba6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c2d-6b63-11ee-86a0-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 教育厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "教育庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4abd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c2e-6b63-11ee-8763-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 财政厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "財政庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ac00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c2f-6b63-11ee-a82c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 计⽣委"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "計画⽣育委員会"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ac28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c30-6b63-11ee-8b87-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 环境保护厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "環境保護庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ac5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c31-6b63-11ee-b813-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 科技厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "科学技術庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ac82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c32-6b63-11ee-97b5-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 外事侨务办"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外事弁公室"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4acb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c33-6b63-11ee-ab48-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 农业厅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "農業庁"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4acdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c34-6b63-11ee-8364-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 通信管理局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": " 通信管理局"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ad04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c35-6b63-11ee-a2ea-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 监察局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾼等級道路管理局"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ad2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c36-6b63-11ee-a584-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 黄⾦管理局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": " 黄⾦管理局"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ad5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c37-6b63-11ee-afb7-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 计量局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "計量局"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ad86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c38-6b63-11ee-b628-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 盐务局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "塩務局"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4adb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c39-6b63-11ee-ae6c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: ⾏业管理办"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "産業管理弁公室"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ade0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c3a-6b63-11ee-9248-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 邮政局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "郵便局"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ae08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c3b-6b63-11ee-964e-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: ⼈⾏南昌中⼼⽀⾏"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼈民銀⾏南昌中⼼⽀店"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ae3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c3c-6b63-11ee-b265-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 保监局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "保険監督管理局"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ae62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c3d-6b63-11ee-a576-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 地震局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "地震局"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ae8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c3e-6b63-11ee-9fec-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 烟草专卖局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（煙草）専売局"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aebc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c3f-6b63-11ee-ab5b-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 省政府台湾事务办公室"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "省政府台湾事務所"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aee4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c40-6b63-11ee-b299-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 红⼗字会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾚⼗字社"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4af16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c41-6b63-11ee-af76-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 亚太经济合作组织（APEC）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "アジア太平洋経済協⼒"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4af3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c42-6b63-11ee-8d2e-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 东南亚国家联盟（东盟）（ASEAN）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": " 東南アジア諸国連合"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4af66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c43-6b63-11ee-8454-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 欧洲⾃由贸易联盟（EFTA）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "欧州⾃由貿易連合"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4af98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c44-6b63-11ee-b31d-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 欧洲联盟（EU）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "欧州連合"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4afc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c45-6b63-11ee-8211-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 联合国粮⾷及农业组织（FAO）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国連⾷糧農業機関"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4aff2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c46-6b63-11ee-9bd1-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 国际原⼦能机构（IAEA）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国際原⼦⼒機関"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b01a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c47-6b63-11ee-b008-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 国际劳⼯组织（ILO）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国際労働機関"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b04c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c48-6b63-11ee-a944-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 国际奥林匹克委员会（IOC）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国際オリンピック委員会"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b074-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c49-6b63-11ee-a0e5-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 裁军委员会"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "軍縮委員会"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b0a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c4a-6b63-11ee-8511-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 联合国教科⽂组织"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": " 国連教育科学⽂化機関"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b0ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c4b-6b63-11ee-95d4-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 国际红⼗字"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国際⾚⼗字"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b100-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c4c-6b63-11ee-a68b-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 发烧友"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": " マニア（パソコンマニア、ゲームマニア）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b128-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c4d-6b63-11ee-9107-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 个体户"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "個⼈経営者"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b15a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c4e-6b63-11ee-9558-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 装嫩"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "若作り"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b182-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c4f-6b63-11ee-933d-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 婴⼉服装"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ベビー服"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b1b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c50-6b63-11ee-8c49-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 男⼠服装"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "紳⼠服"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b1dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c51-6b63-11ee-9ffd-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 丝绸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "絹"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b204-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c52-6b63-11ee-a59b-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 电⼒"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "電気"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b236-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c53-6b63-11ee-9c30-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 资源枯竭"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "資源枯渇"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b25e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c54-6b63-11ee-9449-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 地热能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "地熱"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b290-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c55-6b63-11ee-b680-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 风能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾵⼒"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b2b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c56-6b63-11ee-92d6-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 原⼦能发电"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "原⼦⼒発電"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b2e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c57-6b63-11ee-866b-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: ⽔⼒发电"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽔⼒発電"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b312-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c58-6b63-11ee-a4ee-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: ⽕⼒发电"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽕⼒発電"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b33a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c59-6b63-11ee-a08e-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 饮⽤⽔"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "飲料⽔"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b36c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c5a-6b63-11ee-8ceb-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 沙尘暴"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "砂嵐"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b394-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c5b-6b63-11ee-b10d-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 电磁波"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "電磁波"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b3bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c5c-6b63-11ee-b08c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 重做"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "やり直し"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b3e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c5d-6b63-11ee-85d0-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 个⼈电脑"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "パーソナルコンピュータ/パソコン(PC)"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b416-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c5e-6b63-11ee-b995-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 过滤器"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": " フィルタ(filter)"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b43e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c5f-6b63-11ee-9137-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 家庭裁判所"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "家庭法院"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b466-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32636c60-6b63-11ee-96bc-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 戒厳令"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "戒严令"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b498-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263932e-6b63-11ee-b9ff-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 加害者"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "加害⼈"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b4c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263932f-6b63-11ee-bc21-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 牧师"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "牧師"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b4f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639330-6b63-11ee-bfe6-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 宣教⼠"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "宣教師"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b51a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639331-6b63-11ee-bdca-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 僧⼈"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "僧侶"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b542-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639332-6b63-11ee-87e4-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: 住持"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "住職"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b574-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639333-6b63-11ee-ab5e-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列词语翻译成日文: ⼗⼈⼗样，各不相同"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼗⼈⼗⾊"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639334-6b63-11ee-95d3-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 人的一生只有一次青春。现在，青春是用来奋斗的：将来，青春是用来回忆的。人生之路，有坦途也有陡坡，有平川也有险滩，有直道也有弯路。青年面临的选择很多，关键是要以正确的世界观、人生观、价值观来指导自己的选择。无数人生成功的事实表明，青年时代，选择吃苦也就选择了收获，选择奉献也就选择了高尚。青年时期多经历一点摔打、挫折、考验，有利于走好一生的路。要历练宠辱不惊的心理素质，坚定百折不挠的进取意志，保持乐观向上的精神状态，变挫折为动力，用从挫折中吸取的教训启迪人生，使人生获得升华和超越。总之，只有进行了激情奋斗的青春，只有进行了顽强拼搏的青春，只有为人民作出了奉献的青春，才会留下充实、温暖、持久、无悔的青春回忆。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "青春は人生で一回きりのものだ。今の青春一生懸命になって何かを求めるため、明日の青春は過ぎ去った日々を懐かしむためのものである。人生の道のりには、平坦な道があれば坂もあり、平地も険しい浜もあり、時に曲がっていたり、まっすぐだったりするものだ。若者たちは数多くの選択を目の前にしているが、正しい世界観、人生観と価値観で自分の選択を導いて行くことが重要なのだ。幾多と存在する成功談が証明している通り、若いうちに経験した苦労は即ち収穫であり、貢献する事を選んだのは尊さを選んだのと同じである。若いうちに躓き、挫折を、試練を経験しておけば一生を楽に過ごせるためのお膳立てをしていたのと同じだ。何事にも動じない心と何事にも屈しない強い意志、ポジチブなマインドは経験した挫折をモチベーションに変え、それから人生を学び、昇華させる。とにかく、一生懸命に青春を謳歌して見てこそ、大衆のために貢献する青春をおくって見てこそ、後になって懐かしめる充実で暖かく、悔いのない永久に永存する思い出を残すことができるのだ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b5c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639335-6b63-11ee-9bd4-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 自来水非常方便，它能随时提供人们所需要的水。然而，越来越多的人认为用自来水来泡茶、冲咖啡，或是稀释威士忌酒，味道不佳。因此，有许多公司开始贩卖起家庭用的净水器。只要将这种净水器接在家中自来水的水龙头上，就能消除氯之类的味道，使水变得好喝。据说非常畅销。另一方面，富士山附近河流的水既干净又美味的传闻也广为流传。有许多人带着大型容器，开车出门去装水回家。此外，书籍和电视也不断介绍各处名为“美味”的河流。而且，这种水被当作商品陈列在商店里贩卖。不仅百货公司，连超市或车站的自动贩卖机，也都陈列着罐装或者盒装的水。据说有的米店以及卖酒的店铺已经开始提供外国进口的矿泉水送货上门服务。终究连水都成了商品，成为商品的东西岂不是太多了吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "水道水は非常に便利で、人々が必要な時に水源を提供することができる。しかし、多くの人が味が良くないという理由で、水道水を使ってお茶やコーヒーを入れたり、ヴィスキーを希釈したりしなくなった。それがために多くの会社が家庭用の浄水器の商売を始めたのである。このような浄水器を家の中の蛇口に付けるだけで塩素など気に障る匂いを取り除くことができ、水をより美味しくするので、とても人気だそうだ。また、富士山付近の川の水がとてもきれいでおいしいとその名が遠くまで知れているために、多くの人々が車で大きいボトルとかを持ってきて、水をくんでは帰ることもある。それ以外でも書籍やテレビ番組でも「水が美味しい」と有名な川を紹介したり、その水を反したりしている。デパートだけでなくコンビニ、自動販売機などでも缶詰やパックに包装された水を売っていたりするという。ある米屋や酒販売店とかでは既に外国の水を配達するというサービスも始めているだそうだ。水さえも商品になれるとは、商品になれるものに限りはあるだろうか。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b5f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639336-6b63-11ee-8cea-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 佛教产生于古代印度，但传入中国后，经过长期演化，佛教同中国儒家文化和道家文化融合发展，最终形成了具有中国特色的佛教文化，给中国人的宗教信仰、哲学观念、文化艺术、礼仪习俗等留下了深刻影响。中国唐代玄奘西行取经，历尽磨难，体现的是中国人学习域外文化的坚韧精神。根据他的故事演绎的神话小说《西游记》，我想大家都知道。中国人根据中华文化发展了佛教思想，形成了独特的佛教理论，而且使佛教从中国传播到了日本、韩国、东南亚等地。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "仏教は古代インドに発祥しましたが、中国に伝わってから長期の進化を経り、中国儒家文化及び道家文化と融合して発展し、中国特色のある仏教文化になり、中国人の宗教信仰、哲学的な観念、文化、芸術、礼儀、習俗などに深く影響を与えました。中国唐代の僧侶・玄奘が西の天竺へ教義の経典を求め、苦しみをなめ尽くしたことは、中国人が外国文化を学ぶ時の強靭な精神力を表しました。ご存知のように、彼の物語は神話小説『西遊記』に書かれた。中国人は中華文化によって仏教思想を発展し、独特な仏教理論を形成しました。そして、仏教を中国から日本へ、また韓国や東アジアなど各地へ伝わっていた。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b628-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639337-6b63-11ee-bfc2-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 都市的道路旁，立着许许多多的行道树。由于车流量大，排出的废气多，树木也显得毫无生气，叶子的颜色也不太鲜绿。尽管如此，行道树仍能抚慰都市人的心灵。九州某市在调查行道树的生态之后表示，约有半数的行道树受到白蚁的侵害。由于以木为生的白蚊所蚕食的是树心，即使看外表也不知道里面是否有白蚁。有时，也有被白蚁咬成中空的树木，因轻微的碰撞而倒地，压伤行人。白蚁一般是栖住在人类的家里,但因近来木造的房子減少，它们只好移居到行道树。九州因为气候暖和，白蚁似乎特别容易繁殖。而其他地区的行道树，说不定也有白蚁栖住着。行道树只要健康，就不会有白蚁寄生。据说，白蚁是从被车撞伤的伤口进入树中的。因此，白蚁虽说是行道树的天敌。但其真正的敌人却可以说是水泥房屋及汽车。然而，行道树却默默地伸展树枝，为行人服务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "都市の沿道にはたくさんの街路樹が立っている。車両の交通量が多く、排気ガスが多くため、樹木は活気がないように見え、葉っぱの緑もあまり鮮やかではない。それにしても、街路樹は都市の人々の心を癒している。九州のある町は街路樹の生態を調査した後、約半数の街路樹がシロアリに害されると示した。木に寄生するシロアリは木の芯を食うので、外見から見ても中にシロアリがいるかどうかはわからない。時には、シロアリに中を食いつくされた樹木が軽くぶつかれただけで倒れてしまい、通行人に傷を付けることもある。普通では、シロアリは人類の家に住んでいるが、近年木製の建物が減るため、街路樹に移住しに行った。九州は暖かいから、シロアリはとても繁殖しやすいようだ。他の地域の街路樹も、シロアリが住んでいるかもしれない。街路樹は健康すれば、シロアリに寄生されることもない。シロアリは車に付けたれた傷口から樹木に入るという説がある。そこで、街路樹にとっては、シロアリは天敵だが、本当の敵はセメント製の建物と車だと言える。しかし、街路樹は黙々と枝を伸ばして、人々に奉仕している。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b650-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639338-6b63-11ee-b742-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 六月的某日，我早上七点起床，十点赶到驾校，领到了渴望已久的驾照，为此我学了三个月。驾照拿是拿到了，可还没把握上路。结果，和来学驾照时一祥，我还是请家人开车把我接回家的。一到家，这位家人不知是开玩笑还是正经话，说：“这是我长时间替您保管的汽车钥匙，给！”这位家人简直如向敌将缴械的俘虏一般，把挂在皮革钥匙扣上的车钥匙还给了我。我把车钥匙和崭新的驾照放在桌上，久久凝视着。可五六天过去了，这两样东西渐渐变成了我的思想包袱。钥匙也有了。驾照也有了。但坦率地讲，在车辆如此拥挤的市区开车，我还真没有这个胆儿，既害怕被人撞，也怕撞到人。更不知道万一把人给撞伤了该怎么办。这样一想，考取的驾照反而成了一种负担。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "六月某日、私は朝、七時に起きて、十時には自動車学校に駆けつけ、三か月間、あれほどほしかった免許証をもらった。もらったことはもらったが、まだ、これをもって街路をとても運転する自信がない。そこで来た時と同じように家人に車にのせてもらって帰宅した。その家人は家に戻ると皮肉か本気か、「長いこと、おあずかりしていた自動車の鍵ですよ」と皮にぶらさがった車の鍵を、まるで敵の将校に武器を渡す捕虜のように返してきた。私はその鍵と真新しい免許証とを机の上においてながい間ながめていた。ところが五、六日たつとこの二つのものが次第に心の重荷になってきた。鍵もある。免許証もある。だが率直にいって私にはまだとてもこの混雑した市内を運転する自信がないのだ。ぶつけられるのもコワイ。ぶつかるのも恐ろしい。まして他人にけがをさせたらどうしよう。そう思うとこの資格を持ったことが、かえって重荷になってきたのだ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b678-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639339-6b63-11ee-a813-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 11月10日晚，中国国家主席习近平邀请20个国家和地区的领导人出席亚太经合组织（APEC）首脑会议欢迎晚宴。在欢迎晚宴的致辞中，习主席引用网络热词“APEC蓝”来形容连日来的万里晴空，同时表明自己对大气污染问题的高度关注。在晚宴上，习主席说道：“近几天，我每天早晨起来第一件事就是看看北京的空气质量如何，希望雾霾小一些，以便让各位远方的客人到北京时感到舒适一点。我不知道北京在APEC期间的天气会不会好。”另外，他还表示：“有人说，现在北京的蓝天是APEC蓝，美好而短暂，过了这一阵就没了，我希望并相信通过不懈的努力，APEC蓝能够保持下去。”"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国の習近平国家主席は10日夜、アジア太平洋経済協力会議（APEC）首脳会議に参加している20カ国・地域の首脳を招いた歓迎式典であいさつし、このところ続いている晴天を「APECブルー」と表現し、大気汚染問題への自身の高い関心を吐露した。習主席はこの場で「ここ数日、私が毎朝起きてまず最初にすることは（北京の）空気の汚染度がどれほどかを調べることだ。遠方から来る客人が北京で心地よく感じてもらえるよう、霧が少しでも少なければと願っている。APEC首脳会議での天気が良いかどうか心配だ」と発言。さらに「現在北京で続いている青空は美しいが短い間で、その会議が終わると見えなくなるとして、「APECブルー」と揶揄した人がいるが、弛まぬ努力をして、保持されていくことを希望し、信じている」と述べた。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b6aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263933a-6b63-11ee-bb57-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 在筑波大学会馆第一次与松川滋教授见面，是16年前的事儿了。因为考虑到他的研究方向和我曾经的研究计划相近，萌生请他做硕士指导教官的打算，便给素昧平生的他写信表明我的心意，正巧他来筑波，事先约好与我见面，但对他能否同意做我的指导教官，我并没有把握。那时，我的日本语根本无法肆意交流，见他之前，我努力准备可能使用的用语，可见面对谈时，我才意识到专业交流通过手势是无法表达的。看到我极其吃力的样子，松川教授建议用英语交谈。日本人英语发音之差，我早已领教，因此我大胆地应允。他一口的美音让我更不敢张口，事后才知道他在美国西北大学取得的博士学位。那是一个时间静止的夜晩，直到看过我的研究计划之后，他才真正露出笑容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "筑波大学の国際交流会館で松川滋教授と初対面だったのは、16年前のことである。私の研究計画が松川先生の研究方向に近くて、指導教官に頼んでみようとの考えが浮上した。その旨を手紙で一面識もない先生に示した。松川先生は近いうちに用のため筑波へ行くと返事した。が、面会のことだけ約束し、指導教官のことには言及していなかった。ちよっと心配だつた。その時の私は、日本語で自由に先生と交流できなかった。だから、顔をあわせる前に、使用可能な日本語を精一杯覚えておいた。しかし、実際の対談においては、専門的な話が手振りを加えても相手に通じないのに気がついた。その私が大変困っているのを察知した松川先生は、英語で話し合いましようと提案した。日本人は英語の発音が下手だ、とはとっくに知っている。だから、二つ返事で承諾した。が、生粋のアメリ力英語が話せる先生の前に、話しに一層詰まるようになった。先生がアメリカのノースウェスタン大学で博士号を取得したことを後で知つたのである。時間が静止たっだその夜、私の研究計画を見るまで、先生は笑顔をずっと見せなかった。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b6d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263933b-6b63-11ee-9e88-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 中国家庭人口持续減少，从1982年的4.43人降到2010年的3.10人。而且，老年人家庭所占比例也在持续上升。中国的独生子女家庭目前达到1亿5千万户以上，有家庭因失去独生子女，致使生活陷于困境。结婚、生育、赡养老人等传统的家庭功能下降，应对风险的能力减弱。中国人口学会常务副会长翟振武指出：“通过放宽独生子女政策打破‘四二一’家庭结构（夫妻双方均为独生子女，既要抚育自己的孩子，又要赡养双方老人）有利于发挥家庭的经济和社会功能，增强家庭的应对风险能力，而且对孩子的教育也有好处。”"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国の世帯人口は減少を続けており、1982年の4.43人から2010年の3.10人に減少した。また高龄者のみの世帯が占める割合も、上昇を続けている。中国の一人っ子による世帯は現在1億5000万戸以上に達しており、一人っ子を失い、生活が困難となった世帯も存在する。家庭の結婚・出産・高齢者扶養などの伝統的な機能が低下しており、リスク対応力も弱まっている。中国人口学会常務副会長の霍振武氏は、「一人っ子政策の緩和により、4-2-1の世帯構造（両家の親が4人、夫婦が2人、子どもが1人の構造）に終止符が打たれることは、家庭の経済・社会的機能の発揮、家庭のリスク対応力の強化を促し、子供の教育にも有利となる」と指摘している。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b6fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263933c-6b63-11ee-bb78-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 东京也无非是这样。上野的樱花烂熳的时节，望去确也像绯红的轻云，但花下也缺不了成群结队的“清国留学生”的速成班，头顶上盘着大辫子，顶得学生制帽的顶上高高耸起，形成一座富士山。……但不知怎地，我总还时时记起他，在我所认为我师的之中，他是最使我感激，给我鼓励的一个。有时我常常想：他的对于我的热心的希望，不倦的教诲，小而言之，是为中国，就是希望中国有新的医学；大而言之，是为学术，就是希望新的医学传到中国去。他的性格，在我的眼里和心里是伟大的，虽然他的姓名并不为许多人所知道。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "東京も格別のことはなかった。上野の櫻が満開のころは、眺めはいかにも紅の薄雲のようではあったが、花の下にはきまって、隊を組んだ「清国留学生」の速成組がいた。頭のてっぺんに辮髪をぐるぐる巻きにし、そのため学生帽が高くそびえて、富士山の恰好をしている。だが、なぜか知らぬが、私は今でもよく彼のことを思い出す。私が自分の師と仰ぐ人のなかで、彼はもっとも私を感激させ、私を励ましてくれたひとりである。よく私はこう考える。彼の私にたいする熱心な希望と、倦まぬ教訓とは、小にしては中国のためであり、中国に新しい医学の生まれることを希望することである。大にしては学術のためであり、新しい医学の中国へ伝わることを希望することである。彼の性格は、私の眼中において、また心裡において、偉大である。彼の姓名を知る人は少いかもしれぬが。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b72c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263933d-6b63-11ee-8de2-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 前几天在苏州举办的马拉松比赛中，一名中国女选手在终点前接过志愿者递来的国旗，随后抛在了地上，引发了一番争议。赛事中，中国选手何引丽在与埃塞俄比亚选手进行夺冠冲刺时，一名自称志愿者的男生跑到何跟前，将国旗递给她。何手抓着国旗跑了几秒后，最终拋在了地面上，然后朝着终点跑去。根据央视的实况录像，此前还有一名志愿者欲将国旗递给她，可是何没有接。结果，埃塞俄比亚选手获得了冠军，何选手被拉开距离拿到了第二名。实况解说员批评道：“现在最重要的是跑向终点！……选手正咬紧牙关奔跑，突然窜出来递国旗不影响人嘛！”并在比赛结束后评论道：“实在是太遗憾了！”网上大多数人的意见比较一致，都在谴责那位递国旗的志愿者，并为何选手没能拿到冠军惋惜，不过，也有个别人埋怨何选手缺乏爱国心。有位马拉松选手在微博上写道：“从录像上看，何选手将国旗揉成一团后抛在了地上，难道比赛成绩比国旗还重要吗？”对此，何引丽本人也在微博上进行了解释。她在微博上转发了视频，并表示：“谢谢理解，国旗全部湿透了，我的胳膊也跑僵了，没能拿稳国旗。”随后，CCTV也表明了立场：对于体育选手来说，夺冠就是爱国！"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "先日、中国の蘇州で開催されたマラソン大会で、同国の女子選手がゴール前に国旗を渡され、その直後に落とした場面が物議を醸している。レース中、中国の何引麗選手がトップのエチオピア選手を追い抜こうとしているところへ、「ボランティア」を名乗る男性が駆け寄り、中国国旗を渡した。何選手は旗を手にしたまま数秒間走ったが結局地面に落とし、そのまま走り続けた。中国中央テレビ（CCTV）が流した実況映像によると、この前に別の「ボランティア」が国旗を渡そうとしたが、何選手は受け取っていなかった。レースはエチオピアの選手が優勝し、何選手は引き離されて2位に終わった。実況の解説者は「今は優勝を目指して走ることが一番重要」「選手が歯を食いしばっているのに、横から出てきて国旗を無理やり手渡したのが走りに影響を与えた」と批判。ゴールの後では「あまりにも残念な結末」とコメントした。インターネット上では国旗を渡した男性を非難し、何選手が優勝を逃したことを惜しむ意見が目立つ一方、「愛国心に欠ける」と同選手を非難する声も上がった。あるマラソン選手は微博（ウェイボ）に「映像を見ると、何選手は国旗を丸めて投げ捨てている。レースの結果は国旗よりも大事なのか」と書き込んだ。何選手はウェイボを通し、「国旗が濡れていて自分の腕がこわばっていたため、滑り落ちてしまった」と説明して理解を求めた。その後、CCTVは「スポーツ選手にとっては勝つことが愛国」との立場を示した。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b754-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263933e-6b63-11ee-ba5e-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 有一天，我放轻脚步，从门口溜进自己的房间，然后匆忙地换上便装，打开了父亲睡觉房间的隔扇。父亲将微暗的台灯移到枕边，正在那里发喘。这哮喘是他的老毛病了，像今天这种湿漉漉的天气下，哮喘肯定会发生的。虽说已经秋天了，可是今年还从来没有过放晴的日子。总觉得天很热，又很冷。“我回来晚了，今天感到怎么样？”父亲默不作声地盯着我看，虽说我已经习惯于父亲这种眼神了，可是每当被他一看，还是觉得好惶恐，便低下头去。不由得倒退几步，动作笨拙地走出了房间。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ある日、僕は軽い足取りでドアから自分の部屋に駆け込んだ。そして急いでメモに着替え、父が寝ている部屋の襖を開けた。父は薄暗い電気スタンドを枕元に移し、そこであえぎ始めた。この喘ぎは彼のいつもの癖だ,今日のようにじめじめした天気では,きっと喘息が発生するだろう。秋を過ぎているとはいえ、今年はまだ晴れる日がない。気候はなんだか暑くて、寒いです。「帰るのが遅くなって、今日は梓をどう思う?」父は黙って僕を見ていた。そんな目つきに慣れているとはいえ、彼に見られるたびに恐縮して頭を下げた。思わず何歩か後ろ向きになって、不器用に部屋を出て行った。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b77c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263933f-6b63-11ee-a22f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 历史是由人创造的，但这并不意味着人有能力任意改变历史。历史发展具有一定的惯性，在人没有创造出强于历史惯性的力量之前，历史将沿着既有的轨道发展。这就是为什么当一个帝国或超级大国衰落后，其衰落时间都在百年以上，很少有在半个世纪内就重振雄风的现象。大清帝国、大英帝国、俄罗斯的衰落都摆脱不了这种历史惯性。历史就是一种客观世界运动发展的过程。看透这个世界，你需要有一种历史惯性的思维。这是一部预测10年内国际格局发展趋势的作品。未来十年，中国能否成为超级大国？东亚能否取代欧洲成为世界中心？欧盟、俄罗斯、日本将风采尽失？“金砖国家”将成为历史？中国应放弃不结盟政策吗？中国应采取何种外交方式？中国的周边国家，孰敌、孰友？中国该以何种思想引领世界？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "歴史は人によって作られるが、人が勝手に歴史を変える能力があるわけではない。歴史の発展には一定の慣性があり、人間が歴史の慣性より強い力を作り出す前に、歴史は既存の軌道に沿って発展している。それがどうしてーつ帝国や超大国が衰退した後、その衰退した時間は百年以上、半世紀内に立て直すのが少ない理由である。清帝国、大英帝国、ロシアの衰退は、このような歴史的慣性から脱することができない。歴史というのは客観的な世界の運動、発展する過程である。この世界を見通すには、歴史的な思考が必要だ。これは、10年間の国際情勢の傾向を予測した作品である。今後10年間で、中国は超大国になれるだろうか？東アジアは欧州に代わって世界の中心になることができるだろうか？EU、ロシア、日本は風采を失うだろうか？「ブリックス国家」が歴史になるだろうか。中国は非同盟政策を放棄すべきか？中国はどのような外交方式を取るべきか？中国の近隣諸国、敵か味方だろうか？中国はどのような考え方で世界をリードすべきでしょうか？"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b7ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639340-6b63-11ee-a0d9-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 最近，砍杀医务人员的恶性事件频繁发生。除了哀悼逝者、严惩凶手、加强医院防范措施外，我们不得不反思一些机制性的问题。十年前，就在全民医保制度高歌猛进之时，曾有专家隐隐担忧未来的医患关系是否会更加紧张。然而我们无论如何没有想到，十年后，医疗服务的供求矛盾会以这种惨烈的形式表现出来。许多人都承认中国医疗资源不足且配置不合理，但很少有人能相信资源配置扭曲会造成人性扭曲，并进一步引发凶杀事件。但是，理性分析及大医院就医的体验都告诉我们，这确实会增加医患冲突发生的可能性。首先，医疗资源不足必然会造成医患关系紧张。如果在普通的市场，供方可以提高价格，把支付能力相对较弱的需方排除出去，缓解供求矛盾。但是中国的医疗服务是一项福利事业，医院没有权力提高价格。在资源不能増加，价格也不能提高的情況下，排队是解決供求矛盾的办法。但我国的医院缺乏合理透明的排队规则，这难免会产生焦急、失望的情绪。另外，医疗资源集中在大医院，形成了“集中看病”的现象，使得医院成为各种不良情绪的集中点。血的事实告诉我们，如果没有机制上的改善，仅凭巨额的公共投入买不来和谐的医患关系。只有引入市场机制，让医院决策者以患者的需求为导向来配置医疗资源，才能从根本上缓解医患之间的紧张关系，也有利于医疗卫生事业的长远发展。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "最近、医療従事者を切り殺すという悪質な事件が頻繁に起きている。亡き者を悼み悲しみ、犯人を厳罰に処し、病院の防止措置を強化する以外、体制的な問題についても反省しなければならない。十年前に、全民医療保険運動が盛んに進んでいた時、将来医療者と患者との関係がより緊張になるではないかと専門家が指摘したことがある。ところが、医療サービスの需給ギャップがこのような痛ましい形で反映されるのは、我々にどうしても想像できなかった。中国における医療資源は不足する上、配置も合理的でないことが多く認められているが、資源配置のねじれが人格の歪みを呼び、更に殺人事件に至ることは信じられない。しかし、理性的な分析と大病院で医療サービスを受ける体験からみて、これは確かに患者と医師の間に衝突が起こる可能性を高まる。まず、医療資源不足は必ず患者・医師関係を緊張させる。一般市場なら、供給側は値段を高めることで、経済力の弱い需要側を排除してギャップを埋める。だが、中国における医療サービスは福祉であり、病院には値段を高める権利がない。これを受けて、行列することで問題を解決するしかない。しかし、中国には病院で合理的かつクリアな行列ルールが欠けており、考慮・失望といった気持ちが生みやすい。それに、医療資源は大病院に集中し、「集中診察」現象が形成され、病院が消極的な情緒の中心地となった。血の教訓は、体制的な改善がなく、巨額の公共投資だけで協和的な患者・医師関係が取れないことを証明した。市場メカニズムを導入し、病院の決定者層が患者の需要によって響かれて医療資源を配置してはじめて、患者・医師間の緊張した関係が根本的に和らげられ、医療事業の長期的な発展のプラスになることができる。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b7d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639341-6b63-11ee-94e3-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 书法是中国的国粹。从古至今，世界上的文字种类不下千种，它们的功用首先在于记事传言。人们写字时也讲求写得美观，甚至带有艺术意味，出于特定的需要，有时还写花体字和美术字，但许多文字都未能演化出一种独立的艺术门类。惟有汉字的书写，在用于日常书写之外，更上升为一门特别的高等艺术。它风行于中华大地数千年而不衰，与绘画、雕塑、诗歌、音乐、舞蹈、戏剧一起，成为艺术大家庭的一员。书法在中国几乎无处不在。它与日常生活紧密相连，也是爱好者和学习人数最多的一门艺术。在物品琳琅满目、现代商业气息浓郁的今天，具有古色古香文化色彩的书法作品无疑能使景色增添几分高雅，喧嚣气氛得到了净化。在家庭中，书法作品多是客厅、书房、卧室里的装饰物。把字写在吸水性很强的宣纸上，之后再装裱在周边饰有丝絹的厚纸上，或做成挂轴，或放进镜框，挂上墙壁。书写的内容多半是主人所喜爱的一首诗词、一副对联或一句格言，如果这是他自己所作的，那就更能显示他的志趣和才华了。一幅好的书法作品能使白壁生辉、宾朋开颜。书法在中国众多传统艺术形式中具有核心地位，被誉为“无言的诗”“无图的画”“无声的乐”“无形的建筑”。这里，我想起了2500年前伟大哲人老子的名言——“玄而又玄，众妙之门”。也许可以说，中国的书法艺术就是通向精湛深远的艺术宝库的“众妙之门”吧。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "書道は中国の国粋である。古から今に至るまで、世界で文字の種類は千種を超え、その効用はまず記述することと伝えることである。人々が字を綺麗に書くことを重視し、更には芸術的意味合いも持っている。特定の必要のために、時には花体字と装飾文字を書くが、多くの文字はまだ独立した芸術部類に進化できない。漢字だけは日常に使用されるほか、一の特別な高等芸術に達する。それはそれは中華大地に千年を流行しても衰えなく、絵、彫刻、詩歌、音楽、舞踊、劇とともに、芸術家族の一員になった。中国で書道は至る所に存在している。日常生活と緊密につながって、愛好者と学習者が一番多く持っている芸術でもある。立派な商品が数多くあり、商業の雰囲気が非常に濃い現在では、時代がかっていて趣のある書道作品は間違いない風景に何分かの高雅さを加え、騒がしい雰囲気を浄化することができる。家庭での書道作品はほとんど応接間、書斎、寝室内の装飾物である。吸水性の強い画仙紙に字を書いた後、周りに絹が飾っている厚手の紙に表装して掛け軸にしたり、額縁に入れて壁にかかったりする。その内容の大半は主人の好きな詩や対句、格言など。もしこれは彼自身が書くものなら、その人の志向と才能をもっとはっきりに現れる。一枚の立派な書道作品は家に色彩を添えられるだけでなく、客を喜ばすこともできる。書道は中国の伝統的な芸術様式の中で核心的な地位を占め、“言葉のない詩”、“図のない絵”、“音声のない音楽”、“形のない建物”などといわれる。ここから、私は2500年前に偉大な哲人である老子の名言を思い出した――「神秘中の神秘、すべての「妙」（答え）の門（入り口）となる」。それで、中国の書道芸術は完璧かつ深遠的な芸術の宝庫への「すべての妙の門」といえるであろう。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b7fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639342-6b63-11ee-a1f4-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 曾几何时，日本制造业被认为是日本立国之本；与此同时，对于金融、互联网等行业却存在一定偏见。制造业对于日本确实有着特别的意义，凭借着日本制造以及出口，日本经济腾飞之旅制造业出力不少。例如让70、80年代的美国汽车制造业备受打击，“日本第一”的口号由此奠定。索尼创始人盛田昭夫曾经自豪地表示“当美国人忙于培养律师时，我们更加忙于培养工程师。”但在某种意义上，过分追求技术的完美，付出的代价不仅是成本的上升，更严重的是可能脱离市场需求方向。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "かつて、日本の製造業は日本立国の基礎と見なされていた。それと同時に、金融、インターネットなどの業界に対して一定の偏見があった。製造業は確かに日本にとって特別な意義を持っており、日本の製造と輸出によって、経済発展は羽が生えたように上昇していた。例えば70、80年代のアメリカの自動車製造業に打撃を与え、「日本第一」という名がそれから確定されていた。ソニーの創業者である盛田昭夫は「アメリカ人が弁護士の育成に追われているとき、私たちはエンジニアの育成に没頭しています。」と自慢したことがある。しかし、ある意味で、技術の完璧さを追求しすぎると、コストの上昇だけでなく、市場のニーズから逸脱する可能性もある。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b830-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639343-6b63-11ee-9661-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 骑自行车对我来说是一种享受，当汽车因交通堵塞排成长龙时，我可以穿梭自如，走街串巷，拍起照片得心应手。骑车的同时，我也拍摄自行车：自行车上的爱情、家庭、喜怒哀乐……农村的人们对自行车的想象更是无穷无尽，一辆自行车上可以承载一个家庭。各种产品的运输方式千变万化，自行车在他们眼里似乎是无所不能的，而他们个个都是技艺高超的杂技演员，在城镇乡间的小路上进行着令人叹为观止的表演，使你不能不把镜头对准这两个轮子上的生活大舞台。自行车曾经是中国家庭的重要财产，被看作一个家庭拥有的“大件”。如今，买一辆自行车是件极其平常的事；从前，上下班高峰时的自行车流，如今变成了汽车流；从前，每个都市里的孩子儿乎都是坐在自行车上绑着的加座上长大的，今天他们是父母汽车里的“常客”。我那辆自行车也已多年不骑，我只有在记忆中再找回那种相依的感觉了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "私にとって、自転車に乗るのはひとつの楽しみだ。自動車が交通渋滞で長い列を作って並んでいる時、自転車に乗る私は自由自在に大通りや横道を走り回って、思うままに写真を撮ることもできる。また、自転車の上のラブ、家族、人生の喜怒哀楽なども撮影する。自転車に関しては、田舎の人たちは限りなくな想像力をふくらませ、一台の自転車に一所帯を乗せるくらいのことを考えている。荷物によって、運び方も換えたりして、彼らから見れば、自転車でできないものはないようだ。それに、彼らはみなすばぬけたサーカスの演技者のように、町や田舎などの狭い道で驚嘆すべき軽業を演じてみせる。それに引かれて、思わずカメラのレンズをこの二輪車の生活舞台に絞らないではいられないのだ。かつては自転車は中国の家庭の重要財産であり、各家庭に所有すべき重大な物件と見なされていた。今は、自転車を買うのはごく普通のことになっている。昔のラッシュアワーの自転車の流れは、今は、もう車の流れに変わっている。かつては、都市の子供たちは、自転車の荷台に乗せられて大きくなったが、今は親の車の「常客」になっている。私も何年も自転車に乗ることはないが、当時あの自転車に頼り切った感じは、今はただ記憶の中にしか見つけられないのだ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b858-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639344-6b63-11ee-a204-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 全党同志的重托，全国各族人民的期望，这是对我们做好工作的巨大鼓舞，也是我们肩上沉沉的担子。这个重大的责任是对民族的责任。我们的民族是伟大的民族。在五千多年的文明发展历程中，中华民族为人类的民族进步做出了不可磨灭的贡献。近代以后，我们的民族历经磨难，中华民族到了最危险的时候。自那时以来，为了实现中华民族的伟大复兴，无数的仁人志士奋起抗争，但一次又一次失败了。中国共产党成立后，团结带领人民前赴后继、顽强奋斗，把贫穷落后的旧中国变成日益走向繁荣富强的新中国。中华民族的伟大复兴，展现出前所未有的光明前景。我们的责任就是要团结带领全党、全国各族人民，接过历史的接力棒。继续为实现中华民族伟大复兴而努力奋斗。使中华民族更加坚强有力地自立于世界民族之林，为人类做出新的更大的贡献。这个重大的责任就是对人民的责任。我们的人民伟大的人民。在漫长的历史进程中，中国人民依靠自己的勤劳、勇敢、智慧，开创了民族和睦共处的美好家园，培育了历久弥新的优秀文化。我们的人民热爱生活，期盼有更好的教育、更稳定的工作、更满意的收入、更可靠的社会保障、更高水平的医疗卫生服务、更舒适的居住条件、更优美的环境，期盼着孩子们能成长得更好、工作得更好、生活得更好。人民对美好生活的向往，就是我们的奋斗目标。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全党同志の重大な委託、全国各族人民の期待は、われわれが仕事を成し遂げるに、巨大な鼓舞であるとともに、重大な責任でもある。この重大な責任は、民族に対する責任である。わが民族は偉大な民族である。5000年余りの文明発展の過程で中華民族は人類文明の進歩に不滅の貢献を果たした。近代以降わが民族は数々の苦難を経験し、中華民族は最も危険な時期に到った。その時以来、中華民族の偉大な復興を実現するため、無数の人徳ある志士が奮起し、抗争したが、1回、また1回と失敗した。中国共産党は結党後、人民を団結させ、率いて、先人の屍を乗り越えて後に続き、粘り強く奮闘し、貧しく立ち後た旧中国を日に日に繁栄し強大になる新中国へと変え、中華民族の偉大な復興にかつてない明るい展望を開いた。われわれの責任は、全党、全国各族人民を団結させ、率いて、歴史のバトンを受け取り、引き続き中華民族の偉大な復興の実現のために努力奮闘し、中華民族が世界の諸民族の中でより揺るぎなく、力強く自立し、人類のために新たな、さらに大きな貢献を果たせるようにすることである。この重大な責任は、人民に対する責任である。わが人民は偉大な人民だ。とても長い歴史の過程で、中国人民は自らの勤勉さ、勇敢さ、知恵によって、各民族が睦まじく共存する素晴らしい国を作り、時を経てますます輝きを放つ優れた文化を育て上げた。わが人民は生活を心から愛し、より良い教育、より安定した仕事、より満足のいく収入、より頼れる社会保障、より高水準の医療衛生サービス、より快適な居住環境、より美しい環境を待ち望み、子どもたちがより良く成長し、より良い仕事とより良い生活を得られることを待ち望んでいる。素晴らしい生活への人民の憧れが、われわれの奮闘目標である。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b88a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639345-6b63-11ee-b29c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 进房间后，注意不要不脱大衣就坐下或翘起二郎腿，因为这也将会给自己带来负面影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "部屋に入ると,コートを脱がないまま座り、或いは足を組んでいることをしないように気をつけてください。他人に悪印象を残る可能性があるからです。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b8b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639346-6b63-11ee-b246-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 我确信本公司商品一定能满足贵公司的需求，请您一读随信附上的出口产品清单。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "弊社の商品は必ず貴社のニーズに応じることを確信しております。メール添付でお送りする商品リストを拝読しますようお願いします。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b8da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639347-6b63-11ee-a968-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 正如诸位所知，在全球化的今天，企业间的竞争之激烈前所未有。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ご存知のとおり、グロバルー化を背景に、今、企業間競争の激しさはかつてないものです"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b90c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639348-6b63-11ee-8c4e-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 在旅游活动中，时常有个别旅游者在名胜古迹、文物上刻画、涂污。本次调查中，破坏景区文物被受访者一致认定为最不文明行为，其次还包括随地吐痰、乱扔垃圾、大声喧哗、随意插队不守秩序等问题。（中略）随着有能力、有意愿出境旅游的中国人越来越多，国人在境外的一些不文明的行为屡次成为舆论关注的焦点，“文明旅游”成了一个颇受关注的话题，对此国家旅游局也发布了《中国公民出境旅游文明行为指南》。本次调查中，六成以上受访者对这份指南表示认可，认为其有利于提高中国公民素质，对提高中国公民的道德观念可以起到一定的作用。但也有三成受访者认为说起来容易做起来难，既需要政府和经营单位的引导和教育，也需要景区的适当警示以及人性化管理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "観光行事では、よく景勝地の文化財に落書きを残す観光客がいる。今回の調査では、観光地にある歴史的建造物を破壊することは一番マナーの悪い行動だと認められる。その次は道端での痰吐き、続いてゴミのポイ捨て、公共の場での馬鹿騒ぎ、ルールを守らず列に割り込むなどのような行為も含む。海外への観光が可能になるにともない、海外に旅行する中国人が多くなって、中国人の海外でのマナーの悪さは何度も世論の関心になっている。「文明的観光」は話題になっていて、そのため、国家観光局も『中国公民の海外旅行における文明的行動指針』を公表した。今回の調査で、6割以上の回答者はこの方針に認可することを示した。これは国民の素質を高めることに有利で、道徳観念の向上にも一定の役割を果たすことができると思われる。しかし、三割の回答者は「言うは易く行うは難し」と思い、また政府と経営関係者の誘導と教育はもちろん、観光地の適切な警告と人間性の管理も必要といわれている。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b934-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639349-6b63-11ee-afbb-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 日前，在北京师范大学英东教育楼，我见到了63岁的理查德。依旧是一年前首次见面时的红色T恤。他说，因为这种衣服好洗，他托朋友买了十件，其中八件是红色的。现在他有了属于自己的办公室，尽管只是间不足10平方米的小屋，一块黑板，两张桌子，三台电脑，但足矣。当时暑假刚刚来临，在这之前，他已经连上了两个学期的物理课，电磁场、热能学、相对论……重操旧业，他倒是津津有味。不少学生也认出他是“汉字叔叔”，好奇他研究汉字怎么还教物理课程。理查德说，大学的时候，他主修物理和计算机，后来还自学过医学院的课程，熟悉解剖学和生物学。1994年患心脏病，“劫后余生”的他又开始研究生理学。理查德向我介绍他的两位助手，来自西安美术学院的大三学生揭盛洪和巫燕灵。他们的老师是理查德的“粉丝”，所以把这两位学生介绍给了他。他们决定利用大学时期的最后一个暑假，帮理查德做点儿什么。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "近頃、北京師範大学英東教育ビルで63歳のリチャードに会った。やはり一年前に初めて会う時の赤いＴシャツだった、洗いやすいからだそうである。彼は友達に頼んで10枚も買った。そのうち、8枚は赤のであった。今彼が自分の事務室を持っているが、10平方メートルも足りない部屋である。黒板、テーブル二つ、パソコン三台でもう十分である。当時、夏休みが始まったばかりであるが、彼はもう二学期の物理講義も教えた。電磁場、熱エネルギーをや相対性理論……再び元の仕事をして、彼はとても楽しそうにやっている。多くの学生も彼が「漢字のおじさん」と見分け、なぜ漢字を研究しているのに、物理の授業を教えているかと疑問を持っている。リチャードの話によると、大学時代、彼の専攻は物理やコンピューターで、その後医学も独学し、解剖学と生物学が得意とのことである。1994年心臓病を患い、生き延びた彼はまた生理学を研究し始めた。リチャードは私に彼のふたりのアシスタントを紹介してくれた。それは西安美術学院の3年生掲盛洪と巫燕灵である。彼らの先生はリチャードのファンだから、この二人をリチャードに紹介した。彼らは大学時代最後の夏休みを利用してリチャードに何かをして差し上げたいようである。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b95c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263934a-6b63-11ee-94cd-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 近年来，回国养老成了海外华人的热门话题。在养老院比较发达的北京、上海、广东、厦门等地之中，上海是海外华人的首选。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "最近では国に帰り養老するのが海外に住む華僑らの間で一番流行りの話題となっている。養老施設が比較的に発達している北京、上海、広東、厦門などの都市のうち、上海が一番の選択肢となっているとのことだ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b98e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263934b-6b63-11ee-97f0-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 不过随着生活现代化程度的提高，违反交通规则的现象也是越来越多，比如闯红灯、超速开车、乱停车、开车打手机等等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "我々の生活の現代化に連れ、交通ルールを破る現象もまた徐々に増えてきたのである。その現象の代表としては信号違反や加速、駐車違反、運転スマホなどがある。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b9b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263934c-6b63-11ee-ab27-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 现如今日本已成为和平、富裕的国家。我们很容易会忘记和平的宝贵以及来之不易。我们必须要把战争的悲惨传达给年轻一代，以免重蹈过去的错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "今や日本はすっかりと平和で豊かな国となっており、我々は平和の大切さとそれを手に入れるまでどれほどの苦難を乗り越えてきたのかを忘れがちである。しかし、若き者が同じ過ちを繰り返さないように、我々は戦争の悲惨さを伝えて行かねばならない。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4b9e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263934d-6b63-11ee-88bb-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 邮政事业要适应当今经济发展和社会进步的新形势，发挥更大的作用，必须进行体制改革和技术创新。各国的经济发展水平、历史文化传统和社会制度不同，邮政发展水平也不同，进行改革不可能有一种统一的模式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "郵便事業は現在の経済の発展と社会進歩の形式に合わせてこそ最大な作用を発揮するため、体制の改革と技術の創新が必要不可欠である。各国の発展の水準、歴史や伝統文化、社会制度が異なるために郵便事業の発展水準も様々で、統一された一つの改革モードは存在しない。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ba10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263934e-6b63-11ee-b97c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 汉字是距今五千年前在中国产生的文字，其数目据说有五万多，不过，实际使用的是五千左右。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "漢字は五千年前の中国で作られた文字であり、その数は五万を超えるとされているが、実際に使われているのは五千くらいだそうだ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ba42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263934f-6b63-11ee-9d87-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 如果你不能去改变世界，那你就要去适应周围的环境。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "世界を変えられないなら、周りの環境に馴染むべきだ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ba6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639350-6b63-11ee-bf3b-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 看起来性格开朗、非常活跃的人，有的时候也会患有忧郁症。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "明るくて活躍な人に見えるが、メランコリアになる時もある。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4ba92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639351-6b63-11ee-816a-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 很多事情只有当你失去它的时候才会发现它的可贵之处，比如自由。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自由のような、失ってからこそその大切さに気づいたことはたくさんある。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bac4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639352-6b63-11ee-bbe2-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 也有喜欢打扮花枝招展的学生，学习也很用功。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "おしゃれで勉強もちゃんとしている学生もいる。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4baec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639353-6b63-11ee-9aa4-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 金钱虽然不是一切，但是很多事，如果没有经济收入是无法去实现的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "お金は全てではないが、お金がなければ実現できないことはたくさんある。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bb1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639354-6b63-11ee-bbb9-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 一天的开始。现在是世界睁开了双眼，世间的齿轮开始转动的时间。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1日の始まりだ。今は世界が目を醒めて、世間の歯車が回転し始めた時間です。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bb46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639355-6b63-11ee-b1ff-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 在打开抽屉前，请用酒精给手消毒"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "引き出しを開ける前に、アルコールで手を消毒してください。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bb78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639356-6b63-11ee-8fc8-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 谨此请贵公司提供贵公司出口商品相关所需的详细信息。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "貴社の輸出商品に関するくわしい情報を我々にご提供ください。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bba0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "32639357-6b63-11ee-8459-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 保持中⾼速增长和迈向中⾼端⽔平双⽬标。打造⼤众创业、万众创新和増加公共产品、公共服务双引擎。经济发展进⼊新常态，精神⾯貌要有新状态。始终保持反腐⾼压态势，对腐败分⼦零容忍、严查处。体制机制弊端和结构性⽭盾是“拦路虎”。中⼩微企业⼤有可为，要扶上马、送⼀程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "経済の中⾼速成⾧の維持という⽬標、発展の中⾼次元化という⽬標。・ ・⼤衆による起業 ⾰新というエンジン、公共財公共サービスの增加というエンジンをつくり上げる。経済発展が新常態に⼊った以上、われわれも⼼構えを⼀新する必要がある。⼀貫して反腐敗の強い姿勢を保ち続け、腐敗分⼦に対し「ゼロ容認」を貫き、腐敗分⼦を厳し・く調査処罰する。・体制仕組み上の弊害と構造的な⽭盾が「⾏く⼿を阻む虎」と化しており。・中⼩ 零細企業には洋々たる前途があるのだから、軌道に乗るまでサポートしていく。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bbd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba3e-6b63-11ee-979a-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 今年是中国⼈民抗⽇战争和世界反法西斯战争胜利70周年，不仅中国，世界上许多国家都要开展多种形式的纪念活动，⽬的是要牢记这⼀惨痛的历史悲剧，不能让历史再重演，要维护⼆战胜利成果和战后国际秩序及⼀系列国际法，以维护⼈类持久和平。当前中⽇关系的确⽐较困难，根⼦还是在于对那场战争、对历史的认识和能否始终保持正确的认识。坚持正确的历史观就是要以史为鉴、⾯向未来。对于⼀个国家的领导⼈来说，不仅要继承前⼈所创造的成就，也应该担负起前⼈罪⾏所带来的历史责任。当年，⽇本军国主义强加给中国⼈民的那场侵略战争，给我们带来了巨⼤的灾难，最终⽇本民众也是受害者。在今年这样⼀个重要的时刻，我认为对中⽇关系既是检验，也是机遇。如果⽇本领导⼈正视历史，并且贯彻下去，改善和发展中⽇关系就有新的契机，也⾃然会给中⽇经贸关系的发展创造良好的条件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "今年は中国⼈民抗⽇戦争と世界反ファシズム戦争勝利70周年であり、中国のみならず、世界の多くの国で様々な形式の記念⾏事が⾏われる。それは歴史の悲劇をしっかりと記憶に留め、歴史を繰り返すことなく、第⼆次⼤戦の勝利の成果と戦後の国際秩序、および⼀連の国際法を維持するためであり、⼈類の恒久的な平和を守るためである。⽬下、中⽇関係は確かに厳しい状況にあり、その根本的な原因はあの戦争と歴史に対する正しい認識を持ち続けられるか否かにある。正しい歴史観をもつということは、つまり歴史を鑑とし、未来へ向かうことであり、⼀国の指導者は先⼈の造り上げた成果を継承するとともに、先⼈の罪がもたらした歴史的責任をも負うべきである。当年、⽇本の軍国主義者が中国⼈民にもたらしたあの侵略戦争は、我々に⼤きな被害をもたらし、最終的には⽇本国民も被害者となった。今年は中⽇関係にとって重要な節⽬であり、ある意味検証の年であり、チャンスの年でもあると私は考える。⽇本の指導者が歴史を正視し、それを貫くなら、中⽇関係の改善と発展の新たな契機となり、そうすることで必然的に中⽇の経済貿易関係の発展によりよい条件が⽣み出されることになるだろう。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bbfa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba3f-6b63-11ee-ad49-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 10多岁年轻⼈的话语掷地有声，“我们要说话，因为民主主义并未终结，所以不想当⼀名旁观者，因为我们是主权者”。这是⾼中⽣组织“T-ns SOWL”于8⽇在东京原宿街头发表演讲中的⼀段话。这⼀场抗议安保相关法案的⽃争正在继续。即便到了该法⾏将建⽴之时，安倍⾸相也不得不承认并未在国民中获得⼴泛⽀持，且表⽰在该法成⽴之后仍将⼀如既往地进⾏耐⼼细致的说明解释。然⽽，作为回应“违宪”这⼀批判之声的场所——临时国会却迟迟不见召开。昨天，召开了众议院预算委员会，即国会闭会期间进⾏的“闭会审查”。今天还将召开参议院预算委员会。众参两院分别只召开1天，很显然时间是不够的。况且安保等其他应该解决的问题堆积如⼭。根据宪法第53条之规定，召集临时国会的决定权限在于内阁。不过倘若众参两院中的⼀⽅有4分之1以上议员提出要求的话，内阁必须作出回应。在野5党根据这⼀规定，已于10⽉21⽇提交了召集请求书。4分之1以上这⼀必要条件旨在尊重少数派。也就是将少数派的诉求视作国会的意见，并且要求内阁承担使之付诸实⾏的义务。关于召集的期限，过去的政府曾经答辩称，“在⼀个不超过合理期限的时间段之内”。可是⾃诉求书提交之后已经又过了20天。倘若以外交⽇程等为由，⾏掩盖厌恶在野党追究之实⽽予以拒绝，那么必将造成蔑视象征国权的最⾼权⼒机关的严重后果。在这⼀点上，我们有必要认识清楚针对批判违宪所作出的反应，主权者正关注着这⼀点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "10代の⾔葉が⼒強い。「私は声を上げます。だって民主主義は終わってないから。私は傍観者にはなりたくない。私たちが主権者だから」。⾼校⽣らのグループ「T-ns SOWL」が8⽇、東京の原宿でデモをした。安保関連法に抗議する⼈々の⾏動は続く。安倍⾸相は法成⽴の直前になっても、国民に⽀持が広がっていないと認めざるを得なかった。成⽴後、これから粘り強く丁寧な説明をしていくとも述べた。ところが、「憲法違反」の批判に答える場であるべき臨時国会は開かないままだ。きのう、衆院予算委員会があった。国会が閉じている時に⾏う「閉会中審査」である。きょうは参院予算委員会がある。衆参1⽇ずつ。これで時間が⾜りるはずはない。安保の他にも議論すべき課題は⼭積みだ。憲法53条によれば、臨時国会の召集を決める権限は内閣にある。ただ、衆参いずれかで4分の1以上の議員の要求があれば、内閣は応じなければならない。野党5党はこの規定を使い、10⽉21⽇に召集要求書を出した。4分の1以上という要件は少数派を尊重する趣旨だ。少数の求めをいわば国会の意思とし、それに従うよう内閣に義務づけている。いつまでにという点について、過去の政府答弁は「合理的な期間を超えない期間内」とする。要求書からもう20⽇が過ぎた野党の追及を嫌い、外交⽇程などを理由に拒むなら、国権の最⾼機関を軽んじることになる。加えて憲法違反の批判をここでも覚悟する必要がある。主権者は⾒ている。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bc22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba40-6b63-11ee-90e5-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: ⽆论当事⼈的意图如何，可以认为其所作所为反映着当今⽇本的社会现象。东京都⽇野市政府机关在节约利⽤废旧公⽤信封时，采取了将表⾯印制的⽂字涂⿊的措施，即把“遵守⽇本国宪法理念”这⼀语句涂抹掉。这些都是2010⾄2011年之间制作的旧信封，现在使⽤的信封上已经没有这些语句了。对于陈旧的办公⽤品不予丢弃继续使⽤的⼯作态度确实恪尽职守，不过，作为当事⼈的市环境共⽣部绿⾊与清流课，据说却“误将没有必要清除的地⽅”清除了。不知是出于什么意图，因此，⽭头直指市政府的咨询及抗议不断涌现确也有其充分的理由。根据宪法第99条规定，公务员负有尊重并拥护宪法的义务。那么，将信封⽂字涂⿊是否违反了该规定呢？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "当事者の意図はどうあれ、今の⽇本社会のありようを映し出した出来事と思える。東京都の⽇野市役所が、古い公⽤の封筒を活⽤するにあたり、表に印刷された⽂⾔に黒塗りを施した。「⽇本国憲法の理念を守ろう」という⾔葉である。2010年から11年に作られたもので、現在使⽤中の封筒にはその語句はない。旧式になった事務⽤品を捨てずに使う仕事ぶりは堅実だ。だが、当事者である市環境共⽣部の緑と清流課は、「消す必要のない箇所を誤って消してしまった」というのがどういう意図なのか。市に諮問や抗議が相次いだのには⼗分な理由がある。公務員は憲法99条により、憲法を尊重し擁護する義務を負う。黒塗りはこれに背くことにならないか。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bc54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba41-6b63-11ee-8411-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 说到“送敌以盐”，内含救助对⼿于苦境之佳话的意思，不过，如今的使⽤⽅法往往多为有所图谋。作为针对⼀些不⽆浅虑的劝诫，经常采⽤“这么做就等于是送敌以盐嘛”等说法。让我们想起此状况的是曾经的⾃民党⼲事长⽯破先⽣。在去年1⽉的冲绳县名护市市长选举中，他⽀持基地移设推动派候选⼈，并提出了建⽴“500亿⽇元名护振兴基⾦”的设想。由于针对“票⼦攻势”的反感极为巨⼤，结果反对派⼤获全胜。尽管这轻视⼈“⼼”的学费交得并不算少，可严重的事态仍然接⼆连三地出现。据说，政府要把这振兴费⽤直接交付给普天间机场转移地边野古周围的3个地区。或许是出于离间的⽬的吧，准备越过不听招呼的名护市把钱送过去。与其说这是⼀步奇招，倒不如说归于禁⽤败招之列更合适。即便能够闯过法律的狭窄通道，可这招安之策究竟是政治上的适度与矜持，还是⾸相所说的“为了获得冲绳各⽅的理解⽽努⼒”呢？作为普天间的替代之地的名护市东海岸，被提出已经19年了。赞成与否定各执⼀词，每每居民投票及选举时，地区及职场、亲兄弟之间，可以说所涉及之处均产⽣了深深的裂痕。“搞得伤痕累累，基地的事，实在太害⼈了”。曾经的采访中就听到过上了年岁的⽼妇⼈如是哀叹。假设本⼟的某地也出现了类似情况，难道政府还能够采取越顶直接交付这⼀异乎寻常的策略吗？当我在想象如何作答时，冲绳地区喷涌⽽出的呐喊“歧视”之语便深深地刺痛了我的内⼼。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "「敵に塩を送る」といえば相⼿の苦境を救う美談の意味合いだが、昨今の使われ⽅は往々にせちがらい。「そんなことをしたら敵に塩を送ることになる」などと浅慮を戒められる。思い出すのは⾃民党幹事⾧だった⽯破さんだ。去年1⽉の沖縄県名護市⾧選挙で、基地移設推進派候補の応援に⼊った。そこで「500億円の名護振興基⾦」をぶち上げる。露⾻な「札びら」への反感は⼤きかったとみえ、結果は反対派候補が勝った。⼈の「⼼」を軽く⾒た授業料は⾼くついたはずだが、きわどい話がまたぞろ持ち上がってきた。普天間⾶⾏場の移設先とする辺野古周辺の3地区に、政府が振興費を直接交付するという。切り崩し狙いか、まつろわぬ名護市の頭越しにお⾦を渡すそうだ。奇⼿というより禁じ⼿の部類に思われる。法律の細道をすり抜ければ可能でも、懐柔めいた策など封印するのが政治の節度であり矜持でもあろう。それともこれが⾸相の⾔う「沖縄の⽅々の理解を得る努⼒」なのだろうか。普天間の代替地に名護市東海岸が浮上して19年がたつ。賛否は割れ、住民投票や選挙のたびに地域や職場、親兄弟にいたるまで亀裂は深まった。「傷だらけさー。基地の話はもうこりごり」。⽼いた⼥性の悲嘆を、かつて取材で聞いたことがある。仮に本⼟のどこかに似たような状況があったとして、頭越しの直接交付という異様な策を政府はとり得るだろうか。答えに想像が及ぶとき、沖縄で噴き出す「差別」の⼀語が胸を刺す。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bc7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba42-6b63-11ee-a342-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 有⼀个形容词，“政治性”。在我们的⽇常会话中，评论⼀个⼈往往会⽤上“他这个⼈颇具政治性”等说法。我⼿头的辞书⾥也有“善于灵活应对”的诠释。还含有⼀种语感，即稍⼀疏忽便会使⼈掉⼊其设置的圈套⾥去的那种⼈。已故的政治学家永井阳之助先⽣曾经撰⽂道，“‘政治性’⼀词，还真没有⼀个时代像今天这样被⽤于贬义的”。这是在半个世纪之前的事。他指出，当时的政治被视为肮脏的、不想与此产⽣⽠葛的东西。⼈们⼼⽬中对政治的不信任已经相当严重。那么，如今又如何呢？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "「政治的」という形容語がある。私たちの⽇常会話でも、⼈を評するのに「彼は政治的だ」などと使う。⼿元の辞書に「かけひきが上⼿な」という語釈があるが、油断していると丸め込まれそうな⼈、というニュアンスもにじむ。「『政治的』という語が、今⽇ほどわるい意味に⽤いられる時代もない」。政治学者の故永井陽之助⽒がそう書いたのは、半世紀近く前のこと。政治は薄汚い。関わりたくない。⼈々に巣くう政治不信の深刻さの指摘だ。今はどうだろう。◆ 经济类⼀、汉译⽇ （）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bcae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba43-6b63-11ee-868f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: ⾦融危机发展到⽬前，全球各界最关⼼的问题仍是危机究竟何时能见底，但是依旧是⽆⼈能给出明确的答案。随着危机的进⼀步演化，我们开始关注和反思国际⾦融危机应对的后遗症。3⽉29⽇，国家外汇管理局国际收⽀司副司长管涛在“第17期中欧陆家嘴⾦融家沙龙”上，就国际⾦融危机应对的后遗症问题发表了看法，指出了可能存在的4⼤后遗症。⾸先，⾦融危机后，经济再平衡会遥遥⽆期。以往发⽣危机时，美国都能凭借其⾼消费带领其他国家⾛出危机，显然这次是不⾏了。⽬前，美国的资产负债表衰退已见端倪。其次，道德风险在危机救助中膨胀。⽬前，各界对于央⾏是否应该⼲预资产价格存在争议，同时救助个案与防范系统性风险存在两难，政府救助与市场优胜劣汰冲突加剧，政府⼲预与市场激励约束⽭盾激化，⽽⾮对称性⼲预已经埋下道德风险的隐患。再次，尽管全球都在呼吁建⽴新的国际货币体系，但仍逃不脱美元本位的“魔咒”，美元的主导地位短期内很难被其他货币取代。但是美元泛滥势必导致通货膨胀和贬值的风险。最后，当前的⾦融危机及各种救市措施可能引发从通货紧缩到通货膨胀的风险。针对这些可能产⽣的⾦融危机应对的后遗症，管涛提出了应对措施。“第⼀，注意政策的长短期结合；第⼆，保持政策的灵活性和前瞻性；第三，加快突进经济结构调整；第四，注重发挥市场调节作⽤；第五，推动国际货币体系改⾰，中国更是要积极参与其中。”"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾦融危機が広がる中、この危機がいつ底を打つかに世界各界の関⼼が集まっている。だが、はっきりとした答えは依然として出ていない。⼀⽅、危機のさらなる深刻化を受けて、国際⾦融危機対応の後遺症に対する関⼼と反省の声が⾼まっている。・ ・国家外匯管理局国際収⽀司の管濤副司⾧は29⽇、「第17期中国欧州陸家嘴⾦融家サロン」に出席し、国際⾦融危機対応の後遺症問題についての⾒⽅を発表した。管濤⽒はこの中で、今後出現する可能性のある主な後遺症として次の4つを挙げた。（1）経済のバランスが⾦融危機後に回復するめどが⽴っていない。これまでの危機では⽶国の⾼消費がほかの国を導いて危機を脱していたが、今回はそうはいかない。⽶国のバランスシートの悪化はすでに明らかとなりつつある。（2）道徳リスクが市場救済政策で膨張している。中央銀⾏が資産価格に⼲渉すべきかには議論がある上で、個別のケースの救済とシステムリスクの防⽌にもジレンマがある。政府による救済と市場の適者⽣存原理とのぶつかり合いは深刻化し、政府の⼲渉と市場による激励·制限との⽭盾は激化している。⾮対称的な⼲渉は道徳リスクの原因を作り出している。（3）新たな国際貨幣システムの構築への呼びかけが世界中で⾼まっているにもかかわらず、ドル本位制から抜け出すことがなかなかできていない。ドルの主導的地位は短期的にはほかの貨幣では代替されない⾒込みだ。ドルの氾濫は、インフレと貨幣価値下落のリスクをもたらす。（4）⾦融危機と各種の市場救済措置は、デフレ局⾯がインフレ局⾯に転換するリスクを引き起こす可能性がある。今後出現可能のこれら⾦融危機対策による後遺症に対して、管濤⽒は次のような対応措置を提⽰した。第⼀に、⾧期的な政策と短期的な政策を結合すること。第⼆に、政策の柔軟性と展望性を維持すること。第三に、経済構造の調整を加速させること。第四に、市場の調節作⽤を発揮させること。第五に、国際貨幣システムの改⾰を推進し、中国を積極的にそれに参加させること。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bcd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba44-6b63-11ee-bccb-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: ⼈民币汇率的变动不仅取决于国内经济基本⾯，还取决于包含国际⾦融市场在内的国际层⾯上⼈民币的供求关系。⽽汇率的变动幅度也与国际形势是否发⽣重⼤事件和变动有关。去年以来整个国际形势很不平静，诸多因素导致汇率的波动。从阶段性来看，⼈民币与其他国家货币相⽐是相对稳定的，汇率波动⽐较⼩。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼈民元相場の変動は国内経済の基本的な側⾯だけで決まるものではなく、国際⾦融市場を含む国際的な場⾯での⼈民元の需給関係によって決まるものだ。また相場の変動幅は国際情勢に重⼤な事件があるかどうか、変動があるかどうかとも関係がある。昨年以来、国際情勢は落ち着いているとはいえず、多くの要因が相場を変動させている。⼀時期の変動幅をみると、⼈民元を世界の多くの通貨と⽐較すれば相対的に安定しており、変動幅は⽐較的⼩さいといえる。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bcfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba45-6b63-11ee-9fb4-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 我们打算在东京奥运会期间，作为“⽇常代步⼯具”，使⽤⽆⼈驾驶出租车，以此来连接机场、选⼿村、⽐赛场地以及酒店各地。提交会议的资料为我们描画出了⼀幅数年之后的具象图。前天，举⾏了政府与经济界的第2次“官民对话”。⾯对⽆休⽌的争论，安倍⾸相宣布，“要实现领先于世界的第4次产业⾰命，速度是成功的关键”。孤陋寡闻的我们还真不知道第4次产业⾰命这⼀词语，不免⼤为惊讶。煤炭与蒸汽机是第1次；⽯油与电⽓为第2次；这⼀次⼤变⾰紧接着基于信息技术的第3次之后，将充分利⽤⼈⼯智能及⼤数据库。难道真的将出现值得称为⾰命的现象吗？作为门外汉，我们不懂。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ドライバーのいらない無⼈⾃動⾛⾏のタクシーを、東京五輪で「⽇常の⾜」として使えるようにしたい。空港や選⼿村、競技会場、観光地、ホテルを結びたい。会議に出された資料には、数年後の構想がイメージ図とともに描かれる。昨⽇、政府と経済界との2回⽬の「官民対話」があった。議論を受けて安倍⾸相が宣⾔した。「世界に先駆けた第4次産業⾰命を実現します。スピード勝負です」。寡聞にして第4次産業⾰命という⾔葉を知らなかったので、驚いた。⽯炭と蒸気機関の第1次、⽯油や電気の第2次、情報技術による第3次に続く⼤変化だとか。⼈⼯知能やビッグデータが活⽤される。本当に⾰命と呼ぶに値する現象になるのか、⾨外漢にはわからない。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bd30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba46-6b63-11ee-a519-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 1929年10⽉，纽约股价⼤跌造成的“⿊⾊星期四”就像是⼀枚导⽕索给全世界带来了恐慌性经济风暴。受此影响美国银⾏纷纷倒闭，失业者充斥社会，⼈们把怨恨全都集中到了胡佛总统⾝上。⼈们把丧失家园者⽤原⽊建造的⼩⽊屋村落称之为“胡佛村”，为路边流浪汉盖着的报纸取名“胡佛毯”。不知道是否有⼈在瞬间联想到了这个甚⾄被载⼊教科书的晦⽓星期四。因为本周第⼀天，全世界股价同时⼤跌之风席卷了地球。开始于上周末的下跌，⾮但没有停⽌反⽽加快了速度。听说这⼀次并⾮发源于纽约，⽽是因为对中国经济失速引发了不安。由于投机资⾦纷纷逃出中国等原因，带来了上海股市的⼤幅下跌，并造成了波及全球的连锁反应。有⼀种看法认为，早就有⼈指出中国经济存在着巨⼤的“泡沫”，⾛到今天这⼀步已经⽆法掌控。尽管⼈类的智慧可以准确⽆误地预测天体的运⾏，可是并没未达到创建景⽓⾛向⽅程式的程度。或许正是由于这个原因吧，有关股市波动神乎其神的格⾔可谓丰富多彩五花⼋门。“⽌损值千两”堪称其中之⼀，意思是当出现下跌局⾯时应该趁早放⼿，如果能够因此⽽躲过更⼤损失的话，眼前损失可说是价值千⾦。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ニューヨークで株が⼤暴落した1929年10⽉の「暗黒の⽊曜⽇」を引き⾦に、世界に恐慌の嵐が吹き荒れる。当のアメリカでは銀⾏が続々倒産し、街に失業者があふれて、⼤統領フーバーに恨みが集まった。家を失った⼈々が⽊ぎれで作った掘っ⽴て集落は「フーバー村」と呼ばれ、路上⽣活者のかぶる新聞は「フーバー⽑布」と⾔われた。教科書にも載るその不吉な⽊曜⽇が、ふと頭をかすめる向きもあったろうか。週明け、世界的な同時株安が地球を駆けめぐった。先週末からの下落が、⽌まらずに加速する形になった。もっとも今回はニューヨークが発端ではない。中国経済の失速への不安だという。投機資⾦が中国から逃げ出すなどして、上海市場の⼤幅な下落をもたらした。その連鎖的な波及とされる。もともと巨⼤な「バブル」が指摘されていた中国経済だが、ここにきて制御が利かなくなったという⾒⽅がある。天体の運⾏なら⼨分違（たが）わず予測できる⼈知だが、景気の先⾏きの⽅程式を⾒つけるには⾄っていない。それゆえだろう、相場にはご託宣めいた格⾔が多彩にある。「⾒切り千両」もその⼀つで、下げの局⾯では早めに⼿放すべし、それで⼤損を避けられるなら⽬先の損は値千⾦といった意味だ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bd58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba47-6b63-11ee-beef-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: ⽇本⼈为何喜欢现⾦？不久前曾经有过⼀档以此为题的电视节⽬。例如，出席婚庆喜筵，总是以现⾦⽅式表⽰祝贺。对此，外国⼈⼗分诧异。为什么不是送些礼物呢？又为什么很多饮⾷店不能使⽤银⾏卡⽀付呢？确实，即便是在当今⽇本，仍有很多⼈⼀贯地保持着“现⾦主义”，尽可能不使⽤银⾏卡之类消费。或许，有⼈是为了对于过度消费保持警惕；也有⼈因为怕⿇烦；更有⼈是由于讨厌⾃⼰的购物经历被某些⼈掌握的缘故。除此之外，也有在⽇本揣着现⾦到处⾛并⽆危险的原因吧。作为社会保障与纳税帐户的统⼀番号，即My No.即将颁发。不过由于是否接受完全⾃愿，所以究竟能够普及到什么程度尚不明了。国民对于个⼈信息的泄露，以及被不当使⽤的忧虑仍然根深蒂固。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽇本⼈はなぜ現⾦が好きなのか。そんなテーマのテレビ番組が少し前にあった。例えば結婚披露宴に出て、現⾦でお祝いを渡すことに外国⼈は驚く。なぜプレゼントでないのか。また、なぜ⽀払いにカードを使えない飲⾷店が多いのか。確かに⽇本では今もカード類をなるべく持たず、「現⾦主義」を貫く⼈がいる。無駄遣いを警戒する⼈。単に⾯倒くさい⼈。買い物の履歴を誰かに把握されるのは嫌だという⼈もいる。⽇本では現⾦を持ち歩いても危険が少ないという⾯もあろう。社会保障と税の共通番号であるマイナンバーのカードがこれから配られる。受け取るかどうかは本⼈の⾃由だから、どれほど普及するかわからない。個⼈情報が漏れたり、不正利⽤されたりすることへの国民の不安は根強い。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bd8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba48-6b63-11ee-bf9e-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 说起⼉童餐便联想到⼩旗。通常在做成富⼠⼭形状的番茄酱⽶饭的顶上都要树上⼀⾯。不知道其他各种餐饮饰品上是否也可以⽴上⼀⾯旗呢？看到了⼀则颇感意外的新闻。预估⼉童餐将被排除在称之为“经济体温表”的消费者物价指数调查项⽬之外。所谓调查，指的是占不同家庭每⽉⼀定程度⽀出的⾷品项⽬。难道是因为在少⼦化的影响下，就餐量⼤不如前的缘故吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "お⼦様ランチといえば旗である。通常、富⼠⼭の形を模したケチャップご飯の頂上に⽴っている。他の⾊々な⾷べ物にも旗を⽴ててみたらどうなるか。意外なニュースに接した。「経済の体温計」といわれる消費者物価指数の調査品⽬から、お⼦様ランチが外れる⾒通しとなった。調べるのは各家庭が毎⽉⼀定程度⽀出する⾷品品⽬である。少⼦化の影響で、以前ほど⾷べられなくなったのだろうか。◆ ⽂化类⼀、汉译⽇ （）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bdb2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba49-6b63-11ee-893e-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 对于把⼈们的⽣命、⽣活毁于瞬间的阪神⼤地震，⼤家是怎么看的呢？地震破坏的不仅是物质，对于未受到地震袭击的地区的⼈来说，也是⼀种动摇其价值观的⽂化冲击。实际上，经历过空袭的⼈在50年前就曾受到过同样的打击。空袭和天灾虽然是两码事，但打击是相似的。此后，经历过空袭的⼀代⼈中的⼤多数⼈始终认为，即使在⽇本⾼速发展、繁荣的时候，“这样的⽣活不可能⼀直持续下去”。当⼈们认为富裕与繁荣是理所当然时，往往很难发现物质其实是⼀种空虚的、⽆常的东西，很容易遗忘的看不见却很重要的东西，例如⼀起⼯作所带来的喜悦和感恩的⼼情。这次⼤地震，似乎让我们开始思考如何去⽣活。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼈々の⽣命と⽣活を⼀瞬にして打ち砕いた阪神⼤震災、それを⼈々はどう受け⽌めたか。地震はたいへんな物理的衝撃であっただけでなく、離れた地域にいた⼈々にとっても、価値観を揺るがす⽂化的衝撃だった。実は空襲を体験した⼈々が、同じような衝撃を50年前に受けた。空襲と天災は別物だが、衝撃は似ていた。以後、空襲を体験した世代の多くは、⽇本が⾼度成⾧を続け、繁栄しても、⼼のどこかで「これがいつまでも続くわけはない」と感じ続けていた。豊かさや繁栄を当たり前と考えていた時には、物質的な物のむなしさ、はかなさには気づきにくい。そして、⾒えない⼤切なもの、例えばともに働く喜びや感謝の⼼などを忘れがちになる。⼤震災は、私たちに、どう⽣きるかを考えさせているようでもある。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bde4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba4a-6b63-11ee-8c4e-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 中国的服装市场正发⽣巨⼤的变化。在众多著名的外国时装品牌进⼊中国的同吋，中国也逐渐有了⾃⼰的时装品牌。⼀年四季的时装发布会和各种时装周、服装节，引领着中国的服饰潮流和时尚产业。⼤学的服装设计专业，不断地将优秀毕业⽣补充到时装设计⾏业。这些年轻⼈越来越多地借鉴和学习国外设计师的成功经验，不断挖掘中国传统的⽂化特⾊，使中国⾃⼰的时装设计和⽣产向着国际先进⽔平迈进。在2003年，有11家中国原创品牌企业⾸次以“时尚中国”名义参加德国的成⾐展，中国的服装品牌⼰经开始打⼊国际市场。过去不为中国⼈所知的时装模特业，更是以极快的速度在T型台上发展壮⼤。时装表演⼰成为⽼百姓最喜闻乐见的娱乐项⽬之⼀，在城市的休闲⼴场，经常可以看到中⽼年时装表演队⾃娱⾃乐地精彩演出。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国のアパレル市場はまさに⼤きな変化が起こっている。多くの著名な外国ブランドが中国に進出するとともに、中国も独⾃のファッションブランドが徐々に誕⽣している。年間、季節ごとに開催されるアパレルの新デザイン発表会や様々なファッション週間、ファッションショーが、中国のアパレル業界の潮流を牽引している。⼤学でアパレルデサインを専攻する優秀な学⽣が、絶えずファッションデザイン業界に送り込まれている。このような若者はますます国内外のデザイナーから成功した経験を学び、中国の伝統的な⽂化的特⾊を絶えず掘り下げて、中国独⾃のファッションデサインと⽣産を国際的先進レベルに押し上げている。2003年、中国で⽣まれた11社のブランド企業が、初めて「中国ファッション」の名で、ドイツの既成服展⽰会に参加した。中国のアパレルブランドはすでに国際市場に参⼊し始めたのである。かつては中国⼈に知られていなかったファッションモデル業は、急速にT字型のステージの上で発展した。ファッションショーは、庶民がもっとも楽しみにするエンターテインメントの⼀つになった。都市の広場では、中⾼年の⼈々が独⾃にファッションショーを開いて楽している様⼦が、いつも⾒られる。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4be0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba4b-6b63-11ee-9890-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 社会学家考察了深圳等特区⼈际关系和⽣活⽅式的变化。具体地说，主要反映在下列观念的变化上。⼀、竞争观念。⼆、平等观念。三、时间观念。四、效率观念。效率就是⽣命。五、⾃信观念。六、信息观念。七、⼈才观念。⼋、就业观念。特区的青年绝⼤多数想成为企业家。九、⾃强观念。⼗、法律观念。⼗⼀、交流观念。特区的交流是不分⽣与熟、男与⼥的，也不分地位的⾼低，⽽是以兴趣为主，开放式地交流情感。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会学者は、深圳など経済特区における⼈間関係と⽣活様式の変化を調査した。具体的に⾔えば、次のような意識変化があげられる。⼀、競争意識の芽⽣え。⼆、平等意識の醸成。三、時間の概念の変化。四、能率第⼀志向。能率こそ第⼀位だ。五、⾃信の形成。六、情報の重視。七、⼈材の尊重。⼋、企業家への憧憬。青年の⼤多数が企業家に憧れる。九、⾃⽴⼼の向上。⼗、法律観念の強化。⼗⼀、交際範囲の拡⼤。⾯識の有無、男⼥、地位などを問わず交際が盛んである。また、趣味をベースにした開放的な付き合いも⾒られる。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4be3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba4c-6b63-11ee-a68c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 在当今世界上，恐怕只有⽇本堪称“⽊屐王国”。特別是⽇本⼥⼦，⾝着和服，⾜穿⽊屐，⾛起路来，⾝略前倾，⼩步急趋，是那么⽂静、典雅、谦恭得体，别有⼀番风韵。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "いまの世界で「下駄の国」と呼ぶことのできるのは、恐らく⽇本ぐらいであろう。とくに和服を⾝につけ、下駄をはいて⼩刻みに歩く⼥性の姿はしとやかで気品があり、しかも慎ましやかで、すこぶる⾵韻に富む。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4be66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba4d-6b63-11ee-8c2c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 中⽂的“夫”、“丈夫”、“⼤丈夫”词义很接近，在⽇⽂中却相去甚远，这不能不令国⼈对语⾔的转化、引申之奇妙⽽惊叹。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国語における「夫」、「丈夫」、「⼤丈夫」は、意味が近い。ところが、⽇本語における意味は全く違う。⾔語の転化と転義が奇妙で中国⼈は、よく驚くのである。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4be98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba4e-6b63-11ee-bdcd-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 有位外国朋友，应邀来北京做⼀年的客座教授，在他期满返国之前，我问他对中国学⽣的感想，他很简要地说：“好奇但不爱发问，怀疑但不爱辩论，勇于让座⽽吝于让路，乐于说谢谢，⽽怯于说对不起。正好与敝国的学⽣相反。”"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ある外国⼈の友⼈が北京に招かれ、1年間客員教授を務めた。期限が来て帰国する前に、私は彼に中国の学⽣について感想を求めた。彼は簡潔にこう⾔った。「好奇⼼はあるが質問しようとはしない。疑問は持つが議論しようとはしない。席を譲る勇気はあるが、道を譲る余裕はない。「ありがとう」は好んで⾔うが、「すみません」を⾔う度胸はない。ちょうど我が国の学⽣と正反対だ」。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bec0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba4f-6b63-11ee-85e3-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 法国⼈爱接吻、爱吃、爱说话。这三种“⼜腔⽂化”给外国⼈留下了深刻的印象。任何⼀部法国电影，如果去掉其中有关接吻、进餐和冗长的对话与独⽩部分，余下来的⼤概也就没什么可看的了。⼀个普通的观光客到了法国，不管他置⾝于城市或乡间，只要有⼈的地⽅就看得到接吻表演。他们并不选择隐秘的地点，相反观众越多越来劲。在街头、地铁，甚⾄排队购物的长龙中，都可以看到⼀对对接吻的热情男⼥。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "フランス⼈はよくキスをし、⾷べ、おしやべりする。この三つの「⼜腔⽂化」は外国⼈に深い・ ・印像を与えている。どんなフランス映画でも、もしそこからキス ⾷事冗⾧な会話と独⽩に関する部分を取り去ったならば、残りは恐らく何も⾒るべきものはなくなってしまうだろう。普通の観光客がフランスに⾏く。都会に⾝を置こうが⽥舎に⾝を置こうが、とにかく⼈の居る所でありさえすれば、彼はキスの実演を⾒ることができる。彼らは別に隠れた場所を選ぶわけではなく、逆に観客が多ければ多いほど張り切る。街⾓、地下鉄、更には買い物に並ぶ⾧蛇の列の中でさえも、キスをしている熱い男⼥を何組も⾒ることができる。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bee8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba50-6b63-11ee-87e8-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 打击之⼤⾜以令⼈震惊。1949年1⽉27⽇本报⼤阪总社版在其头版打出了“法隆寺⾦堂⽕光熊熊”的通栏⼤标题。这篇以“世界⽂化的损失”为题的报道，深深地为⾦堂中的壁画⽽惋惜。⽂章称，它不仅是“我国上代绘画的最⾼峰”，作为“古代绘画的⼀个完整的标杆”，在世界史上有其独到的价值。位于同⼀版⾯的敝栏⽬也以“⽆⾔以对”深表痛惜。失去了国宝中的国宝，沮丧之情溢于⾔表。所幸的是共计12幅壁画在战前均拍摄了照⽚，今天我们仍能够看到尚未褪⾊的照⽚。⾦堂失⽕是战后将⽇本⼈的⽬光集中到注重保护历史遗产上的起点。次年，⽂物保护法开始实施。利⽤亲⾝经历的焚毁之劫难，为民众指出了⼀条⾛向“⽂化国家”之路的壁画以及它所拥有的意义，希望将所有这些完整地传承给⼦孙后代。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "衝撃の⼤きさは察するにあまりある。1949年1⽉27⽇の本紙⼤阪本社版は1⾯に「法隆寺⾦堂炎上」の横⾒出しを張った。「世界の⽂化的損失」と題する記事が、⾦堂の中の壁画の焼損を惜しんでいる。「わが国上代絵画の最⾼峰」であるだけでなく、「古代絵画の⼀つの完全なサンプル」として世界史的な価値があった、と。同じ紙⾯の⼩欄も「いうべき⾔葉がない」。国宝中の国宝を失った落胆が伝わる。計12⾯の壁画は幸い戦前に撮影されており、⾊彩を奪われる前の写真を今も⾒られる。⾦堂炎上は、歴史遺産の⼤切さに戦後の⽇本⼈の⽬を向けさせた出発点だ。翌年、⽂化財保護法の施⾏が始まった。いわば⾝をもって「⽂化国家」への道を指し⽰した焼損壁画の持つ意義が、次代にしっかり伝わってほしい。◆ 法律类⼀、汉译⽇ （）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bf1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba51-6b63-11ee-af14-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 随着访⽇中国游客的骤增，中国游客在⽇本新宿歌舞伎町等地遭遇敲诈勒索的案件时有发⽣。个别游客听信拉客者的虚假宣传前往消费，结果被敲诈现⾦、盗刷或强制刷信⽤卡等，受害者往往因系短期访⽇，加上语⾔不通、对⽇本法律缺乏了解等原因，维权⾯临很⼤困难。东京都新宿区已颁布相关条例，禁⽌拉客⾏为，警⽅正采取⾏动严厉打击。中国驻⽇本⼤使馆提醒访⽇游客切勿相信拉客者的宣传⽽前往有关店铺消费。⼀旦遭遇敲诈勒索，建议及时前往警察署报案，并提供被害时间、店名、案件具体情况等，最好能保留相关证据，以便警⽅进⼀步调查。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "・ ・⽇本を訪れる中国⼈観光客の激増に伴い、新宿歌舞伎町などで中国⼈が詐欺 ぼったくり被害に遭う事件も発⽣している。客引きの⼜⾞に乗せられて店に連れて⾏かれ、ぼったくり、クレ・ジットカードの無断使⽤ ⽀払強制などの被害に遭う事例が報告されている。しかし、観光のための短期滞在、⾔葉の壁、⽇本の法律⾯の不備といった原因が重なり、被害者の権益保護は困難だ。東京都新宿区では、客引きが条例で禁⽌されており、警察は取り締まりに⼒を⼊れている。在⽇本中国⼤使館は訪⽇観光客に向け、客引きの⾔葉につられて店に⾏かないよう呼びかけている。なお、詐欺被害に遭った場合は、すぐに警察に届出をし、被害に遭った時間、店名、具体的な状況などを伝え、可能ならば今後の調査のために関連の証拠を提出するべきとしている。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bf4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba52-6b63-11ee-ab36-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 最近，位于南京⼤⾏宫⼀家名叫“品⼤三”的中式餐馆在美国洛杉矶即将开分店。这家店的师傅做⼩笼包都是按照《南洋⼩笼包⽣产标准》、《管控标准》两本指南书制作，⽽这本书则是⽼板和⼤厨的作品。正因为有了这套指南，才能够保证在世界各地出产的⼩笼包都是⼀样的。包⼦每个都是⼆⼗⼀个褶⼦，上笼时间也精确到秒，⼜味跟其它店⼀模⼀样。不过跟南京不同的是，在美国包⼦不是蒸好就上桌，⽽是要放到45℃以下上桌。因为美国的法律对此有着严格的规定，不能将过烫的⾷物端给客⼈。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "最近、南京市の⼤⾏宮にある中華料理店「品⼤三」が、⽶国ロサンゼルスに⽀店をオープンする。同店の料理⼈が作る⼩籠包は全て、「南洋⼩籠包⽣産基準」と「管理コントロール基準」という2冊のガイドブックに沿って作られており、これらの2冊は、店主と料理⾧が執筆したものだ。この指針があることで、世界各地で作られた⼩籠包の質が全て同じになることが保証される。同店の⼩籠包には、21個の「ひだ」があり、籠に⼊れて蒸す時間も秒単位で正確に計測され、味も店舗に関わらず全て同⼀だ。だが、南京と異なり、⽶国では、⼩籠包を蒸してすぐにテーブルに提供してはならず、45度以下になってから提供しなければならない。⽶国の法律は⾮常に厳格であるため、お客に熱々の料理を出すことは禁じられている。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bf74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba53-6b63-11ee-8d0f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 制定新的法律就像盖栋新房。要根据需求来设计房屋的功能。抗震性等指标要达到相关法规要求，还要考虑配合周围的环境和景观等等。前任内阁法制局长官阪⽥雅裕在其著作《政府的宪法释义》中，⽤上⾯这段话打了个⽐⽅。安保关联法案昨天被提交参议院审议，它如同⼀个破坏了周围景观的建筑，⼀直被舆论批判违反了宪法。违宪的法律绝不能成⽴，期待参议院能严格对照宪法来辩论。从不能⾏使集团⾃卫权改成可以⾏使，对宪法的解释来了个180度⼤转弯。即便如此，还要强词夺理地说与固有的理念没有冲突。多年积累的法律释义在⼀次内阁会议上就被否定，还要狡辩说这是维护了法律的稳定性。之前政府的⾔论虽然缺少说服⼒，但⾄少还在姿态上努⼒维持与周围景观的统⼀，现在却冒出了令⼈吃惊的⾔论。前天总理助理公然宣称，只需要考虑是不是⼀个对国家⾃卫来说有必要的措施，“跟法律稳定性没有关系”。这种彻底撕下最后遮羞布的⾔论，才是他们的⼼⾥话吧？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法律を新しくつくるとは、建物を新築するかのような作業だという。⽤途に応じて機能的に設計すること。耐震強度などの法規制に従うこと。さらには町並みの景観などにも配慮すること。阪⽥雅裕元内閣法制局⾧官の編著書『政府の憲法解釈』に登場する例え話である。全体の景観との不調和、すなわち憲法違反だと批判される安保関連法案が、きのう参院で審議⼊りした。「違憲」の法律を成⽴させるわけにはいかない。憲法との関係に照準を絞った論戦を望む。集団的⾃衛権は⾏使できないから⾏使できるへ。憲法解釈を百⼋⼗度変えても、従来の理屈とつじつまは合っていると突っ張る。⾧年の解釈の蓄積を⼀⽚の閣議決定で葬り去っても、法的な安定性は保たれると強弁する。説得⼒はなくとも、ともあれ全体の景観との調和は考えている。そんなポーズを政権は取ってきたが、驚くべき発⾔が⾶び出した。⾸相補佐官が⼀昨⽇、考えるべきは我が国を守るのに必要な措置かどうかであり、「法的安定性は関係ない」と述べた。これまでの⾔い繕いを台無しにする本⾳の⾔葉か。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bfa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba54-6b63-11ee-a565-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 弟⼦中有⼀⼈感到惊讶，“我还从未见过⽼师以如此严厉的⼜⽓讲话”。他就是宪法学界泰⽃京都⼤学名誉教授佐藤幸治先⽣。6⽇，在法学及政治学专家们举办的“⽴宪民主主义会”的研讨会上发表了演讲。他参与了省厅重组等⾏政改⾰以及引进陪审员制度的司法改⾰。尽管学术界中与政治保持距离者为数不少，可是佐藤先⽣从⾃民党政权内部推动了改⾰。但是，安倍政权的态度让⼈感到了⽇益增加的危机。演讲中他阐述了并不⼀概否定修宪的必要性，并强调称“同时我也感到了明智考量的势在必⾏，决不能轻易动摇宪法的主⼲”。看来他还是念念不忘本届国会持续热议的安保法制事宜。在第9条的前提下，既不认可⾏使集体⾃卫权，也不允许轻易改变宪法对此的解释。⽽安倍政权却抛弃了历届内阁的这⼀⽴场。因此，使得“主⼲”，即⽤宪法束缚政治权⼒的⽴宪主义本⾝⾯临着危机。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "教え⼦の⼀⼈が驚いていた。「あんなに激しい⼜調で語る先⽣は⾒たことがない」。憲法学界の重鎮、京⼤名誉教授の佐藤幸治さんである。6⽇、法学や政治学の専⾨家らがつくる「⽴憲デモクラシーの会」のシンポジウムで講演した。省庁再編などの⾏政改⾰や裁判員制度を導⼊した司法改⾰に携わった。学界には政治に距離を置く⼈も多いが、佐藤さんは⾃民党政権の内側から改⾰を進めてきた。しかし、安倍政権の姿勢には危機感が募るようだ。講演で憲法改正の必要性を⼀概に否定はしないと述べた上で、こう強調した。「憲法の根幹を安易に揺るがすようなことはしないという賢慮が必要であると強く思う」。今国会で議論が続く安保法制が念頭にあるのだろう。9条の下で集団的⾃衛権の⾏使は認められず、その憲法解釈を便宜的に変更することも許されない。こうした歴代内閣の⽴場を安倍政権は打ち捨てた。まさに「根幹」、憲法で政治権⼒を縛るという⽴憲主義そのものが危機に瀕している。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4bfce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba55-6b63-11ee-bfac-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: ⼈往往容易被感情及短期利益所左右，因此，从中长期看很难说合乎道理，于是便造成了所作判断损伤⾃⾝利益的结果。这是宪法学家早稻⽥⼤学教授长⾕部恭男的发⾔。前天，他作为与会专家出席了众议院宪法审查会。他在会上指出，为什么修改宪法要设置很⾼的门槛，理由之⼀就是因为⼈的判断⼒不可靠的缘故。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼈間というものは、とかく感情や短期的な利害にとらわれがちである。そのため、中⾧期的に――⾒たときには合理的とは⾔い難い、⾃分たちの利益に反する判断を下すことがある 憲法学者・の⾧⾕部恭男早稲⽥⼤教授の発⾔だ。⼀昨⽇の衆院憲法審査会に参考⼈として出た。改憲のハードルはなぜ⾼いのか。理由の⼀つは⼈間の判断⼒があまりあてにならないからだと指摘した。◆ 科普类⼀、汉译⽇ （）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c000-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba56-6b63-11ee-b6e7-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: ⼈，⽣来就阴阳合⼀。在男性以阳⽓为主；于⼥性则以阴柔为盛。所谓男⼥之别，不过缘于阴阳两⽓的不同组合。在今天，阴阳相济相⽣者最能适应纷繁复杂的社会。⼀项对男⼥两性社会适应程度的调查结果表明，在成⼈期，集两性之优长者，不仅⼼理上更加健康，⽽且也⽐其他类型者更具有⾃我价值观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼈は本来、男性性と⼥性性の両⽅を持っており、男性では男性性が、⼥性では⼥性性がより多く発達するので、男⼥でその強さの割合が違ってくるのだと考えられるようになってきた。ま・た、今⽇の複雑な社会においては、男性性 ⼥性性の両⽅が⼗分に発達した両性性⼣イプのパー・ソナリティが最も社会に適応しやすいといわれており、男性性 ⼥性性と社会適応の関係を調べ・たある調査結果でも、成⼈期で男性性 ⼥性性ともに⾼い両性性タイプに属する⼈は、他のタイプの⼈より⾼い⾃⼰価値観を持ち、⼼理的に健康であることが実証されている。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c028-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba57-6b63-11ee-874c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 美国有⼏位⼼理学家，对1528名智⼒超常的⼉童进⾏了长达50年的追踪研究，结果表明，他们取得的成就有⼤有⼩。⽽成就的⼤⼩，⾮智⼒因素起了决定性的作⽤——凡有恒⼼、进取⼼、⾃信⼼，又能百折不挠的⼈，成就最⼤。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽶国の数⼈の⼼理学者は、知能が極めて⾼い児童1528⼈を対象に50年間にわたる追跡調査を⾏った。その結果、成⾧後の彼らの成果のいかんは⾮知的要素である真⼼、向上⼼、⾃信、不屈の気⼒などが決定的な役割を果たしており、それを⾝につけた児童は最も⼤きな成果をおさめていることが分かった。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c05a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba58-6b63-11ee-a1b5-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 作为国家海洋科技创新的重要平台，我国海洋领域唯⼀的国家实验室——青岛海洋科学与技术国家实验室10⽉30⽇正式启⽤。青岛海洋科学与技术国家实验室设有海洋动⼒过程与⽓候、海洋⽣物学与⽣物技术和海洋⽣态与环境科学等⼋个功能实验室。“⼗三五”期间，该国家实验室将实施西太平洋—南海—印度洋动⼒过程与环境⽓候安全、蓝⾊⽣命过程与资源开发利⽤、西太平洋洋陆过渡带深部过程与资源环境效应等科研任务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "・青島海洋科学技術国家実験室が、10⽉30⽇に正式に設⽴された。国の海洋科学技術⾰新の重要なプラットフォームであり、中国の海洋分野で初の国家実験室となる同実験室内には、海洋動的過程と気候変動、海洋⽣物と⽣物技術、海洋⽣態と環境科学など、8つの機能実験室がある。同・ ・ ・実験室は第13次五カ年計画期間、西太平洋南中国海 インド洋の動的過程環境気候安全、海・洋⽣命過程資源開発利⽤、西太平洋⼤陸棚過渡エリア深部過程·資源環境に対する影響などの科学研究の任務を担う。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c082-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba59-6b63-11ee-bfff-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 世界卫⽣组织发布公告称，培根及⽕腿肠等加⼯⾁制品含有致癌物质，并称这⼀结论基于充分的证据。倘若1天50克、每天⾷⽤的话，导致⼤肠癌的风险将提⾼18%。全世界为之震惊。⽽后，宣布⽅又解释说，“这并不意味着要求停⽌⾷⽤”。据国⽴癌症研究中⼼称，⽇本⼈的加⼯⾁制品摄⼊量很少，若控制在平均范围内可以认为不具有造成影响的风险，抑或有风险也⾮常⼩。总⽽⾔之，最后落到实处的结论是只要采⽤均衡的饮⾷⽅式就不会有太⼤的问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ベーコンやハムといった加⼯⾁には発がん性があると、世界保健機関が発表した。⼗分な証拠に基づくという。1⽇50グラムを毎⽇⾷べると⼤腸のがんになるリスクが18%⾼まる、とも世界中が驚いた。発表元は後に「⾷べるのをやめるよう求めてはいない」と釈明した。国⽴がん研究センターによれば⽇本⼈の加⼯⾁の摂取量は少なく、平均的な範囲ならリスクへの影響はないか、あっても⼩さい。結局、バランスのいい⾷べ⽅を、という穏当な結論に落ち着くのだろうか。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c0aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba5a-6b63-11ee-a964-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 许多研究已证实鱼⾁含有丰富的营养物质，⽇常多吃有益健康。⼀项新发布的研究结果则显⽰，多吃鱼⾁的⼈患抑郁症的风险或许更低。中国青岛⼤学医学院的研究⼈员在英国《流⾏病学和公共卫⽣杂志》上发表的报告说，他们对超过15万⼈的健康数据进⾏梳理后发现，那些⽇常⾷⽤鱼⾁较多的⼈群患抑郁症的风险⽐其他⼈群低17%。报告说，导致上述差异的⼀个可能解释是鱼⾁所含的“欧⽶伽3”不饱和脂肪酸可能有助⼤脑中多巴胺和⾎清胺⽔平提升，这两种脑部分泌的化学物质与抑郁症的发⽣存在较⼤关系。有研究显⽰，缺乏多巴胺会导致抑郁症，⽽抑郁症患者⼤脑中的⾎清胺含量较低。不过，英国专家也指出，⽬前还不能简单地就这⼀实验结果做出相关结论，因为抑郁症的成因⽐较复杂，并不是简单⼀两个因素就能解释的，但鱼⾁中的不饱和脂肪酸确实有益健康，长期⾷⽤对保持整体健康⽔平有很⼤益处。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⿂⾁は栄養価が⾼く、⽇常的に⾷べることで健康を促進できることが、多くの研究によって証明されている。新たに発表された研究結果によると、⿂⾁をたくさん⾷べる⼈はうつ病になる可能性が低くなるかもしれない。青島⼤学医学院の研究者が英国の学術誌に掲載した報告書によると、15万⼈以上の健康データを調査した結果、⽇常的に⿂⾁を多く⾷べる⼈がうつ病になる可能性は、他の⼈々を17%下回ることが分かった。これは⿂⾁に含まれる「オメガ3」不飽和脂肪酸が、脳のドーパミンとセロトニンの分泌を促すためだと思われる。この2種類の化学物質は、うつ病の発⽣との間に⾼い関連性を持つ。研究結果によると、ドーパミンの不⾜はうつ病を引き起こす。またうつ病患者の脳はセロトニンの量が不⾜している。しかし英国の専⾨家は、この実験結果で単純に結論を導き出すことはできないと指摘した。うつ病の原因は複雑であり、⼀つや⼆つの要素によって説明できるものではないからだ。しかし⿂⾁の不飽和脂肪酸は確かに健康を促進し、⾧期的な摂取により全体的な健康⽔準を維持する⼀助になる。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c0dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba5b-6b63-11ee-aa44-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: ⼈类制造的机器⼈开始攻击⼈类，这是SF电影的亘古不变的主题。著名的宇宙物理学家霍⾦博⼠在接受英国⼴播公司BBC采访时说，“倘若开发出更全⾯的⼈⼯智能，那么，⼈类也许将招致杀⾝之祸”。以智⼒制胜的⼈类曾经压制、消灭过很多⽣物。相同的现象不见得不会发⽣。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼈間の作ったロボットが⼈間を攻撃し始めるのは、SF映画の定番だ。「完全な⼈⼯知能が開発されれば、⼈類の終焉を招くかもしれない」。名⾼い宇宙物理学者ホーキング博⼠が、英BBC放送に語っている。知⼒で勝る⼈間は多くの⽣き物を圧倒し、絶滅させた。同じことが起きないとも限らない。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c104-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba5c-6b63-11ee-b43f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: EmojiWorks公司近⽇开发出⼀款能够直接输⼊表情符号的物理键盘。有了这款键盘，⽤户不⽤打开其他的应⽤或窗⼜，就能直接使⽤表情符号，每个按键都对应3个表情符号，可以通过键盘底部的“emoji”按钮来切换输⼊模式。74%的美国⼈经常在⽹上聊天时使⽤标签、表情图标和表情符号，他们平均每天要对外发送96个表情符号。EmojiWorks称，这个键盘可以将表情符号输⼊速度提⾼10倍。这款键盘⽀持蓝⽛连⽹，兼容Mac、iOS和Windows平板电脑、笔记本电脑和台式机电脑。为了满⾜不同⽤户的需求，EmojiWorks发布了三款不同版本的表情符号键盘。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "EmojiWorks社はこのほど、絵⽂字を直接⼊⼒できるキーボードを開発した。このキーボードがあれば、ユーザーはその他のアプリやウインドウを使わなくても、絵⽂字を直接使⽤できるようになる。⼀つのキーが三つの絵⽂字に対応し、キーボード下部の「emojiキー」で変換することができる。⽶国⼈の74%が、オンラインチャットで頻繁に絵⽂字を使⽤している。彼らは毎⽇平均で96個の絵⽂字を送信する。EmojiWorksは、このキーボードを使⽤することで、絵⽂字の⼊⼒速度が10倍に向上するとしている。このキーボードはブルートゥースでネットワークに接続できる。Mac、iOSおよびWindowsのタブレットPC、ノートPC、デスクトップPCに対応できる。各ユーザーの需要を満たすため、同社は3モデルの絵⽂字キーボードを発表した。◆ ⽂学类⼀、汉译⽇ （）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c12c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba5d-6b63-11ee-9a9f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 我在年轻的时候也曾经做过许多梦，后来⼤半忘却了，但⾃⼰也并不以为可惜。所谓回忆者，虽说可以使⼈欢欣，有时也不免使⼈寂寞，使精神的丝缕还牵着已逝的寂寞时光，又有什么意味呢，⽽我偏苦于不能全忘却，这不能全忘的⼀部分，到现在便成了《呐喊》的来由。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "私も若いときには多くの夢をみたが、その後⼤半は忘れてしまった。しかし⾃分ではけっして惜しいとは思わない。思い出というものは、⼈を楽しませるものではあるが、時には⼈を寂しがらせないでもない、精神の⽷に、過ぎてしまった寂寞の年⽉を引きずらせておいたところで、何の意味があろう。だが、困ったことに、私にはそれらの思い出を完全に忘れることができないのである。その忘れられない⼀部分が、いまとなって『吶喊』となった、というわけだ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c15e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba5e-6b63-11ee-97ad-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: ⾼密东北乡⽆疑是地球上最美丽最丑陋、最超脱最世俗、最圣洁最龌龊、最英雄好汉最王⼋蛋、最能喝酒最能爱的地⽅。⽣存在这块⼟地上的我的⽗⽼乡亲们，喜⾷⾼粱，每年都⼤量种植。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾼密県東北郷は地球上でもっとも美しくて醜く、もっとも超俗的で俗っぽく、もっとも清らかで汚らわしく、もっとも雄々しくて⼈の道にはずれ、もっともよく酒をくらい愛しあうのにふさわしいところだったのだ。この地に⽣きるわが同郷の⼈々は⾼梁を好み、毎年⼤量の⾼梁を植え育てた。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c186-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba5f-6b63-11ee-b483-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 东、西⽅诗在其源头已分道扬镳，西⽅有史诗，⽽中国只有诗史，司马迁的《史记》是⽆韵之《离骚》，然⽽屈原的《离骚》则决⾮有韵之《史记》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "東西両洋の詩も、その誕⽣期からすでに異なる道を辿ったのである。西洋には史詩があるが、中国の場合は詩史になる。司⾺遷の『史記』を、無韻の『離騒』と⾒なすことができても、屈原の『離騒』は、決して押韻の『史記』にはならない。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c1ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba60-6b63-11ee-b056-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 换⾔之，坪内逍遥在批判传统⽂学的劝善惩恶主义、提倡写实主义、追求⽂学独⽴等⽅⾯具有划时代的意义，但也有其局限性。正如其作品所体现的，把⼈的情感视为情欲的产物，停留于对世态风俗的临摹，不过是粗浅庸俗的写实主义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "すなわち逍遥が、従来の勧善懲悪主義⽂学を批判して、⽂学の⾃⽴性を求め、写実主義を主張した点では画期的なものであったが、その⽂⾯が⽰すように、⼈情を単に⼈間の情欲の所産とみなし、世態⾵俗を模写するだけの浅い俗流写実主義に過ぎない点に限界があった。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c1e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba61-6b63-11ee-837d-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 离开了祖国，我有⼀个明显的感觉：我是中国⼈。这感觉并不是这⼀次才有的。52年前我就有过。我们常常把祖国⽐作母亲。祖国的确是母亲。但是过去这位⽼母亲贫病交加、朝不保⼣，哪⾥管得了⾃⼰⼉⼥的死活！可是今天不同了。出了国境⽆论在什么地⽅，我总觉得有⼀双慈爱的眼睛关⼼地注视着我。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "祖国を離れると、私は「⾃分は中国⼈なのだ」というはっきりとした意識をもつ。この意識はこの時初めてもったわけではない。52年前にもったことがある。私たちはつねづね祖国を母親にたとえる。祖国はたしかに母親である。だが今までこの年⽼いた母親は貧困と病にさいなまれ、明⽇をも知れぬありさまであったのに、どうして⼦供らの⽣死にかまっていられたであろう。しかし今は違った。国境を出ていかなる⼟地に⾏こうとも、私はいつも慈愛にみちたまなざしがやさしく私に注がれているのを感じているのだ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c208-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba62-6b63-11ee-a4c6-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 在我脚边的床铺上，舞娘⽤⼿遮着羞红的双颊。她和年龄居中的姑娘同⼀张床，昨晚的浓妆仍残留在脸上，红⾊的彩妆在双唇及眼尾稍稍晕散开来。这风情万种的惺忪之态让我的⼼湖起了阵阵涟漪。她令⼈眼花地翻转了个⾝，双掌遮着脸，从被窝中钻溜出来，跪坐在⾛廊上，优雅地⾏了个礼，⼜中说道：“昨晚谢谢您了！”杵在那⼉的我为之神魂颠倒。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "私の⾜もとの寝床で、踊⼦が真⾚になりながら両の掌ではたと顔を押えてしまった。彼⼥は中の娘と⼀つの床に寝ていた。昨夜の濃い化粧が残っていた。唇と眦の紅が少しにじんでいた。この情緒的な寝姿が私の胸を染めた。彼⼥は眩しそうにくるりと寝返りして、掌で顔を隠したまま蒲団をすべり出ると、廊下に坐り、「昨晩はありがとうございました。」と、綺麗なお辞儀をして、⽴ったままの私をまごつかせた。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c230-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263ba63-6b63-11ee-8389-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 抓住挡⾬板，朝樱树望去，不知蝉究竟落下来没有。⽉夜仿佛已很深沉。觉得那深沉正弥漫开去，远远地。8⽉10⽇还不到，⾍⼦就叫了。似乎听得见夜露滴落的声⾳，从⼀⽚叶⼦滴到另⼀⽚叶⼦上。忽然，信吾听到⼭的声⾳。没有风。⽉⾊澄明，宛如满⽉。可是，夜⽓潮湿，⼩⼭上的树影朦朦胧胧。风吹过，竟纹丝不动。信吾蹲在廊下，就连那⼉凤尾草的叶⼦，也⼀动不动。在镰仓所谓的⼭⾕⾥，夜⾥有时能听到波涛声，信吾疑⼼是海潮声，然⽽，依旧是⼭之声。好似远风呼呼，却又深沉有⼒，犹如地啸。也恍如脑⼦⾥的声⾳。信吾以为是⽿鸣，便摇了摇头。声⾳停了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾬戸につかまって、桜の⽊の⽅を⾒ていた。蝉がとまったのか、とまらなかったのかわからない。⽉の夜が深いやうに思はれる。深さが横向けに遠くへ感じられるのだ。⼋⽉の⼗⽇前だが、蟲が鳴いている。⽊の葉から⽊の葉へ夜露の落ちるらしい⾳も聞こえる。さうして、ふと信吾に⼭の⾳が聞えた。⾵はない。⽉は満⽉に近く明るいが、しめっぽい夜氣で、⼩⼭の上を描く⽊々の輪郭はぼやけている。しかし⾵に動いてはいない。信吾のいる廊下の下のしだの葉も動いていない。鎌倉のいはゆる⾕の奥で、波が聞える夜もあるから、信吾は海の⾳かと疑ったが、やはり⼭の⾳だった。遠い⾵の⾳に似ているが、地鳴りとでもいふ深い底⼒があった。⾃分の頭のなかに聞えるやうでもあるので、信吾は⽿鳴りかと思って、頭を振ってみた。⾳はやんだ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c262-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e14c-6b63-11ee-8f04-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 看着⽆精打采、满脑⼦只有⼼上⼈的⼩伙⼦，我不着边际地想着这些事情。虽说有点夸张，我真是不由地深深感到⼈类那永恒的青春。我仿佛觉得像梦⼀样逝去的10年又⽣动地闪现在眼前。如今，我虽⾃以为还年轻，但是，跟他相⽐，我已确实不年轻了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾃分の好きな相⼿のことしか頭にない青年のしょげた顔を⾒ながら、こんなことを取り留めなく考えていると、僕はやや⼤げさな⾔い⽅であるが、⾃然の永遠の若さということをしみじみ感ぜざるを得なかった。夢のように過ぎ去った⼗年の歳⽉を、⽣ま⽣ましく眼前に突きつけられたような気がした。僕は今でも⾃分では若いつもりでいる。しかし彼に⽐べればもう確かに若くはない。◆ 环保旅游类⼀、汉译⽇ （）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c28a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e14d-6b63-11ee-962c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 为我们留下了很多充满抒情格调诗歌的三好达治有⼀⾸题为“降灰”的风格迥异的作品。所谓灰，就是指核武器造成的死亡之灰。从这⾸诗问世已经半个多世纪过去了，冷战结束也有很长时间。尽管如此，可⼈类的脚步就像是停⽌了似的，这⼀次的不扩散核武器条约（NPT）签约国会议却未达成⼀致，在不签署最终⽂件的情况下宣告闭幕。给为废除核武器⽽不断努⼒的⼈们带来了深深的失望。环顾整个国际社会，核武器还是那么的专横跋扈。这⼀次，美俄英法中这些核持有国强烈反对在条约中注明禁⽌核武器，并删除了相关⽂字。这5个国家作为常任理事国掌控着联合国安理会，可以说拥有坚如磐⽯般的“既得权⼒”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "叙情あふれる詩を残した三好達治に「灰が降る」と題する異⾊作がある。灰とは核兵器による死の灰のことである。その詩から半世紀以上。冷戦も終結して⾧いのに、⼈類は歩みを⽌めたかのような核不拡散条約（NPT）会議の決裂である。最終⽂書を採択できずに閉幕となり、核廃絶をめざす⼈々の失望は深い。国際社会を⾒回せば、核兵器は⼤きな顔をしたままだ。⽶ロ英仏中の核保有国は今回、核兵器禁⽌条約の記述に強く反対し、⽂⾔は削除された。この5カ国は国連安保理を常任理事国として⽀配している。岩盤のような「既得権」といえる。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c2b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e14e-6b63-11ee-8bd9-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 丰⽥公司于本⽉15⽇上市了⼀款燃料电池汽车。它以氢⽓为燃料，在与空⽓中的氧产⽣反应的过程中产⽣电⼒并使汽车⾏驶。⾏驶过程中尽管还有⽔的排出，但不会排放废⽓及⼆氧化碳，被视作是⼀款“极度经济型汽车”。据说，⾯向⼤众的销售尚属世界⾸例。此款汽车的开发⾛过了⼀条漫长道路。当初据说1辆车要1亿⽇元。最后终于降低到了在接受国家补贴的情况下，相当于⾼级汽车价位的520万⽇元。然⽽还有⼀些“根本”的课题需要解决。虽然⾏驶状况已经很好，可是在制作氢⽓的过程中仍然要产⽣⼆氧化碳；⾼于汽油的价格必须降低等等。能源的主⾓究竟能不能由⽯油让位于氢⽓？我们期待着“未来”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "トヨタが今⽉15⽇に燃料電池⾞を発売した。⽔素を燃料とし、空気中の酸素と反応させ、電気をつくって⾛らせる。⾛⾏中に⽔は出るが、排気ガスや⼆酸化炭素は出さず、「究極のエコカー」とされる。⼀般向けの販売は世界初という。開発は⾧い道のりだった。当初は1台1億円といわれた。それが国の補助⾦を受ければ、⾼級⾞並みとはいえ約520万円で買えるまでになった。ただ「究極」というには課題もある。⾛⾏中はよくても、⽔素をつくる過程で⼆酸化炭素が出る。ガソリンより⾼い値段を下げる必要もある。エネルギーの主役は⽯油から⽔素に交代するか。「未来」を待ちたい。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c2e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e14f-6b63-11ee-812d-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 根据国际旅⾏⼈数和旅游外汇收⼊的数量，中国被世界旅游组织（WTO/OMT）评为世界五⼤旅游⽬的地。⾃1992年开始，中国旅游业通过不断的转型和结构调整，逐渐适应了市场经济的需求，形成了⼊境旅游、国内旅游和出境旅游均快速发展的良好势头。中国加⼊世界贸易组织、北京举办2008年奥运会等重⼤活动，也为中国旅游及旅游⾏业的发展提供了契机。旅游业的快速发展在推动整个国民经济的发展、解决就业⽅⾯发挥了重⼤作⽤。据统计，中国旅游业直接创造了中国近1.91%的就业机会，即1360万个⼯作岗位，⽽旅游经济整体创造的就业机会则占到了7.41%，约5410万个⼯作岗位。世界旅游及旅⾏理事会（WTTC）预测，如果中国⽬前的旅游及相关政策不发⽣改变，今后9年间中国旅游及旅游⾏业将创造1180万份⼯作。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外国からの観光客数と観光の外貨収⼊に基づいて、中国は世界観光機関（WTO/OMT）から世界の5⼤観光地に選ばれた。1992年以降、中国の観光業は、絶え間ない再編と構造調整により、市場経済の需要に次第に適応し、外国⼈の観光、中国⼈の国内観光、中国⼈の海外旅⾏をそれぞれ均しく、急速に発展させるというすばらしい姿をつくりあげた。中国のWTO加盟、北京の2008年五輪招致成功なども、中国の観光業の発展の契機となった。観光業の急速な発展は、国民経済全体の発展を促進し、就業問題の解決に⼤きな役割を発揮している。統計によると、中国の観光業は、"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c30c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e150-6b63-11ee-ba1f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 继去年试⾏5个主题免费开放⽇之后，近⽇故宫再次发出免费游览的邀请，公交司乘⼈员、环卫⼯⼈也可以免费游故宫了。免费的群体还包括医务⼈员和志愿者、现役军⼈和公安民警、教师和⼤专院校的学⽣。11⽉起，上述五类⼈员可以根据免费开放⽇安排，免费游览故宫。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "昨年、5種類のグループを対象とした無料開放試⾏を実施した故宮が、ふたたび特定グループの⼈々を対象とした無料開放を実施する。対象となるのは、公共交通乗務員、清掃作業員、医療関・連スタッフ及びボランティア、現役軍⼈および公安⼈民警察、教員および総合⼤学単科⼤学の学⽣である。11⽉から、これら5種類のグループの⼈々は、無料開放デー計画に応じ、故宮を無料で参観することができる。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c33e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e151-6b63-11ee-894b-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 近⽇，漫画爱好者滕颖在由⽇本⼤使馆、⽇本国家旅游局共同举办的⾸届“分享⽇本游感想原创微博⼤赛”中获得⼀等奖。作品中，滕颖⽤漫画展现了⾃⼰探访⽇本的经历，亲切的画风，娴熟的技巧，⾮常引⼈注⽬。腾颖表⽰，今后还将继续探访⽇本，分“⽇本温泉游”“⽇本美⾷游”等主题来展现⽇本的魅⼒。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽇本⼤使館と⽇本政府観光局共催の第⼀回「⽇本旅⾏感想⽂共有コンテスト」で、漫画愛好家の滕穎さんが⼀等賞を獲得した。滕穎さんは⽇本観光での経験を⼿描き漫画のスタイルで紹介しており、その親しみやすい画⾵と質の⾼い画法で注⽬を集めた。滕穎さんは、今後も引き続き⽇本を訪問し、「⽇本温泉の旅」や「⽇本グルメの旅」といったジャンルに分類しながら⽇本の魅⼒を共有していきたいと話した。◆ 社会热点类⼀、汉译⽇ （）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c366-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e152-6b63-11ee-8e75-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 上千名⽇本民众26⽇下午⾛上东京街头，⾼举“反对边野古基地建设”、“反对⽇美军事同盟”等标语，呼吁刚刚开启访美之⾏的⾸相安倍晋三将⽇本⼈民反对在冲绳新建美军基地的声⾳传递给美国政府。游⾏组织者野平告诉记者，⼆战结束后，美国政府在⽇本强⾏征⽤了许多⼟地，如今在冲绳已经有很多的美军基地，冲绳⼈民不能再接受新的基地。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "千⼈以上の⽇本の民衆が26⽇午後、東京の街をデモ⾏進した。「辺野古基地建設に反対」、「⽇⽶軍事同盟に反対」などと書かれたプラカードを掲げ、⽶国の訪問が始まったばかりの安倍⾸相に沖縄での新しい⽶軍基地建設に反対する⽇本国民の声を⽶国政府に伝えるように呼びかけた。デモを組織した野平⽒は記者にこう語った。第⼆次世界⼤戦終戦後、⽶国政府は⽇本で多くの⼟地を強制的に収⽤した。今では沖縄に多くの⽶軍基地が集中し、沖縄の⼈々は新しい基地を受け⼊れることができない。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c398-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e153-6b63-11ee-b92c-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 废⽌独⽣⼦⼥政策、全⾯两孩政策正式启动实施后，中国短期内出⽣⼈⼜将明显增加，预计到2020年左右约有1700万⼈出⽣。根据测算，年出⽣⼈⼜最⾼要突破2000万，平均每年净增⼈⼜约在300万以上。全国⼈⼜总量增幅不会太⼤，预测到2020年总⼈⼜达到14.3亿，2029年达到峰值14.5亿⼈。国家卫⽣计⽣委副主任王培安表⽰，政策调整后，对资源环境压⼒略有增加，但不影响国家既定资源环境战略⽬标的实现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼀⼈っ⼦政策を廃⽌し、⼆⼈⽬の⼦どもを持つことを認める⽅針が公式に実施された後、中国は短期間で出⽣⼈⼜が著しく増え、2020年前後までに約1700万⼈の⼦どもが新たに⽣まれる⾒通しだ。年間の出⽣⼈⼜は最⾼で2000万⼈を超えると予想されており、⾃然増加⼈⼜は年間約300万⼈以上にのぼる⾒通しだ。⼀⽅で、⼈⼜の総数は⼤きな増加とならず、2020年に14億3000万⼈、2029年にはピークを迎え、14億5000万⼈となる予想だ。国家衛⽣計画出産委員会の王培安副主任は「⼀⼈っ⼦政策の廃⽌により、資源や環境にやや圧⼒をもたらすが、国の戦略⽬標の実現に影響することはない」と述べた。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c3c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e154-6b63-11ee-ae05-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 我们想将开始进⾏⾯试等录⽤选拔的时间定在明年6⽉。经团连公布了这⼀⽅针。原来都在4⽉份，从今年开始刚刚延后到8⽉份。求职⽇程⾛马灯似的变化真叫⼈为难。之所以延后到8⽉份，是因为主张专⼼学业的安倍政权等⽅⾯的要求。摸着⽯头过河的评价并不见好。⾸先，天热。还有⾔论认为，某些企业以实习等名义，早早地就对求职对象3年级学⽣开始了实质性选拔，这不是使得求职过程长期化了吗？⾯对不佳评价，难道能说朝令⼣改是不得已⽽为之之策吗？即便如此，改成6⽉也绝⾮万事⼤吉了。难道就没有进⼀步改善⼀揽⼦解决应届毕业⽣就业问题对策的余地了吗？难道就没有给学⽣以更⼤的求职⾃由，给企业以更多样化⼈才的两全之策了吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾯接などの採⽤選考の開始を来年は6⽉にしたい。経団連がそんな⽅針を発表した。もともとは4⽉で、今年から8⽉に繰り下げたばかり。就活の⽇程がくるくる変わるのは困りものである。8⽉にしたのは、学業専念といった安倍政権などの要請があったからだ。やってみての評判は散々だった。まず、暑い。インターンシップの名⽬で3年⽣を対象に実質的な選考を始める企業もあり、むしろ就活が⾧期化したとの声もある。悪評に朝令暮改もやむなしということか。とはいえ6⽉ならば万事解決ともいくまい。新卒⼀括採⽤という仕組みを⼿直しする余地はないか。より⾃由な就活を学⽣に、より多様な⼈材を企業に、両得の知恵はないか。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c3f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e155-6b63-11ee-a93f-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 美国打击阿富汗已经进⼊了第15个年头。据说，这已经超过了越南战争，成为“美国史上最长期战争”。深陷泥沼的美军难以⾃拔。上周，奥巴马总统发表声明，放弃公约所规定的明年年末撤退的决定。战争，结束往往要⽐开战困难得多。美军⼀举摧毁了被视为恐怖集团温床的基地组织政权。但是，之后却与“不败则胜”的游击队势⼒持续着进进退退的胶着状态。⼀次相互杀戮给予了下⼀次相互杀戮以理由。世界不但得不到安全，⽽且⽕药味更浓了。被称为⽂明的⼗字路⼜，⽽实际上阿富汗是“战乱的⼗字路⼜”。这个国家从古⾄今就屡遭列强军靴的践踏，冷战时期还遭到过旧苏联的侵略。在这种情况之下，国内荒芜，成为了滋⽣恐怖集团的⼟壤。在西⽅的叙利亚，俄罗斯开始了空袭。从西南亚到中东，我们看到的只是⼤国“困惑忧虑和独善其⾝的⼗字路⼜”。难道反恐战争还没有告诉我们，使⽤武器解决问题也有其局限性吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽶国のアフガニスタン攻撃から15年⽬に⼊った。ベトナム戦争を抜いて「⽶国史上最も⾧い戦争」になっているという。泥沼は深く、⽶軍は⾜が抜けない。オバマ⼤統領は先週、公約だった来年末までの撤退を断念すると表明した。戦争は始めるより終わらせるのが難しい。⽶軍はテロの温床だったタリバーン政権を⼀気に崩壊させる。しかしその後は「負けなければ勝ち」のゲリラ勢⼒と⼀進⼀退が続いた。殺し合いは次の殺し合いに理由を与え、世界は安全を得るどころか、いっそうキナ臭い。⽂明の⼗字路と呼ばれながら、実際は「戦乱の⼗字路」だったともアフガンは⾔われる。古くから列強の軍靴に踏まれてきた。冷戦期には旧ソ連の侵略もあった。そうした中で国内は荒廃し、テロを⽣む⼟壌がつくられていった。西⽅のシリアでは、ロシアが空爆を開始している。南西アジアから中東は、⼤国の「思惑と独善の⼗字路」の様相を⾒せる。武器で解決できることの限界を、対テロの戦争は教えていないか。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c41a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e156-6b63-11ee-b5c2-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 京津冀⼀体化渐⾏渐近。“京津冀⼀体化协同发展规划现在到定稿阶段了，最快⽉底上报国务院。可以说，规划最直接地回答了总书记的要求。”接近国家发改委的消息⼈⼠表⽰，端午节之前，国家发改委召开内部会议商定规划，⽬前规划的名称已基本确定，即京津冀⼀体化协同发展规划，据发改委地区司的相关⼈⼠透露，该规划有可能很快出台。消息⼈⼠表⽰，京津冀⼀体化协同发展的区域包括北京、天津和河北全省，其核⼼内容是⾸都经济圈，⾸都经济圈是指围绕⾸都的城市再加上⽯家庄、邢台、邯郸。从世界范围来看，⾸都经济圈是⼀个经济现象，东京经济圈经济总量占到⽇本的三分之⼀左右，⾸尔经济圈经济总量超过了韩国的60%，⽽我国⾸都经济圈的经济总量占全国的10%左右。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "・京津冀⼀体化は次第に進展しつつある。「京津冀⼀体化共同発展計画は現在、策定の決定稿段階にあり、早ければ⽉末にも国務院に報告する。この計画は総書記の要求に対する最も直接的な回答になると⾔える。」国家発展改⾰委員会に近い情報筋によると、国家発展改⾰委員会は端・午節の前に、内部会議を開いて計画に関する協議を⾏った。現在は計画の名称を京津冀⼀体化共同発展計画とほぼ確定した。国家発展改⾰委員会地区司の関係者によると、同計画を早急に発表する可能性が⾼いという。・情報筋によると、京津冀⼀体化共同発展計画区域は、北京、天津、河北省全域を含み、その核⼼内容は⾸都経済圏で、⾸都経済圏は⾸都周辺都市に⽯家庄、邢台、邯鄲を加える。世界的に⾒て、⾸都経済圏は⼀つの経済現象で、東京経済圏の経済総量は⽇本の約三分の⼀を占める。ソウル経済圏の経済総量は韓国の60%を超えるが、中国の⾸都経済圏の経済総量は全国の10%を占める。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c44c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e157-6b63-11ee-bad1-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: ⽣活在⼈与⼈的联系逐渐减弱、孤⽴于周边及制度的社会，⼦⼥根本⽆法摆脱⽗辈的贫困。这种情况正在蔓延。如今，每6⼈中有1个孩⼦⽣活在贫困线上。仅限单亲家庭⽽⾔，发达国家最严重的情况是5成以上为贫困阶层。甚⾄有的家庭还要为解决第⼆天的吃饭问题⽽犯愁。特别是单亲妈妈带着孩⼦的家庭，情况更为严重。⾯对如此现状，政治的责任不能⼩觑。提⾼家庭收⼊及改善雇佣的政策，以及到位的⽀援刻不容缓。⽽且，市井⼈情恐怕也要⼤⼲⼀番。已经在各地展开尝试。通向可能性的车票，不论贫富，希望每⼀个⼉童⼈⼿⼀张。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼈と⼈のつながりがやせ細り、周囲からも制度からも孤⽴しがちな世の中で、親の貧困から⼦が抜け出せぬ連鎖がはびこっている。いま6⼈に1⼈の⼦が貧困レベルで暮らしている。⼀⼈親などの家庭に限れば、先進国で最悪⽔準の5割超が貧困層という。あしたのご飯に困る⼀家もある。とりわけ母⼦家庭の事情は厳しい。これほどの実態に政治の責任は⼩さくない。家計と雇⽤を温める策や、きめ細かい⽀援は待ったなしだ。そして、市井の⼈情の出番でもあろう。⼿をさしのべる試みが各地で始まっている。可能性への切符を、貧富によらずどの⼦の⼿にも握らせたい。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d4c474-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3263e158-6b63-11ee-bcd8-bcf171361973",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下列句子翻译成日文: 中共中央总书记习近平18⽇下午在北京会见中国国民党荣誉主席连战及随访的台湾各界⼈⼠，就推动两岸关系和平发展发表重要讲话。两岸专家学者对此给予⾼度评价，认为总书记的讲话坦诚温情、充满新意，是⾯对台湾同胞的诚恳谈⼼。清华⼤学台研所教授刘震涛表⽰，这是总书记第⼀次会见台湾各界⼈⼠，第⼀次⾯向台湾同胞讲话，涉及两岸关系和平发展、中华民族复兴和台湾历史遭遇等内容，重点强调“中国梦是两岸同胞共同的梦”，希望两岸双⽅秉持“两岸⼀家亲”的理念，顺势⽽为，齐⼼协⼒，共圆中华民族伟⼤复兴的中国梦。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "習近平中国共産党中央総書記は18⽇午後、北京で連戦中国国民党名誉主席および随⾏している・台湾各界の関係者と会⾒し、両岸関係の平和発展の推進について重要演説を発表した。両岸の・専⾨家と学者はこれに対し⾼く評価し、総書記の演説は誠意温情があり、⽬新しさに満ち溢れ、台湾同胞に⾯と向かう誠意ある腹を割った話し合いだとみなした。清華⼤学台湾研究所の劉震涛教授はこのように表明した。これは総書記による初の台湾各界の・関係者との会⾒で、台湾同胞に向けての初の演説であり、両岸関係の平和発展、中華民族の復興と台湾の歴史の境遇などの内容に関連しており、「中国の夢は両岸同胞の共通の夢」で、両岸の双⽅が「両岸は家族のように親しい」の理念を維持し、勢いに乗り、⼼を⼀つにして協⼒し、中華民族の偉⼤な復興という中国の夢をともにかなえることを望んでいると重点的に強調した。"
+	}
+]

@@ -1,0 +1,3080 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2a842-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "64654757-6cde-11ee-bbbb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请分析下列字中的造字方法，并说明造字理据（先写类型名称，然后列举词语）。 \n寒高朱涉徒⾖街亦"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "寒 造字方法：会意 造字理据：本义指冷，寒冷。《说文解字》注：“冻也。从人在⼧下，以茻荐覆之，下有仌。胡安切。”即甲⾻文中的“寒”外部是屋子的侧视形（⼧）；中间是人形；人周围是四堆草形。由此可看出其形体含义表示人躲屋内，蜷卧草上，突出天寒地冻的含义。\n高 造字方法：象形 造字理据：本义指高楼。甲⾻文中的“高”像台观楼阁上下重屋之形。《说文解字》注：“崇也。象台观高之形。从⼌又。与仓、舍同意。凡高之属皆从高。古牢切。”由此可看出其形体含义表示高楼、崇高。\n朱 造字方法：指事 造字理据：本义指树干或⾚⼼木。甲⾻文中的“朱”是一棵树的象形：中间的一竖代表树干，上面向上伸的两个杈代表树枝，下面向下伸的两个杈代表树根。在树干的中间，有一个短横，代表红⾊的树⼼。《说文解字》注：“⾚⼼木，松柏属。从木，一在其中。章俱切。”由此可以看出其形体含义表示⾚⼼木。\n涉 造字方法：会意 造字理据：本义指蹚⽔而过。甲⾻文中的“涉”中间是一条小河，一只脚（“⽌”）在河这边，另一只脚在河那边。《说文解字》注：“徒行厉⽔也。从沝，从步。”由此可看出其形体含义表示过河。\n徒 造字方法：形声 造字理据：本义是步行。《说文解字》注：徒，步行也。从⾡⼟声，同都切。\n⾖ 造字方法：象形造字理据：本义是一种盛食物的器⽫，后世也作礼器。《说文解字》中解释为：“⾖，古食⾁器也。从又，象形。凡⾖之属皆从⾖。”其甲⾻文字形形似高脚盘，或有盖。\n街 造字方法：形声 造字理据：本义是四路相通的大道。《说文解字》注：“四通道也。从行圭声。古膎切。”\n亦 造字方法：指事 造字理据：本义是人的腋窝。《说文解字》注：“人之臂亦也。从大，象两亦之形。凡亦之属皆从亦。”亦在甲⾻文字形“大”（人）旁加两点，指示两腋所在。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2a932-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8d2-6cde-11ee-b5db-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照造字法给下列汉字分类，并注明其造字法。 \n切车涉朱泉益耕"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "形声 切：从⼑，七声。本义是用⼑把物品分成若干部分。 耕：从⽾，井声。本义是指犁⽥。\n象形 车：象车形。本义指车子以及陆地上有轮子的运输工具 泉：象⽔从⼭崖泉⽳中流出的样子。\n会意 涉：从⽔步。甲⾻文字形中间是⽔，两边两只脚，象涉⽔之形。本义是趟⽔过河 益：从⽫，从⽔。小篆字形里象器⽫中有⽔漫出。\n指事 朱：小篆字形，从木，一在其中指出这种木是红⼼的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2a96e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8d3-6cde-11ee-bb64-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 说出下列汉字的造字法。 \n辫从⾈甘闻阁武看子旦剔苗尘本益勇忍甭⽠恭"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“⾈”“子”“旦”“⽠”是用象形造字法造出来的字。 ①“⾈”字，在甲⾻文中像船形，两边像船帮，中间三条线代表船头、船舱和船尾。 ②“子”字，在甲⾻文字中，像婴⼉在襁褓中，有头、身、臂膀，两⾜并起来的样子。 ③“旦”字，上面是太阳，下面的“一”表示地平线（东方），因此“旦”的本义是日出东方。 ④金文“⽠”字，像藤蔓分叉处悬结一⽠的形状。\n“甘”“本”是用指事造字法造出来的字。 ①“甘”字，从又，中间的一横像又中含的食物，本义是甜或美。 ②“本”字，从木，下面的一横表示树木的根部。\n“从”“武”“看”“苗”“尘”“益”“甭”是用会意造字法造出来的字。 ①“从”字，从⼆人，表示跟从。 ②“武”字，从⼽，从⽌，其中“⽌”是“趾”的本字，在这里是走的意思。 ③“看”字，从⼿，从⽬，表示用⼿遮光远望。 ④“苗”字，从⾋，从⽥，表示⽥里生长的形状像草的东西。 ⑤“尘”字，从小，从⼟，表示尘⼟。 ⑥“益”字，从⽔，从⽫，表示⽔漫出来。 ⑦“甭”字，是“不用”的合形合音会意字。\n“辫”“闻”“阁”“剔”“勇”“忍”“恭”是用形声造字法造出来的字。 ①“辫”字，从⽷，辡声，本义是指把头发变成条状。 ②“闻”字，从⽿，门声，表示听到。 ③“阁”字，从门，各声，最初指的是放在门上用来防⽌门自合的长木桩。 ④“剔”字，从⼑，从易，易亦声，本义是指钱⾁交换或钱⾻交换。 ⑤“勇”字，从力，甬声，表示果敢、胆大。 ⑥“忍”字，从⼼，从刃，刃亦声，表示为了不让⼼受伤而乖乖地一动不动。 ⑦“恭”字，从⼼，共声，表示恭敬，谦逊有礼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2a996-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8d4-6cde-11ee-8908-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉语形声字中的“形”和“声”各指什么？从汉字部位系统的角度看，“形”和“声”的配合主要有几种\n方式？请举例说明。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "形声字中的“形”指的是表示字义类属的偏旁，形声字中的“声”指的是表示字音的偏旁。\n从汉字部位系统的角度看，“形”和“声”的配合主要有六种方式： ①左形右声，这一类数量最多。如：“河、梧、堆、挑、锡”等。 ②右形左声，如：“都、切、劲、攻、战”等。 ③上形下声，如：“芳、竿、宇、窃、爸”等。 ④下形上声，如：“勇、型、袋、姿、架”等。 ⑤外形内声，如：“囤、围、匣、裹”等。 ⑥内形外声，如：“问、闻、瓣、辨”等。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2a9c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8d5-6cde-11ee-ad1d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述“闯”字和“闷”的造字法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“闯”字和“闷”字都是合体字。\n“闯”字是会意字，部件“门”和“马”都是意符。表示以马入门，本义是“擅自进入，突然直入”。\n“闷”字是形声字，部件“门”是声旁，“⼼”是形旁，语义是与⼼理感受有关的，表示“因气不通畅而引起的不快之感”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2a9f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8d6-6cde-11ee-9f13-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "举例说明汉字笔顺的基本规则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "笔顺是写字时笔画的先后顺序。独体字和合体字都有书写顺序的问题。汉字笔顺的基本规则是：\n从上到下：⼆、丁、曼、劳。\n从左到右：⼘、⼋、川、州、从、汉。\n先横后竖：十、丰。\n先撇后点：义、人、入、⼋。\n先外后内：⽉、用、同、风、问。\n先开门后进入再关门：日、日、⽬、四。\n先中间后两边：小、⽔、办。 多数字的写法是以上规则的综合运用。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2aa18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8d7-6cde-11ee-8b7c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析“吃米饭”和“吃食堂”在语法和语义上的异同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "相同点 ①从语法层面看，两者都是动词“吃”后面跟一个名词。 ②从语义层面看，两者都是在描述“吃”这个动作及相关事物。\n不同点 ①从语法层面看，“米饭”是动词“吃”的宾语，两者构成动宾短语，而“食堂”是动词“吃”的补语。 ②从语义层面看，“米饭”是动作“吃”的受事，而“食堂”则是动词“吃”发生的处所。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2aa4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8d8-6cde-11ee-8714-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列两个句子在语法和语义上有什么差异？ \na．他幸亏来了。 \nb．幸亏他来了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从语法层面来看，a句状语“幸亏”位于主语“他”后、谓语动词“来”前，b句状语“幸亏”则位于句⾸。\n从语义层面来看，a句所表事件“他来”的受益者只能是主语“他”所指对象，b句的受益者则不定，既可以是主语所指对象，也可以是其他对象。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2aa72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8d9-6cde-11ee-8b77-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 阅读下面短文，译成现代汉语。 \n人性有畏其影而惡其跡，卻背而走，跡逾多，影逾疾，不如就陰而⽌，影滅跡絕。欲人勿聞，莫若勿言；欲人勿知，莫若勿為。欲湯之凔，一人炊之，百人揚之，無益也，不如絕薪⽌⽕而已。\n不絕之于於彼，而救之於此，譬由抱薪而救⽕也。養由基，楚之善射者也，去楊葉百步，百發百中。楊葉之大，加百中焉，可謂善射矣。然其所⽌，百步之內⽿，比於⾂乘，未知操弓持⽮也。福\n生有基，禍生有胎；納其基，絕其胎，禍何自來？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有人畏惧自己的身影、厌恶自己的⾜迹，所以倒着跑，结果脚印更多，身影也移动得快了。这样不如在背阴的地方停下来，影子与⾜迹也会消失。想让别人听不到，不如不说；想让别人不知道，不如不做。想让热⽔凉下来，一个人烧⽕，百人把⽔舀起再倒下，也没有效果，不如抽掉柴草停⽌烧⽕。不在那里采取决断的措施，却在这边施救，就像抱着柴草去救⽕一样。养由基，是楚国善于射箭的人，距离杨叶百步远，射箭百发百中。杨叶那么大，能够百发百中，可以说善于骑射了。可是他射箭的距离，只在百步之内罢了，和我比起来，等于不懂拿弓持箭了。福的产生有它的开端，祸的产生有它的起始；接受福的开端，⽌住祸的起始，祸还从哪里来呢？"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2aa9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8da-6cde-11ee-ace0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请把下列文字加上标点符号，并且译成现代汉语。 \n以粟易械器者不为厉陶冶陶冶亦以其械器易粟者岂为厉农夫哉且许子何不为陶冶舍皆取诸其宫中而用之何为纷纷然与百工交易何许子之不惮烦⽈百工之事固不可耕且为也然则治天下独可耕且为与有大人之事有小人之事且一人之身而百工之所为备如必自为而后用之是率天下而路也故⽈或劳⼼或劳力劳⼼者治人劳力者治于人治于人者食人治人者食于人天下之通义也"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标点 “以粟易械器者，不为厉陶冶；陶冶亦以其械器易粟者，岂为厉农夫哉？且许子何不为陶冶，舍皆取诸其宫中而用之？何为纷纷然与百工交易？何许子之不惮烦？”⽈：“百工之事，固不可耕且为也。”“然则治天下，独可耕且为与？有大人之事，有小人之事。且一人之身，而百工之所为备，如必自为而后用之，是率天下而路也。”故⽈：或劳⼼，或劳力，劳⼼者治人，劳力者治于人；治于人者食人，治人者食于人，天下之通义也。\n译文 孟子说：“农夫用粮食换取锅、瓶和农具，不能说是损害了⽡匠铁匠。那么，⽡匠和铁匠用锅、瓶和农具换取粮食，难道就能够说是损害了农夫吗？而且，许先生为什么不自己烧窑冶铁做成锅、瓶和各种农具，什么东西都放在家里随时取用呢？为什么要一件一件地去和各种工匠交换呢？为什么许先生这样不怕麻烦呢？”陈相回答说：“各种工匠的事情当然不是可以一边耕种一边同时干得了的。”“那么治理国家就偏偏可以一边耕种一边治理了吗？官吏有官吏的事，百姓有百姓的事。况且，每一个人所需要的生活资料都要靠各种工匠的产品才能齐备，如果都一定要自己亲⼿做成才能使用，那就是率领天下的人疲于奔命。”所以说：有的人从事脑力劳动，有的人从事体力劳动；脑力劳动者统治人，体力劳动者被人统治；被统治者养活别人，统治者靠别人养活：这是通行天下的原则。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2aacc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8db-6cde-11ee-844b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "给下列文字加标点，并翻译成现代汉语。 \n齐人有一妻一妾而处室者其良人出则必餍酒⾁而后反其妻问所与饮食者则尽富贵也其妻告其妾\n⽈良人出则必餍酒⾁而后反问其与饮食者尽富贵也而未尝有显者来吾将瞷良人之所之也蚤起施从良人之所之遍国中⽆与立谈者卒之东郭墦间之祭者乞其余不⾜又顾而之他此其为餍⾜之道也其妻归告其妾⽈良人者所仰望而终身也今若此与其妾讪其良人而相泣于中庭而良人未之知也施施从外来骄其妻妾由君子观之则人之所以求富贵利达者其妻妾不羞也而不相泣者几希矣"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标点 齐人有一妻一妾而处室者，其良人出，则必餍酒⾁而后反。其妻问所与饮食者，则尽富贵也。其妻告其妾⽈：“良人出，则必餍酒⾁而后反；问其与饮食者，尽富贵也，而未尝有显者来，吾将瞷良人之所之也。”蚤起，施从良人之所之，遍国中⽆与立谈者。卒之东郭墦间，之祭者乞其余；不⾜，又顾而之他。此其为餍⾜之道也。其妻归，告其妾，⽈：“良人者，所仰望而终身也，今若此。”与其妾讪其良人，而相泣于中庭，而良人未之知也，施施从外来，骄其妻妾。由君子观之，则人之所以求富贵利达者，其妻妾不羞也，而不相泣者，几希矣。\n翻译 齐国有一个人，家里有一妻一妾一块过生活。她们的丈夫每次出门，必定是吃得饱饱地，喝得醉醺醺地回家。他妻子问他一道吃喝的是些什么人，据他说来全都是些有钱有势的人。他妻子告诉他的妾说：“丈夫出门，总是酒醉⾁饱地回来；问他和些什么人一道吃喝，据他说来全都是些有钱有势的人，但我们却从来没见到什么有钱有势的人物到家里面来过，我打算悄悄地看看他到底去些什么地方。”第⼆天早上起来，她便尾随在丈夫的后面，走遍全城，没有看到一个人站下来和她丈夫说过话。最后他走到了东郊的墓地，向祭扫坟墓的人要些剩余的祭品吃；不够，又东张西望地到别处去乞讨，这就是他酒醉⾁饱的办法。他的妻子回到家里，告诉他的妾说：“丈夫，是我们仰望并终身依靠的人，现在他竟然是这样的！”⼆人在庭院中咒骂着，哭泣着，而丈夫还不知道，得意洋洋地从外面回来，在他的两个女人面前摆威风。在君子看来，人们用来求取升官发财的方法，能够不使他们的妻妾引以为耻而哭泣的，太少了！"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2aaf4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8dc-6cde-11ee-b32d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "标点、翻译下列古文。 \n逢丑⽗與公易位將及華泉骖絓于木而⽌丑⽗寢于轏中蛇出於其下以肱擊之傷而匿之故不能推⾞而及韓厥執絷⾺前再拜稽⾸奉觴加璧以進⽈寡君使群⾂為魯衛請⽈無令輿師陷入君地下⾂不幸屬當戎行無所逃隱且懼奔辟而忝兩君⾂辱戎⼠敢告不敏攝官承乏丑⽗使公下如華泉取飲鄭周⽗御佐⾞宛茷為右載⿑侯以免韓厥獻醜⽗郤獻子將戮之呼⽈自今無有代其君任患者有一於此將為戮乎郤子⽈人不難以死免其君我戮之不祥赦之以勸事君者乃免之"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标点 逢丑⽗與公易位。將及華泉，骖絓于木而⽌。丑⽗寝于轏中，蛇出於其下，以肱擊之，傷而匿之，故不能推⾞而及。韓厥執絷⾺前，再拜稽⾸，奉觴加璧以進⽈：“寡君使群⾂為魯、衛請，⽈：‘無令輿師陷入君地。’下⾂不幸，屬當戎行，無所逃隱，且懼奔辟而忝兩君。⾂辱戎⼠，敢告不敏，攝官承乏。”丑⽗使公下，如華泉取飲。鄭周⽗御佐⾞，宛茷為右，載⿑侯以免。韓厥獻醜⽗，郤獻子將戮之。呼⽈：“自今無有代其君任患者，有一於此，將為戮乎？”郤子⽈：“人不難以死免其君，我戮之不祥。赦之，以勸事君者。”乃免之。\n翻译 于是逢丑⽗和齐侯互相调换了位置。将要到达华泉时，齐侯战车的骖马被树木绊住而不能继续逃跑。（那天晚上）逢丑⽗睡在栈车里，有一条蛇从他身子底下爬出来，他用小臂去打蛇，小臂受伤，但他隐瞒了这件事。由于这样，他不能用臂推车前进，因而被韩厥追上了。 韩厥拿着拴马绳走到齐侯的马前，两次下拜并行稽⾸礼，捧着一杯酒并加上一块⽟璧给齐侯送上去，说：“我们国君派我们这些⾂下为鲁、卫两国求情，他说：‘不要让军队进入齐国的⼟地。’我很不幸，恰巧碰上了您的军队，没有地方逃避和躲藏。而且我也害怕逃跑躲避而使两国国君受辱。下⾂勉强充当一名战⼠，谨向君王报告我的⽆能，但由于人⼿缺乏，只好承当这个官职。”（假装是齐侯的）逢丑⽗命令齐侯下车到华泉去取⽔来给自己喝。郑周⽗驾着齐君的后备车，宛茷担任后备车的车右，见齐侯来了，装上齐侯就跑掉了，使他免于被俘。 韩厥献上逢丑⽗，郤克打算杀掉他，他喊叫说：“到现在为⽌还没有代替他国君受难的人，有一个在这里，还要被杀死吗？”郤克说：“这个人不怕用死来使他的国君免于祸患，我杀了他，不吉利。赦免了他，用来勉励事奉国君的人。”于是就赦免了逢丑⽗。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ab1c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8dd-6cde-11ee-8a46-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列音节的拼写错误，并按照普通话声韵拼合规律加以说明。江jāng。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "jāng应改为jiāng。“j”是舌面前音声母，普通话中只能与齐齿呼、撮又呼韵母相拼，不能与开又呼、合又呼韵母相拼，而“ang”是开又呼，不能与声母“j”相拼，而只能和介音为i的齐齿呼韵母“ing”相拼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ab4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8de-6cde-11ee-bde6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列音节的拼写错误，并按照普通话声韵拼合规律加以说明。龙luèng。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "luèng改为lóng。“ueng”只能独立成一个零声母音节，写作“weng”，而不能和辅音声母“l”相拼，此处与声母l相拼的韵母应是ong。而且“龙”的调类应该是阳平，不是去声。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ab76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8df-6cde-11ee-b6f2-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列音节的拼写错误，并按照普通话声韵拼合规律加以说明。纠giū。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“giū”应改为“jiū”，“g”等舌根声母不能跟“iu”等的齐齿呼韵母相拼，“j”则可以和齐齿呼的韵母相拼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2aba8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e0-6cde-11ee-ab6d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列音节的拼写错误，并按照普通话声韵拼合规律加以说明。魄può。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“può”应改为“pò”，合又呼韵母“uo”不能跟唇音声母相拼，即不能与“b、p、m、f”这些声母相拼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2abd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e1-6cde-11ee-bbbc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列音节的拼写错误，并按照普通话声韵拼合规律加以说明。摞lō。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“lò”应改为“luò”。普通话中，韵母“o”只拼双唇音和唇齿音声母，因而应改为“l”与“uo”相拼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2abf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e2-6cde-11ee-a9ed-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列音节的拼写错误，并按照普通话声韵拼合规律加以说明。婆puó。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“puó”应改为“pó”。普通话中，韵母“uo”只拼⾮唇音声母，而“p”为双唇音声母，因而不能与“uo”相拼，而应与“o”相拼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ac2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e3-6cde-11ee-8bb5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列音节的拼写错误，并根据普通话声韵拼合规律加以说明。小siǎo。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“siǎo”应改为“xiǎo”，普通话舌尖前音声母不能与齐齿呼韵母相拼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ac52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e4-6cde-11ee-be78-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列音节的拼写错误，并根据普通话声韵拼合规律加以说明。伯buó。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“buó”应改为“bó”，普通话唇音声母不能与u以外的合又呼韵母相拼。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ac7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e5-6cde-11ee-858f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据普通话的声韵的拼合规律，分别说明下列拼音错误的原因并改正。ciao（巧）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "舌尖前音声母不能与齐齿呼韵母相拼，与齐齿呼韵母i、a、o相拼的应当是舌面音声母q，应改为qiao。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2acac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e6-6cde-11ee-bbb7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据普通话的声韵的拼合规律，分别说明下列拼音错误的原因并改正。to（拖）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "韵母[o]只能与唇音和唇齿音声母相拼，与舌尖中音声母t相拼的应当是韵母uo，应改为 tuo。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2acd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e7-6cde-11ee-a60a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据普通话的声韵的拼合规律，分别说明下列拼音错误的原因并改正。ja（价）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "舌面音声母j不能与开又呼韵母相拼，它后面的韵母应当是齐齿呼韵母ia，应改为jia。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ad06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e8-6cde-11ee-9f6e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据普通话的声韵的拼合规律，分别说明下列拼音错误的原因并改正。gue（决）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "舌根音声母不能与撮又呼韵母相拼，与撮又呼韵母ue相拼的应当是舌面音声母j，应改为 jue"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ad2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8e9-6cde-11ee-bfbd-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面两个词语可能存在的变调形式。好⾬伞。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“好⾬伞”是三个上声字连读，后两个音节语义紧凑，语义停顿在第一个音节后，前两个音节产生变化：由“214＋214＋214”变为“21＋35＋214”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ad60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8ea-6cde-11ee-a250-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面两个词语可能存在的变调形式。展览馆。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“展览馆”也是三个上声字连读，前两个音节语义紧凑，语义停顿在第⼆个音节后，前两个上声音节产生变化：由“214＋214＋214”变为“35＋35＋214”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ad88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8eb-6cde-11ee-ad44-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。暗然销魂。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为黯然销魂。 “暗”是光线不⾜、黑暗，或隐藏不露、秘密的。“黯”本意指深黑⾊，引申指阴暗阴沉，又指人的⼼神沮丧。黯然销魂意为⼼神沮丧得像丢了魂似的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2adba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8ec-6cde-11ee-8963-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。轰堂大笑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为哄堂大笑。 “轰”本义形容大的声响，如轰轰、轰响，引申指用大炮或炸弹破坏，如轰击、轰炸，还引申指驱逐、赶走，如轰走。“哄”意为许多人同时发声，形容许多人大笑或喧哗声。哄堂大笑形容全屋子的人同时大笑。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ade2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8ed-6cde-11ee-8b78-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。怄⼼沥⾎。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为呕⼼沥⾎。 “怄”意为故意惹人恼怒或使人发笑；“呕”意为吐，如呕吐。呕⼼沥⾎比喻费尽⼼⾎，多用来形容工作、事业、文艺创作等方面用⼼的艰苦。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ae14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8ee-6cde-11ee-b808-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。并行不背。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为并行不悖 “背”的本义指相背，引申用作名词，表示脊背，又引申为后面、后面的，还可引申为背诵、离开。“悖”本意是指迷乱、迷惑，引申义是违背、谬误，也指悖谬、行不通。并行不悖意为同时进行而互相不违背。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ae3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8ef-6cde-11ee-915f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。中流抵柱。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为中流砥柱。 “抵”本义是用⼿掌顶住、用力对撑着，引申义为代替、⽭盾、到达。“砥”本意是指磨⼑⽯，引申为磨，也指平定、平直、平坦。中流砥柱意为像砥柱⼭那样屹立在黄河激流中，比喻中坚人物或力量所起的⽀柱作用。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ae64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f0-6cde-11ee-95e0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出并改正下列词语中的错别字。脉膊微弱。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“膊”应改为“搏”。 “搏”从⼿，尃（fū）声。本义指搏击，拍打。“膊”从⾁，尃（fū）声。本义指肩臂。“脉搏”指动脉的搏动。因此用“搏”不能用“膊”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ae96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f1-6cde-11ee-b176-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出并改正下列词语中的错别字。防碍交通。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“防”应改为“妨”。 “妨”从女，方声。本义指损害。“防”从⾩，方声。本义指戒备，预先作好应急的准备。例如“防备”。“妨碍”指干扰、阻碍，使事情不能顺利进行。因此用“妨”不能用“防”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2aebe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f2-6cde-11ee-90ec-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出并改正下列词语中的错别字。震憾人⼼。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“憾”应改为“撼”。 “撼”从⼿，感声。本义指摇动，动摇。“憾”从⼼，感声。本义指遗憾，不快，不满。“震撼”指⼼理受到强烈冲击。因此用“撼”不能用“憾”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2aef0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f3-6cde-11ee-8ad9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出并改正下列词语中的错别字。阴谋⿁计。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“⿁”应改为“诡”。 “诡”从言，危声。本义指怪异，奇异。“⿁”本义指人们想象中的似人⾮人的怪物。“诡计”指欺诈的计谋。因此用“诡”不能用“⿁”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2af18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f4-6cde-11ee-8d1b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出并改正下列词语中的错别字。精神焕散。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“焕”应改为“涣”。 “涣”从⽔，奂声。本义指流散，散开。“焕”从⽕，奂声。本义指⽕光。“涣散”指散漫，松懈。因此用“涣”不能用“焕”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2af4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f5-6cde-11ee-b564-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列各字的造字法，并指出它的偏旁及其作用。 （示例：休，会意；偏旁为亻、木，均表意，表示人在树下休息。）刃。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "刃，指事；偏旁为象形的⼑和一个指事符号“⼂”，表示⼑刃的所在。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2af72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f6-6cde-11ee-9d01-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列各字的造字法，并指出它的偏旁及其作用。 （示例：休，会意；偏旁为亻、木，均表意，表示人在树下休息。）忍。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "忍，形声；偏旁为声旁刃、形旁⼼，表示忍耐的⼼理活动。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2afa4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f7-6cde-11ee-af58-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列各字的造字法，并指出它的偏旁及其作用。 （示例：休，会意；偏旁为亻、木，均表意，表示人在树下休息。）惊。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "惊，形声；偏旁为声旁京、形旁⼼，表示由于受到刺激而紧张的⼼理。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2afcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f8-6cde-11ee-bb0d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列各字的造字法，并指出它的偏旁及其作用。 （示例：休，会意；偏旁为亻、木，均表意，表示人在树下休息。）甭。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "甭，会意；偏旁为不、用，两个偏旁都表意也表音，表示不用。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2affe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8f9-6cde-11ee-b7b1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。夫人妻子⽼婆。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“夫人”“妻子”“⽼婆”三者的区别体现为语体⾊彩不同。“夫人”是书面语，“⽼婆”是又语，“妻子”是又语、书面语通用。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b026-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8fa-6cde-11ee-b68f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。明显显著。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“明显”“显著”两者的区别体现为： ①程度不一样，“显著”程度深，“明显”程度浅。 ②搭配对象不一样，“明显”常修饰作用、结果等，“显著”常修饰效果、成绩、才能等。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b058-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8fb-6cde-11ee-b5b5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。美丽漂亮好看。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“美丽”“漂亮”“好看”三者的区别体现为两点： ①语体⾊彩不同，“美丽”是书面语，“好看”是又语，“漂亮”是又语、书面语通用。 ②搭配范围不同，“美丽”既可以形容具体事物，也可以形容抽象事物，“好看”和“漂亮”只能形容具体事物。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b080-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8fc-6cde-11ee-ab35-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。兴趣乐趣。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“兴趣”“乐趣”两者的区别体现在两点：①所指对象不同，“兴趣”主要表示对事物、对人喜好的态度、情绪，这种态度、情绪主要来自事物、人对感受者的吸引；“乐趣”是指事物给人带来了快乐。“兴趣”是主动的，“乐趣”是被动的。 ②语法功能不同，“兴趣”可作宾语，“乐趣”不可以作宾语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b0b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465a8fd-6cde-11ee-b294-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“大家请他再唱一个，他就又唱了一个”中“再”和“又”能否互换？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“再”和“又”不能互换。“再”用于表达未发生动作的重复，“又”用于表达已发生动作的重复。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b0da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfdc-6cde-11ee-886f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“欢迎你以后常常来母校看看”中的“常常”能否换作“往往”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“常常”不能换作“往往”。“往往”是对以往事件规律性或习惯性的总结，不能用于将来时。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b102-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfdd-6cde-11ee-ac29-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“天⾊逐渐地昏暗起来”一句中的“逐渐”能不能换作“逐步”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“逐渐”不能换作“逐步”。“逐步”表示有阶段性的质变，所以不能用于形容天⾊的渐变过程。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b134-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfde-6cde-11ee-ada1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“如果一个家庭一个⽉节约1吨⽔的话，那么全国几亿个家庭一年可以节约多少吨⽔呢”中的“多少”能否换作“几”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“多少”不能换作“几”。提问的数量大时要用“多少”，提问的数量小时要用“几”。“全国几亿个家庭一年所节约⽔”的吨数很大，所以要用“多少”提问，不能换成“几”来提问。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b166-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfdf-6cde-11ee-8e97-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“经过周密的论证，我坚定地认为他的结论是正确的”中的“认为”能否换作“以为”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“认为”不能换成“以为”。“以为”是纯粹主观的臆测，“认为”是有根据的推测。句中“经过周密的论证”表明“我”的看法是相当有根据的，所以其中的“认为”不能换成“以为”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b18e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe0-6cde-11ee-b66e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“她能打字，一分钟能打⼋九十个字”中的两个“能”是否可以换成“会”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第一个“能”可以换成“会”，因为“会”也可以表示具备某种能力。第⼆个“能”不能换成“会”，因为表示做某工作达到某种效率，可以用“能”，不能用“会”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b1c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe1-6cde-11ee-a40d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“他这次不及格绝不是偶然的，因为他平时就不用功”一句中的“偶然”能不能换作“偶尔”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“偶然”不能换作“偶尔”。“偶尔”是副词，不能受程度副词“很”修饰，不能在“是……的”句中作谓语。“偶然”强调巧合，“偶尔”强调频率。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b1e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe2-6cde-11ee-855a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“他对于这个问题最有发言权”一句中的“对于”能不能换作“关于”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“对于”不能换作“关于”。“关于”构成的介词短语作状语时，只能位于句⾸，不能位于句中。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b21a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe3-6cde-11ee-b597-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“小王走得很匆忙，连照相机也忘了带去了”一句中的“匆忙”能不能换作“急忙”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“匆忙”不能换作“急忙”。“急忙”是副词，不能受程度副词“很”修饰。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b242-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe4-6cde-11ee-91dc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“你喜欢喝茶还是喝咖啡”一句中的“还是”能不能换作“或者”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“还是”不能换作“或者”。选择问句连词可以用“还是”，不能用“或者”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b26a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe5-6cde-11ee-9f2e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。这家航空公司每天都有多次航班交往于北京和香港。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应将“交往”改为“往返”。 ②理由：因为“交往”所指的动作施事一般是人，并且“交往”后面不能直接跟介宾短语；而“往返” 可以接介宾短语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b29c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe6-6cde-11ee-8581-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。谈判双方陷入尖利的对立状态。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应将“尖利”改为“尖锐”。 ②理由：因为“尖利”一般用于形容⼑等锋利的工具，只能用于形容具体的事物；而“尖锐”可以用于形容抽象的事物。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b2c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe7-6cde-11ee-9ea5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。运动会的开幕式局面⾮常壮观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“局面”应改为“场面”。 ②理由：“局面”指一个时期内事情的状态，“场面”泛指一定场合下的情景，两词表达的对象和范围不同。“运动会的开幕式”是场合情景，而⾮事情的状态，此处应用“场面”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b2f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe8-6cde-11ee-b5a7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。⽗母希望他成为一个法官，他违反了⽗母的意愿，当了一名医生。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“违反”应改为“违背”。 ②理由：“违反”和“违背”是近义词，都有指意见、行为不同之意，但是“违反”主要指不按法则、规矩办事，行为不符合一定范围的规定。而“违背”则强调与某人的意见相左，没有按照某人的意见做事。句中是指他没有按照⽗母的想法来选择职业，而不是不按某种固有的规矩办事，应用“违背”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b31e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfe9-6cde-11ee-b941-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。天⾊逐步昏暗起来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“逐步”应改为“逐渐”。 ②理由：“逐步”和“逐渐”都是指一点一点地发展，而“逐步”有明显的步骤性和阶段性，多用于人有计划的努力，而“逐渐”只用于事情的变化。天⾊慢慢暗下来，故用“逐渐”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b350-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfea-6cde-11ee-a721-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。他历来都不撒谎。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“历来”应改为“从来”。 ②理由：“历来”指的是过去多年（次）以来；“从来”指的是一直以来。句子中表达的意思是一直以来，而不是强调从何时起，故用“从来”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b378-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfeb-6cde-11ee-b476-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句中用词不当的地方并说明理由。他约不肯回来，你不用等了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“约”应改为“大约”。 ②理由：“约”不能用于否定句。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b3aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfec-6cde-11ee-a616-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句中用词不当的地方并说明理由。跟小明比，小红益发聪明。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“益发”应改为“更加”。 ②理由：“益发”一般用于同一事物的历时比较，不用于多项事物之间的比较。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b3d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfed-6cde-11ee-9fbc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。他经过努力，终于取得了令人惊喜的后果。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“后果”应改为“成果”。 ②理由：“后果”是贬义词，令人惊喜的应该是好的结果，所以改成褒义词“成果”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b404-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfee-6cde-11ee-8447-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。地震来得太忽然了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "②“忽然”应改为“突然”。 ②理由：“忽然”是副词，不能受副词“太”修饰。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b42c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfef-6cde-11ee-9118-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "更正下面句子中用词不当的地方，并加以说明。我把今天的作业没全做完。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：我没把今天的作业全做完。 ②理由：“把”字句的否定是将否定词放在“把”之前。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b45e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff0-6cde-11ee-9135-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "更正下面句子中用词不当的地方，并加以说明。美丽勇敢的小伙子谁不喜欢。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：勇敢的小伙子谁不喜欢。 ②理由：“美丽”一般不用来形容男子，多用来形容女子。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b490-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff1-6cde-11ee-8155-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。不管后果好坏，他只要尽力去做就不会遭到别人的批评。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“后果”应改为“结果”。 ②理由：“后果”表示不好的结果，是贬义词，而句中未表明结果的好坏，只能用表示中性意义的词“结果”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b4b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff2-6cde-11ee-9609-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。我们知道⽼师生了病，旋即去医院看望了他。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“旋即”应改为“立即”。 ②理由：“旋即”指一会后，过了一小段时间以后，而句中表达的是知道消息后马上就去，“立即”表示没有间断，比“旋即”更好。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b4ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff3-6cde-11ee-9203-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。这是一件忽然事件，大家都没有预料到。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“忽然”应改为“突然”。 ②理由：“忽然”是副词，不能作定语修饰“事件”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b512-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff4-6cde-11ee-a022-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。我对这个活动很有乐趣。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“乐趣”应改为“兴趣”。 ②理由：“有乐趣”的主语一般是事情，不能是人。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b53a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff5-6cde-11ee-9d54-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。你的见解太尖刻了，一针见⾎地指出了问题的症结所在。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“尖刻”应改为“犀利”。 ②理由：“尖刻”是贬义词，不合句义。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b56c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff6-6cde-11ee-8f9f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。小李走得很急忙，没来得及跟她道别。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“急忙”应改为成“匆忙”。 ②理由：“急忙”是副词，不能受状语“很”修饰。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b594-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff7-6cde-11ee-8fda-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。一位⽬不识丁的⽼农说，今年的⽔稻呀，长得颇佳，一定能有个好收成！。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“颇佳”应改为“很好”。 ②理由：“颇佳”是书面语，与整个句子的又语体不和。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b5c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff8-6cde-11ee-8123-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。敌机⾮常机警，往云端里一钻就仓皇逃走了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“机警”应改为“狡猾”。 ②理由：“机警”是褒义词，不符合整个句子对敌人所持的感情⾊彩。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b5ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cff9-6cde-11ee-879e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。大家对我的批评正确而又尖刻，我会好好反省、认真改正的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“尖刻”应改为“深刻”。 ②理由：感情⾊彩不当，“尖刻”是贬义词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b620-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cffa-6cde-11ee-837e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。干部要到基层去，多听听群众的意见，遇事要多和群众协商。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“协商”应改为“商量”。 ②理由：语体⾊彩不当，“协商”是书面体，句中应用又语体。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b648-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cffb-6cde-11ee-8ca0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。灾难突然光临在她的身上。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①改成：灾难突然降临在他的身上。 ②理由：“光临”是敬辞，称宾客到来。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b670-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cffc-6cde-11ee-bc14-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。航空公司每天有四班航班交往于京港之间。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①改成：航空公司每天都有四班航班往返于京港之间。 ②理由：“交往”是指人与人之间的互相来往，不能指航班来来往往。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b6a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cffd-6cde-11ee-bd23-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。谈判双方代表⽬前处于尖利的对立状态中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①改成：谈判双方代表⽬前处于尖锐的对立状态中。 ②理由：“尖利”多指笔锋、眼光等锐利，而言论⽃争等的激烈应用“尖锐”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b6ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cffe-6cde-11ee-ada7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "修改下列病句并说明理由。法国电影周的上映，加强了中法两国人民的传统友谊。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为“法国电影周的举办，加深了中法两国人民的传统友谊。” 理由：搭配不当。“法国电影周”可以被“举办”，不能被“上映”。“友谊”可以被“加深”，不能被“加强”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b6fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465cfff-6cde-11ee-9c76-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "修改下列病句并说明理由。在改⾰开放的形势下，对我们的教育质量提出了更高的要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为“改⾰开放的形势对我们的教育质量提出了更高的要求。” 理由：主语残缺。滥用“介词……方位词”格式造成原句缺少主语。因此可以把“在……下”去掉，把“改⾰开放的形势”当成主语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b724-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d000-6cde-11ee-98f3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "修改下列病句并说明理由。大家先把这个问题考虑，以后抽时间研究。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①句子修改为“大家先把这个问题考虑清楚，以后抽时间研究”。 ②理由：“把字句”动词前后常常有别的成分，动词一般不能单独出现，通常后面有补语、宾语、动态助词或动词的重叠式等。该把字句动词后缺少相应成分，应在“考虑”后加上补语“清楚”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b756-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d001-6cde-11ee-a06d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "修改下列病句并说明理由。在大家的批评下，使我认识到了自己的错误。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①句子修改为“在大家的批评下，我认识到了自己的错误”或“大家的批评使我认识到了自己的错误”。 ②理由：这个句子的语病为结构杂糅，“在……下”和使令句杂糅，选择其中一种结构即可。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b77e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d002-6cde-11ee-81e5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。这篇文章不算太难，就是长一点⼉。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：这篇文章不算太难，就是长了一点。 ②理由：如果要表示因某一状况与预想或所希望的有点差距而不满意时，一般用“形容词＋了＋一点⼉”来表达。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b7a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d003-6cde-11ee-b52c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。丽达明年快要毕业了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：丽达明年就要毕业了。 ②理由：“明年”是一个明确的时间，“快要”表示时间上的不确指，应该用“就要”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b7d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d004-6cde-11ee-b32c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。行李都寄去日本了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：行李都寄到日本去了。 ②理由：“去”不能表示已经到达⽬的地，与表示动作完成的“了”相⽭盾。应该说“到……去了”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b800-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d005-6cde-11ee-b612-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "句式辨析。“⽗母瞒着孩子外出打工。”和“⽗母催着孩子外出打工。”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①两句的语义不同。第一句是⽗母外出打工，不告诉孩子；第⼆句是⽗母没有外出打工，而是催促孩子，让孩子外出打工。 ②两句的语法结构不同。第一句是主谓句，第⼆句是兼语句。按照层次分析，第一句的第一层，主语是“⽗母”，谓语是“瞒着孩子外出打工”；第⼆层，“瞒着孩子”是状语，“外出打工”是中⼼语。第⼆句按照层次分析，第一层的主语是“⽗母”，谓语是“催着孩子外出打工”；第⼆层述语是“催着”，宾语是“孩子外出打工”；第三层主语是“孩子”，谓语是“外出打工”，是一个嵌套结构。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b832-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d006-6cde-11ee-b117-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "句式辨析。“他一走进考场就开始答题。”和“他走进考场，开始答题。”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①两句的语义不同。第一句表示动作迅速，连接快，“开始答题”紧跟在“走进考场”之后；第⼆句表示动作的先后顺序，“开始答题”发生在“走进考场”之后。 ②两句的句型不同。第一句是一个由“一……就……”连词连接的单句，第⼆句是由两个小句组成的复句。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b85a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d007-6cde-11ee-8016-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面的句子有的合法，有的不合法，为什么？请论述之。a．究竟他写了什么书？b．他究竟写了什么书？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“究竟”在这里是副词，意为“到底”，带有疑问的意义。该组的句子中有疑问词“什么”，因此在语义上与“究竟”是一致的。但是a句和b句在语序上有差别，a句中为了加强疑问的语气，于是把“究竟”提到句⾸，起到突出和强调的作用；b句中的“究竟” 则修饰动词，作状语，是正常的语序。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b88c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d008-6cde-11ee-a2ea-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面的句子有的合法，有的不合法，为什么？请论述之。a．究竟谁写了那本书？b．谁究竟写了那本书？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "组句子疑问词“什么”改为定指的修饰语“那本”，同时增加了疑问词“谁”，与“究竟”在语义上保持一致。a句中“究竟”在句⾸，与“谁”组合，语义直接指向“谁”，所以是一致的；b句中，“究竟” 的语义指向了“那本书”，“那本书”是定指，语义上是⽭盾的，因此这个句子不合理。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b8b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d009-6cde-11ee-b7f9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面的句子有的合法，有的不合法，为什么？请论述之。a．究竟他写了那本书？b．他究竟写了那本书？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "组句子中没有疑问成分与“究竟”的疑问语义和整句话的疑问语气保持一致，因此都不成立。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b8e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d00a-6cde-11ee-bc81-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面的句子有的合法，有的不合法，为什么？请论述之。a．他究竟喜欢谁写的书？b．他喜欢究竟谁写的书？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "句中有疑问词，语义在整体上是一致的。a句中的语序和语义都是合理的；b句中“究竟”作为副词应该放在动词“喜欢”的前面作状语，因此不符合语法规范。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b90e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d00b-6cde-11ee-9aab-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列复句的连接关系。⽆论如何，我也要去。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前后分句使用关联词“⽆论……也……”，表示条件关系。 ⽆论如何，|（条件）我也要去。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b936-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d00c-6cde-11ee-87c8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列复句的连接关系。与其扬汤⽌沸，⽏宁釜底抽薪。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前后分句相并列，使用关联词“与其……⽏宁……”，表示选择关系。 与其扬汤⽌沸，|（选择）⽏宁釜底抽薪。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b968-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d00d-6cde-11ee-841c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。我们的收入还不高，但是因为就业的人多了，物价比较稳定，再加上其他种种条件，我们的生活比过去有了很大的提高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "我们的收入还不高，|（转折）但是因为就业的人多了，|||（并列）物价比较稳定，|||（并列）再加上其他种种条件，||（因果）我们的生活比过去有了很大的提高。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b990-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d00e-6cde-11ee-9b9b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。反映正在发展变化的生活，不仅要素材与经验，而且需要积极的态度，清醒的头脑，崇高的思想境界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反映正在发展变化的生活，|（解说）不仅要素材与经验，||（递进）而且需要积极的态度，|||（并列）清醒的头脑，|||（并列）崇高的思想境界。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b9b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d00f-6cde-11ee-8348-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。你做事总是⽋考虑，结果事情虽然办得够快，但效果都不怎么理想。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "你做事总是⽋考虑，|（因果）结果事情虽然办得够快，||（转折）但效果都不怎么理想。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2b9ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d010-6cde-11ee-b92a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。我们按尼部萨满的意愿，离开了旧营地，白⾊的马鲁王走在前面，其后是驮载⽕种的驯⿅，再接着是背负着我们家当的驯⿅群。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "我们按尼部萨满的意愿，离开了旧营地，|（解说）白⾊的马鲁王走在前面，||（顺承）其后是驮载⽕种的驯⿅，|||（顺承）再接着是背负着我们家当的驯⿅群。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ba12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d011-6cde-11ee-be40-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。掌柜是一副凶脸孔，主顾也没有好生气，教人活泼不得；只有孔⼄己到店，才可以笑几声。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "掌柜是一副凶脸孔，|||（并列）主顾也没有好生气，||（因果）教人活泼不得；|（转折）只有孔⼄己到店，||（条件）才可以笑几声。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ba44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d012-6cde-11ee-a37b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。成功的基础是奋⽃，奋⽃的收获是成功；所以，只有知艰而进和奋⽃不已，才能走上成功的高峰。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "成功的基础是奋⽃，||（并列）奋⽃的收获是成功，|（因果）所以，只有知艰而进和奋⽃不已，||（条件）才能走上成功的高峰。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ba6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d013-6cde-11ee-aad9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。我喜欢沈从文，不是因为他文笔优美，而是因为他描绘了一个让人憧憬不已的湘西世界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "我喜欢沈从文，|（因果）不是因为他文笔优美，||（并列）而是因为他描绘了一个让人憧憬不已的湘西世界。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2ba9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d014-6cde-11ee-9cf5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。困难是欺软怕硬的，你的思想是硬的，它就变成⾖腐，你要软，它就硬，所以，我们最需要的是勇气和毅力，其次才是技能和方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "困难是欺软怕硬的，||（解说）你的思想是硬的，|||（假设）它就变成⾖腐，|（因果）所以，我们最需要的是勇气和毅力，||（顺承）其次才是技能和方法。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d015-6cde-11ee-8edd-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。儒家极其重视“忠恕”之道，“忠”是反身而诚，而⾮对君王的盲⽬效忠，“恕”是推及他人，而⾮宽容他人的过失而已。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "儒家极其重视“忠恕”之道，|（解说）“忠”是反身而诚，|||（转折）而⾮对君王的盲⽬效忠，||（并列）“恕”是推及他人，|||（转折）而⾮宽容他人的过失而已。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2baf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d016-6cde-11ee-b486-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。对自己，学而不厌，对人家，诲而不倦，我们应取这种态度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对自己，学而不厌，||（并列）对人家，诲而不倦，|（解说）我们应取这种态度。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bb20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d017-6cde-11ee-b816-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。我知道北京是美丽的，因为我不但是北京人，几乎熟悉北京的每一条小胡同，而且到过欧美，看见过许多西方的名城。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "我知道北京是美丽的，|（因果）因为我不但是北京人，|||（解说）几乎熟悉北京的每一条小胡同，||（递进）而且到过欧美，|||（解说）看见过许多西方的名城。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bb48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465d018-6cde-11ee-a728-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。有些人虽然背上没有什么包袱，同时又有联系群众的长处，但是不善于思考，也不愿意多向别人请教，结果仍然做不成大事。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有些人虽然背上没有什么包袱，|||（并列）同时又有联系群众的长处，||（转折）但是不善于思考，|||（并列）也不愿意多向别人请教，|（因果）结果仍然做不成大事。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bb7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6e9-6cde-11ee-8c1c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下面复句的层次和关系。内容要是有分量，即使文章短小，也是有分量的，所以不能只看量，要讲实质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内容要是有分量，||（假设）即使文章短小，|||（让步）也是有分量的，|（因果）所以不能只看量，||（并列）要讲实质。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bbac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6ea-6cde-11ee-87f2-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列句子的语义，如果有歧义，请加以分化。电脑没叫他拿走。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有歧义，可以分化为： ①电脑（别人）没通知他拿走。（“叫”是动词） ②电脑没被他拿走。（“叫”是介词）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bbd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6eb-6cde-11ee-9557-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列句子的语义，如果有歧义，请加以分化。我让他说了几句。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有歧义，可以分化为： ①我允许他说了几句。（“让”是动词） ②我被他说了几句。（“让”是介词）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bc06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6ec-6cde-11ee-97b8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列句子的语义，如果有歧义，请加以分化。我们三个人一组。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有歧义，关键是“三个人”属前还是属后，可以分化为： ①总共只有三个人，这三个人组成仅有的一组。 ②总共不⽌三个人，但是每三个人一组，组成了若干组。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bc2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6ed-6cde-11ee-aaae-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列句子的语义，如果有歧义，请加以分化。热爱边疆的战⼠。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有歧义，牵涉到述语“热爱”的关涉范围问题：一种是名词性短语，偏正短语；另一种是动词性短语，述宾短语。可以分化为： ①战⼠热爱边疆。（偏正短语） ②我们应该热爱守卫边疆的战⼠。（动宾短语）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bc56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6ee-6cde-11ee-a02b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出相应的语法形式（⾄少2种）。 例：表示“完成”语法形式： ①动词＋了，例如：他买了一本书。 ②动词＋结果补语，例如：作业刚做完。表示“比较”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "表示“比较”： ①用“比”，例如：王芳比赵倩高。 ②形容词＋于，例如：人民的利益高于一切。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bc88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6ef-6cde-11ee-8b0b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出相应的语法形式（⾄少2种）。 例：表示“完成”语法形式： ①动词＋了，例如：他买了一本书。 ②动词＋结果补语，例如：作业刚做完。表示“动作或状态的起始”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "表示“动作或状态的起始”： ①动词＋起，例如：队伍由这⼉排起。 ②“动词＋起＋宾语＋来”或“宾语＋动词＋起来”。例如：下起⾬来了或⾬下起来了。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bcba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f0-6cde-11ee-836c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出相应的语法形式（⾄少2种）。 例：表示“完成”语法形式： ①动词＋了，例如：他买了一本书。 ②动词＋结果补语，例如：作业刚做完。表示“存在”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "表示“存在”： ①动词＋着，例如：⼭路上走着几个人。 ②处所词语＋动词＋数量名短语，例如：村又有一棵大树。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bce2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f1-6cde-11ee-bdb3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "加标点并翻译下列文字。笺云女德贞静然后可畜美⾊然后可安又能服从待礼而动自防如城隅故可爱也。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①标点 《笺》云：“女德贞静，然后可畜；美⾊，然后可安。又能服从，待礼而动，自防如城隅，故可爱也。” ②译文 郑⽞注释说：“女子德行坚贞沉静，因而值得喜爱。长得美丽，所以令人安⼼。又懂得听从，依据礼节而行动，自我防护得像城墙一样，所以讨人喜欢。”"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bd14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f2-6cde-11ee-9c2c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "加标点并翻译下列文字。博学之审问之慎思之明辨之笃行之有弗学学之弗能弗措也有弗问问之弗知弗措也有弗思思之弗得弗措也有弗辨辨之弗明弗措也有弗行行之弗笃弗措也人一能之己百之人十之己千之果能此道矣虽愚必明虽柔必强。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①标点 博学之，审问之，慎思之，明辨之，笃行之。有弗学，学之弗能弗措也；有弗问，问之弗知弗措也；有弗思，思之弗得弗措也；有弗辨，辨之弗明弗措也；有弗行，行之弗笃弗措也。人一能之，己百之；人十之，己千之。果能此道矣，虽愚必明，虽柔必强。 ②译文 要⼴博地学习，详细地求教，慎重地思考，明白地辨别，切实地力行。不学则已，既然要学，不学到通达晓畅绝不终⽌；不去求教则已，既然求教，不到彻底明白绝不终⽌；不去思考则已，既然思考了，不想出一番道理绝不终⽌；不去辨别则已，既然辨别了，不到分辨明白绝不终⽌；不去做则已，既然做了，不确实做到圆满绝不终⽌。别人一次能做到，自己做百次也要做到；别人十次能做到的，自己做千次也要做到。果真能这样，那么即使愚笨也会变得聪明，即使柔弱也会变得刚强。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bd3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f3-6cde-11ee-af81-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“他用感激的⽬光望着这些中国朋友”一句中“感激”能不能换作“感谢”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“感激”不能换作“感谢”。 ②原因：“感激”是因对方的好意或帮助而对他人产生好感；“感谢”是用言语行动表示感激，并且“感激”的程度比“感谢”深。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bd6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f4-6cde-11ee-8d78-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“小王走得很匆忙，连照相机也忘了带去了”一句中的“匆忙”能不能换作“急忙”？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“匆忙”不能换作“急忙”。 ②原因：“匆忙”是形容词，可以受“很”等程度副词修饰，多放在动词后作补语；“急忙”是副词，一般不受“很”等程度副词修饰，一般放在动词前作状语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bd96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f5-6cde-11ee-9c67-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“大家请安娜找王⽼师谈话，说明我们对这件事的看法”一句中“谈话”用得恰当不恰当？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“谈话”用得不恰当。 ②原因：“找……谈话”用于上级对下级，根据句意，此处是学生找⽼师，故当改为下级对上级的“向……反映情况”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bdbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f6-6cde-11ee-ac01-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“他在这里曾经学过半年汉语了，现在还想延长半年”一句中“曾经”应该用什么词替换才对？为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“曾经”应该用“已经”替换。 ②原因：“已经”和“曾经”是两个副词，两词都能用来说过去发生的事。两个词的主要有以下区别： a．“曾经”表示从前有过某种行为或情况，时间一般不是最近；“已经”表示事情完成，时间一般在不久以前。 b．“曾经”所表示的动作或情况现在已结束；“已经”所表示的动作或情况可能还在继续。根据句意，这里发生的事情是在不久以前，并且“学习汉语”这个动作还可能延续，所以用“已经”较为合适。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bdf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f7-6cde-11ee-a8b0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“大家请他再唱一个，他就又唱了一个。”中“再”和“又”的位置是否能够互换，为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①不能。 ②原因：“再”一般用于未然，而“又”多用于已然，“再唱一个”表示动作待重复，“又唱了一个”表示动作已经重复。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2be18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f8-6cde-11ee-b1c4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“欢迎你以后常常来母校看看。”中的“常常”是否可以用“往往”来替代，为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①不能。 ②原因：“往往”是对于到⽬前为⽌出现的情况的总结，有一定的规律性，不用于主观意愿，并且往往强调的是过去的某种习惯；“常常”单纯指动作的重复，不一定有规律性，可以用于主观意愿。因此，“常常”可用于将来的事情，“往往”不能。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2be4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6f9-6cde-11ee-8917-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“情况很复杂，你的想法未免过于简单了。”中的“未免”能否用“难免”来替代，为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①不能。 ②原因：“未免”表示对某种情况的不以为然，侧重于评价；而“难免”则表示客观上不容易避免。本句重在评价，故不能用“难免”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2be72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6fa-6cde-11ee-aa4b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "词语辨析。“看到这次冠军⾮自己莫属，王平不免有些飘飘然。”中的“不免”是否可以用“难免”来替代，为什么？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①不能。 ②原因：“不免”是禁不住的意思，有主观放纵的意思。“难免”是客观条件限制而出现。四、修改句子 （）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bea4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6fb-6cde-11ee-ab54-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。美丽勇敢的小伙子谁不喜欢。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“美丽”应改为“漂亮”或“健美”。 ②原因：描写人时，“美丽”只用于描写女性，而“漂亮”或“健美”用于描写男女皆可。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2becc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6fc-6cde-11ee-9e12-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。在欢迎新同学的联欢会上，新⽼同学互相交流礼物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“交流”应改为“交换”。 ②原因：搭配对象不同，“交流”一般用于抽象的、范围大的事物，而“交换”则用于具体的、范围小的事物。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bef4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6fd-6cde-11ee-8371-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子中用词不当的地方并说明理由。我们大家都应该爱护自然环境，庇护野生动物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①“庇护”改“保护”。 ②原因：感情⾊彩不同，“庇护”是贬义词，与“野生动物”感情⾊彩不一致，而“保护”是中性词，与“野生动物”感情⾊彩一致。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bf26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6fe-6cde-11ee-9bf3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误并说明理由。我在了家听着音乐看着书。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“我在家听着音乐看着书”。 ②原因：搭配不当，介词“在”后面不能加“了”等动态助词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bf4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f6ff-6cde-11ee-a4d8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误并说明理由。济南的冬天有时比北京很冷。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为“济南的冬天有时比北京还冷。” ②原因：搭配不当，比字句中⼼谓语的形容词可以受“还”等副词修饰，不能受“很”等程度副词修饰。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bf80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f700-6cde-11ee-bead-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误并说明理由。我昨天在路上偶然会见了多年不见的⽼友。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“我昨天在路上偶然遇见了多年不见的⽼友。” ②原因：搭配不当，“会见”是有意的行为，不能受“偶然”修饰。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bfa8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f701-6cde-11ee-a3f1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误并说明理由。真是没办法，他竟然再做错这道数学题了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“真是没办法，他竟然又做错这道数学题了。” ②原因：搭配不当。“再”表还没有发生的重复事件，做错的事件已经重复发生，应该用“又”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2bfda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f702-6cde-11ee-821f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误，并说明理由。通过这个故事，使我们深深地体会到，人⾸先要自尊，然后别人才会尊重你。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“这个故事，使我们深深地体会到，人⾸先要自尊，然后别人才会尊重你。” ②原因：原句主语残缺，删除“通过”后，“这个故事”成为主语；删除“使”后，“我们”成为主语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c002-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f703-6cde-11ee-bdc1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误，并说明理由。学校提倡普通话。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“学校提倡讲普通话。” ②原因：原句动宾搭配不当，“提倡”后面要跟谓词性宾语，不能跟体词性宾语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c034-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f704-6cde-11ee-9c1a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误并说明理由。我们要帮忙他走出这个困难的局面。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“我们要帮助他走出这个困难的局面。” ②原因：帮忙是不及物动词，不能接宾语，而帮助是及物动词，能接宾语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c05c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f705-6cde-11ee-b060-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误并说明理由。由于奥运会的成功举行，为⼴泛深入地开展全民健身活动提供了良好的条件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“奥运会的成功举行，为⼴泛深入地开展全民健身活动提供了良好的条件。” ②原因：介词“由于”用在句⾸，使得句子主语缺失，需要将“由于”去掉。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c08e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f706-6cde-11ee-b6a2-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误，并说明理由。我国的粮食总产量，以平均每年递增百分之⼆十的速度大踏步地向前发展——这真的是一个可喜可贺的不俗成绩。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“我国的粮食总产量，以平均每年递增百分之⼆十的速度大踏步地向前提高——这真的是一个可喜可贺的不俗成绩。” ②原因：主谓搭配不当，“粮食总产量”不能说“发展”，可以说“提高”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c0b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f707-6cde-11ee-99e5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误，并说明理由。吴哥寺在淡蓝⾊的烟霞中，就像一座仙宫，美妙地引起人们遐想。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“吴哥寺在淡蓝⾊的烟霞中，就像一座仙宫，引起人们美妙的遐想。” ②原因：语序不当，将定语“美妙”错用在了状语的位置。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c0de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f708-6cde-11ee-ba2b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误并说明理由。机器开工后突然故障，造成了生产上的损失。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“机器开工后突然发生故障，造成了生产上的损失。” ②原因：搭配不当，将名词“故障”错用成了动词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c110-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f709-6cde-11ee-87b0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下面句子中的语法错误并说明理由。出去春游，要注意防⽌不发生事故。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：“出去春游，要注意防⽌发生事故。” ②原因：否定词多余。“防⽌”表示阻⽌不好的情况发生，而不是避免好的情况的发生。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c138-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f70a-6cde-11ee-bdd6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子的语法错误并说明理由。我今天要把这些⽔果吃完。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为“我今天要把这些⽔果吃完。” ②原因：“把”字句中的动词一般要有其他附加成分，不能是单个的动词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c16a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f70b-6cde-11ee-b95f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子的语法错误并说明理由。我现在比刚来时⾮常忙。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为“我现在比刚来时更/还忙。” ②原因：“比”字句的谓语形容词前不能用“很、⾮常、太”等不含比较语义的程度副词，副词“更、还”含有比较语义。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c192-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f70c-6cde-11ee-839a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子的语法错误并说明理由。⾬从星期一到星期五一直下了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为“⾬从星期一到星期五一直下着。”或“⾬从星期一一直下到星期五。”或“从星期一到星期五一直下着⾬。” ②原因：“了”动作完成的时间点，“从星期一到星期五一直下”表示动作持续的时间，所以句末不能用“了”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c1ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f70d-6cde-11ee-8956-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列句子的语法错误并说明理由。我们在教学中一定要提倡普通话。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为“我们在教学中一定要提倡说/使用普通话。” ②原因：“提倡”是谓宾动词，一般要求带谓词性宾语。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c1ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f70e-6cde-11ee-aac3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列病句，并运用相关语法知识说明理由。我的汉语⽔平比以前差不多。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①改为：我的汉语⽔平跟以前差不多。 ②原因：“比”字句主要用在表示程度的差别或高低，和“差不多”⽭盾。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c214-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f70f-6cde-11ee-b25b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列病句，并运用相关语法知识说明理由。那里的农民很淳朴，很友谊我们。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①改为：那里的农民很淳朴，对我们很友好。 ②原因：程度副词“很”一般不用来修饰名词。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c246-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f710-6cde-11ee-953e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。昨天我买三本书了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：昨天我买了三本书。 ②原因：表示动作完成的动态助词“了”应当放在动词后、宾语前。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c26e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f711-6cde-11ee-b360-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。我发誓了一定要学好汉语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：我发誓一定要学好汉语。 ②原因：表示动作完成的动态助词“了”与表示将来意愿的“发誓”不能搭配，应去掉。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c2a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f712-6cde-11ee-a146-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。一个苹果我吃了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：我吃了一个苹果。 ②原因：语序不当，受事宾语“一个苹果”应当放在动词后。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c2c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f713-6cde-11ee-a441-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。这个问题我考虑考虑一会⼉。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：这个问题我考虑考虑。 ②原因：补语多余。动词重叠式“考虑考虑”已经有动作时间短暂或尝试的意思。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c2fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f714-6cde-11ee-8567-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。他的收音机放着在桌子上。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：他的收音机在桌子上放着。 ②原因：介词短语“在桌子上”是状语，应当放在动词前面。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c322-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f715-6cde-11ee-80a4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。他计划翻译这篇文章成汉语。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①应改为：他计划把这篇文章翻译成汉语。 ②原因：语序不当。“成汉语”是“翻译”的补语，一般情况下动词和补语之间不能插入其他成分。“这篇文章”前面应当加“把”成为介词结构，提到动词前。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c34a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f716-6cde-11ee-bac5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。东京的夏天比北京不热。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为“东京的夏天不比北京热”。 原因：在比较句的否定形式中，副词“不”应当放在介词“比”或“如”之前。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c37c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f717-6cde-11ee-b1fd-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。你到底同意我的看法吗？。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为“你到底同意不同意我的看法？”或“你同意我的看法吗？” 原因：带“吗”的问句是是⾮问句，是⾮问的句法结构像陈述句，即没有表示疑问的结构或者代词，而“到底”就是用于疑问句中表疑问的，所以在这个是⾮问句中不能用“到底”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c3a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f718-6cde-11ee-ad72-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。他们商量商量一下⼉决定去上海玩。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为“他们商量了一下⼉决定去上海玩。” 原因：动词重叠式表示动作时间短暂或尝试的意思，是动态的一种表示法，与“一下⼉”意思重复，应把“一下⼉”删去。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c3d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f719-6cde-11ee-9bda-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。昨天我们打篮球了一个小时在体育馆。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为“昨天我们在体育馆打了一个小时篮球。” 原因：“在体育馆”是处所状语，应当放在动词前面；“一个小时”是时间补语，应当放在宾语“篮球”前面。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c3fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f71a-6cde-11ee-b6cc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请改正下列句子并说明理由。他把那句话没说完就跑出去了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为“他没把那句话说完就跑出去了”。 原因：否定词“不”“没”一般用在“把”字前。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c430-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f71b-6cde-11ee-870b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列句子的语义，如果有歧义，请加以分化。他连我也不认识。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有歧义。 ①原因：句⾸的“他”可以看作是受事宾语提前，也可以看作是主语。 ②可分化为：“他竟然不认识我”和“连我也不认识他”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c458-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f71c-6cde-11ee-8e53-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列句子的语义，如果有歧义，请加以分化。我讲不好。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有歧义。 ①原因：“不好”可以理解为“讲”的状态补语或可能补语。 ②可分化为：“我讲得不好”和“让我来讲是不好的”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c48a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f71d-6cde-11ee-acdf-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列句子的语义，如果有歧义，请加以分化。我们学院需要进又教学软件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有歧义。 ①原因：“进又”既可以做述宾短语里的述语，也可以直接做定语，可以理解成不同的结构关系。 ②可分化为：“我们学院需要马上进又教学软件。”和“我们学院需要一批进又的教学软件。”"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c4b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f71e-6cde-11ee-98be-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列句子的语义，如果有歧义，请加以分化。还是去一次好。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有歧义。 ①原因：“还是”可以表示行为、动作或状态保持不变，或不因上文所说的情况而改变；仍旧、仍然。也可以表示经过比较，有所选择。 ②可分化为：“虽然不想去医院，还是去一次好。”和“比起在这里干等着，还是去一次好。”"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c4e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f71f-6cde-11ee-a032-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用直接成分分析法（或称层次分析法）分析下面的句子，如果句子有歧义，请指出产生歧义的原因。张三和李四的妹妹结婚了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①层次分析   ②句子产生歧义的原因 主语“张三和李四的妹妹”中词语之间的结构关系不明确，成分“李四的”可以属前也可以属后。可以有两种理解：当“张三和李四”整体当作“妹妹”的定语时，表示张三和李四共同有一个妹妹，结婚了。当“李四”单独作“妹妹”的定语时，表示李四有个妹妹，和张三结婚了。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d2c516-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6465f720-6cde-11ee-a2aa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用直接成分分析法（或称层次分析法）分析下面的句子，如果句子有歧义，请指出产生歧义的原因。三个孩子的妈妈得到了奖金。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "①层次分析   ②句子产生歧义的原因 主语“三个孩子的妈妈”中词语之间的结构关系不明确，成分“孩子的”可以属前也可以属后，因此可以有两种理解：得到奖金的是生了三个孩子的那位妈妈，是同一个人；得到奖金的是三位妈妈，是不同的三个人。"
+	}
+]

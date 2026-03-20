@@ -1,0 +1,2073 @@
+[
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b44d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa04c-6f09-11ee-b3f4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要被评估资产相同，评估结果就应该相同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4642-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa04d-6f09-11ee-afca-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产评估结果对资产业务定价具有强制执行的效力，注册资产评估师必须对结论本身合乎执业规范要求负责。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b469c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa04e-6f09-11ee-976c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当无形资产的获利期限短于其法定保护期限，评估时应按照法定保护期限作为无形资产的剩余寿命期。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b46e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa04f-6f09-11ee-b812-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当无形资产的获利期限短于其法定保护期限，评估时应按照法定保护期限作为无形资产的剩余寿命期。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4728-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa050-6f09-11ee-a48c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。营业周期越短的行业，其合理的流动比率越高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4764-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa051-6f09-11ee-9f00-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。通常，使某个投资方案的净现值小于零的折现率一定低于该投资方案的内含报酬率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b47aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa052-6f09-11ee-97a7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在发行可转换债券时，设置赎回条款，主要是为了保护债券持有人资产安全性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b47e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa053-6f09-11ee-bc5a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。会计要素是根据交易或者事项的经济特征所确定的财务会计对象的基本分类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b482c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa054-6f09-11ee-8e0f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。复式记账法是对每一项经济业务同时在两个或两个以上的账户中进行登记的一种记账方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4872-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa055-6f09-11ee-af13-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的所有资产都应具有一定的实物形态。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b48c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa056-6f09-11ee-b06b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。评估基准日可以在现在时点，也可以是历史某个时点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4908-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa057-6f09-11ee-bacd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要评估机构与委托双方同意，资产评估报告及其结论可用于多个用途。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b494e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa058-6f09-11ee-9a52-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在权益乘数一定的情况下，固定经营成本在总成本中所占的比重的变化与总杠杆系数成同方向变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4994-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa059-6f09-11ee-b106-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。管理费用多属于固定成本，所以，管理费用预算一般是以过去的实际开支为基础，按预算期的可预见变化来调整。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b49da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa05a-6f09-11ee-871d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。管理费用多属于固定成本，所以，管理费用预算一般是以过去的实际开支为基础，按预算期的可预见变化来调整。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4a2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa05b-6f09-11ee-bb04-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在考虑公司所得税的情况下，所得税越高，实际的债务成本越低，公司的加权平均成本越低。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4a7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa05c-6f09-11ee-9df4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业分派现金股利会导致所有者权益总额的减少，但分派股票股利不会导致所有者权益总额的减少。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4aca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa05d-6f09-11ee-aa6c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。目前国际上比较普遍的利润表的格式主要有多步式利润表和单步式利润表两种。为简便明晰起见，我国企业采用的是单步式利润表格式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4b10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa05e-6f09-11ee-b58c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。编制利润表时，对于“投资净收益”项目，应根据“投资收益”账户的发生额分析填列，如果是投资损失，以负号填列。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4b56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa05f-6f09-11ee-8664-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。《企业会计准则》规定，企业应当对所有的固定资产计划提折旧。因而，企业当月增加的固定资产当月也计提折旧。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4ba6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa060-6f09-11ee-88d0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要企业不拥有某项资产的所有权，该项资产就不能作为本企业的资产予以确认。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4bec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa061-6f09-11ee-8edb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业按年末应收账款余额的一定比例计算的应提坏账准备额，应等于年末结账后的“坏账准备”账户的余额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4c3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa062-6f09-11ee-9333-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的应收票据无论是带息票据还是不带息票据，在年末编制的资产负债表中均应以该票据的票面价值反映。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4c82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa063-6f09-11ee-93e8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从本质上说，公司管理的目标是市场增加值最大化，而不是市场价值最大化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4cc8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa064-6f09-11ee-a479-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当债券必要收益率低于息票率时，债券溢价销售。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4d0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa065-6f09-11ee-9253-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本市场线反映的是市场处于均衡状态下某一证券或某证券组合的投资风险与收益的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4d5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa066-6f09-11ee-878f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。评估基准日实际上就是资产评估机构对资产开始进行评估的日期。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4dae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa067-6f09-11ee-9cbb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产评估准则中的指导意见是一种没有约束力的建设性意见。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4df4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa068-6f09-11ee-ad62-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产评估中的独立性原则包含着这样的要求，即评估机构本身是一个独立的、不依附于他人的社会公正性中介组织法人，以及评估机构在利益和利害关系上与资产业务当事人没有任何联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4e3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa069-6f09-11ee-a338-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产评估中的独立性原则包含着这样的要求，即评估机构本身是一个独立的、不依附于他人的社会公正性中介组织法人，以及评估机构在利益和利害关系上与资产业务当事人没有任何联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4e80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa06a-6f09-11ee-a1e2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在权责发生制会计处理基础要求下，企业本期收到货币资金就意味着本期收入的增加。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4ec6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa06b-6f09-11ee-b706-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。不得坐支就是不得直接从其收入的现金中支付现金支出。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4f16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa06c-6f09-11ee-b31f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业购入材料在运输过程中发生的合理损耗，应计入当期的管理费用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4f5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa06d-6f09-11ee-bf45-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般资产负债率对债权人、股东、经营者而言，越低越好。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4f98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa06e-6f09-11ee-9318-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。预收账款属于商业信用筹资方式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b4fe8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa06f-6f09-11ee-ae06-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。回收期指标的优点是计算简单、易于操作，并且考虑了整个项目计算期的现金净流量信息。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5038-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa070-6f09-11ee-9f9c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。评估基准日是资产评估机构提交资产评估报告的日期。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b507e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa071-6f09-11ee-9f55-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。投资价值也是资产评估中的一种相对合理的价值，只是其相对合理性的适用范围较窄。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b50c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa072-6f09-11ee-95ed-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。采用成本途径进行资产评估时，资产的经济性贬值与该资产自身的使用程度保持一致。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b510a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa073-6f09-11ee-a3ef-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。专利资产的研制开发费用与专利资产的效用及获利能力能够保持线性关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5150-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa074-6f09-11ee-abd1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某消费者只消费大米和面粉，若大米价格上涨而其他条件不变，他对大米和面粉的消费都减少了，那么对该消费者来说面粉是低档商品。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5196-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa075-6f09-11ee-8119-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在一条直线型的需求曲线上每一点的需求弹性系数都不一样。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b51dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa076-6f09-11ee-95a3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。线性需求曲线点弹性的五种类型3 完全竞争市场中厂商所面对的需求曲线是一条水平线。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5222-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa077-6f09-11ee-a3bf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。需求必须是指既有购买欲望又有购买能力的有效需求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5268-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa078-6f09-11ee-8b1b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。就需求的价格弧弹性而言，富有弹性的需求曲线相对比较陡峭，缺乏弹性的需求曲线相对比较平坦。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b52ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa079-6f09-11ee-a8b5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要边际产量的正的，总产量总是增加的；只要边际产量是负的，总产量是减少的；当要边际产量为零时，总产量达到最大值点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b52fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa07a-6f09-11ee-b345-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。经济利润指厂商的总收益与总成本之间的差额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5344-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa07b-6f09-11ee-ae9f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业是企业各项可确指资产的汇集，企业整体价值一定等于企业各项可确指资产评估价值之和。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b538a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa07c-6f09-11ee-899c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业与债权人之间的财务关系实质是债务与债权关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b53d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa07d-6f09-11ee-96d3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。为保证日后的核对与检查，一般来说，资产评估的工作底稿应该尽量详细。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。工作底稿并不是越详尽越好，工作底稿的繁简程度与以下基本因素相关：① 资产评估业务约定书约定的评估目的及要求；② 被评估资产的规模及复杂程度；③ 委托人所申报的资产评估资料；④ 被评估资产的产权；⑤ 评估的假设前提条件、重要事项的说明。2 资产评估结果对资产业务定价具有强制执行的效力，注册资产评估师必须对结论本身合乎执业规范要求负责。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5416-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa07e-6f09-11ee-9874-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要评估机构与委托双方同意，资产评估报告及其结论可用于多个用途。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5452-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa07f-6f09-11ee-9475-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。优先股的股利可视为永续年金。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5498-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa080-6f09-11ee-a115-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所谓净现值是指某项目未来各年现金流入与现金流出差额的现值之和。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b54e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa081-6f09-11ee-a10a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。国库券是一种几乎没有风险的有价证券，其利率可以代表资金时间价值。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5524-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa082-6f09-11ee-9e73-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在终值和计息期一定的情况下，折现率越低，则复利现值越高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b556a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa083-6f09-11ee-8624-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当一年复利次数超过一次时，实际利率会小于名义利率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b55b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa084-6f09-11ee-af26-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在风险分散过程中，随着资产组合中资产数目的增加，分散风险的效应会越来越明显。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b55f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa085-6f09-11ee-92b7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。随着折现率的提高，未来某一款项的现值将逐渐降低。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b563c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa086-6f09-11ee-a5ad-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在发行可转换债券时，设置赎回条款，主要是为了保护债券持有人资产安全性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b568c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa087-6f09-11ee-93f7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。融资租赁的租金应当在税后支付，不发挥抵税效果，因此是成本较高的筹资方式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b56c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa088-6f09-11ee-af24-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果销售具有较强的周期性，则企业在筹集资金时不适宜过多采取负债筹资。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5718-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa089-6f09-11ee-99a5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在权益乘数一定的情况下，固定经营成本在总成本中所占的比重的变化与总杠杆系数成同方向变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b575e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa08a-6f09-11ee-8dcb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在考虑公司所得税的情况下，所得税越高，实际的债务成本越低，公司的加权平均成本越低。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b57ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa08b-6f09-11ee-832f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。盈利企业也可能因不能偿还到期债务而无法继续经营下去。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b57fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa08c-6f09-11ee-b7da-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。MM理论认为：公司所得税的存在，会使负债公司的价值比没有负债公司的价值高，且负债程度越高，公司加权资本成本越低，公司价值越大。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b584e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa08d-6f09-11ee-8c0e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。通常，使某个投资方案的净现值小于零的折现率一定低于该投资方案的内含报酬率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b589e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa08e-6f09-11ee-977d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。变动收益证券比固定收益证券风险要小，报酬要高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b58ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa08f-6f09-11ee-bd25-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某企业拟购买C公司股票并准备长期持有，预计该股票每年股利为1.5元，企业要求的必要收益率为10%，则该股票的价值为12元。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5934-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa090-6f09-11ee-991b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本资产定价理论CAPM告诉我们：任何风险性资产投资的必要收益率等于其风险溢酬。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b597a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa091-6f09-11ee-9405-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。营业周期越短的行业，其合理的流动比率越高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b59ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa092-6f09-11ee-8e87-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。信用标准是指公司要求客户支付赊销款项的条件，包括信用期限、折扣期限和折扣率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5a1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa093-6f09-11ee-b67b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业分派现金股利会导致所有者权益总额的减少，但分派股票股利不会导致所有者权益总额的减少。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5a60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa094-6f09-11ee-945e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果企业暂时缺乏良好的投资机会，则倾向于股东多支付股利。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5aa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa095-6f09-11ee-a51d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。采用剩余股利分配政策的优点是有利于保持理想的资金结构，降低企业的综合资金成本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5af6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa096-6f09-11ee-8d6b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。补偿性余额的约束有助于降低银行贷款风险，但同时也减少了企业实际可动用借款额，提高了借款的实际利率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5b3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa097-6f09-11ee-b84f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。预算线表示在消费者收入和商品的价格给定的条件下，消费者的全部收入所能购买到的两种商品的各种组合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5b8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa098-6f09-11ee-a211-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。吉芬品的收入效应超过替代效应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5bdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa099-6f09-11ee-8dba-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在同一平面内，两条无差异曲线是可以相交的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5c2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa09a-6f09-11ee-b8e7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。评估基准日实际上就是资产评估机构对资产开始进行评估的日期。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5c7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa09b-6f09-11ee-a270-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。投资价值也是资产评估中的一种相对合理的价值，只是其相对合理性的适用范围较窄。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5ccc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa09c-6f09-11ee-938e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产评估中的独立性原则包含着这样的要求，即评估机构本身是一个独立的、不依附于他人的社会公正性中介组织法人，以及评估机构在利益和利害关系上与资产业务当事人没有任何联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5d1c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa09d-6f09-11ee-b881-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。政府发布的经济信息也是一种经济资源，具有为企业带来经济利益的潜能，因而也是资产评估的对象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5d62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa09e-6f09-11ee-8594-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要被评估资产相同，评估结果就应该相同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5db2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa09f-6f09-11ee-8990-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产评估是对资产在特定时点及特定市场条件下的客观价值的估计和判断。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5df8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a0-6f09-11ee-9c6b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产评估结论是专家的专业判断和专家意见，因此具有强制执行的效力，资产评估结论应该成为资产交易的价格。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5e48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a1-6f09-11ee-ab8a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产评估是指对资产在一定时期内的价值进行的评定估算。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5e98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a2-6f09-11ee-9fd8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产评估的对象指的是被评估的资产，它是资产评估的主体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5ee8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a3-6f09-11ee-b552-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的借入资产不可纳入被评估资产的范围，因为企业不拥有其所有权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5f42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a4-6f09-11ee-8720-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。专利资产的研制开发费用与专利资产的效用及获利能力能够保持线性关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5f92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a5-6f09-11ee-9722-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当无形资产的获利期限短于其法定保护期限，评估时应按照法定保护期限作为无形资产的剩余寿命期。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b5fd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a6-6f09-11ee-b6e2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。采用成本途径进行资产评估时，资产的经济性贬值与该资产自身的使用程度保持一致。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b6028-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a7-6f09-11ee-970e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对于一项科学技术进步较快的资产，采用物价指数法往往会比采用重置核算法估算的重置成本高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b6082-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a8-6f09-11ee-b0bc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。运用收益现值法评估机器设备的前提条件是，被评估机器设备具有独立的、能连续用货币计量的可预期收益，所以单件设备比较适合使用这种方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。使用收益法的前提条件是：① 要能够确定被评估机器设备的获利能力，如净利润或净现金流量；② 能够确定资产合理的折现率。大部分单项机器设备，一般不具有独立获利能力。因此，单项设备通常不采用收益法评估。对于生产线、成套设备等具有独立获利能力的机器设备可以使用收益法评估。2 在机器设备的评估实践中，确定设备成新率的唯一手段是技术检测。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b60c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0a9-6f09-11ee-adc6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。设备的重置成本，是指评估时点再获得与评估对象相同或相似全新设备的取得成本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b6118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0aa-6f09-11ee-8d2c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在利用市场询价法计算机器设备的重置成本时，通常是不直接把设备供应商的报价作为估测结果的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b615e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0ab-6f09-11ee-ba26-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。综合成新率是反映评估对象现时价值与其重置成本的比率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b61b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0ac-6f09-11ee-8bdf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。运用物价指数法估测机器设备的重置成本，其实仅考虑了价格变动因素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b6208-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0ad-6f09-11ee-b022-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。设备的超额投资成本＝设备的更新重置成本－设备的复原重置成本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b6258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0ae-6f09-11ee-9316-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。运杂费和安装调试费一定是机器设备评估值的组成部分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b629e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0af-6f09-11ee-9ba0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。参照设备的生产能力大于被评估设备，应该在参照设备价格的基础上下调价格，以符合被评估对象的实际情况。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b62f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0b0-6f09-11ee-8137-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。运用收益现值法评估机器设备的前提条件是，被评估机器设备具有独立的、能连续用货币计量的可预期收益，所以单件设备比较适合使用这种方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b633e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0b1-6f09-11ee-bf42-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在机器设备的评估实践中，确定设备成新率的唯一手段是技术检测。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b638e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0b2-6f09-11ee-a0f4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。设备的重置成本，是指评估时点再获得与评估对象相同或相似全新设备的取得成本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b63de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0b3-6f09-11ee-921e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在利用市场询价法计算机器设备的重置成本时，通常是不直接把设备供应商的报价作为估测结果的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b642e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0b4-6f09-11ee-8e0b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。综合成新率是反映评估对象现时价值与其重置成本的比率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b647e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0b5-6f09-11ee-abad-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。运用物价指数法估测机器设备的重置成本，其实仅考虑了价格变动因素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b64ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0b6-6f09-11ee-8b56-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。设备的超额投资成本＝设备的更新重置成本－设备的复原重置成本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b6528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0b7-6f09-11ee-9f76-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。运杂费和安装调试费一定是机器设备评估值的组成部分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351b65a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3aa0b8-6f09-11ee-8ed1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。参照设备的生产能力大于被评估设备，应该在参照设备价格的基础上下调价格，以符合被评估对象的实际情况。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	}
+]

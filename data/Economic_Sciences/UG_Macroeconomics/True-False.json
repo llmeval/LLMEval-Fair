@@ -1,0 +1,1199 @@
+[
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34ae9f6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbccf51-71b9-11ee-86fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。微软公司对软件在中国和美国制定的价格不同，这是二级价格歧视的例子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea032-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d71-71b9-11ee-a147-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要产权界定明晰，则资源最终配置的结果与产权初始分配无关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea06e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d72-71b9-11ee-baa2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。线性的价格需求曲线各点的需求价格弹性相等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea0a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d73-71b9-11ee-bca2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在政府向垄断企业征税时，垄断企业总是会把全部税赋转嫁给消费者。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea0c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d74-71b9-11ee-9df1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在长期均衡点，完全竞争市场中每个厂商的利润都为零。因此，在市场价格下降时，行业中的所有厂商都无法继续运营。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea0f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d75-71b9-11ee-8126-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。斯勒茨基替代效应衡量的是同一条无差异曲线上两点之间的移动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea122-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d76-71b9-11ee-a023-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。公共物品与公共资源的区别在于商品是否具有竞争性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea14a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d77-71b9-11ee-9e55-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。消费者和生产者谁将承担更多的税负，取决于两者的价格弹性，价格弹性大的一方承受的税负较大。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d78-71b9-11ee-a6a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从商品货币转变为法定货币的重要原因是节约了交易成本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea19a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d79-71b9-11ee-99ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。折旧率的上升和人口增长率的上升对稳态的人均资本量具有相同影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea1cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d7a-71b9-11ee-bc0c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在均衡经济周期中，技术水平的持久性上升会增加当前消费，而技术水平的暂时性上升会减少当前消费。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea1f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d7b-71b9-11ee-84f1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在一个小型开放经济中，税收的增加会导致贸易赤字的增加。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d7c-71b9-11ee-8f77-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。失业保险金的增加会降低就职率，延长预期的失业持续时间。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea24e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d7d-71b9-11ee-a1ce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。政府通过增加负债来购买一项资产，如果通过资本预算程序，那么政府的赤字增加了。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea276-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d7e-71b9-11ee-804a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据卢卡斯货币冲击假说，给定货币冲击力度的实际效果越显著，基本的货币环境越稳定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea2a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d7f-71b9-11ee-bf71-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在新凯恩斯模型中，由于名义价格黏性的存在，在短期内，货币冲击可以通过影响劳动供给来影响实际产出。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea2d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d80-71b9-11ee-bdf2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。托宾托 q理论认为企业家应该根据企业资本市场价值和企业资本的重置成本比率做出投资决策。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea2f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d81-71b9-11ee-8d36-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。物价水平在新凯恩斯模型中是逆周期的，而在价格错觉模型中是顺周期的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea32a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd1d82-71b9-11ee-b0be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果利率水平低于通货膨胀率，那么理性人将不会选择储蓄。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea352-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd4495-71b9-11ee-a44b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对垄断企业征收企业所得税通常会减少垄断者的产量水平。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea384-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd4496-71b9-11ee-85e1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果需求曲线是价格的线性函数，那么需求的价格弹性在任何价格水平下都是相等的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea3ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd4497-71b9-11ee-b2d4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。边际成本曲线以下的面积度量的是总成本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea3d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd4498-71b9-11ee-a705-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果一家厂商的技术呈现规模报酬递增，则该企业的平均成本一定是关于产量的递减函数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea406-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd4499-71b9-11ee-9e36-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在两个消费者、两种商品的埃奇沃思方框图中，契约曲线一定是从一个消费者的原点到另一个消费者的原点的连线。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea42e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd449a-71b9-11ee-8fc9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在产量领导者模型中，领导者至少能获得古诺模型中的利润水平。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea456-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd449b-71b9-11ee-9ab7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。消除外部效应只能通过税收和补贴才能解决。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea488-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd449c-71b9-11ee-b61b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。寿险公司必须考虑买寿险的人们比没有买的更容易生病的可能性，这是一个道德风险的例子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea4b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd449d-71b9-11ee-9405-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。张三每天吃4斤菠菜，这时价格是1元/斤。当价格上升到1.25元/斤，他的邻居觉得他可怜就每天给他一元作为补偿。张三日子过的还像以前一样好。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea4d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd449e-71b9-11ee-89c2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。CPI就是隐含的GDP平减指数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea500-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd449f-71b9-11ee-aecc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。链式加权计算实际GDP是为了试图保留相对价格的变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea532-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a0-71b9-11ee-9e14-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。索洛增长模型能够让我们理解日本经济为什么能够在战后迅速增长，赶上美国。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea55a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a1-71b9-11ee-8a9f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果商品的价格在短期内存在黏性，那么当政府为了刺激经济而增加货币供应量的时候，失业反而会增加。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea582-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a2-71b9-11ee-8f4f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。现行的累进收入所得税体系，可以激励工人更加努力地工作。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea5b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a3-71b9-11ee-9a10-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。国家国 A和国家B都可以生产商品1和商品2，那么国家A不可能同时在两种商品的生产上具有比较优势。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea5e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a4-71b9-11ee-86ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果投资对利率变得更敏感，那么IS曲线不会发生变动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea60e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a5-71b9-11ee-8f9a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。AK模型中正的经济增长率并不要求技术有持续的增长。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea640-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a6-71b9-11ee-a05c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。相机抉择的货币政策会带来一个较高的通货膨胀率和较高的经济增长率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea668-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a7-71b9-11ee-aea9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。由于商品的两因素决定劳动的二重性，所以使用价值和价值的矛盾是商品经济的基本矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea69a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a8-71b9-11ee-b6dd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。不论是过度竞争还是垄断都无法实现资源的优化配置，要使竞争机制正常地发挥作用，就要实现有效竞争。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea6c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44a9-71b9-11ee-81ae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。社会主义市场经济条件下实行按劳分配是有严格条件和实施范围的，个体经济劳动者的所得虽然是劳动收入，但也不能算是按劳分配。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea6ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44aa-71b9-11ee-8c3d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。布雷顿森林体系也叫布雷顿森林协定，它确立了以美元为中心的国际储备多元化和浮动汇率制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea71c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44ab-71b9-11ee-844f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本无论是依据其价值周转方式划分为固定资本和流动资本，还是依据其在价值增值中的作用划分为不变资本和可变资本，都是针对生产资本所做的划分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea744-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44ac-71b9-11ee-951d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果政府对某种商品的消费者给予现金补贴，会使该商品的供给曲线向右上方移动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea76c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44ad-71b9-11ee-88ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。规模报酬递减意味着生产规模扩大时总产量是减少的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea79e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44ae-71b9-11ee-9f05-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。负外部性会导致市场低效率，正外部性则会提高市场效率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea7c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44af-71b9-11ee-8590-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。滞胀出现时，菲利普斯曲线开始向右上方倾斜，通胀和失业之间存在正向的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea7f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b0-71b9-11ee-867f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据庇古的实际余额效应，总需求将随着价格水平的下降而增加，这是因为利率下降导致投资需求增加。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea820-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b1-71b9-11ee-ac20-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当经济衰退时，政府可以采用发行国债的赤字财政政策。国债由中央银行购买比由居民购买对扩大总需求的作用更大。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea852-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b2-71b9-11ee-9938-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在长期均衡点，完全竞争市场中每个厂商的利润为零。因而，当价格下降时，所有厂商就无法继续经营。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea87a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b3-71b9-11ee-992b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当对某种商品征税时，厂商可以将税赋转移给消费者，因此消费者会承担更大的税额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea8ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b4-71b9-11ee-8658-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行贴现率的变动是货币当局给银行界和公众的重要信号，提高贴现率会抑制准备金的增加，表明货币当局要增加货币和信贷供给。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea8d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b5-71b9-11ee-a9c0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在衰退行业和在经济萧条地区的失业属于周期性失业，政府应通过加大经济刺激政策的力度来减少失业。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea906-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b6-71b9-11ee-b9d5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在长期，总产出最终会恢复到其自然水平上，这一产出水平取决于资本存量和技术的状态，与自然失业率无关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea92e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b7-71b9-11ee-beef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。小李的全部收入都用于购买商品X和Y。当。 X和Y价格都上升了5%时，小李消费的X和原来一样多，消费的Y却比原来少，因此可以断定对小李而言X是劣等品。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea956-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b8-71b9-11ee-892d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国的“道路交通安全法”规定:机动车与行人之间交通事故造成的损害由机动车与行人分担，改为机动车全部承担。这导致机动车与行人相遇时，机动车驾驶员的谨慎程度提高，最终导致机动车与行人之间交通事故的可能性降低。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea988-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44b9-71b9-11ee-bf85-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在房地产市场上，房价在不断上升，而销售量不降反升，这说明需求定律不成立。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea9ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44ba-71b9-11ee-a2d2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某垄断企业的勒纳指数为0.2，产品的边际成本为16元，则可推断该产品的价格为20元。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aea9e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44bb-71b9-11ee-b472-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据斯塔克博格模型的分析，价格领导者往往具有先发优势。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aeaa0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44bc-71b9-11ee-849e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。内生经济增长理论解释了各国人均收入趋同的现象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aeaa3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44bd-71b9-11ee-9012-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据生命周期和持久收入理论，临时性的减税对消费的刺激作用不大。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aeaa64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44be-71b9-11ee-91a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实际工资降低是可预期的通货膨胀可能带来的后果。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aeaa8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44bf-71b9-11ee-9c75-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。失业救助金的提高会导致自然失业率上升。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34aeaabe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "acbd44c0-71b9-11ee-8852-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。使IS或LM曲线发生移动的任何因素都将改变总需求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	}
+]
