@@ -1,0 +1,1807 @@
+[
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c744a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc7ecde-716f-11ee-a69f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。由于会计的特点是综合反映,因而只利用货币计量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7562-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc83545-716f-11ee-8c14-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产是企业拥有或控制的具有实物形态的经济资源,该资源预期会给企业带来经济利益"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c75c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869a3-716f-11ee-84f9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从数量上看,资产与权益始终保持平衡关系,任何经济业务的发生均不会改变资产和\n权益的金额."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7616-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869a4-716f-11ee-a6ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。会计平衡式就是指”有借必有贷,借贷必相等”"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c765c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869a5-716f-11ee-858d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在借贷记帐法下,借表示增加,贷表示减少"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c76a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869a6-716f-11ee-a4e4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。复合会计分录,就是指多借多贷的会计分录."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c76e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869a7-716f-11ee-b527-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要试算平衡就可以保证记帐工作准确无误."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c772e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869a8-716f-11ee-b631-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。预提费用帐户若出现借方余额,说明企业实际支付数大于预提费用数."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7774-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869a9-716f-11ee-bc26-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。被调整帐户的余额为借方,调整帐户的余额也必然在借方."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c77ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869aa-716f-11ee-8481-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所有者权益帐户期末余额的计算公式与负债帐户相同"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7800-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869ab-716f-11ee-ab77-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业在一定期间发生亏损，则企业在这一会计期间的所有者权益一定减少。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7846-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869ac-716f-11ee-926b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。接受投资者投入实物能引起资产和所有者权益同时发生增减变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7896-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869ad-716f-11ee-8767-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。科目汇总表帐务处理程序能科学的反映帐户的对应关系，且便于帐目核对。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c78e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869ae-716f-11ee-a333-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。总分类帐一般采用订本式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7936-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869af-716f-11ee-8581-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。记帐凭证的内容中不应包括会计分录。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c79ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b0-716f-11ee-80f3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。会计主要是利用货币量度，综合反映各单位的经济情况。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c79fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b1-716f-11ee-9fa7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。利润总额=营业利润+投资收益+营业外收入-营业外支出"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7a4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b2-716f-11ee-abea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。预收帐款属于资产类，预付帐款属于负债类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7a94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b3-716f-11ee-80c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。记帐凭证和会计帐簿如发生笔误时，均可采用划线更正法予以更正。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7ae4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b4-716f-11ee-a3bc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般说来，会计主体也是法律主体，但法律主体不一定是会计主体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7b34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b5-716f-11ee-97c1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业持有的一切待结算票据都应通过“应收票据”科目核算。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7b84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b6-716f-11ee-a734-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无论是相同会计年度内开始并完成的劳务，还是分属不同会计年度开始和完成的\n劳务，均应在劳务全部完成时确认收入实现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7bde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b7-716f-11ee-97fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。购入材料在运输途中发生短缺毁损，若属于定额内合理损耗的，应视同提高入库材料的单位成本，不另作账务处理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7c2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b8-716f-11ee-9ce4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在负债金额既定的情况下，企业本期净资产的增加额就是企业当期实现的利润数\n额；净减少额则是企业本期亏损额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7c88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869b9-716f-11ee-b113-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对于银行已经入账而企业尚未入账的未达账项，企业应当根据“银行对账单”编制自制凭证予以入账。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7cd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869ba-716f-11ee-8dae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据收入要素的确认标准，凡是与企业日常活动无关的收入，均不属于收入要素的内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7d28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869bb-716f-11ee-a92b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业以现金支付的印花税应当计入“主营业务税金及附加”项目进行核算。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7d78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869bc-716f-11ee-bdc8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。固定资产出售、报废、毁损、盘盈和盘亏等业务，均应通过“固定资产清理”科目\n核算。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7dd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869bd-716f-11ee-b093-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。年度终了结账时，对有余额的账户，必须编制转账凭证，并据以将其余额结转下年。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7efe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869be-716f-11ee-9b21-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的预付账款，如因供货单位破产而无望再收到所购货物的，应将该预付账款转入营业外支出。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7f62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869bf-716f-11ee-86c6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业持有短期投资期间收到现金股利（或利息）时，作为投资收益。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c7fb2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c0-716f-11ee-9b41-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业在销售商品业务中，有时虽然将商品所有权上的主要风险和报酬转移给买方，但仍不一定能够确认收入。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8002-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c1-716f-11ee-8948-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业上月份销售收入在本月份发生销售折让时，应冲减上月份的收入。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8052-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c2-716f-11ee-b9e8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果2006年4月5日将一台不需用的设备清理完毕，则根据《会计档案管理办法》的规定，与该设备有关的固定资产卡片应保管至2011年12月31日。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c80b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c3-716f-11ee-a7f8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果当年亏损，则年度终了结账时，应按亏损金额借记“利润分配——未分配利润”，\n贷记“本年利润”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8106-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c4-716f-11ee-897a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。为使银行存款日记账与银行对账单核对相符，企业应根据银行存款余额调节表来调整银行存款的账面余额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8160-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c5-716f-11ee-9acd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。销货百分比法要求企业根据销售金额的一定百分比来估计坏账损失。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c81b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c6-716f-11ee-9553-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。月份终了，一般纳税企业应按本月应交未交增值税的金额借记“应交税金——应交增值税（转出应交未交增值税）”，贷记“应交税金——未交增值税”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c821e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c7-716f-11ee-970a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在借贷记账法下，账户的左方为借方，登记本期增加发生额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8264-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c8-716f-11ee-b87d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业全部应交税金一律通过“应交税金”科目核算。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c82b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869c9-716f-11ee-889e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。为了满足管理的需要，企业的账户设置越细越好。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8304-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869ca-716f-11ee-90ff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果当年亏损，则年度终了结账时，应按盈利金额借记“利润分配——未分配利润”，\n贷记“本年利润”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c834a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869cb-716f-11ee-b15f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业设计产品发生的设计费通常应计入当期损益，但是为特定客户设计产品所发生的、可直接确定的设计费用应计入存货的成本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c839a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869cc-716f-11ee-af10-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业对其他单位的投资占该单位有表决权资本总额的20%时，应采用权益法核算。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c83e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869cd-716f-11ee-a849-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在试算平衡表上，虽然实现了期初余额、本期发生额和期末余额三栏的借贷平衡关\n系，但仍然不能保证账户记录是完全正确的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8430-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869ce-716f-11ee-8b49-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般纳税企业改变外购货物的用途，将其用于在建工程时，应当将该货物的账面成\n本转入在建工程，同时还应将该货物应负担的进项税额转入在建工程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8476-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869cf-716f-11ee-a2fd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所有者权益在数量上等于企业全部资产减去全部权益后的余额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c84da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869d0-716f-11ee-b9d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产负债表中的“应收账款”项目应根据“应收账款”和“预付账款”科目所属各明细科目的期末借方余额合计数填列。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8520-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869d1-716f-11ee-9699-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的资金在任一时点上均表现为资金占用和资金来源两个方面，这两个方面既相互联系，又相互制约。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c857a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869d2-716f-11ee-b5d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。存货、固定资产等实物资产应当定期盘点，盘点结果如果与账面记录不符，应于期末前查明原因，并根据企业的管理权限，经股东大会或董事会，经理（厂长）会议或类似机构批准后，在期末结账前处理完毕。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c85c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869d3-716f-11ee-aa61-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要实现了期初余额、本期发生额和期末余额三栏的平衡关系，就说明账户记录正\n确。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8610-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869d4-716f-11ee-9873-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。除购置和建造固定资产以外，所有筹建期间发生的费用，应当在长期待摊费用中归\n\n集，待企业开始生产经营起分期计入损益。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8656-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869d5-716f-11ee-ab49-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业拥有的商标权均应作为企业的无形资产反映。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c86a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869d6-716f-11ee-8189-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某企业年初有未弥补亏损100万元，当年实现净利润80万元。按国家有关规定，该企业当年不得提取法定盈余公积和法定公益金。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c86ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869d7-716f-11ee-9a7c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业无法支付的应付账款应计入营业外收入，无法收回的应收账款则计入营业外支出。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8732-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc869d8-716f-11ee-aa55-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。预收账款所属明细借方余额是应收账款性质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c87a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89115-716f-11ee-9579-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无形资产在取得的当月开始摊销，处置无形资产的当月不再摊销。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c87e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89116-716f-11ee-bf19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。会计主体与法律主体并非是对等的。一个会计主体，一定是一个法律主体；但一个法律主体，不一定是会计主体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c882c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89117-716f-11ee-8968-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“银行存款”账户反映企业在银行的全部存款。因此，企业的银行本票存款也属于银行存款核算的内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8872-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89118-716f-11ee-b0eb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。为固定资产发生的大修理费用应在发生时一次计入当期损益。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c88b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89119-716f-11ee-affd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无形资产的后续支出应根据具体情况分别进行费用化和资本化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c88fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8911a-716f-11ee-9a52-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。购入材料在运输途中发生的合理损耗应作为管理费用单独进行账务处理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8944-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8911b-716f-11ee-8db1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业发生销售折让，一般应在实际发生时计入当期财务费用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c898a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8911c-716f-11ee-bff6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所有经济业务的发生，都会引起会计恒等式两边发生变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c89da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8911d-716f-11ee-a8f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“银行存款”账户反映企业在银行的全部存款。因此，企业的银行本票存款也属于银行存款核算的内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8a34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8911e-716f-11ee-976b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业在只生产一种产品的情况下，本期发生的构成产品成本的费用均为直接费用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8a84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8911f-716f-11ee-9414-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在会计凭证传递期间，单位财务部门的会计人员及本单位档案部门的管理人员都有责任保管好会计凭证，严防在传递中散失。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8ad4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89120-716f-11ee-9439-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。发生营业外支出，在相对应的会计期间，应当减少企业当期的主营业务利润。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8b1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89121-716f-11ee-99a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。使用信用卡结算的单位，可以将销售收入存入卡上。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8b6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89122-716f-11ee-ba4b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在分期收款销售方式下，企业应在收回全部货款时，确认收入。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8bba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89123-716f-11ee-8f46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。采用双倍余额递减法和年数总和法第一年提折旧的基数是相同的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8bf6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89124-716f-11ee-b388-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。会计账簿应当按照连续编号的页码顺序登记。会计账簿发生错误或者隔页、缺号、\n跳行的，不得对会计账簿进行更正，只能重新更换会计账簿。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8c3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89125-716f-11ee-b18f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。银行承兑汇票简称为银行汇票，通过“应收票据”科目核算。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8c8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89126-716f-11ee-83b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。为使银行存款日记账与银行对账单核对相符，企业应根据银行存款余额调节表来调整银行存款的账面余额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8cd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89127-716f-11ee-b940-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。为简化工作，对业务简单、总分类账户不多的小型经济单位，可以把序时账簿与分类账簿结合起来，设置联合账簿。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8d22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89128-716f-11ee-a0b9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。发出包装物分担的节约或超支差异，均从“材料成本差异”的贷方转出。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8d68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89129-716f-11ee-9ed1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业在销售商品时，如果商品的成本不能可靠地计量，则不能确认相关的收入。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8da4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8912a-716f-11ee-a0a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业开展会计电算化工作，既可以选购商品化的会计软件，也可自行开发或委托开发会计软件，但所选择的会计软件必须达到财政部印发的《会计核算软件基本功能规范》的要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8df4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8912b-716f-11ee-ab15-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据《银行卡业务管理办法》的有关规定，发行银行卡的主体为商业银行（不包括\n外资银行、合资银行），并须经过中国人民银行的批准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8e44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8912c-716f-11ee-9735-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。出票人在票据上的签章不符合法律规定的，其签章无效，但不影响其他符合规定签章的效力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8e94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8912d-716f-11ee-8de0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业持有的应收票据不得计提坏账准备。但是，如有确凿证据表明企业所持有的未\n到期的应收票据不能够收回或收回的可能性不大时，应将其账面余额转入应收账款，并计提相应的坏账准备。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8ee4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8912e-716f-11ee-9679-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无形资产应自取得当月起在预计使用年限内分期摊销。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8f34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8912f-716f-11ee-8baf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。收入一定表现为企业资产的增加。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8f7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89130-716f-11ee-9422-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。会计对象就是能够用货币表现的经济活动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c8fca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89131-716f-11ee-928b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的预付账款，如确有证据表明不再符合预付的性质，应将该预付账款转入其他应收款，并计提坏账准备。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c9010-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89132-716f-11ee-8c6e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“待处理财产损溢——待处理固定资产损溢”中核算的净损失应在资产负债表中作为固定资产列示。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c9056-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89133-716f-11ee-a362-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产是反映企业一定期间经营成果的会计要素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c90a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89134-716f-11ee-bba6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据《会计基础工作规范》的规定，外来原始凭证金额错误，可在原始凭证上更正但需签名或盖章。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c90f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89135-716f-11ee-9c97-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。随同商品出售而不单独计价的包装物，在领用时应将其成本计入“营业费用”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c9146-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89136-716f-11ee-b4be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业出售不动产计算应交的营业税应直接计入营业外支出科目。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c9196-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89137-716f-11ee-b604-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业提供劳务时，如资产负债表日不能对交易的结果作出可靠估计，应按已经发生的\n劳务成本确认收入，并按相同金额结转成本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c91e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89138-716f-11ee-a141-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业在采用视同买断的代销方式销售商品的情况下，应在收到代销清单时确认收入。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c9236-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc89139-716f-11ee-b773-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。利润分配表中，净利润加上年初未分配利润即为可供分配的利润。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c9290-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8913a-716f-11ee-a2f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。临时存款账户的最长有效期限不得超过3年。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351c92f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "0cc8913b-716f-11ee-baed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。委托收款是收款人委托银行向付款人收取款项的一种结算方式，无论是同城还是异地都可以使用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	}
+]

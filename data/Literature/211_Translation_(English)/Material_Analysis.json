@@ -1,0 +1,97 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cd932a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "505b057a-6cdf-11ee-9f92-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阅读以下材料，并回答相关问题。\nGeorge had stolen some money, but the police had caught him and he had been put in prison. Now his trial was about to begin, and he felt sure that he would be found guilty and sent to prison for a long time.Then he discovered that an old friend of his was one of the members of the jury at his trail. Of course, he didn’t tail anybody, but he managed to see his friend secretly one day. He said to him, “Jim, I know that the jury will find me guilty of having stolen the money. I cannot hope to be found not guilty of taking it - that would be too much to expect. But I should be grateful to you for the rest of my life if you could persuade the other members of the jury to add a strong recommendation for mercy to their statement that they consider me guilty.” “Well, George,” answered Jim, “I shall certainly try to do what I can for you as an old friend, but of course I cannot promise anything. The other eleven people on the jury look terribly strong-minded to me.” George said that he would quite understand if Jim was not able to do anything for him, and thanked him warmly for agreeing to help.The trial went on, and at last the time came for the jury to decide whether George was guilty or not. It took them five hours, but in the end they found George guilty, with a strong recommendation for mercy. Of course, George was very pleased, but he didn’t have a chance to see Jim for some time after the trial. At last, however, Jim visited him in prison, and George thanked him warmly and asked him how he had managed to persuade the other members of the jury to recommend mercy. “Well, George,” Jim answered, “as I thought, those eleven men were very difficult to persuade, but I managed it in the end by tiring them out. Do you know, those fools had all wanted to find you not guilty!”\nHow do you define “jury”?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A body of citizens sworn to give a true verdict according to the evidence presented in a court of law."
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cd9410-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "505b057b-6cdf-11ee-af57-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阅读以下材料，并回答相关问题。\nGeorge had stolen some money, but the police had caught him and he had been put in prison. Now his trial was about to begin, and he felt sure that he would be found guilty and sent to prison for a long time.Then he discovered that an old friend of his was one of the members of the jury at his trail. Of course, he didn’t tail anybody, but he managed to see his friend secretly one day. He said to him, “Jim, I know that the jury will find me guilty of having stolen the money. I cannot hope to be found not guilty of taking it - that would be too much to expect. But I should be grateful to you for the rest of my life if you could persuade the other members of the jury to add a strong recommendation for mercy to their statement that they consider me guilty.” “Well, George,” answered Jim, “I shall certainly try to do what I can for you as an old friend, but of course I cannot promise anything. The other eleven people on the jury look terribly strong-minded to me.” George said that he would quite understand if Jim was not able to do anything for him, and thanked him warmly for agreeing to help.The trial went on, and at last the time came for the jury to decide whether George was guilty or not. It took them five hours, but in the end they found George guilty, with a strong recommendation for mercy. Of course, George was very pleased, but he didn’t have a chance to see Jim for some time after the trial. At last, however, Jim visited him in prison, and George thanked him warmly and asked him how he had managed to persuade the other members of the jury to recommend mercy. “Well, George,” Jim answered, “as I thought, those eleven men were very difficult to persuade, but I managed it in the end by tiring them out. Do you know, those fools had all wanted to find you not guilty!”\nWhat did George expect Jim to do?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "He asked Jim to persuade the other members of the jury to add a strong recommendation for mercy to their statement that they consider him guilty."
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cd9456-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "505b057c-6cdf-11ee-b185-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阅读以下材料，并回答相关问题。\nGeorge had stolen some money, but the police had caught him and he had been put in prison. Now his trial was about to begin, and he felt sure that he would be found guilty and sent to prison for a long time.Then he discovered that an old friend of his was one of the members of the jury at his trail. Of course, he didn’t tail anybody, but he managed to see his friend secretly one day. He said to him, “Jim, I know that the jury will find me guilty of having stolen the money. I cannot hope to be found not guilty of taking it - that would be too much to expect. But I should be grateful to you for the rest of my life if you could persuade the other members of the jury to add a strong recommendation for mercy to their statement that they consider me guilty.” “Well, George,” answered Jim, “I shall certainly try to do what I can for you as an old friend, but of course I cannot promise anything. The other eleven people on the jury look terribly strong-minded to me.” George said that he would quite understand if Jim was not able to do anything for him, and thanked him warmly for agreeing to help.The trial went on, and at last the time came for the jury to decide whether George was guilty or not. It took them five hours, but in the end they found George guilty, with a strong recommendation for mercy. Of course, George was very pleased, but he didn’t have a chance to see Jim for some time after the trial. At last, however, Jim visited him in prison, and George thanked him warmly and asked him how he had managed to persuade the other members of the jury to recommend mercy. “Well, George,” Jim answered, “as I thought, those eleven men were very difficult to persuade, but I managed it in the end by tiring them out. Do you know, those fools had all wanted to find you not guilty!”\nWhat did Jim do to help George?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "He managed to persuade the jury to recommend mercy by tiring them out."
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cd9488-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "505b057d-6cdf-11ee-bd64-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阅读以下材料，并回答相关问题。\nGeorge had stolen some money, but the police had caught him and he had been put in prison. Now his trial was about to begin, and he felt sure that he would be found guilty and sent to prison for a long time.Then he discovered that an old friend of his was one of the members of the jury at his trail. Of course, he didn’t tail anybody, but he managed to see his friend secretly one day. He said to him, “Jim, I know that the jury will find me guilty of having stolen the money. I cannot hope to be found not guilty of taking it - that would be too much to expect. But I should be grateful to you for the rest of my life if you could persuade the other members of the jury to add a strong recommendation for mercy to their statement that they consider me guilty.” “Well, George,” answered Jim, “I shall certainly try to do what I can for you as an old friend, but of course I cannot promise anything. The other eleven people on the jury look terribly strong-minded to me.” George said that he would quite understand if Jim was not able to do anything for him, and thanked him warmly for agreeing to help.The trial went on, and at last the time came for the jury to decide whether George was guilty or not. It took them five hours, but in the end they found George guilty, with a strong recommendation for mercy. Of course, George was very pleased, but he didn’t have a chance to see Jim for some time after the trial. At last, however, Jim visited him in prison, and George thanked him warmly and asked him how he had managed to persuade the other members of the jury to recommend mercy. “Well, George,” Jim answered, “as I thought, those eleven men were very difficult to persuade, but I managed it in the end by tiring them out. Do you know, those fools had all wanted to find you not guilty!”\nHow long did the jury spent on making a decision?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "It took them five hours."
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34cd94b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "505b057e-6cdf-11ee-872c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阅读以下材料，并回答相关问题。\nhe had been put in prison. Now his trial was about to begin, and he felt sure that he would be found guilty and sent to prison for a long time.Then he discovered that an old friend of his was one of the members of the jury at his trail. Of course, he didn’t tail anybody, but he managed to see his friend secretly one day. He said to him, “Jim, I know that the jury will find me guilty of having stolen the money. I cannot hope to be found not guilty of taking it - that would be too much to expect. But I should be grateful to you for the rest of my life if you could persuade the other members of the jury to add a strong recommendation for mercy to their statement that they consider me guilty.” “Well, George,” answered Jim, “I shall certainly try to do what I can for you as an old friend, but of course I cannot promise anything. The other eleven people on the jury look terribly strong-minded to me.” George said that he would quite understand if Jim was not able to do anything for him, and thanked him warmly for agreeing to help.The trial went on, and at last the time came for the jury to decide whether George was guilty or not. It took them five hours, but in the end they found George guilty, with a strong recommendation for mercy. Of course, George was very pleased, but he didn’t have a chance to see Jim for some time after the trial. At last, however, Jim visited him in prison, and George thanked him warmly and asked him how he had managed to persuade the other members of the jury to recommend mercy. “Well, George,” Jim answered, “as I thought, those eleven men were very difficult to persuade, but I managed it in the end by tiring them out. Do you know, those fools had all wanted to find you not guilty!”\nWho do you think is the biggest fool?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Jim is the biggest fool, because he should have agreed with the other members of the jury to find George not guilty."
+	}
+]

@@ -1,0 +1,3023 @@
+[
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d37-810a-11ee-8964-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德修养"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主要是指人民警察个人在职业活动实践中依照人民警察道德的原则和规范，自觉地进行自我教育、自我锻炼、自我改造，以形成高尚的警德和达到更高的道德境界的活动过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d38-810a-11ee-813e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：职业道德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所谓职业道德是对从事正当职业的人们，在其特定的工作或劳动中的特殊道德要求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d39-810a-11ee-a842-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人民警察纪律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民警察机关为正确履行党和国家赋予的责任，保证各项任务的完成，根据国家法律和职业特点制定的要求其所属成员必须遵守的行为规范总和。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d3a-810a-11ee-ac4b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人生价值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "表示个人行为与社会需要之间的一种关系，是指个人所从事的活动对社会所具有的意义，也就是人在一生中多大程度上满足社会的需求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d3b-810a-11ee-8901-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察非道德行为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人民警察表现出来的一种不同他人、社会和国家发生利害关系的行为，也就是不具有善恶意义的，不能或不必对其进行善恶评价的行为，亦称警察非伦理行为。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d3c-810a-11ee-9cb9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：职业伦理学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是研究各种职业道德的科学，它根据职业活动的特点，研究职业道德的原则、规范、范畴等内容，同时把一定社会或阶级普遍的道德原则和道德要求具体化、职业化，以适应社会生活中各种职业活动的特殊需要。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d3d-810a-11ee-9fcf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人民警察道德理想"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "就是人民警察依据共产主义理想，从人民公安职业的特点和职业要求出发，所向往、追求的理想人格。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d3e-810a-11ee-b0f9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德基本原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是能够集中反映一定社会或阶级的根本要求，从总体上直接回答个人和社会整体利益关系，作为整个道德规范体系的精髓和总纲在道德规范体系中居于主导地位，具有广泛的指导性和约束力的，不同道德类型相区别的最根本和最显著的重要标志"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d3f-810a-11ee-9f3f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德品质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是人民警察道德原则和规范在人民警察个人思想和行为中相对稳定的体现。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d40-810a-11ee-aa57-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：社会公德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称公共生活准则，是指全体公民为维护社会公共生活秩序所必须遵守的最简单、最起码的公共生活准则，它以风俗、习惯等形式表现出来。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d41-810a-11ee-9bce-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的导向性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察道德对于规范警察活动起着引导的作用，能够使警察在社会生活中的个特殊的价值领域内有效地识别行为的方向。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d42-810a-11ee-ae6c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指社会根据当时的经济结构和文化发展水平，经过法律和道德承认并保障其成员获得正常生存和发展所必需的权利。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d43-810a-11ee-9fbc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：职业道德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是对从事正当职业的人们，在其特定的工作或劳动中的特殊道德要求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d44-810a-11ee-ac11-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德人格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人与动物相区别的内在规定性，是个人在一定社会中做人的尊严、做人的资格以及价值和品质的总和，也是个人在社会中的地位和作用的统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d45-810a-11ee-b690-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力（狭义说）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即警察职权，是指国家法律、法规赋予警察在职资范围内可资运用的一定手段和采取的必要措施。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d46-810a-11ee-aa22-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德修养"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察个人在职业活动实践中依照警察道德的原则和规范，自觉地进行自我教育、自我锻炼、自我改造，以形成高尚的警德和达到更高的道德境界的活动过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d47-810a-11ee-a582-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德本质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察道德区别于其他社会现象的本质属性，是警察道德基本要素的内在联系和警察道德内部所包含的一系列必然性、规律性的总和。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d48-810a-11ee-a8a7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德范畴"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指那些能概括和反映警察道德关系的主要方面，体现警察道德的根本要求，并须成为警察的信念而对其行为发生影响的基本概念。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d49-810a-11ee-a465-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德人格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察做人的尊严、价值和品质的总称。它是警察的道德性规定，是警察个人牌气习性与参与道德实践活动所形成的道德品质和情操的统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b7d4a-810a-11ee-84a7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：秉公执法"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民警察在警务活动中，出以公心，以国家和人民利益为重，忠于法律，做到有法必依、执法必严、违法必究。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b984d-810a-11ee-bca9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的示范性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察遵守警察道德在社会上所起的表率作用，以及对其他行业和群众的影响感染作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b984e-810a-11ee-9f84-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察他律调控机制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察组织和社会各界为了使广大人民警察遵从警察道德原则和规范，更好地履行警察职责，对于警察行为所实施的制约。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b984f-810a-11ee-bc53-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：社会公德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称公共生活准则，是指全体公民为维护社会公共生活秩序，所必须遵守的最简单、最起码的公共生活准则。它以风俗、习惯等形式表现出来。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9850-810a-11ee-ae44-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：集体主义道德原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是社会主义道德调整个人与整体利益的根本指导原则。是社会主义道德衡量个人行为和品质的重要道德标准。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9851-810a-11ee-b48e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察伦理学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是关于警察道德问题的学说，它以警察的全部道德现象为其研究对象，并从中揭示警察道德的产生、本质、作用及其发展规律的一门科学，它是警察道德的理论化和系统化。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9852-810a-11ee-a89a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德规范"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民警察在警务活动中，应遵循的道德行为准则和评判其职业行为是非、善恶的标准。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9853-810a-11ee-a6ea-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德范畴"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指能够概括和反映警察道德关系的主要方面，体现警察道德的根本要求，并须成为警察的信念而对其行为发生影响的基本概念。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9854-810a-11ee-b106-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的导向性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察道德对于规范活动起着引导的作用，能够使警察在社会生活中的一个特殊的价值领域内有效地识别行为的方向"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9855-810a-11ee-94c9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的本质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察道德区别于其他社会现象的本质属性，是警察道德基本要素的内在联系和警察道德内部所包含的一系列必然性、规律性的总和。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9856-810a-11ee-bde6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民警察对警察权力的根本看法和对待警察权力的根本态度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9857-810a-11ee-89dd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德教育"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是依据察道德原则和规范，有目的、有计划、有组织地对人民警察实施系统的道德影响的活动。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9858-810a-11ee-808e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：自我认识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指个体对自身的认知与评价。自我认知是对自己身心状况的认识，而自我评价是在这基础上对自己作出的某种判断。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9859-810a-11ee-95e5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德评价"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民警察直接依据社会主义道德要求和警察道德观范，通过社会舆论：职业传统习馈和个人心理活动等形式，对察在职业活动中表现出来的道德行为，进行善恶判断，表明褒贬态度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b985a-810a-11ee-b3d7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：职业伦理学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称职业道德学，是研究各种职业道德的科学，是既从总体方面，又从部门方面研究职业道德发生、发展规律的科学。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b985b-810a-11ee-8a10-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即警察职权，指国家法律、法规赋予警察在职责范围内可以运用的一定手段和采取的必要措施。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b985c-810a-11ee-b523-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人格权利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主要是指人类个体的精神性权利。人格权利的实质与核心是任何人都有权维护自已作为人的地位和尊严。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b985d-810a-11ee-b4d0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察义务"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "就是答察职业所决定的警察应该承担的使命、职责和任务。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b985e-810a-11ee-be60-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德修养"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察个人在职业活动实践中依照警察道德的原则和规范，自觉地进行的自我教育、自我锻炼、自我改造，以形成高尚的警德和达到更高的道德境界的活动过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b985f-810a-11ee-b555-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德现象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民答察在其道德生活中的一切表现形式由人民答察的职业生活所决定，体现人民警察与他人、国家、政党、集体、人民群众等各种道德关系的所有活动方式，是警察道德关系的外在表现。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9860-810a-11ee-9bec-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：自我控制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是自己对自身行为与思想言论的约束。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9861-810a-11ee-adfc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：家庭"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以婚姻关系、血缘关系或收养关系为基础而形成的一种社会组织形式。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9862-810a-11ee-9b74-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：克己奉公"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民警察在警务活动中，坚持立警为公，执法为民，克制私欲，无私奉献的道德行为。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9863-810a-11ee-a03f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：职业道德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指对从事正当职业的人们，在其特定的工作或劳动中的特殊道德要求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9864-810a-11ee-aff4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：职权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指职责范围内的权力，是人们借以完成职责任务的力量，包括决策权、办事权、处置权等。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9865-810a-11ee-97b1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：自由裁量权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指在特定情况下依照职权以适当和公正的方式作出行为的权办。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9866-810a-11ee-84e0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：社会公德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称公共生活准则是指全体公民为维护社会公共生活秩序，所必须遵守的最简单、最起码的公共生活准则。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9867-810a-11ee-9f5c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德人格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察做人的尊严、价值和品质的总称。它是警察的道德性规定，是警察个人的脾气习性与后天参与道德实践活动所形成的道德品质和情操的统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9868-810a-11ee-85bb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力信息"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即表达警察权力的指令、命令、意思等信息，是警察权力执行者之间进行联系的中介，也是警察权力客体接受和服从警察权力，并使社会了解察权力实施情况不可缺少的要素。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9869-810a-11ee-b5d0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：权利的集体性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主要指权利的民族、阶级和国家性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b986a-810a-11ee-9877-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德行为选择"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察在面临多种道德行为的可能时，在一定的道德意识支配下，根据某种道德标准在不同的价值准则或善恶冲突之间所作的自觉自愿的抉择。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b986b-810a-11ee-8f8f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的他律调控机制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察组织和社会各界为了使广大人民警察遵从警察道德原则和规范，更好地履行警察职责，对于警察行为所实施的制约。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b986c-810a-11ee-bad5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德认识修养"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察在职业生活中，通过学习警察道德的理论、原则和规范，逐步了解警察各项道德要求，坚定职业道德信念，把握职业行为准则的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b986d-810a-11ee-bf2c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察伦理学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是关于警察道德问题的学说，它以警察的全部道德现象为其研究对象，并从中揭示警察道德的产生、本质、作用及其发展规律的一门科学。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b986e-810a-11ee-ba01-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察道德的功能及通过警察道德功能的发挥而对社会产生的影响。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b986f-810a-11ee-abcf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的导向性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察道德对于规范警察活动起着引导的作用，能够使警察在社会生活中的一个特殊的价值领域内有效地识别行为的方向。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9870-810a-11ee-85c7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德内化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察个体在警务活动中，通过对警察道德原则和规范的学习与认同，将其逐步转化为个人内心的道德信念的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9871-810a-11ee-a14f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察个体道德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察个人在警务活动实践中，遵照一定警察组织提出的具有普追的约束力的警察道德准则要求，所开展的道德活动以及所形成的用以自我约束的内化道德准则和道德品质。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9872-810a-11ee-9d3d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察对于警察权力的根本看法和对待警察权力根本态度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9873-810a-11ee-8ff2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人民警察道德基本原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民警察在警务活动中处理各种职业道德关系时应遵循的根本准则，是衡量人民警察道德品质的最高标准。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9874-810a-11ee-94c7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德教育"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是依据警察道德原则和规范，有目的、有计划、有组织地对人民警察实施系统的道德影响的活动。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9875-810a-11ee-8d96-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德人格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人与动物相区别的内在规定性，是个人在一定社会中做人的严、做人的资格以及价值和品质的总和，也是个人在社会中的地位和作用的统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9876-810a-11ee-bb78-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：严守纪律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民警察在警务活动中，严格遵守各项规定，坚决执行命令的道德行为。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9877-810a-11ee-a2ed-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指社会根据当时的经济结构的文化发展水平，经过法律和道德承认并保障其成员获得正常生存和发展所必需的权利。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9878-810a-11ee-9f65-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德评价"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指人民警察直接依据社会主义道德要求和警察道德规范，通过社会舆论、职业传统习惯和个人心理活动等形式，对警察在职业活动中表现出来的道德行为，进行善恶判断，表明褒贬态度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9879-810a-11ee-95b8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：伦理学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是一门极其古老的学科办称道德哲学，它是从总体上和联系上考察各类道德现象，是一门专门研究道德的起源、本质、发展变化、规律及其社会作用的科学。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b987a-810a-11ee-bcfc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：以德治警"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是对依法治警的必要补充，是指在公安队伍建设中大力加强警察道德建设，通过领导垂范、教育培训、舆论引导、自我修养等方法，充分发挥警察道德在公安队伍建设中的积极作用，努力提高公安队伍职业道德素质的治警方略。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b987b-810a-11ee-be73-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：执法为民"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指按照党的宗旨的本质要求，把实现好、维护好、发展好最广大人民群众的根本利益，作为为民的人民警察道德基本原则。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b987c-810a-11ee-82e9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：良心"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是个人在履行对他人和社会的道德义务的过程中所形成的一种深刻的责任感和自我评价能劳，是个人意识中各种道德心理因素的有机结合。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b987d-810a-11ee-a075-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德认识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是警察对警察道德现象、道德关系以及处理这种关系的道德原则和道德规范的认识、理解、体验和掌握。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b987e-810a-11ee-a3e5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察在工作中应该遵守的，以社会舆论和内心信念来维持的，调整警察各种职业关系的行为规范及其在警察个人工作中表现出来的道德品质状况。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b987f-810a-11ee-b257-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的政治性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察道德与国家政治思想政治活动和政治制度有着极为密切的关系，这主要是由警察职业性质所决定的。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9880-810a-11ee-8bfc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：正当的个人利益"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "就是人们在发展和维护集体利益的过程中，通过诚实劳动和合法经营的途径和方式，所谋取的个人正常生活和工作的物质和精神需要。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9881-810a-11ee-9e0d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德内化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指个体在社会实践中，通过对社会道德的学习、选择和认同，将其转化为自身内在的行为准则和价值目标，形成相应的个体道德素质的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9882-810a-11ee-b8ed-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：慎独"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指在独自一人而无人监督时，更加注意坚持自己的道德信念，严格要求自己，不做不道德的事的一种自我要求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9883-810a-11ee-a92a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察伦理学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是关于警察道德问题的学说，它以社会现象中的警察道德现象为专门研究对象，是一门揭示警察道德的产生、本质、作用及其发展规律的科学，是警察道德的理论化和系统化。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9884-810a-11ee-9aa4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：德治"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "就是突出道德在治国上的主导作用，通过道德教化和官吏以身作则感化百姓的手段来实行统治。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9885-810a-11ee-9329-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人民警察道德的基本原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人民警察在警务活动中处理各种职业道德关系时应遵循的根本准则，是衡量人民警察道德品质的最高标准。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9886-810a-11ee-be3b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德冲突"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指个体在道德行为选择中面临的多种道德义务相互矛盾和抵触的状态。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9887-810a-11ee-a5e8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德评价"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人民警察直接依据社会主义道德要求和警察道德规范，通过社会舆论、职业传统习惯和个人心理活动等形式，对警察在职业活动中表现出来的道德行为，进行善恶判断，表明褒贬态度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9888-810a-11ee-9279-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察哲学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是关于警察学研究、警察建设和警务工作之基本规律的科学。它是对警察科学和警察实践之规律性的哲学发恶，是对警察现象领域的科学研究和重大历史与现实问题进行的哲学辨析，以及对警察现象未来发展趋势的理性把握。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9889-810a-11ee-b9fa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的导向性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察道德对于规范警察活动所起的引导作用，能够使警察在社会生活中有效地识别行为的方。警察道德作为一种行为规范，不仅告诉警察什么不应该做，而且告诉警察什么是应该做的。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b988a-810a-11ee-b65c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指在一定的社会历史条件下每个人按其本质和尊严享有或应当享有的基本权利。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b988b-810a-11ee-a05d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德内化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察个体在警务活动中，通过对警察道德原则和规范的学习与认同，将其逐步转化为个人内心的道德信念的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b988c-810a-11ee-a682-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察个体道德活动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察个体在道德意识支配下而进行的活动。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b988d-810a-11ee-b556-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德现象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察道德生活的一切表现形式，既包括警察的道德意识、道德规范，也包括警察的道德实践活动。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b988e-810a-11ee-ac39-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力信息"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即表达警察权力的指令、命令、通令、意思等信息，是警察权力执行者之间进行联系的中介也是警察权力客体接受和服从警察权力，并使社会了解餐察权力的实施情况所不可缺少的要素。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b988f-810a-11ee-b33a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德意义上他律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指大的道德动机和道德行为的外在源泉性，表明人的道德自由和道德自我决定及选择的能力是受制于外力的。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9890-810a-11ee-a09b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德行为选择"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指警察在面临多种道德行为的可能时，在一定的道德意识支配下，根据某种道德标准在不同的价值准则或善恶冲突之间所做的自觉自愿的抉择。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9891-810a-11ee-b36b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：行政奖惩"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是国家行政机关对所属机关和公务人员依法进行奖励或惩罚，以强化人事行政的制度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9892-810a-11ee-ad93-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德规范现象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指一定社会条件下评价、指导警察职业行为的一系列道德准则。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9893-810a-11ee-ae67-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力的法定性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察权力是由国家的法律明确规定的。警察权力是种法定的权力。其具体内容、行使求体、范围、程序等，都是由国家的法律、法规所规定的。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9894-810a-11ee-be76-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力价值观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "就是人民警察对权力的目的、权力的意义等问题的根本观点和看法，是警察权力观中的核心观念，对于警察行使权力的行为起着指导方向的重要作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9895-810a-11ee-b805-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：价值导向的一元化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指在意识形态领域内，从全社会来说它只允许有一种思想来作为全社会的指导思想，不允许有其他的思想米和它争夺意识形态领域中的领导权。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9896-810a-11ee-bee3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德人格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察做人的尊严、价值和品质的总称，它是警察的道德性规定，是警察个大的脾气习性和后天参与道德实践活动所形成的道德品质和情操的统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9897-810a-11ee-b396-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德活动现象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察在道德意识，道德原则和规范指导下的个体行为和群体活动，是警察道德意识现象和规范现象相统一的结果。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9898-810a-11ee-9a91-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的示范性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主要是指警察遵守警察道德在社会上所起的表率作用，以及对其他行业和群众的影响感染作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b9899-810a-11ee-98a7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：文化权利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人们参与社会文化劳动，享受文化成果，从事科学研究和文学艺术创作方面的基本权利与自由。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b989a-810a-11ee-a0d9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：义与利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "义，即应当，正当，合乎道义，利，即利益，功效，包括公利和私利。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b989b-810a-11ee-8a2b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德人格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人与动物相区别的内在规定性，是个人在一定的社会中做人的尊严，做人的资格以及价值和品质的总和，也是个人在社会中的地位和作用的统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b989c-810a-11ee-b32a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德意识现象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指在警察道德活动中形成的并影响警察道德行为的各种具有善恶价值的职业道德心理、职业道德思想观点和理论体系。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3b989d-810a-11ee-b4be-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的本质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察道德区别手其他社会现象的本演属注，是警察道德基本要系的内在联系和警察道德内部所包含的一系列必然性、规律性的总和。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf4a-810a-11ee-b5bd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察个体道德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察道德准则要求，所开展的道德活动以及所形成的用以自我约束的内化道德准则和道德品质。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf4b-810a-11ee-b688-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德范畴"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指那些能概括和反映察道德关系的主要方面，体现等察道德的根本要求，并领成为管察的信念而对其行为发生影响的基本读念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf4c-810a-11ee-8e90-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德情感"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察对现实生活中的适德关系和道德行为所产生的爱憎、好恶等的内心体验和情绪态度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf4d-810a-11ee-858d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察伦理学科的规范性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一方面来源于伦理学的规范性，一方面也来源于其研究内容。伦理学是一门揭示人们应有行为准则的规范科学：警察伦理学的研究对象警察道德，一方面以原则和规范为研究内容，另一方面其发挥作用的方式主要是规范和准则。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf4e-810a-11ee-b423-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力是一种特定的权力，对于它的含义存在广义与狭义两种理解。从广义上说，警察权力是指体现国家警察行为的权力，从狭义上说，警察权力即警察职权，是国家法律法规赋予警察在职责范围内可资运用的一定手段和采取的必要措施。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf4f-810a-11ee-8594-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人权的集体性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "权利的集体性指的是权利的民族、阶级和国家性。集体人权是个人人权得到维护和得以实现的根本保障。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf50-810a-11ee-9c0c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德人格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察做人的尊严、价值和品质的总称，它是警察的道德性规定，是警察个人的脾气习性与后天参与道德实践活动所形成的道德品质和情操的统一"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf51-810a-11ee-a3d1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德现象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察道德生活的一切表现形式，既包括警察的道德意识、道德规范，也包括警察的道德实践活动。可以概括地划分为警察道德意识现象、警察道德规范现象、警察道德活动现象。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf52-810a-11ee-bd87-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力的单向性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力的单向性是指警察权力运行方向的不可逆性，警察权力作为一种国家"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf53-810a-11ee-a0ef-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权利代理观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察只有受任于特定的警察职位，受人民的委托，作为人民的代理者履行特定的警务职责，才能够拥有警察权力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf54-810a-11ee-90c7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察个人自我道德评价"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是警察依据自己内心的道德信念，对自已的行为进行评价。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf55-810a-11ee-aa66-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德修养"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主要是指警察个人在职业活动实践中依照警察道德的原则和规范，自觉地进行的自我教育、自我锻炼、自我改造，以形成高尚的警德和达到更高的道德境界的活动过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf56-810a-11ee-bb77-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：政治决定道德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "这是一些西方资产阶级学者的观点，他们认为在政治活动中，统治阶级是不需要讲道德的，这种把道德作为政治的附属物，或完全把道德从政治生活中排除出去的观点，显然不符合人类社会发展和政治生活的实际。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf57-810a-11ee-bff2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人权的理想性特征"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人权总是蕴涵着人类对自身价值实现的更高层次的追求，是与未来社会更高发展阶段相联系的权利意识和利益憧憬。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf58-810a-11ee-aea5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：执法为民"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指按照党的宗旨的本质要求，把实现好、维护好、发展好最广大人民群众的根本利益，作为执法工作的根本出发点和落脚点，在各项公安执法工作中切实做到以人为本、执法公正、一心为民。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf59-810a-11ee-866f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：荣与辱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从主观方面看，荣是指道德主体对自已履行了道德义务的自我评价和自我鉴赏、自我体验；辱则是指道德主体对自己未履行道德义务的自我批评、内疚。从客观方面看，荣是社会、他人对一个人道德行为所做的肯定评价和赞赏：辱则是社会、他人对一个人道德行为所做的否定性评价。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf5a-810a-11ee-a2b2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察伦理学的价值特性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察伦理学是一门价值科学，是指警察伦理学研究的是警务实践中的善恶、好坏等价值标准和价值实现等的现象和问题。警察伦理学并不以揭示警务实践中的事实和科学规律为目的，而是以为警察提供道德价值依据和指导为目的，使警察在善恶选择面前能够自觉地扬善去恶，过有价值的职业生活。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf5b-810a-11ee-8349-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力的约束与强制性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指它通常以强制方法和手段实现其权力内容。警察权力是一种政治权力，而政治权力就表现为权力主体对客体的制约能力，在作用方式上，它使政治权力主体对于对立力量呈现出强制性，而对于本群体内部呈现出约束性，可以说，约束与强制性是所有政治权力所具有的普遍特性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf5c-810a-11ee-95a4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人权的现实性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权从根本上说是一定社会物质文化关系的现实反映，是人们现实生活中的实际需要，这就决定了人权必须具有突出的现实性。人权的现实性意味着，人权是人们在现实生活中，在其实际社会地位的制约下，所享有的具体权利。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf5d-810a-11ee-8f44-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：良心"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是个人在履行对他人和社会的道德义务的过程中所形成的一种深刻的责任感和自我评价能力，是个人意识中各种道德心理因素的有机结合。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf5e-810a-11ee-9eb5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察相互评价"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是警察相互之间采取谈心或讨论的方式，对对方的行为加以议论和判断。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf5f-810a-11ee-8bac-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道徳的自觉性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "直接反映了警察道德的特殊本质，主要是指警察道德是警察自律精神的集中体现。警察道德只有被警察心悦诚服地自觉接受，并转化为他们的情感和信念时，才能发挥调节警察行为的作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf60-810a-11ee-8415-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：制约警察权力的自律机制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察自身能够自觉地依照一定的规范和要求合法合理地行使权力的自我反省、自我约束、自我调节的内在机制和能力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf61-810a-11ee-942b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人权的普遍性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人无论其种族、肤色、性别、语言、宗教、政见、财产、教育等状况如何，都应当享有他作为人应当享有的权利。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf62-810a-11ee-8fe9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：传统习惯"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人们在长期社会生活过程中逐步形成和积累起来的，已被人们普遍承认和熟悉的，一些日常的稳定的道德经验、道德常识、道德情感和道德行为方式等。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf63-810a-11ee-8277-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察伦理学的实践性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察伦理学把实践作为其学科体系的落脚点，把道德选择、道德评价、道德教育和道德修养等具体的道德实践活动看作是警察道德得以实现的重要途径和方式。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf64-810a-11ee-ac32-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德决定政治"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "这是18-19世纪空想社会主义者的观点，他们从抽象的人性、人道、正义和理性等概念出发，认为现实社会制度不符合人性和人道，主张道德是决定和改变政治状况的重要因素，希望用道德说教来改变统治者和剥削阶级的本性，从而消灭阶级斗争。故而恩格斯认为空想社会主义者不理解历史的发展，只是一些道德原则的抽象说教。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf65-810a-11ee-bbd1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人的自然性权利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "实质上就是指个人的自然性需求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf66-810a-11ee-97fa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：法律与道德关系平行论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即认为法律和道德是实现社会控制的两种平衡手段，法律与道德本身是各自独立的，仅在社会作用上相互平衡。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf67-810a-11ee-97f8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德活动现象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察在道德意识、道德原则和规范指导下的个体行为和群体活动，是警察道德意识现象和规范现象相统一的结果。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf68-810a-11ee-a0ec-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：集体主义道德原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是社会主义道德调整个人与整体利益的根本指导原则，是社会主义道德衡量个人行为和品质的重要道德标准。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf69-810a-11ee-bb58-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德人格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人与动物相区别的内在规定性，是个人在一定社会中做人的尊严、做人的资格以及价值和品质的总和，也是个人在社会中的地位和作用的统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf6a-810a-11ee-acbc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：义与利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一般来说，义，即应当、正当、合乎道义；利，即利益、功效，包括公利和私利。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf6b-810a-11ee-a656-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：紧急状态处置权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指公安机关和人民警察为维护国家安企和社会治安秩序，对突发的重人暴力犯罪、重人治安事件和重人治安灾害事故有依法采取非常措施的权力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf6c-810a-11ee-ab7d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人身权利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指公民依法享有的与人身直接相关的权利。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf6d-810a-11ee-b62f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德内化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "就是指个体在社会实践中，通过对社会道德的学习、选择和认同，将其转化为自身内在的行为准则和价值日标，形成相应的个体道德素质的过程。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf6e-810a-11ee-8fd8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：社会舆论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从最一般意义来说，就是指一定社会或社会集团中，相当数量有组织或无组织的人们，从某种传统、经验、信仰或愿望出发，自觉或自发地在或人或小的社会范围内，表达、传播、交流关于某一现象、事件、关系、行为和人物的评价性看法和倾向性态度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf6f-810a-11ee-a788-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德人格"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察做人的尊严、价值和品质的总称，它是警察的道德性规定，是警察个人的气习性与后天参与道德实践活动所形成的道德品质和情操的统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf70-810a-11ee-8c7a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察伦理学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是关于警察道德问题的学说，以社会现象中的警察道德现象为专门研究对象，是一门揭示警察道德的产生、本质、作用及其发展规律的科学，是警察道德的理论化和系统化。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf71-810a-11ee-8bbd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察道德的功能及通过警察道德功能的发挥而对社会产生的影响。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf72-810a-11ee-8a5b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：政治权利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称参政权，是指根据宪法和法律公民参与国家政治生活的权利。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf73-810a-11ee-9cee-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人民警察道德基本原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人民警察在警务活动中处理各种职业道德关系时应遵循的根本准则，是衡量人民警察道德品质的最高标准。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf74-810a-11ee-a90a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生与死"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生与死的含义应当包含自然属性和社会属性。从自然属性来说，生是指其肉体的诞生和生命的延续，死则是其生命延续过程中细胞组织的衰亡和生命过程的结束。从社会属性来说，生是指人认识和改造自然及其实践的全部过程，它体现了生的社会目的和价值及其对社会的影响，死则是指人失去了人生的价值和存在的意义，对社会失去影响。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf75-810a-11ee-9f59-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德客观性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是国家和警察组织对警察提出的行为规范要求，属于他律性的要求，不依警察个人的主观意志为转移，警察必须接受和认同。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf76-810a-11ee-82f2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的教育功能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察道德通过说明、讲解、评论、奖惩等方式，在警察中形成群体舆论，养成一定风气，树立道德榜样，塑造理想人格，培养道德观念和道德品质的功用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf77-810a-11ee-aa53-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：文化权利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人们参与社会文化劳动、享受文化成果、从事科学研究和文学艺术创作方面的基本权利与"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf78-810a-11ee-a1ca-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：执法为民"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "就是指按照党的宗旨的本质要求，把实现好、维护好、发展好最广大人民群众的根本利益，作为执法工作的根本出发点和落脚点，在各项公安执法工作中切实做到以人为本、执法公正、一心为民。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf79-810a-11ee-ba87-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察的苦与乐"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是警察在物质生活和精神生活方面的欲望与追求的是否得到满足的体验和感受。所谓苦，是指警察对物质和精神方面的欲望及追求遇到挫折和不幸所引起的烦恼、愁苦等消极的心理反映。所请乐，是指警察对物质和精神方而的欲望和追求得到满足所引起的幸福、轻松、愉悦等积极的心理反应。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf7a-810a-11ee-8b50-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德的激励功能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "激励功能，是指警察道德能够通过对警察履行义务的德行和贡献进行社会价值判断，及时将社会对警察的赞赏和评价内化为警察的自我认识，使警察的知耻心、自尊心和自爱心不断得到强化，实现自律与他律的和谐统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf7b-810a-11ee-899f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：治安监督检查权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "治安监督检查权是公安机关和人民警察依法对应负治安责任的社会团体、组织及个人实施监察督促和查验核对的权力。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf7c-810a-11ee-83a9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：正当的个人利益"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所谓正当的个人利益，就是人们在发展和维护集体利益的过程中，通过诚实劳动和合法经营的途径和方式，所谋取的个人正常生活和工作的物质和精神需要。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf7d-810a-11ee-9b04-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德内化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所谓警察道德内化，是指警察个体在警务活动中,通过对警察道德原则和规范的学习与认同，将其逐步转化为个人内心的道德信念的过程。警察个体道德说到底就是这种警察道德内化的产物。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf7e-810a-11ee-b445-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德认识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德认识，是指警察对警察道德现象、道德关系以及处理这种关系的道德原则和道德规范的认识、理解、体验和掌握。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf7f-810a-11ee-a657-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指警察在工作中应该遵守的，以社会舆论和内心信念来维持的，调整警察各种职业关系的行为规范及其警察个人在工作中表现出来的道德品质状况。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf80-810a-11ee-8f85-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察权力观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力观是指警察对于警察权力的总的看法，包括对权力的来源、掌握权力的目的、行使权力的方式、为谁掌权、为谁服务等问题的认识和态度。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf81-810a-11ee-9040-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德范畴"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从广义来说，道德范畴是指反映和概括人类各种道德现象及其特性、关系、方面等的本质的基本概念，它既包括揭示道德的社会属性、发展规律和社会作用的所有基本概念，也包括反映和概括道德的意识现象、规范现象和活动现象的所有基本概念，以及反映道德行为和道德品质的所有基本概念。狭义的道德范畴，即指那些概括和反映道德的主要本质，体现一定社会整体的道德要求，并须成为人们的普遍信念而对人们行为发生影响的基本概念。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf82-810a-11ee-9176-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：道德冲突"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所谓道德冲突，是指个体在道德行为选择中面临的多种道德义务相互矛盾和抵触的状态。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3bbf83-810a-11ee-9a43-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：警察道德信念"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德信念，是指人民警察对于某种人生观、道德理想、道德原则和规范等的坚定不移和恒久性的笃信和信仰。"
+	}
+]

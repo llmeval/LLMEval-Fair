@@ -1,0 +1,6234 @@
+[
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ee886-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8de9ccbd-70e3-11ee-96e3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 外国货币就是外汇。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。外汇是一国货币当局持有的可以用来支付的债权。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ee980-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8de9f4b4-70e3-11ee-96c3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 即期外汇交易就是外汇现买现卖的交易。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。即期外汇交易，是指外汇买卖成交后，交易双方于当天或两个交易日内办理交割手续的一种交易行为。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ee9bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8de9f4b5-70e3-11ee-ac04-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 出口公司向银行卖出外汇时应使用卖出价。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。应使用买入价"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ee9ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8de9f4b6-70e3-11ee-86ab-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。直接标价法与间接标价法没有区别。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。直接标价法是以外币作为单位货币的本币标价，而间接标价法则恰恰相反。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eea16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8de9f4b7-70e3-11ee-8e95-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 银行买入外币现钞价低于买入外汇现汇价。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。买入现钞要承担持有现钞的利息损失和运输成本，因此现钞价低于现汇价。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eea3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8de9f4b8-70e3-11ee-97cf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 任何外汇交易对交易双方都是风险与收益对称的交易。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。交易双方赋予了相同的权利和义务。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eea70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c0c-70e3-11ee-a59d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。不能用特别提款权直接兑换黄金。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eea98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c0d-70e3-11ee-ba93-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。欧元对美元升值11%,意味着美元对欧元相对贬值H%o "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。相对变化分母不同，所以升值11%并不意味着相反成立。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eeaca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c0e-70e3-11ee-89c1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 有抛补套利又称无风险套利。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。抛补套利只是消除了汇率变动的风险，其他的风险并未消除。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eeaf2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c0f-70e3-11ee-9063-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 对外投资收入应列入国际收支平衡表的经常项目中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eeb24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c10-70e3-11ee-bf07-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。国际收支平衡表最终是靠错误与遗漏实现平衡的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。因为由于统计误差，借方和贷方通常是不平的，最终要靠错误与遗漏实现平衡"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eeb4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c11-70e3-11ee-8f99-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。现买现卖的外汇交易就是即期外汇交易"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。即期外汇交易，是指外汇买卖成交后，交易双方于当天或两个交易日内办理交割手续的一种交易行为"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eeb7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c12-70e3-11ee-9595-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。出口公司向银行卖出外汇时应使用卖出价"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。应使用买入价"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eeba6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c13-70e3-11ee-ad7a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一国汇率高估往往会使外汇供应增加，国际收支出现顺差"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。汇率高估一方面减少出口，增加进口国际收支恶化；另一方面人们预期汇率下跌，供给本币，因此也是使国际收支恶化"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eebd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c14-70e3-11ee-a19a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。银行卖岀外币现钞与卖出外汇现汇价格相同"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eec00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c15-70e3-11ee-aeda-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。平衡表中储备资产项目前为负号，意味该国国际储备增加"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在国际收支平衡表的会计记录中在外储备资产增加，是负项，相当于将资产存放到国外，是流出"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eec28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c16-70e3-11ee-8353-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。不能用特别提款权直接兑换黄金"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eec5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c17-70e3-11ee-863a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。买方有权在到期日按约定价格卖出特定数量外汇给卖方的期权为看涨期权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。按照描述应该是看跌期权"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eec82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c18-70e3-11ee-9e46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。有抛补套利又称无风险套利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。有抛补套利只是消除了汇率变动的风险，其他的风险依然存在"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eecaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c19-70e3-11ee-a00f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对外投资收入应列入国际收支平衡表的资本项目中"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。应列入经常项目中"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eecdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c1a-70e3-11ee-9133-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某投资者购买了未来到期的债券，如果他担心未来利率上涨，他可能会构造一个利率远期的多头来规避风险"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。当市场利率上升时，远期利率协议可以为买方或者借款方规避利率上升的风险； 当市场利率下降时，远期利率协议可以为卖方或者投资方规避利率下降的风险"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eed0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c1b-70e3-11ee-93cb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。货币的流动性是指其在极短的时间内变成现金而不至于发生损失的能力"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。货币流动性定义"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eed36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c1c-70e3-11ee-8260-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。解决米德冲突的蒙代尔政策搭配主张用财政政策消除内部失衡，货币政策消除外部失衡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。解决米德冲突的蒙代尔政策搭配主张用财政政策消除内部失衡，货币政策消除外部失衡"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eed68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c1d-70e3-11ee-9e71-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。银行承受的最大资产损失是银行的库存现金"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。银行所承受的损失以其资本金为限"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eed90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c1e-70e3-11ee-8502-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。存款保险制度的积极作用在于它能更好地保护大银行，以防止系统性危机的发生"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。存款保险制度是保护中小银行，促进公平竞争的有效方法之一。它可使存款者形成一种共识，将存款无论存入大银行还是小银行，该制度对其保护程度都是相同的，因此提供服务的优劣，将成为客户选择存款银行的主要因素"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eedb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c1f-70e3-11ee-80a9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当评估项目时，项目带来的公司折旧的变化不算增量现金流"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。折旧的变化会影响交税的情况，因此对现金流产生影响"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eede0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c20-70e3-11ee-9a60-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。FTE法使用的是无杠杆现金流"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。杠杆企业的资本运算方法中，WACC法和APV法使用的是无杠杆现金流，而 FTE法采用的是有杠杆现金流"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eee12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c21-70e3-11ee-bfe7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对融资项目，采用内部收益率法时的投资准则是：当IRR＞资本成本时则采用，当 IRR〈资本成本时则舍弃"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。本题考查的是IRR法在判断投资还是融资行为时的缺点，应当是在IRR＞资本成本时则舍弃，当IRR＜资本成本时则采用。与投资项目正好相反"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eee3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c22-70e3-11ee-959f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。总资产周转率等于会计期内的销售收入总额除以平均的资产总额，反映了企业的盈利能力"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。资产周转率反映的是企业的营运能力"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eee62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c23-70e3-11ee-b6c8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。优先股融资利率一般比公司高等级债券的票面利率低"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。高等级债券的风险低于优先股融资，所以，债券对应的融资成本低于优先股"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eee94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c24-70e3-11ee-a56f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某投资者购买了未来到期的债券，如果他担心未来利率上涨，他可能会构造一个利率远期的多头来规避风险"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。当市场利率上升时，远期利率协议可以为买方或者借款方规避利率上升的风险； 当市场利率下降时，远期利率协议可以为卖方或者投资方规避利率下降的风险"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eeebc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c25-70e3-11ee-b62d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。货币的流动性是指其在极短的时间内变成现金而不至于发生损失的能力"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。货币流动性定义"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eeee4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c26-70e3-11ee-8000-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。解决米德冲突的蒙代尔政策搭配主张用财政政策消除内部失衡，货币政策消除外部失衡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。解决米德冲突的蒙代尔政策搭配主张用财政政策消除内部失衡，货币政策消除外部失衡"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eef16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c27-70e3-11ee-84ce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。银行承受的最大资产损失是银行的库存现金"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。银行所承受的损失以其资本金为限"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eef3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c28-70e3-11ee-9467-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。存款保险制度的积极作用在于它能更好地保护大银行，以防止系统性危机的发生"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。存款保险制度是保护中小银行，促进公平竞争的有效方法之一。它可使存款者形成一种共识，将存款无论存入大银行还是小银行，该制度对其保护程度都是相同的，因此提供服务的优劣，将成为客户选择存款银行的主要因素"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eef66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c29-70e3-11ee-a926-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当评估项目时，项目带来的公司折旧的变化不算增量现金流"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。折旧的变化会影响交税的情况，因此对现金流产生影响"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eef8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c2a-70e3-11ee-98d0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。FTE法使用的是无杠杆现金流"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。杠杆企业的资本运算方法中，WACC法和APV法使用的是无杠杆现金流，而 FTE法采用的是有杠杆现金流"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eefc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c2b-70e3-11ee-8ff0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对融资项目，采用内部收益率法时的投资准则是：当IRR＞资本成本时则采用，当 IRR〈资本成本时则舍弃"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。本题考查的是IRR法在判断投资还是融资行为时的缺点，应当是在IRR＞资本成本时则舍弃，当IRR＜资本成本时则采用。与投资项目正好相反"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eefe8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c2c-70e3-11ee-b1b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。总资产周转率等于会计期内的销售收入总额除以平均的资产总额，反映了企业的盈利能力"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。资产周转率反映的是企业的营运能力"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef010-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c2d-70e3-11ee-80c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。优先股融资利率一般比公司高等级债券的票面利率低"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。高等级债券的风险低于优先股融资，所以，债券对应的融资成本低于优先股"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef038-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c2e-70e3-11ee-873f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。再贴现率是主动权能够完全掌握在中央银行手中的货币政策工具"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。央行只能决定再贴现率，而不能决定商业银行是否来再贴现，主动权在商业银行手中"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef06a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c2f-70e3-11ee-b28f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凯恩斯开创的流动性偏好理论利用债券的供给和需求来说明均衡利率的决定"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。凯恩斯开创的流动性偏好理论利用货币的供给和需求来说明均衡利率的决定"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef092-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c30-70e3-11ee-a98c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。非有效的证券或资产组合位于资本市场线的上方"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。非有效的证券或资产组合位于资本市场现下方，资本市场线上方的部分是不可能该组合"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef0ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c31-70e3-11ee-ba38-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本预算中，我们只关注相关税后增量现金流量，由于折旧是非付现费用，所以在估算现金流量时可以忽略折旧"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。折旧可以减税，影响增量现金流"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef0e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c32-70e3-11ee-b332-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。MM无公司税模型表明，随着公司资本结构中负债比重的提高，权益成本的上升完全抵消了公司使用便宜负债所导致的加权平均成本的下降，因此，公司价值与资本结构无关"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。MM无公司税模型表明公司价值与资本结构无关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef114-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c33-70e3-11ee-b1a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。托宾投资q理论是用来解释货币政策通过影响货币市场进而影响投资支出，从而传导货币政策意图的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。托宾投资q理论是用来解释货币政策通过影响资本市场（股价）和商品市场（重置成本）进而影响投资支出，从而传导货币政策意图的"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef13c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c34-70e3-11ee-a1c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。通货紧缩将形成有利于净货币债务人的财富分配效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。通货紧缩后债务人实际所需偿还的货币增多，故是不利于债务人的"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef164-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c35-70e3-11ee-ac5f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对于看跌期权的买方，只有在市场价格大于协定价格与期权费之差时才有利可图"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。看跌期权是指期权的买方向卖方支付一定数额的权利金后，即拥有在期权合约的有效期内，按执行价格向期权卖方卖出一定数额标的物的权利，但不负有必须卖出的义务。所以当市价小于协定价格时，可以低价在市场上买入，高价买给期权卖方，此时有利可图"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef196-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c36-70e3-11ee-93e0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当评估互斥项目时，用NPV法和IRR法得出的结果总是一致的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不总相等，例如当投资规模不等时，可能两者结论相反"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef1be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c37-70e3-11ee-a1f5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果两只股票的回报率具有相同的标准差，则它们具有相同的贝塔值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。证券的贝塔值是证券收益率与市场收益率的协方差与市场收益率的方差之比。 所以有可能股票的标准差大的反而贝塔值小，标准差与贝塔值不是等量关系"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef1e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c38-70e3-11ee-bcd7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。通常在国庆长假前，中央银行会与商业银行进行逆回购交易来增加基础货币投放"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef20e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c39-70e3-11ee-ba09-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。违约风险债券与无风险债券的利率之差称为违约升水"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef236-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c3a-70e3-11ee-bfbf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。商业银行扩张信用、创造派生存款的约束机制的原理在于商业银行吸收的存款是否能够全部发放贷款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。本题主要考查商业银行存款货币创造的两个基本条件：部分准备金制度和转账结算制度。部分准备金适度使得商业银行能够放贷，而转账结算制度则为放贷出去的资金提供了在商业银行体系中扩张的机会。假设商业银行放贷出去的资金是以现金形式持有，则无法扩张"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef25e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c3b-70e3-11ee-8fe3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在其他因素不变的情况下，本国价格水平提高将引起本币实际升值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。本国价格水平相对提高将使对本国资产的需求相对减少，从而使本币实际贬值"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef290-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c3c-70e3-11ee-91da-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某投资者釆取如下的投资策略：在股票价格下跌10%时买入股票，在价格上涨10% 时卖出股票，如果这种策略在股市中能够获得超额收益，则意味弱有效市场假说不成立"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef2b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c3d-70e3-11ee-a9e4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。啄食优序理论(pecking order theory)认为，盈利好的企业应该多负债"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。啄食优序理论认为融资顺序是：内部融资优于外部融资（外部融资中，债券融资优于股权融资），故盈利好的企业应先通过内容融资，少负债"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef2e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c3e-70e3-11ee-899c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。成长型股票的市账率(即市值与账面价值比)一般小于"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。一般来说，公司的增长机会越好，市账率越高。对于成长型企业，其市场价值往往能够快速增长从而超越以历史成本衡量的账面价值，故市账率应该大于"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef308-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c3f-70e3-11ee-a55c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。年美国国会通过的《麦克法登法案＞(McFadden Act)确立了美国商业银行与投资银行混业经营的格局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。1999年美国《金融服务现代化法》实现了从分业经营到混业经营的转变"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef330-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c40-70e3-11ee-bff9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在通货膨胀比较严重、且预期通货膨胀问题能够在近期内明显缓解的情况下，长期利率会低于短期利率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef362-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c41-70e3-11ee-a893-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“中央银行是政府的银行”的含义是指中央银行的产权归属于政府"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。美联储的产权属于私人"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef38a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c42-70e3-11ee-93cf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。货币的非中性是指货币能够影响实体经济，并对实体经济产生积极或消极的影响"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。货币是节性还是非中性，主要看货币供给量的变化对一般价格水乎和实际利率及产岀水平的影响差异。如果货币供给变化只是影响一般价格水平，一定量的货币供应增加(减少)只引起一般价格水平的上升(下降)，那么货币就是中性的；如果货币供应量的变化，引起实际利率和产出水平等实际经济变量的调整和改变，那么货币是非中性的"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef3b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c43-70e3-11ee-a0f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。理财业务是商业银行新型资产业务"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。理财业务属于商业银行新型的中间业务"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef3e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c44-70e3-11ee-82f8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当人们预期利率上升时，货币需求会大量增加，甚至形成流动性陷阱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。流动性陷阱假说是指当一定时期的利率水平降低到不能再应时，人们预期利率不会再下降了， 此时，无论增加多少货币量，蠢会被人福储藏起莱。• ；"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef40c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c45-70e3-11ee-9740-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国人民银行发行中央银行票据是举借债务、弥补自身头寸不足"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。中央银行票据是中央银行调节基础货:币的一顼货币政策土具，巨的是减少商业银行可贷资金\n量。\t“"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef434-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c46-70e3-11ee-beac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在其他因素不变得情况下，本国价格水平提高将引起本币发生实际贬值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。M当本国价格水平提高时,会使本国的商品失去价格优势,岀口小亍遂口，即外国货币的需求\n量会大于本国货币的需求量，引起本由货币贬值；\tmi匸卩冗"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef466-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c47-70e3-11ee-b33b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。特里芬难题解释了国际金本位制崩溃的原因"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。特里芬难题解释的是布雷顿森林体系崩溃的原因"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef48e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c48-70e3-11ee-8890-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据均衡信贷配给理论，银行贷款利率相对于市场利率具有粘性，即利率市场化后银行贷款\n利率会是一个比均衡利率更低的利率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。信贷配给是指在固定利率条件下，面对超额的资金需求，银行无法或不愿提高利率，而釆取一些非利率的贷款条件，使部分资金需求者退岀银行借款市场，以消除超额需求而达到平衡。在没有政府限制的情况下，贷款人自愿将贷款利率确定在市场出清利率以下而造成的信贷配给被称作均衡信贷配给。 因此根据均衡信贷配给理论，银行贷款利率比市场利率更具有粘性，利率市场化后银行贷款利率会是一个低于均衡利率的值"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef4b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c49-70e3-11ee-b7a6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。目前国际上使用较为广泛的是“5级分类方法”，该方法将银行的贷款资产分为正常、关注、 次级、可疑和损失，除前三类外，后两类为不良资产"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。5级分类方法将银行的贷款资产分为五类，正常、关注、次级、可疑、损失，后三类为不良贷款"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef4e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c4a-70e3-11ee-9f05-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。IP0抑价，即IP0低定价发行，对发行公司来说是一项成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。IPO低定价发行股票常用的手段。投资者能以较低价格买入，获得的让利就相当于是发行公司的发行费用了"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c4b-70e3-11ee-bd08-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在做资本预算的时候，我们只关注相关税后增量现金流量，\n在做资本预算的时候可疑忽略折旧"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。；折I啊潛頫夢真费碧聞、嘴學论II啊極金流量’所以不能忽略"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef538-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c4c-70e3-11ee-ad25-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果企业没有固定成本，则企业的经营杠杆为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。若企业没有固定成本，则息税前利润=边际贡献，经营杠杆系数=基期边际贡献/基期边际贡献="
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef56a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c4d-70e3-11ee-9388-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某企业正在讨论更新现有生产线，有两个备选方案：A方案的NPV为400万元，IRR为10%; B方案的NPV为300万元，IRR为15%,据此可疑认为A方案更好"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。净现值法是最重要的传统资本预算方法，比IRR法的使用范围更广。当用NPV与IRR进行决策的结果不一致时，应选择NPV大的投资项目"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef592-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c4e-70e3-11ee-9895-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。公司权益的账面价值和市场价值一般不相等"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。股票的市场价格是指股票在二级市场上的交易价格，它一般取决于股票的供求关系。公司权益的账面价值等于股票的账面价格乘上发行的股票数，公司权益的市场价值等于股票的市场价格乘上发行的股票数。公司股票的账面价值和市场价值往往不相等，所以，公司权益的账面价值和市场价值一般不相等"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef5ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c4f-70e3-11ee-bd19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。贝塔值为零的股票其期望收益率也为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据资本资产定价模型，贝塔值为零的股票期望收益率等于无风险利率"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef5ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c50-70e3-11ee-af52-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。因素模型中，证券收益率的方差大小只决定于因素的方差大小"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。证券收益率方差的大小取决于因素的方差大小和误差项的方差大小"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef614-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c51-70e3-11ee-80f9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。弗里德曼为代表的现代货币主义认为，影响人们货币需求的主要因素是当期收入水平"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。弗里德曼的货币需求理论中，影响人们货币需求的收入指的是永久性收入"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef646-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c52-70e3-11ee-a7db-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。商业银行负债业务创新的最终目的是创造存款账户的灵活性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。商业银行负债业务的创新是为了吸收更多存款"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef66e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c53-70e3-11ee-b06b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据巴塞尔协议三的最低资本充足要求，商业银行的总资本充足率应为8%,其中核心一级资本（普通股）充足率提高到4.5%, —级充足率6%"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。 在最低资本金比率方面，巴塞尔协议III规定，商业银行的总资本充足率应为8%,核心一级资本比率（普通股）最低要求将从目前的2%提升至4.5%, 一级资本充足率下限则将从现行的4%上调至6%"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef696-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c54-70e3-11ee-a9dc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业应持有尽量多的现金来保持流动性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。公司应该合理分配现金，既考虑流动性，也考虑盈利性。持有现金太多会影响投资收益，所以不需要持有过多的现金，只需保持恰当的流动性即可"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef6c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c55-70e3-11ee-beee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。投资组合的系统性风险可以通过持有更多股票进行分散"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。系统性风险即市场风险，即指由整体政治、经济、社会等环境因素对证券价格所造成的影响。系统性风险包括政策风险、经济周期性波动风险、利率风险、购买力风险、汇率风险等。这种风险不能通过分散投资加以消除，因此又被称为不可分散风险。投资组合只能分散非系统性风险"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef6f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea1c56-70e3-11ee-9454-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。-格雷欣法则证明了在货币选择上的优势劣汰原理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。格雷欣法则解释了金银复本位制条件下劣币驱逐良币的现象，而不是优胜劣汰"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef718-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea430f-70e3-11ee-b0c3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从融资方式看，人寿保单属于一种间接融资工具"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。按融资方式划分，金融工具可分为直接融资工具和间接融资工具。直接融资工具包括政府的国库券、企业债券、商业票据，公司股票等；间接融资工具包括银行债券、银行承兑汇票、 可转让大额存单等。人寿保单这一工具中，保险公司作为金融中介联系了资金的融出方与融入方，因此属于间接融资工具"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef74a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4310-70e3-11ee-a4d6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。信用卡属于信用货币的一种表现形式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。信用货币经历了传统信用货币、现代信用货币、电子货币的过程。目前主要流行的电子货币主要有储值卡型电子货币、信用卡应用型电子货币（即信用卡）、存款利用型电子货币和现金模拟型电子货币"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef772-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4311-70e3-11ee-a095-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据利率敏感性缺口理论，当银行处于资产缺口时，利率下降将会使银行的收入增加"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。由缺口分析可知，如果利率敏感型负债高于利率敏感型资产，利率下降会增加银行净收入"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef7a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4312-70e3-11ee-9fde-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行在公开市场上买进证券，只是等额地投放基础货币，而不是等额地投放货币供应量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。货币供应量的影响受到基础货币投放量和货币乘数的影响，中央银行不能完全控制货币乘数"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef7cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4313-70e3-11ee-a2f1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据购买力平价理论，汇率变动主要是由两国通货膨胀率差异导致的，本国相对于外国通胀率提高5%,则在直接标价法下外汇升值5%"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。购买力平价理论认为，任何两种货币的汇率变动都应当反映两国物价水平的变化。 购买力平价理论是一价定律在国内物价水平而非单个商品价格上的简单应用。该理论认为，如果本国的物价水平相对于外国上涨了 5%,那外汇必须升值5%"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef7fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4314-70e3-11ee-8bd9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在资产回报率给定的情况下，银行的杠杆率越低，股东的回报率越高"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据杜邦恒等式，资产收益率=销售净利率*总资产周转率，权益收益率=销售净利率*总资产周转率*权益乘数，因此，权益净利率=资产收益率*权益乘数，因此在资产回报率给定的情况下，杠杆率越高，股东回报率越高"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef826-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4315-70e3-11ee-a7d7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。货币政策以通货膨胀为指标会增加产出波动的可能性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。通货膨胀目标制的缺点包括信号迟滞、过于僵化、增加产出波动的可能性以及低经济增长"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef84e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4316-70e3-11ee-887b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在预期利率上升时商业银行应该实施缺口率大于1的策略"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。由利率敏感性缺口理论可知，如果利率敏感型资产高于利率敏感型负债，即缺口率大于1时，利率上升会使利润增加，而利率下跌会使利润减少"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef880-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4317-70e3-11ee-844e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据资本资产定价模型，当某证券资产的贝塔增加1时，该资产的要求报酬率增加值等于市场回报率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据CAPM公式，R=Rf+|3（ Rm-Rf）,当某证券资产的贝塔增加1时，该资产的要求报酬率增加值等于市场回报率与无风险报酬率之差"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef8a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4318-70e3-11ee-b7d9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。优先股和普通股的股利，均可以在税前扣除"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。优先股和普通股都是对公司税后净利润的分配，均不可以在税前扣除"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef8d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4319-70e3-11ee-8a2f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果两个证券在期望收益一方差坐标系中处于同样的高度，那么这两个证券有同样的期望收益和非系统风险"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。两个证券组合的连线平行于方差轴，说明这两个证券有同样的期望收益和系统风险"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef902-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea431a-70e3-11ee-8ca5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的最佳资本结构应该最小化企业资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。企业最优的资本结构应该是使企业价值最大化，在企业价值最大化的资本结构下， 企业资本成本最低"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef92a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea431b-70e3-11ee-819b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某公司在评价A、B两个项目时，使用公司的加权平均资本15%作为标准,A.项目的内部收益率为16%, beta系数为1.2, B项目的内部收益率为14%, beta 系数为0.6,当时的无风险利率为7%,市场风险溢酬为8%。总经理认为B项目应舍弃，因为其内部是收益率小于公司的加权平均资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。公司在进行投资决策时，应接受内部收益率大于加权平均资本成本的项目，拒绝内部收益率小于加权平均资本成本的项目"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef952-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea431c-70e3-11ee-a039-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。由于经营杠杆的作用，当息税前盈余下降时，普通股每股盈余会下降得更快"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。经营杠杆的作用是在固定成本不变的情况下，销售量对利润产生的作用；而当息税前盈余下降时，由于固定债务利息和优先股股利的存在而导致普通股每股盈余变动幅度大于息税前盈余变动幅度，这是财务杠杆的作用"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef97a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea431d-70e3-11ee-b8c1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。-格雷欣法则证明了在货币选择上的优势劣汰原理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。格雷欣法则解释了金银复本位制条件下劣币驱逐良币的现象，而不是优胜劣汰"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef9ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea431e-70e3-11ee-be35-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从融资方式看，人寿保单属于一种间接融资工具"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。按融资方式划分，金融工具可分为直接融资工具和间接融资工具。直接融资工具包括政府的国库券、企业债券、商业票据，公司股票等；间接融资工具包括银行债券、银行承兑汇票、 可转让大额存单等。人寿保单这一工具中，保险公司作为金融中介联系了资金的融出方与融入方，因此属于间接融资工具"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef9d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea431f-70e3-11ee-94a6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。信用卡属于信用货币的一种表现形式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。信用货币经历了传统信用货币、现代信用货币、电子货币的过程。目前主要流行的电子货币主要有储值卡型电子货币、信用卡应用型电子货币（即信用卡）、存款利用型电子货币和现金模拟型电子货币"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349ef9fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4320-70e3-11ee-87ad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据利率敏感性缺口理论，当银行处于资产缺口时，利率下降将会使银行的收入增加"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。由缺口分析可知，如果利率敏感型负债高于利率敏感型资产，利率下降会增加银行净收入"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efa2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4321-70e3-11ee-b3e2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行在公开市场上买进证券，只是等额地投放基础货币，而不是等额地投放货币供应量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。货币供应量的影响受到基础货币投放量和货币乘数的影响，中央银行不能完全控制货币乘数"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efa56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4322-70e3-11ee-9799-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据购买力平价理论，汇率变动主要是由两国通货膨胀率差异导致的，本国相对于外国通胀率提高5%,则在直接标价法下外汇升值5%"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。购买力平价理论认为，任何两种货币的汇率变动都应当反映两国物价水平的变化。 购买力平价理论是一价定律在国内物价水平而非单个商品价格上的简单应用。该理论认为，如果本国的物价水平相对于外国上涨了 5%,那外汇必须升值5%"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efa7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4323-70e3-11ee-8247-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在资产回报率给定的情况下，银行的杠杆率越低，股东的回报率越高"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据杜邦恒等式，资产收益率=销售净利率*总资产周转率，权益收益率=销售净利率*总资产周转率*权益乘数，因此，权益净利率=资产收益率*权益乘数，因此在资产回报率给定的情况下，杠杆率越高，股东回报率越高"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efab0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4324-70e3-11ee-b8c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。货币政策以通货膨胀为指标会增加产出波动的可能性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。通货膨胀目标制的缺点包括信号迟滞、过于僵化、增加产出波动的可能性以及低经济增长"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efad8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4325-70e3-11ee-925b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在预期利率上升时商业银行应该实施缺口率大于1的策略"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。由利率敏感性缺口理论可知，如果利率敏感型资产高于利率敏感型负债，即缺口率大于1时，利率上升会使利润增加，而利率下跌会使利润减少"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efb00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4326-70e3-11ee-9321-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据资本资产定价模型，当某证券资产的贝塔增加1时，该资产的要求报酬率增加值等于市场回报率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据CAPM公式，R=Rf+|3（ Rm-Rf）,当某证券资产的贝塔增加1时，该资产的要求报酬率增加值等于市场回报率与无风险报酬率之差"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efb32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4327-70e3-11ee-926d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。优先股和普通股的股利，均可以在税前扣除"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。优先股和普通股都是对公司税后净利润的分配，均不可以在税前扣除"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efb5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4328-70e3-11ee-ae93-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果两个证券在期望收益一方差坐标系中处于同样的高度，那么这两个证券有同样的期望收益和非系统风险"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。两个证券组合的连线平行于方差轴，说明这两个证券有同样的期望收益和系统风险"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efb8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4329-70e3-11ee-ac9f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的最佳资本结构应该最小化企业资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。企业最优的资本结构应该是使企业价值最大化，在企业价值最大化的资本结构下， 企业资本成本最低"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efbb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea432a-70e3-11ee-8d9c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某公司在评价A、B两个项目时，使用公司的加权平均资本15%作为标准"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。公司在进行投资决策时，应接受内部收益率大于加权平均资本成本的项目，拒绝内部收益率小于加权平均资本成本的项目"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efbdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea432b-70e3-11ee-96c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。由于经营杠杆的作用，当息税前盈余下降时，普通股每股盈余会下降得更快"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。经营杠杆的作用是在固定成本不变的情况下，销售量对利润产生的作用；而当息税前盈余下降时，由于固定债务利息和优先股股利的存在而导致普通股每股盈余变动幅度大于息税前盈余变动幅度，这是财务杠杆的作用"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efc0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea432c-70e3-11ee-8ff3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。-格雷欣法则证明了在货币选择上的优势劣汰原理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。格雷欣法则解释了金银复本位制条件下劣币驱逐良币的现象，而不是优胜劣汰"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efc36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea432d-70e3-11ee-becf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从融资方式看，人寿保单属于一种间接融资工具"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。按融资方式划分，金融工具可分为直接融资工具和间接融资工具。直接融资工具包括政府的国库券、企业债券、商业票据，公司股票等；间接融资工具包括银行债券、银行承兑汇票、 可转让大额存单等。人寿保单这一工具中，保险公司作为金融中介联系了资金的融出方与融入方，因此属于间接融资工具"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efc5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea432e-70e3-11ee-8f82-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。信用卡属于信用货币的一种表现形式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。信用货币经历了传统信用货币、现代信用货币、电子货币的过程。目前主要流行的电子货币主要有储值卡型电子货币、信用卡应用型电子货币（即信用卡）、存款利用型电子货币和现金模拟型电子货币"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efc86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea432f-70e3-11ee-9bd0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据利率敏感性缺口理论，当银行处于资产缺口时，利率下降将会使银行的收入增加"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。由缺口分析可知，如果利率敏感型负债高于利率敏感型资产，利率下降会增加银行净收入"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efcb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4330-70e3-11ee-88f5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行在公开市场上买进证券，只是等额地投放基础货币，而不是等额地投放货币供应量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。货币供应量的影响受到基础货币投放量和货币乘数的影响，中央银行不能完全控制货币乘数"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efce0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4331-70e3-11ee-830f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据购买力平价理论，汇率变动主要是由两国通货膨胀率差异导致的，本国相对于外国通胀率提高5%,则在直接标价法下外汇升值5%"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。购买力平价理论认为，任何两种货币的汇率变动都应当反映两国物价水平的变化。 购买力平价理论是一价定律在国内物价水平而非单个商品价格上的简单应用。该理论认为，如果本国的物价水平相对于外国上涨了 5%,那外汇必须升值5%"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efd08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4332-70e3-11ee-bf4c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在资产回报率给定的情况下，银行的杠杆率越低，股东的回报率越高"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据杜邦恒等式，资产收益率=销售净利率*总资产周转率，权益收益率=销售净利率*总资产周转率*权益乘数，因此，权益净利率=资产收益率*权益乘数，因此在资产回报率给定的情况下，杠杆率越高，股东回报率越高"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efd3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4333-70e3-11ee-bf3a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。货币政策以通货膨胀为指标会增加产出波动的可能性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。通货膨胀目标制的缺点包括信号迟滞、过于僵化、增加产出波动的可能性以及低经济增长"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efd62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4334-70e3-11ee-8075-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在预期利率上升时商业银行应该实施缺口率大于1的策略"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。由利率敏感性缺口理论可知，如果利率敏感型资产高于利率敏感型负债，即缺口率大于1时，利率上升会使利润增加，而利率下跌会使利润减少"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efd8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4335-70e3-11ee-b901-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据资本资产定价模型，当某证券资产的贝塔增加1时，该资产的要求报酬率增加值等于市场回报率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据CAPM公式，R=Rf+|3（ Rm-Rf）,当某证券资产的贝塔增加1时，该资产的要求报酬率增加值等于市场回报率与无风险报酬率之差"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efdb2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4336-70e3-11ee-b6ca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。优先股和普通股的股利，均可以在税前扣除"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。优先股和普通股都是对公司税后净利润的分配，均不可以在税前扣除"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efde4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4337-70e3-11ee-8a00-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果两个证券在期望收益一方差坐标系中处于同样的高度，那么这两个证券有同样的期望收益和非系统风险"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。两个证券组合的连线平行于方差轴，说明这两个证券有同样的期望收益和系统风险"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efe0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4338-70e3-11ee-b12e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的最佳资本结构应该最小化企业资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。企业最优的资本结构应该是使企业价值最大化，在企业价值最大化的资本结构下， 企业资本成本最低"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efe34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4339-70e3-11ee-ab0b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某公司在评价A、B两个项目时，使用公司的加权平均资本15%作为标准A.项目的内部收益率为16%, beta系数为1.2, B项目的内部收益率为14%, beta 系数为0.6,当时的无风险利率为7%,市场风险溢酬为8%。总经理认为B项目应舍弃，因为其内部是收益率小于公司的加权平均资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。公司在进行投资决策时，应接受内部收益率大于加权平均资本成本的项目，拒绝内部收益率小于加权平均资本成本的项目"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efe66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea433a-70e3-11ee-9066-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凯恩斯货币需求理论认为实际货币需求与实际收入和名义利率正相关"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n根据凯恩斯流动性偏好理论，实际的货币需求与实际收入呈正相关，与利率水平负相关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efe8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea433b-70e3-11ee-9e27-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在法定存款准备金率为10%的监管条件下，在央行有超额准备金10万元的A银行能够满足企业20万的贷款需求"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\nA银行超额准备金为10万，因此能够放贷的自由资金为10万，最多能够满足该银行客户企业10万元的贷款需求，而通过银行系统的资产负债表，整个金融体系， 10万寸10% =100万元的贷款需求将得到满足"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efec0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea433c-70e3-11ee-a5ce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在本国价格水平与外国价格水平保持不变的情况下，本币汇率升值将改善本国贸易条件"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n贸易条件指一定时期内一国每出口一单位商品可以交换多少单位外国进口商品比例冨囂豔¥ = #，式中，P表示国内价格水平，P*表示国外价格水平；e表示名义汇率。贬值(e上升)使得本币表示的进口商品价格上升，从而进口商品价格却没有相应的上升，意味着贸易条件恶化。本币升值，意味着e下降，进口商品价格下降，贸易条件大于1,贸易条件改善， 用更少的本国商品换来更多的国外商品"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349efee8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea433d-70e3-11ee-9ef4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在开放经济条件下，当一国的国内储蓄大于国内投资，则该国经常账户会岀现逆差"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n根据\ny=c+i+g+false,~m\nYd = C + I4-G + x_M — T\n其中Yd为可支配国民收入。将私人储蓄表示为S = Yd - C,可得（x- M） = （S - I） + （T - G）,经常\n账户车=私人部门净储蓄+政府财政赤字或盈余。若考虑政府部门赤字为外生变量，则储蓄大于投\n资时，会造成经常账户的顺差."
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eff10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea433e-70e3-11ee-9b78-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据可转换理论，商业银行的资产范围从短期周转贷款扩展到了消费性贷款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n可转移理论：也称资产转换理论。该理论认为：为了应付提存所需保持的流动性， 商业银行可以将其资金的一部分投资于具备转让条件的证券上。由于这些盈利资产能够随时出售， 转换为现金，所以贷款不一定非要局限于短期和自偿性投放范围。显然，这种理论是以金融工具和金融市场的发展为背景的。意义：银行资产业务范围得以扩大缺陷：无法保证变现时不遭受资本损失（要求资产质量高和市场环境稳定）；还受制于中央银行的货币政策（贴现率提高的风险） 这一理论为我国商业银行从事证券业务提供了理论依据（投资业务）。但我国商业银行投资业务存在制约条件：①可供银行投资的工具不丰富，信用形式不发达。②管理制度缩小了商业银行的可投资范围，分业经营使商业银行不能投资股票。③国有商业银行的特性，决定了其自主投资意愿往往得不到尊重"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eff38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea433f-70e3-11ee-b772-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。宏观审慎监管是为了维护金融体系的稳定，防止金融系统对经济体系的负外部溢出而采取的一种自下而下的监管模式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n政府监管银行的目的主要有两个：保护存款人利益和保持银行体系的稳定。前者被称为微观审慎性监管，后者被称为宏观审慎性监管。前者强调自下而上，而后者强调自上而下"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eff60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4340-70e3-11ee-a5a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在通货紧缩时期名义利率高于实际利率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n根据费雪效应，当通货紧缩的时候，预期通胀率小于零，名义利率会低于实际利率"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349eff92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4341-70e3-11ee-9da1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。美元相对于人民币的贬值会恶化中国的净国际投资头寸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n国际投资头寸的影响因素包括经常账户的差额、金融资产和负债价格的波动以及汇率的变动。本国的金融资产是用美元计价的（以美元形式持有的外汇资产），负债是用本币计价的（以人民币形式持有的股票和债券）。当美元贬值时，资产减少，负债不变导致投资头寸恶化"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349effba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4342-70e3-11ee-82e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据蒙代尔-弗莱明模型，一个实施固定汇率制度、允许资本自由流动的国家,采取货币政策来调节宏观经济会受到制约"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n资本完全流动，BP曲线为水平，增加货币供给量，收入上升，利率下降。利率下降会造成资本流出，从而收紧流动性，货币紧缩，LM曲线回到原点，货币政策无效。使用扩张性财政政策是IS曲线向右移动，利率上升，收入上升。利率上升资本流入，LM曲线向右移动，\n财政政策的效率会被放大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349effe2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4343-70e3-11ee-a617-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。指数基金的产生说明了有效市场理论是正确的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n有效市场假说（Efficient-Market Hypothesis）:有效市场假说是资本市场研究的一种理论假设，指在一个有效的资本市场中，有关投资品的全部信息都能够迅速、完整和准确地被投资者所获得，投资者可以据此准确判断该投资品的价值并作出正确的决策。反过来说，任何时刻的投资品价格都充分反映了投资者当时所能得到的一切相关信息，该价格全面反映了该投资品的内在价值。根据可获得的有关信息的范围、程度和时效不同，该理论将市场效率划分为弱型有效、半强型有效和强型有效三种类型。共同基金表现研究，是半强式有效市场的检验方式。指数基金的产生，说明市场至少是半强势有效"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f000a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4344-70e3-11ee-846e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般情况下，使某投资方案的净现值小于零的折现率，一定高于该投资方案的内含报酬率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n内部收益率法（1）定义：内部收益率（IRR）的基本原理是找出一个能体现项目内在价值的收益率，其本身不受资本市场利息率的影响，而是取决于项目的现金流量，是每个项目的内生变量。内部收益率就是令项目净现值为零的折现率，因此具有净现值的部分特征。（2） 判断标准：①单个项目：若内部收益率大于折现率，项目可以接受：若内部收益率小于折现率， 项目不能接受。②多个项目：选择内部收益率高的项目。（3）再投资假设：假设未来投资收益率等于内部收益率。（4）优点：①易于理解和交流；②不需要设定折现率，可以直接计算得出。\n（5）缺点：对于独立项目和互斥项目来说：投资型项目和融资型项目的决策标准相反；不规则现金流可能导致多个内部收益率对于互斥项目来说：内部收益率法忽略了规模问题，有可能由于高的内部收益率而掩盖了其较小的绝对收益；两项目的现金流序列不同，大额现金流入时间不一致可能会导致内部收益率法则出现错误"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f003c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4345-70e3-11ee-81b4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对两因素套利定价模型来说，因素组合是系统风险已经充分分散化的组合， 对其中一个因素的值为1而对另一个因素的值为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n单因素组合为该因素的风险敞口为1,其他因素的风险敞口为0,当使用双因素模型衡量时，正如题干所述"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0064-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4346-70e3-11ee-b8e0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当上市公司增发股票时，优先股相对于普通股而言具有优先购买权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n优先股特征是两个优先、两个不优先，即股利和求偿权优先、配股和投票权不优先"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0096-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4347-70e3-11ee-ac9e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的最佳资本结构应该最小化企业资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n最优资本结构为最大化公司价值的资本结构，也是最小化资本成本的结构"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f00be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4348-70e3-11ee-a9ed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据权衡理论，不存在财务杠杆的目标值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n在众多资本结构理论中，静态权衡理论是存在最优的资本结构，即存在最优财务杠\n杆目标值。该理论认为，当债务所带来的边际收益与债务带来的边际成本相同时，公司成本最小， 且价值最大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f00e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4349-70e3-11ee-890f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凯恩斯货币需求理论认为实际货币需求与实际收入和名义利率正相关"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n根据凯恩斯流动性偏好理论，实际的货币需求与实际收入呈正相关，与利率水平负相关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea434a-70e3-11ee-b792-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在法定存款准备金率为10%的监管条件下，在央行有超额准备金10万元的A银行能够满足企业20万的贷款需求"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\nA银行超额准备金为10万，因此能够放贷的自由资金为10万，最多能够满足该银行客户企业10万元的贷款需求，而通过银行系统的资产负债表，整个金融体系， 10万寸10% =100万元的贷款需求将得到满足"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea434b-70e3-11ee-9e97-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在本国价格水平与外国价格水平保持不变的情况下，本币汇率升值将改善本国贸易条件"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n贸易条件指一定时期内一国每出口一单位商品可以交换多少单位外国进口商品比例冨囂豔¥ = #，式中，P表示国内价格水平，P*表示国外价格水平；e表示名义汇率。贬值(e上升)使得本币表示的进口商品价格上升，从而进口商品价格却没有相应的上升，意味着贸易条件恶化。本币升值，意味着e下降，进口商品价格下降，贸易条件大于1,贸易条件改善， 用更少的本国商品换来更多的国外商品"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0168-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea434c-70e3-11ee-960d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在开放经济条件下，当一国的国内储蓄大于国内投资，则该国经常账户会岀现逆差"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。['\n根据\ny=c+i+g+false', '~m\nYd = C + I4-G + false', '_M — T\n其中Yd为可支配国民收入。将私人储蓄表示为S = Yd - C,可得（false', ' - M） = （S - I） + （T - G）,经常\n账户车=私人部门净储蓄+政府财政赤字或盈余。若考虑政府部门赤字为外生变量，则储蓄大于投\n资时，会造成经常账户的顺差']"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f019a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea434d-70e3-11ee-90ad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据可转换理论，商业银行的资产范围从短期周转贷款扩展到了消费性贷款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n可转移理论：也称资产转换理论。该理论认为：为了应付提存所需保持的流动性， 商业银行可以将其资金的一部分投资于具备转让条件的证券上。由于这些盈利资产能够随时出售， 转换为现金，所以贷款不一定非要局限于短期和自偿性投放范围。显然，这种理论是以金融工具和金融市场的发展为背景的。意义：银行资产业务范围得以扩大缺陷：无法保证变现时不遭受资本损失（要求资产质量高和市场环境稳定）；还受制于中央银行的货币政策（贴现率提高的风险） 这一理论为我国商业银行从事证券业务提供了理论依据（投资业务）。但我国商业银行投资业务存在制约条件：①可供银行投资的工具不丰富，信用形式不发达。②管理制度缩小了商业银行的可投资范围，分业经营使商业银行不能投资股票。③国有商业银行的特性，决定了其自主投资意愿往往得不到尊重"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f01c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea434e-70e3-11ee-b8b4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。宏观审慎监管是为了维护金融体系的稳定，防止金融系统对经济体系的负外部溢出而采取的一种自下而下的监管模式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n政府监管银行的目的主要有两个：保护存款人利益和保持银行体系的稳定。前者被称为微观审慎性监管，后者被称为宏观审慎性监管。前者强调自下而上，而后者强调自上而下"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f01ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea434f-70e3-11ee-8501-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在通货紧缩时期名义利率高于实际利率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n根据费雪效应，当通货紧缩的时候，预期通胀率小于零，名义利率会低于实际利率"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f021c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4350-70e3-11ee-8467-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。美元相对于人民币的贬值会恶化中国的净国际投资头寸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n国际投资头寸的影响因素包括经常账户的差额、金融资产和负债价格的波动以及汇率的变动。本国的金融资产是用美元计价的（以美元形式持有的外汇资产），负债是用本币计价的（以人民币形式持有的股票和债券）。当美元贬值时，资产减少，负债不变导致投资头寸恶化"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0320-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4351-70e3-11ee-b973-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据蒙代尔-弗莱明模型，一个实施固定汇率制度、允许资本自由流动的国家,采取货币政策来调节宏观经济会受到制约"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n资本完全流动，BP曲线为水平，增加货币供给量，收入上升，利率下降。利率下降会造成资本流出，从而收紧流动性，货币紧缩，LM曲线回到原点，货币政策无效。使用扩张性财政政策是IS曲线向右移动，利率上升，收入上升。利率上升资本流入，LM曲线向右移动，\n财政政策的效率会被放大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0352-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4352-70e3-11ee-8f34-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。指数基金的产生说明了有效市场理论是正确的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n有效市场假说（Efficient-Market Hypothesis）:有效市场假说是资本市场研究的一种理论假设，指在一个有效的资本市场中，有关投资品的全部信息都能够迅速、完整和准确地被投资者所获得，投资者可以据此准确判断该投资品的价值并作出正确的决策。反过来说，任何时刻的投资品价格都充分反映了投资者当时所能得到的一切相关信息，该价格全面反映了该投资品的内在价值。根据可获得的有关信息的范围、程度和时效不同，该理论将市场效率划分为弱型有效、半强型有效和强型有效三种类型。共同基金表现研究，是半强式有效市场的检验方式。指数基金的产生，说明市场至少是半强势有效"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f037a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4353-70e3-11ee-a5f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般情况下，使某投资方案的净现值小于零的折现率，一定高于该投资方案的内含报酬率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n内部收益率法（1）定义：内部收益率（IRR）的基本原理是找出一个能体现项目内在价值的收益率，其本身不受资本市场利息率的影响，而是取决于项目的现金流量，是每个项目的内生变量。内部收益率就是令项目净现值为零的折现率，因此具有净现值的部分特征。（2） 判断标准：①单个项目：若内部收益率大于折现率，项目可以接受：若内部收益率小于折现率， 项目不能接受。②多个项目：选择内部收益率高的项目。（3）再投资假设：假设未来投资收益率等于内部收益率。（4）优点：①易于理解和交流；②不需要设定折现率，可以直接计算得出。\n（5）缺点：对于独立项目和互斥项目来说：投资型项目和融资型项目的决策标准相反；不规则现金流可能导致多个内部收益率对于互斥项目来说：内部收益率法忽略了规模问题，有可能由于高的内部收益率而掩盖了其较小的绝对收益；两项目的现金流序列不同，大额现金流入时间不一致可能会导致内部收益率法则出现错误"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f03ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4354-70e3-11ee-9e9c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对两因素套利定价模型来说，因素组合是系统风险已经充分分散化的组合， 对其中一个因素的值为1而对另一个因素的值为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n单因素组合为该因素的风险敞口为1,其他因素的风险敞口为0,当使用双因素模型衡量时，正如题干所述"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f03d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4355-70e3-11ee-8173-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当上市公司增发股票时，优先股相对于普通股而言具有优先购买权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n优先股特征是两个优先、两个不优先，即股利和求偿权优先、配股和投票权不优先"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0406-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4356-70e3-11ee-b522-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的最佳资本结构应该最小化企业资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n最优资本结构为最大化公司价值的资本结构，也是最小化资本成本的结构"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f042e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4357-70e3-11ee-9185-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据权衡理论，不存在财务杠杆的目标值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n在众多资本结构理论中，静态权衡理论是存在最优的资本结构，即存在最优财务杠\n杆目标值。该理论认为，当债务所带来的边际收益与债务带来的边际成本相同时，公司成本最小， 且价值最大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0460-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4358-70e3-11ee-b754-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凯恩斯货币需求理论认为实际货币需求与实际收入和名义利率正相关"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n根据凯恩斯流动性偏好理论，实际的货币需求与实际收入呈正相关，与利率水平负相关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0488-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea4359-70e3-11ee-bae9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在法定存款准备金率为10%的监管条件下，在央行有超额准备金10万元的A银行能够满足企业20万的贷款需求"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\nA银行超额准备金为10万，因此能够放贷的自由资金为10万，最多能够满足该银行客户企业10万元的贷款需求，而通过银行系统的资产负债表，整个金融体系， 10万寸10% =100万元的贷款需求将得到满足"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f04b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea435a-70e3-11ee-a62f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在本国价格水平与外国价格水平保持不变的情况下，本币汇率升值将改善本国贸易条件"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n贸易条件指一定时期内一国每出口一单位商品可以交换多少单位外国进口商品比例冨囂豔¥ = #，式中，P表示国内价格水平，P*表示国外价格水平；e表示名义汇率。贬值(e上升)使得本币表示的进口商品价格上升，从而进口商品价格却没有相应的上升，意味着贸易条件恶化。本币升值，意味着e下降，进口商品价格下降，贸易条件大于1,贸易条件改善， 用更少的本国商品换来更多的国外商品"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f04d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea435b-70e3-11ee-ad4e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在开放经济条件下，当一国的国内储蓄大于国内投资，则该国经常账户会岀现逆差"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n根据\ny=c+i+g+false，~m\nYd = C + I4-G + false，_M — T\n其中Yd为可支配国民收入。将私人储蓄表示为S = Yd - C,可得（- M） = （S - I） + （T - G）,经常\n账户车=私人部门净储蓄+政府财政赤字或盈余。若考虑政府部门赤字为外生变量，则储蓄大于投\n资时，会造成经常账户的顺差"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f050a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea435c-70e3-11ee-b88f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据可转换理论，商业银行的资产范围从短期周转贷款扩展到了消费性贷款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n可转移理论：也称资产转换理论。该理论认为：为了应付提存所需保持的流动性， 商业银行可以将其资金的一部分投资于具备转让条件的证券上。由于这些盈利资产能够随时出售， 转换为现金，所以贷款不一定非要局限于短期和自偿性投放范围。显然，这种理论是以金融工具和金融市场的发展为背景的。意义：银行资产业务范围得以扩大缺陷：无法保证变现时不遭受资本损失（要求资产质量高和市场环境稳定）；还受制于中央银行的货币政策（贴现率提高的风险） 这一理论为我国商业银行从事证券业务提供了理论依据（投资业务）。但我国商业银行投资业务存在制约条件：①可供银行投资的工具不丰富，信用形式不发达。②管理制度缩小了商业银行的可投资范围，分业经营使商业银行不能投资股票。③国有商业银行的特性，决定了其自主投资意愿往往得不到尊重"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0532-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea435d-70e3-11ee-8f19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。宏观审慎监管是为了维护金融体系的稳定，防止金融系统对经济体系的负外部溢出而采取的一种自下而下的监管模式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n政府监管银行的目的主要有两个：保护存款人利益和保持银行体系的稳定。前者被称为微观审慎性监管，后者被称为宏观审慎性监管。前者强调自下而上，而后者强调自上而下"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0564-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea435e-70e3-11ee-9588-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在通货紧缩时期名义利率高于实际利率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n根据费雪效应，当通货紧缩的时候，预期通胀率小于零，名义利率会低于实际利率"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f058c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea435f-70e3-11ee-a147-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。美元相对于人民币的贬值会恶化中国的净国际投资头寸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n国际投资头寸的影响因素包括经常账户的差额、金融资产和负债价格的波动以及汇率的变动。本国的金融资产是用美元计价的（以美元形式持有的外汇资产），负债是用本币计价的（以人民币形式持有的股票和债券）。当美元贬值时，资产减少，负债不变导致投资头寸恶化"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f05b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a1c-70e3-11ee-8b5c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据蒙代尔-弗莱明模型，一个实施固定汇率制度、允许资本自由流动的国家,采取货币政策来调节宏观经济会受到制约"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n资本完全流动，BP曲线为水平，增加货币供给量，收入上升，利率下降。利率下降会造成资本流出，从而收紧流动性，货币紧缩，LM曲线回到原点，货币政策无效。使用扩张性财政政策是IS曲线向右移动，利率上升，收入上升。利率上升资本流入，LM曲线向右移动，\n财政政策的效率会被放大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f05e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a1d-70e3-11ee-a997-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。指数基金的产生说明了有效市场理论是正确的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n有效市场假说（Efficient-Market Hypothesis）:有效市场假说是资本市场研究的一种理论假设，指在一个有效的资本市场中，有关投资品的全部信息都能够迅速、完整和准确地被投资者所获得，投资者可以据此准确判断该投资品的价值并作出正确的决策。反过来说，任何时刻的投资品价格都充分反映了投资者当时所能得到的一切相关信息，该价格全面反映了该投资品的内在价值。根据可获得的有关信息的范围、程度和时效不同，该理论将市场效率划分为弱型有效、半强型有效和强型有效三种类型。共同基金表现研究，是半强式有效市场的检验方式。指数基金的产生，说明市场至少是半强势有效"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f060e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a1e-70e3-11ee-922d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般情况下，使某投资方案的净现值小于零的折现率，一定高于该投资方案的内含报酬率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n内部收益率法（1）定义：内部收益率（IRR）的基本原理是找出一个能体现项目内在价值的收益率，其本身不受资本市场利息率的影响，而是取决于项目的现金流量，是每个项目的内生变量。内部收益率就是令项目净现值为零的折现率，因此具有净现值的部分特征。（2） 判断标准：①单个项目：若内部收益率大于折现率，项目可以接受：若内部收益率小于折现率， 项目不能接受。②多个项目：选择内部收益率高的项目。（3）再投资假设：假设未来投资收益率等于内部收益率。（4）优点：①易于理解和交流；②不需要设定折现率，可以直接计算得出。\n（5）缺点：对于独立项目和互斥项目来说：投资型项目和融资型项目的决策标准相反；不规则现金流可能导致多个内部收益率对于互斥项目来说：内部收益率法忽略了规模问题，有可能由于高的内部收益率而掩盖了其较小的绝对收益；两项目的现金流序列不同，大额现金流入时间不一致可能会导致内部收益率法则出现错误"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0636-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a1f-70e3-11ee-91ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对两因素套利定价模型来说，因素组合是系统风险已经充分分散化的组合， 对其中一个因素的值为1而对另一个因素的值为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n单因素组合为该因素的风险敞口为1,其他因素的风险敞口为0,当使用双因素模型衡量时，正如题干所述"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f065e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a20-70e3-11ee-8e94-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当上市公司增发股票时，优先股相对于普通股而言具有优先购买权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n优先股特征是两个优先、两个不优先，即股利和求偿权优先、配股和投票权不优先"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0690-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a21-70e3-11ee-98fd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的最佳资本结构应该最小化企业资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n最优资本结构为最大化公司价值的资本结构，也是最小化资本成本的结构"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f06b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a22-70e3-11ee-a256-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据权衡理论，不存在财务杠杆的目标值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n在众多资本结构理论中，静态权衡理论是存在最优的资本结构，即存在最优财务杠\n杆目标值。该理论认为，当债务所带来的边际收益与债务带来的边际成本相同时，公司成本最小， 且价值最大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f06ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a23-70e3-11ee-8dc7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。再贴现率是主动权能够完全掌握在中央银行手中的货币政策工具"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。央行只能决定再贴现率，而不能决定商业银行是否来再贴现，主动权在商业银行手中"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0712-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a24-70e3-11ee-b6ad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凯恩斯开创的流动性偏好理论利用债券的供给和需求来说明均衡利率的决定"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。凯恩斯开创的流动性偏好理论利用货币的供给和需求来说明均衡利率的决定"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f073a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a25-70e3-11ee-9f58-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。非有效的证券或资产组合位于资本市场线的上方"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。.非有效的证券或资产组合位于资本市场现下方，资本市场线上方的部分是不可能该组合"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0762-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a26-70e3-11ee-a33e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本预算中，我们只关注相关税后增量现金流量，由于折旧是非付现费用，所以在估算现金流量时可以忽略折旧"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。折旧可以减税，影响增量现金流"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f078a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a27-70e3-11ee-8b17-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。MM无公司税模型表明，随着公司资本结构中负债比重的提高，权益成本的上升完全抵消了公司使用便宜负债所导致的加权平均成本的下降，因此，公司价值与资本结构无关"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。MM无公司税模型表明公司价值与资本结构无关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f07bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a28-70e3-11ee-a6b3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。托宾投资q理论是用来解释货币政策通过影响货币市场进而影响投资支出，从而传导货币政策意图的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。托宾投资q理论是用来解释货币政策通过影响资本市场（股价）和商品市场（重置成本）进而影响投资支出，从而传导货币政策意图的"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f07e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a29-70e3-11ee-8921-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。通货紧缩将形成有利于净货币债务人的财富分配效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。通货紧缩后债务人实际所需偿还的货币增多，故是不利于债务人的"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0816-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a2a-70e3-11ee-a110-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对于看跌期权的买方，只有在市场价格大于协定价格与期权费之差时才有利可图"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。看跌期权是指期权的买方向卖方支付一定数额的权利金后，即拥有在期权合约的有效期内，按执行价格向期权卖方卖出一定数额标的物的权利，但不负有必须卖出的义务。所以当市价小于协定价格时，可以低价在市场上买入，高价买给期权卖方，此时有利可图"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f083e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a2b-70e3-11ee-9cd3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当评估互斥项目时，用NPV法和IRR法得出的结果总是一致的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不总相等，例如当投资规模不等时，可能两者结论相反"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0866-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a2c-70e3-11ee-bd0e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果两只股票的回报率具有相同的标准差，则它们具有相同的贝塔值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。证券的贝塔值是证券收益率与市场收益率的协方差与市场收益率的方差之比。 所以有可能股票的标准差大的反而贝塔值小，标准差与贝塔值不是等量关系"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0898-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a2d-70e3-11ee-ad07-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。货币的非中性是指货币能够影响实体经济，并对实体经济产生积极或消极的影响"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。货币是节性还是非中性，主要看货币供给量的变化对一般价格水乎和实际利率及产岀水平的影响差异。如果货币供给变化只是影响一般价格水平，一定量的货币供应增加(减少)只引起一般价格水平的上升(下降)，那么货币就是中性的；如果货币供应量的变化，引起实际利率和产出水平等实际经济变量的调整和改变，那么货币是非中性的"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f08c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a2e-70e3-11ee-9989-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。理财业务是商业银行新型资产业务"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。理财业务属于商业银行新型的中间业务"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f08e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a2f-70e3-11ee-9e1b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当人们预期利率上升时，货币需求会大量增加，甚至形成流动性陷阱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。流动性陷阱假说是指当一定时期的利率水平降低到不能再应时，人们预期利率不会再下降了， 此时，无论增加多少货币量，蠢会被人福储藏起莱。• ；"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f091a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a30-70e3-11ee-a5da-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国人民银行发行中央银行票据是举借债务、弥补自身头寸不足"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。中央银行票据是中央银行调节基础货:币的一顼货币政策土具，巨的是减少商业银行可贷资金量"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a31-70e3-11ee-bd9b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在其他因素不变得情况下，本国价格水平提高将引起本币发生实际贬值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。M当本国价格水平提高时,会使本国的商品失去价格优势,岀口小亍遂口，即外国货币的需求量会大于本国货币的需求量，引起本由货币贬值；"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f096a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a32-70e3-11ee-8ee7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。特里芬难题解释了国际金本位制崩溃的原因"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。特里芬难题解释的是布雷顿森林体系崩溃的原因"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0992-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a33-70e3-11ee-aa63-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据均衡信贷配给理论，银行贷款利率相对于市场利率具有粘性，即利率市场化后银行贷款\n利率会是一个比均衡利率更低的利率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。信贷配给是指在固定利率条件下，面对超额的资金需求，银行无法或不愿提高利率，而釆取一些非利率的贷款条件，使部分资金需求者退岀银行借款市场，以消除超额需求而达到平衡。在没有政府限制的情况下，贷款人自愿将贷款利率确定在市场出清利率以下而造成的信贷配给被称作均衡信贷配给。 因此根据均衡信贷配给理论，银行贷款利率比市场利率更具有粘性，利率市场化后银行贷款利率会是一个低于均衡利率的值"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f09c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a34-70e3-11ee-87d2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。目前国际上使用较为广泛的是“5级分类方法”，该方法将银行的贷款资产分为正常、关注、 次级、可疑和损失，除前三类外，后两类为不良资产"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。5级分类方法将银行的贷款资产分为五类，正常、关注、次级、可疑、损失，后三类为不良贷款"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f09ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a35-70e3-11ee-b2f1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。IP0抑价，即IP0低定价发行，对发行公司来说是一项成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。IPO低定价发行股票常用的手段。投资者能以较低价格买入，获得的让利就相当于是发行公司的发行费用了"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0a14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a36-70e3-11ee-a2fa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果企业没有固定成本，则企业的经营杠杆为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。若企业没有固定成本，则息税前利润=边际贡献，经营杠杆系数=基期边际贡献/基期边际贡献="
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0a46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a37-70e3-11ee-9e44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某企业正在讨论更新现有生产线，有两个备选方案：A方案的NPV为400万元，IRR为10%; B方案的NPV为300万元，IRR为15%,据此可疑认为A方案更好"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。净现值法是最重要的传统资本预算方法，比IRR法的使用范围更广。当用NPV与IRR进行决策的结果不一致时，应选择NPV大的投资项目"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0a6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a38-70e3-11ee-a408-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。公司权益的账面价值和市场价值一般不相等"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。股票的市场价格是指股票在二级市场上的交易价格，它一般取决于股票的供求关系。公司权益的账面价值等于股票的账面价格乘上发行的股票数，公司权益的市场价值等于股票的市场价格乘上发行的股票数。公司股票的账面价值和市场价值往往不相等，所以，公司权益的账面价值和市场价值一般不相等"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0aa0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a39-70e3-11ee-9057-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。贝塔值为零的股票其期望收益率也为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据资本资产定价模型，贝塔值为零的股票期望收益率等于无风险利率"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0ac8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a3a-70e3-11ee-aec1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。因素模型中，证券收益率的方差大小只决定于因素的方差大小"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。证券收益率方差的大小取决于因素的方差大小和误差项的方差大小"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0afa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a3b-70e3-11ee-941b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。格雷欣法则证明了在货币选择上的优势劣汰原理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。格雷欣法则解释了金银复本位制条件下劣币驱逐良币的现象，而不是优胜劣汰"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0b22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a3c-70e3-11ee-9ab1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从融资方式看，人寿保单属于一种间接融资工具"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。按融资方式划分，金融工具可分为直接融资工具和间接融资工具。直接融资工具包括政府的国库券、企业债券、商业票据，公司股票等；间接融资工具包括银行债券、银行承兑汇票、 可转让大额存单等。人寿保单这一工具中，保险公司作为金融中介联系了资金的融出方与融入方，因此属于间接融资工具"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0b4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a3d-70e3-11ee-8f00-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。信用卡属于信用货币的一种表现形式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。信用货币经历了传统信用货币、现代信用货币、电子货币的过程。目前主要流行的电子货币主要有储值卡型电子货币、信用卡应用型电子货币（即信用卡）、存款利用型电子货币和现金模拟型电子货币"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0b7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a3e-70e3-11ee-a0a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据利率敏感性缺口理论，当银行处于资产缺口时，利率下降将会使银行的收入增加"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。由缺口分析可知，如果利率敏感型负债高于利率敏感型资产，利率下降会增加银行净收入"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0ba4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a3f-70e3-11ee-a19b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行在公开市场上买进证券，只是等额地投放基础货币，而不是等额地投放货币供应量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。货币供应量的影响受到基础货币投放量和货币乘数的影响，中央银行不能完全控制货币乘数"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0bcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a40-70e3-11ee-a30e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据购买力平价理论，汇率变动主要是由两国通货膨胀率差异导致的，本国相对于外国通胀率提高5%,则在直接标价法下外汇升值5%"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。购买力平价理论认为，任何两种货币的汇率变动都应当反映两国物价水平的变化。 购买力平价理论是一价定律在国内物价水平而非单个商品价格上的简单应用。该理论认为，如果本国的物价水平相对于外国上涨了 5%,那外汇必须升值5%"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0bf4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a41-70e3-11ee-b43c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在资产回报率给定的情况下，银行的杠杆率越低，股东的回报率越高"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据杜邦恒等式，资产收益率=销售净利率*总资产周转率，权益收益率=销售净利率*总资产周转率*权益乘数，因此，权益净利率=资产收益率*权益乘数，因此在资产回报率给定的情况下，杠杆率越高，股东回报率越高"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0c26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a42-70e3-11ee-be6c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。货币政策以通货膨胀为指标会增加产出波动的可能性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。通货膨胀目标制的缺点包括信号迟滞、过于僵化、增加产出波动的可能性以及低经济增长"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0c4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a43-70e3-11ee-80e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在预期利率上升时商业银行应该实施缺口率大于1的策略"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。由利率敏感性缺口理论可知，如果利率敏感型资产高于利率敏感型负债，即缺口率大于1时，利率上升会使利润增加，而利率下跌会使利润减少"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0c76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a44-70e3-11ee-84bd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据资本资产定价模型，当某证券资产的贝塔增加1时，该资产的要求报酬率增加值等于市场回报率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据CAPM公式，R=Rf+|3（ Rm-Rf）,当某证券资产的贝塔增加1时，该资产的要求报酬率增加值等于市场回报率与无风险报酬率之差"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0ca8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a45-70e3-11ee-a9fd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。优先股和普通股的股利，均可以在税前扣除"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。优先股和普通股都是对公司税后净利润的分配，均不可以在税前扣除"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0cd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a46-70e3-11ee-a28e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果两个证券在期望收益一方差坐标系中处于同样的高度，那么这两个证券有同样的期望收益和非系统风险"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。两个证券组合的连线平行于方差轴，说明这两个证券有同样的期望收益和系统风险"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a47-70e3-11ee-aee4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的最佳资本结构应该最小化企业资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。企业最优的资本结构应该是使企业价值最大化，在企业价值最大化的资本结构下， 企业资本成本最低"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0d2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a48-70e3-11ee-a5f5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某公司在评价A、B两个项目时，使用公司的加权平均资本15%作为标准，A.项目的内部收益率为16%, beta系数为1.2, B项目的内部收益率为14%, beta 系数为0.6,当时的无风险利率为7%,市场风险溢酬为8%。总经理认为B项目应舍弃，因为其内部是收益率小于公司的加权平均资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。公司在进行投资决策时，应接受内部收益率大于加权平均资本成本的项目，拒绝内部收益率小于加权平均资本成本的项目"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a49-70e3-11ee-bc03-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。由于经营杠杆的作用，当息税前盈余下降时，普通股每股盈余会下降得更快"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。经营杠杆的作用是在固定成本不变的情况下，销售量对利润产生的作用；而当息税前盈余下降时，由于固定债务利息和优先股股利的存在而导致普通股每股盈余变动幅度大于息税前盈余变动幅度，这是财务杠杆的作用"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0d84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a4a-70e3-11ee-8c27-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。特别提款权是国际货币基金组织创设的一种国际储备资产，随着人民币的加入，特别提款权将由5种货币加权平均定值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a4b-70e3-11ee-8cad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。相比固定汇率制度，浮动汇率制度增强了一国货币政策的独立性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a4c-70e3-11ee-a347-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行的金融稳定目标与物价稳定目标不会发生冲突"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a4d-70e3-11ee-a0c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。罗纳得•麦金农提出以低程度的产品多样化为确定最适度通货区标准"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a4e-70e3-11ee-8f0b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当人们用存款购买债券时意味着存款转移到债券市场从而导致银行存款同等规模减少"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0e56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a4f-70e3-11ee-9e31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。因为企业在央行没有结算账户故商业银行不能直接将其超额准备金贷给一般企业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0e88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a50-70e3-11ee-a5e3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在利率走廊模式下央行通过设置M2的上限和下限给予市场明确预期"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0eb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a51-70e3-11ee-9c7c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据持续期缺口管理思想，当银行持续期缺口为正时，市场利率下降将会降低银行的市场价值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0ed8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a52-70e3-11ee-9473-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。反映通货膨胀率与经济增长率之间的此消彼长关系的曲线通常称为“菲利普斯”曲线"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0f0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a53-70e3-11ee-b651-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。传统货币数量论的现金余额说公式通常表述为Md=kPYo"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0f32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a54-70e3-11ee-87ce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。布雷顿森林体系下汇率波动幅度被限定在黄金输送点的范围内"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0f5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a55-70e3-11ee-a6be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当实际利率为负时，今天收到的1万元现金流的价值要小于1年后收到的1万元现金流的价值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0f82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a56-70e3-11ee-938f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。标准差用于测度系统风险，贝塔用于测量非系统风险"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0faa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a57-70e3-11ee-a87e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。假定你在年初购买了 M公司100股股票，每股价格为30美元。到年末，公司向股东发放每股 2美元的现金股利，年末股票价格上升到每股35美元，如果你出售股票，你的收益率就等于 23. 33%,如果你不出售股票，它就是6. 67%o"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f0fdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a58-70e3-11ee-bf50-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在进行资本预算时,机会成本应该作为增量现金流考虑进来"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1004-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a59-70e3-11ee-b121-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凯恩斯货币需求理论认为实际货币需求与实际收入和名义利率正相关"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据凯恩斯流动性偏好理论，实际的货币需求与实际收入呈正相关，与利率水平负相关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f102c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a5a-70e3-11ee-aa44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在法定存款准备金率为10%的监管条件下，在央行有超额准备金10万元的A银行能够满足企业20万的贷款需求"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。A银行超额准备金为10万，因此能够放贷的自由资金为10万，最多能够满足该银行客户企业10万元的贷款需求，而通过银行系统的资产负债表，整个金融体系， 10万寸10% =100万元的贷款需求将得到满足"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1054-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a5b-70e3-11ee-9edb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在本国价格水平与外国价格水平保持不变的情况下，本币汇率升值将改善本国贸易条件"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n贸易条件指一定时期内一国每出口一单位商品可以交换多少单位外国进口商品比例冨囂豔¥ = #，式中，P表示国内价格水平，P*表示国外价格水平；e表示名义汇率。贬值(e上升)使得本币表示的进口商品价格上升，从而进口商品价格却没有相应的上升，意味着贸易条件恶化。本币升值，意味着e下降，进口商品价格下降，贸易条件大于1,贸易条件改善， 用更少的本国商品换来更多的国外商品"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1086-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a5c-70e3-11ee-bb3f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在开放经济条件下，当一国的国内储蓄大于国内投资，则该国经常账户会岀现逆差"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据\ny=c+i+g+x~m\nYd = C + I4-G + false，_M — T\n其中Yd为可支配国民收入。将私人储蓄表示为S = Yd - C,可得（- M） = （S - I） + （T - G）,经常\n账户车=私人部门净储蓄+政府财政赤字或盈余。若考虑政府部门赤字为外生变量，则储蓄大于投\n资时，会造成经常账户的顺差"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f10ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a5d-70e3-11ee-b4d4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据可转换理论，商业银行的资产范围从短期周转贷款扩展到了消费性贷款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n可转移理论：也称资产转换理论。该理论认为：为了应付提存所需保持的流动性， 商业银行可以将其资金的一部分投资于具备转让条件的证券上。由于这些盈利资产能够随时出售， 转换为现金，所以贷款不一定非要局限于短期和自偿性投放范围。显然，这种理论是以金融工具和金融市场的发展为背景的。意义：银行资产业务范围得以扩大缺陷：无法保证变现时不遭受资本损失（要求资产质量高和市场环境稳定）；还受制于中央银行的货币政策（贴现率提高的风险） 这一理论为我国商业银行从事证券业务提供了理论依据（投资业务）。但我国商业银行投资业务存在制约条件：①可供银行投资的工具不丰富，信用形式不发达。②管理制度缩小了商业银行的可投资范围，分业经营使商业银行不能投资股票。③国有商业银行的特性，决定了其自主投资意愿往往得不到尊重"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f10d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a5e-70e3-11ee-8055-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。宏观审慎监管是为了维护金融体系的稳定，防止金融系统对经济体系的负外部溢出而采取的一种自下而下的监管模式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n政府监管银行的目的主要有两个：保护存款人利益和保持银行体系的稳定。前者被称为微观审慎性监管，后者被称为宏观审慎性监管。前者强调自下而上，而后者强调自上而下"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1108-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a5f-70e3-11ee-bbe4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在通货紧缩时期名义利率高于实际利率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n根据费雪效应，当通货紧缩的时候，预期通胀率小于零，名义利率会低于实际利率"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1130-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a60-70e3-11ee-8f31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。美元相对于人民币的贬值会恶化中国的净国际投资头寸"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n国际投资头寸的影响因素包括经常账户的差额、金融资产和负债价格的波动以及汇率的变动。本国的金融资产是用美元计价的（以美元形式持有的外汇资产），负债是用本币计价的（以人民币形式持有的股票和债券）。当美元贬值时，资产减少，负债不变导致投资头寸恶化"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1158-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a61-70e3-11ee-ae42-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据蒙代尔-弗莱明模型，一个实施固定汇率制度、允许资本自由流动的国家,采取货币政策来调节宏观经济会受到制约"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n资本完全流动，BP曲线为水平，增加货币供给量，收入上升，利率下降。利率下降会造成资本流出，从而收紧流动性，货币紧缩，LM曲线回到原点，货币政策无效。使用扩张性财政政策是IS曲线向右移动，利率上升，收入上升。利率上升资本流入，LM曲线向右移动，\n财政政策的效率会被放大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f118a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a62-70e3-11ee-8dbd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。指数基金的产生说明了有效市场理论是正确的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n有效市场假说（Efficient-Market Hypothesis）:有效市场假说是资本市场研究的一种理论假设，指在一个有效的资本市场中，有关投资品的全部信息都能够迅速、完整和准确地被投资者所获得，投资者可以据此准确判断该投资品的价值并作出正确的决策。反过来说，任何时刻的投资品价格都充分反映了投资者当时所能得到的一切相关信息，该价格全面反映了该投资品的内在价值。根据可获得的有关信息的范围、程度和时效不同，该理论将市场效率划分为弱型有效、半强型有效和强型有效三种类型。共同基金表现研究，是半强式有效市场的检验方式。指数基金的产生，说明市场至少是半强势有效"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f11b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a63-70e3-11ee-86e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般情况下，使某投资方案的净现值小于零的折现率，一定高于该投资方案的内含报酬率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n内部收益率法（1）定义：内部收益率（IRR）的基本原理是找出一个能体现项目内在价值的收益率，其本身不受资本市场利息率的影响，而是取决于项目的现金流量，是每个项目的内生变量。内部收益率就是令项目净现值为零的折现率，因此具有净现值的部分特征。（2） 判断标准：①单个项目：若内部收益率大于折现率，项目可以接受：若内部收益率小于折现率， 项目不能接受。②多个项目：选择内部收益率高的项目。（3）再投资假设：假设未来投资收益率等于内部收益率。（4）优点：①易于理解和交流；②不需要设定折现率，可以直接计算得出。\n（5）缺点：对于独立项目和互斥项目来说：投资型项目和融资型项目的决策标准相反；不规则现金流可能导致多个内部收益率对于互斥项目来说：内部收益率法忽略了规模问题，有可能由于高的内部收益率而掩盖了其较小的绝对收益；两项目的现金流序列不同，大额现金流入时间不一致可能会导致内部收益率法则出现错误"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f11da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a64-70e3-11ee-bd28-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对两因素套利定价模型来说，因素组合是系统风险已经充分分散化的组合， 对其中一个因素的值为1而对另一个因素的值为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n单因素组合为该因素的风险敞口为1,其他因素的风险敞口为0,当使用双因素模型衡量时，正如题干所述"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1202-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a65-70e3-11ee-8fb7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当上市公司增发股票时，优先股相对于普通股而言具有优先购买权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n优先股特征是两个优先、两个不优先，即股利和求偿权优先、配股和投票权不优先"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f122a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a66-70e3-11ee-bbc7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业的最佳资本结构应该最小化企业资本成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n最优资本结构为最大化公司价值的资本结构，也是最小化资本成本的结构"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f125c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a67-70e3-11ee-b795-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据权衡理论，不存在财务杠杆的目标值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n在众多资本结构理论中，静态权衡理论是存在最优的资本结构，即存在最优财务杠\n杆目标值。该理论认为，当债务所带来的边际收益与债务带来的边际成本相同时，公司成本最小，且价值最大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1284-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a68-70e3-11ee-ae2b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国正在逐步建立“货币政策+微观审慎政策”的双支柱金融调控框架"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。 我国正在建立“货币政策+宏观审慎政策”的双支柱体系"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f12ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a69-70e3-11ee-976e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国金融期货交易现有品种包括1年期债券期货、5年期债券期货、沪深300 股指期货中证500股指期货和上证50股指期货等5种"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。 金融期货交易所没有1年期债券期货。我国的金融期货品种包括：\n权益类：沪深300股指期货、中证500股指期货、上证50股指期货、沪深 300 股指期权；\t.\n利率类：2年期国债期货、5年期国债期货、10年期国债期货"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f12d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a6a-70e3-11ee-99b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。国际收支平衡表中的“外汇储备”项目记“负号”表示本国资本流出"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。外汇储备属于储备资产，储备资产增加记负号，表示资本流入"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1306-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a6b-70e3-11ee-9d14-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。国际收支弹性分析理论认为，当一国进出口商品供求弹性之和大于1时，本币贬值可以改善贸易收入"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。。正确"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f132e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a6c-70e3-11ee-85e4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在汇率决定理论中，其它因素不变的情况下，当一国国民收入增加时，根据国际收支说，本币会贬值；而根据弹性价格的货币分析法，本币将升值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。 这个地方结论是相反的，需要特别注意"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1356-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a6d-70e3-11ee-a813-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。曲线效应认为在本币贬值初期，贸易收支反而会恶化，其主要原因是价格具有粘性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。曲线效应：本币贬值到国际收支改善存在一段“时滞”。\n①货币合同阶段（价格、数量双重黏性）：贬值前签订合同价格、数量不变， 以外币计价的合同使得贸易赤字进一步扩大。\n②传导阶段（数量黏性）：签订合同时价格改变，但数量因供求黏性无法改变，以本币表示的进口支出增加，出口的数量并未增多。\n③数量调整阶段：进出口合同数量改变，进口数量下降，出口数量上升，改善贸易赤字。\n其他解释：\n①时滞：内部时滞：企业认识的过程；外部时滞：产品生产的过程。\n②进口商的贬值预期，认为会进一步贬值，加速进口"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1388-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a6e-70e3-11ee-bab7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。SDR作为一国外汇储备的一部分，是IMF分给各成员国的一种账面资产，私人企业可申请持有适当SDR"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。SDR不可以用于私人企业间的经济交易"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f13b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a6f-70e3-11ee-b4be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。套利定价理论与资本资产定价模型的不同点之一是套利定价理论承认了多种系统风险因素"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。。CAPM模型认为系统性风险的来源仅为市场溢价。 而对于APT理论，认为系统性风险的来源可以是多个，可以增加因素直至任何一种证券的非系统性风险与其他证券的非系统性风险都不相关。比如常见的 Fama- French 三因素模型"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f13d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea6a70-70e3-11ee-a490-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在弱式有效的证券市场上，同一证券前后两期收益率的协方差为零"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。。《公司理财》11版270页：“股票的序列相关系数接近于。可以视为和弱型有效相一致。”"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f140a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea912a-70e3-11ee-b9a1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某企业经营杠杆系数为4,每年的固定经营成本为9万元，利息费用为1万\n元，则利息保障倍数为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。经营杠杆=（EBIT+F） /EBIT可得EBIT=3；利息保障倍数=EBIT/利息=3/1=3 o"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1432-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea912b-70e3-11ee-ac8c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。其他条件相同，票面利率低的债券价格变动比票面利率高的债券价格变动幅度大"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。票面利率越低，其价值就相对越依赖于最后面值的兑现，利率稍变动一点，现值就会有很大变动，因此其利率风险越大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f145a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea912c-70e3-11ee-a1b0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。预期回报率位于证券市场线上方的股票是价格被低估的股票"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。根据CAPM, SML线上的证券其收益与其风险是相对应的，也就是均衡的。对于在SML上方的股票，相同的风险下其能得到更多的报酬，因此价值被低估。（也可以认为因为其价格低估，买入价低，最后得到的收益高，所以才会在SML上方"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f148c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea912d-70e3-11ee-a828-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当评估互斥项目时，用NPV法和IRR法得出的结果总是不一致的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。对于互斥项目，IRR法存在着规模问题和时间序列问题。但是如果互斥项目不存在这些问题，那么NPV法与IRR法得出的结果是有可能相同的"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f14b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea912e-70e3-11ee-906e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无风险资产的贝塔系数等于lo"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。根据CAPM,与纵轴的交点为无风险利率，其贝塔系数为0;贝塔系数等于1的为市场组合"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f14dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea912f-70e3-11ee-86db-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。IPO时的绿鞋条款对投行来说是一种成本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。绿鞋条款又称为超额配售选择权，是发行人的成本， 是投行的收益"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f150e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9130-70e3-11ee-a408-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。财务管理的目标是为了使现有股票的每股当前价值最大化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。财务管理的目标就是为了股东财富的最大化，也就是使现有股票的每股价值最大化。因为现有股票的价格已经充分反映了投资者对于未来现金流量的预期"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1536-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9131-70e3-11ee-82c2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。普通年金是指发生在每期期初的一系列固定现金流量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。普通年金是指每期期末收到一系列固定的现金流量。\n【归纳总结】普通年金是指每期期末收到一系列固定的现金流量。即付年金是指每期期初收到一系列固定的现金流量。递延年金也称延期年金，是指第一次收付款项发生时间不在第一期末，而是隔若干期后才开始发生的系列等额收付款项。它是普通年金的特殊形式。永续年金也称永久年金或无限期年金，是指无限期等额收付的年金，可视为普通年金的特殊形式"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f155e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9132-70e3-11ee-b664-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据回收期法则，若一项投资所计算出来的回收期高于某个预定年数，则接受该项投咨"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据回收期法则，应该是计算出来的回收期低于某个预定年数，才接受该项投资"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1586-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9133-70e3-11ee-89fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。q国际货币体系具有确定国际收支调节机制的作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。国际货币体系的作用之一就是当出现国际收支不平衡时，各国政府应采取何种方式弥补这一缺口，各国政府之间的调节措施又如何互相协调"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f15b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9134-70e3-11ee-a09e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。汇率作为一国货币对外价格的表示形式，既受经济因素的影响，又常常受政治和社会因素的影响"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。例如政局不稳定必然带来该国主权货币的贬值"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f15e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9135-70e3-11ee-b139-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一级市场又称初级市场，是发行新证券的市场，也称资本发行市场"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1612-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9136-70e3-11ee-aa93-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。目前世界上大多数国家的商业银行都采用代理行制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。目前世界上大多数国家的商业银行采取的制度是总分行制"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f163a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9137-70e3-11ee-82b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行具有发行的银行、银行的银行和政府的银行三项职能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。除了这三项职能外，还有一项职能调控宏观经济"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1662-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9138-70e3-11ee-a3fc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行的一般性货币政策工具包括存款准备金政策、利率政策和公开市场政策"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。除了存款准备金政策和公开市场操作意外还应该包括再贴现政策而不包括利率政策"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f168a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9139-70e3-11ee-8112-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。通货膨胀除了对产出、就业有影响外，还会引起国民收入再分配的效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。通货膨胀会使财富从货币持有者手中流向资产持有者手中，从人民手中留到政府手中"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f16bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea913a-70e3-11ee-bd5f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。短期资金融通市场又称为资本市场"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。短期资金融通市场一般称为货币市场；长期资金融通市场一般称为资本市场"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f16e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea913b-70e3-11ee-a63d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蒙代尔主张采用经济开放程度作为确定最适通货区的标准。( ·"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蒙代尔主张以生产要素的高度流动性作为标准，麦金农主张以经济开放程度作为标准"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1716-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea913c-70e3-11ee-9e54-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。假设市场上有甲乙两种债券，甲债券目前距到期日还有3年，乙债券目前距到期日还有5年。两种债券除到期日不同外，其他方面均无差异。如果市场利率出现了急剧下降， 甲债券的价值上升得越多"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。市场利率上涨，债券价值下降，距到期日越近受利率影响越小，债券距离到期日的时间越长，利率变化对价格的影响就越大，所以甲债券价值上升得少"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f173e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea913d-70e3-11ee-afd1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。惠伦理论是对凯恩斯的预防动机的货币需求理论的重大发展"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。惠伦模型认为，预防性动机的货币需求是利率的递减函数"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1766-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea913e-70e3-11ee-a01e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据弹性价格货币理论，本国相对于外国的实际利率上升将可能导致本币汇率下降"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。根据弹性价格货币分析法可知，在间接标价法下：\ne=(m2-mj)-α(ya-y,)+β(ia-j)\n通过观察可知，外汇汇率变动与本国货币供应量呈正相关，与外国货币供应量呈负相关；外汇汇率与本国国民收人呈反方向变动，与外国国民收入呈同方向变动；与本国利率呈同方向变动，与外国利率呈反\n方向变动。因此，可能导致本币汇率下降(外币汇率上升)的因素包括：本国相对于外国的名义货币供应量增加；本国相对于外国的实际国民收入减少；本国相对于外国的实际利率上升。本币汇率的变动与本国相对于外国的预期通胀率无关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f178e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea913f-70e3-11ee-8972-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。按照蒙代尔-弗莱明模型分析，在固定汇率制度下，如果资本不完全流动，则货币政策和财政政策都无效"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。固定汇率制下，资本市场越开放(资本越自由流动),财政政策越有效，完全封闭财政政策无效，而不管资本市场开放与否，货币政策都无效；浮动汇率制下，资本市场越封闭，财政政策越有效，完全开放财政政策无效，而不管资本市场开放与否，货币政策都有效"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f17b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9140-70e3-11ee-8cf4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。累积股利的优先股股票收益率大于非累积股利的优先股股票"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。累积优先股指在上市公司利润不足的情况下，公司用下一年度的利润来支付当年优先股股东的股利。与累积优先股不同，非累积优先股股东的股息如果当年得不到支付，是不会用下一年度公司利润  进行优先支付的。从而可以看出，在股东分红权的稳定性上，累积优先股比非累积优先股更加稳定。因此， 从风险补偿的角度来看，非累积优先股的收益率更高"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f17e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9141-70e3-11ee-bbad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。利率明显下降是在经济运行周期的危机阶段"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在宏观经济周期的危机阶段，工商企业由于商品销售困难导致库存增加、资金紧张的局面， 严重时会导致无法按期偿还债务，甚至会造成支付关系紧张并引起货币信用危机。此时企业以赊销方式出  售商品的意愿大幅降低，要求现款支付的比率大幅提高，从而导致资金需求急剧增加、借贷资金供不应求、利率节节走高的局面。进入萧条阶段，物价已跌到最低点，整个社会生产处于停滞状态。与此相适应， 借贷资本的需求减少，市场上游资充斥，利率会不断降低"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1810-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9142-70e3-11ee-b48f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。平均会计收益率法等于不同期问会计利润率的平均值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。会计收益率和平均报酬率不一样。平均报酬率是投资项目寿命周期内平均的年投资报酬率， 平均报酬率是用投资项目寿命周期内的年平均现金流入量取代年平均会计利润，用初始投资额取代平均投资额"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1838-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9143-70e3-11ee-b3c8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。投资收益在国际收支平衡表中应当记入金融账户"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。投资收入指居民与非居民之间投资与借贷所引起的报酬(利润、利息、股息与红利等)的收入与支出。它属于国际收支平衡表经常账户子项目收人的组成部"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1860-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9144-70e3-11ee-8f7a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。由于经营杠杆的作用，当息税前盈余下降时，普通股每股盈余会下降得更快"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。【解析】经营杠杆的作用是在固定成本不变的情况下，销售量对利润产生的作用；而当息税前盈余下降时，由于固定债务利息和优先股股利的存在而导致普通股每股盈余变动幅度大于息税前盈余变动幅度，这是财务杠杆的作用"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1892-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9145-70e3-11ee-a75e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。特别提款权是国际货币基金组织创设的一种国际储备资产，随着人民币的加入，特别提款权将由5种货币加权平均定值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f18ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9146-70e3-11ee-8f8d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。相比固定汇率制度，浮动汇率制度增强了一国货币政策的独立性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f18ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9147-70e3-11ee-84dc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行的金融稳定目标与物价稳定目标不会发生冲突"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1914-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9148-70e3-11ee-b25c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。罗纳得•麦金农提出以低程度的产品多样化为确定最适度通货区标准"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f193c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9149-70e3-11ee-8304-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当人们用存款购买债券时意味着存款转移到债券市场从而导致银行存款同等规模减少"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1964-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea914a-70e3-11ee-9128-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。因为企业在央行没有结算账户故商业银行不能直接将其超额准备金贷给一般企业"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1996-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea914b-70e3-11ee-9931-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在利率走廊模式下央行通过设置M2的上限和下限给予市场明确预期"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f19be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea914c-70e3-11ee-8279-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据持续期缺口管理思想，当银行持续期缺口为正时，市场利率下降将会降低银行的市场价值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f19e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea914d-70e3-11ee-81f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。反映通货膨胀率与经济增长率之间的此消彼长关系的曲线通常称为“菲利普斯”曲线"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1a0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea914e-70e3-11ee-ab93-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。传统货币数量论的现金余额说公式通常表述为Md=kPYo"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1a36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea914f-70e3-11ee-ad62-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。布雷顿森林体系下汇率波动幅度被限定在黄金输送点的范围内"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1a5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9150-70e3-11ee-adc9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当实际利率为负时，今天收到的1万元现金流的价值要小于1年后收到的1万元现金流的价值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1a90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9151-70e3-11ee-8551-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。标准差用于测度系统风险，贝塔用于测量非系统风险"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1ab8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9152-70e3-11ee-92e2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。假定你在年初购买了 M公司100股股票，每股价格为30美元。到年末，公司向股东发放每股 2美元的现金股利，年末股票价格上升到每股35美元，如果你出售股票，你的收益率就等于 23. 33%,如果你不出售股票，它就是6. 67%o"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1ae0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9153-70e3-11ee-9f6a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在进行资本预算时,机会成本应该作为增量现金流考虑进来"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1b12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9154-70e3-11ee-a6fc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在均值一标准差坐标系中，风险厌恶者的无差异曲线是具有相同预期收益率和不同标准差的投资组合轨迹"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。\n题干描述的是收益和标准差的轨迹"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1b3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9155-70e3-11ee-8188-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在投资组合理论中，市场组合是资本市场线和无差异曲线的切点"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。投资学基础知识，论述正确"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1b62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9156-70e3-11ee-b1f7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。迈尔斯提出了在信息不对称条件下公司融资的顺序应当为内部融资、股票融资和负债融资"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。\n按照优序融资理论.负债融资应在股票融资之前"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1b94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9157-70e3-11ee-b12d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。考虑所得税影响时，项目釆用加速折旧法计提折旧计算出来的净现值比采用直线折旧法计提折旧计算出来的净现值大"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。因为方案净现值的计算是以收付实现制为基础的，不考虑非付现的成本,无论采用加速折旧法计提折旧还是采用直线法计提折旧，不考虑所得税的影响时,现金流量是相等的;若考虑所得税的影响.折旧抵税作为现金流入来考虑，而采用加速折旧法，同一方案的营业计提折旧前几年多后几年少的方案净现值比采用直线法计提折旧计算出的净现值大"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1bbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9158-70e3-11ee-8aed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。釆取剩余股利政策可以保证公司各年的股利水平比较均衡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。\n如果完全遵照执行剩余股利政策，股利发放额就会每年随投资机会和盈利水平的波动而波动。所以剩余股利政策不能保证公司每年股利水平比较均衡"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1be4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9159-70e3-11ee-aa30-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在金融市场发达的国家,以股票融资为代表的直接融资是企业融资的主要渠道"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。\n金融市场发达的国家，直接融资也不是主要的融资方式"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1c34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea915a-70e3-11ee-b938-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。货币市场流动性不足的主要表现是货币乘数缩小"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。\n货币市场的流动性用M/M2来衡量"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1c66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea915b-70e3-11ee-a95b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中央银行公开市场操作将导致非借入准备金的等额变动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n公开市场操作影响的是非借入准备金"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1c8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea915c-70e3-11ee-b846-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国《商业银行资本管理办法》要求非系统性重要银行的附加资本为1%"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。。\n我国系统性重要银行的附加资本为1%"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1cb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea915d-70e3-11ee-a41a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据第六版《国际收支手册》,非居民向本国居民支付的投资利息、股息或红利，应记入本国国际收支平衡表中投资收益项的贷方"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n资金的来源记贷方"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1cde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea915e-70e3-11ee-92c6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据巴拉萨一萨缪尔森效应，如果一国贸易部门的生产率提高，就会引起不可贸易品价格上涨和本币的长期实际贬值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n根据巴拉萨一萨缪尔森效应，一国商品价格上升，不管是浮动汇率制度还是固定汇率制度下都表现为实际汇率的上升，货币贬值"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1d10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea915f-70e3-11ee-8658-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。阿尔法值为正的股票属于定价偏高"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n阿尔法值是测定证券收益率与位于证券市场线上的证券组合的期望收益率之差。在有效市场中，阿尔法值为正说明该股票的定价不合理，投资者会立刻进行套利,使该股票的定价恢复合理"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1d38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9160-70e3-11ee-bc49-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。通常在国庆长假前，中央银行会与商业银行进行逆回购交易来增加基础货币投放"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1d60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9161-70e3-11ee-bddc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。违约风险债券与无风险债券的利率之差称为违约升水"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1d88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9162-70e3-11ee-8f9e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。商业银行扩张信用、创造派生存款的约束机制的原理在于商业银行吸收的存款是否能够全部发放贷款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。本题主要考查商业银行存款货币创造的两个基本条件：部分准备金制度和转账结算制度。部分准备金适度使得商业银行能够放贷，而转账结算制度则为放贷出去的资金提供了在商业银行体系中扩张的机会。假设商业银行放贷出去的资金是以现金形式持有，则无法扩张"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1dba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9163-70e3-11ee-9ca8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在其他因素不变的情况下，本国价格水平提高将引起本币实际升值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。本国价格水平相对提高将使对本国资产的需求相对减少，从而使本币实际贬值"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1de2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9164-70e3-11ee-a7f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某投资者釆取如下的投资策略：在股票价格下跌10%时买入股票，在价格上涨10% 时卖出股票，如果这种策略在股市中能够获得超额收益，则意味弱有效市场假说不成立"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1e0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9165-70e3-11ee-a818-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。啄食优序理论(pecking order theory)认为，盈利好的企业应该多负债"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。啄食优序理论认为融资顺序是：内部融资优于外部融资（外部融资中，债券融资优于股权融资），故盈利好的企业应先通过内容融资，少负债"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1e3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9166-70e3-11ee-ab09-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。成长型股票的市账率(即市值与账面价值比)一般小于"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。一般来说，公司的增长机会越好，市账率越高。对于成长型企业，其市场价值往往能够快速增长从而超越以历史成本衡量的账面价值，故市账率应该大于"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1e64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9167-70e3-11ee-9c60-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。年美国国会通过的《麦克法登法案＞(McFadden Act)确立了美国商业银行与投资银行混业经营的格局"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。1999年美国《金融服务现代化法》实现了从分业经营到混业经营的转变"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1e8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9168-70e3-11ee-8c93-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在通货膨胀比较严重、且预期通货膨胀问题能够在近期内明显缓解的情况下，长期利率会低于短期利率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1ebe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9169-70e3-11ee-aed3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“中央银行是政府的银行”的含义是指中央银行的产权归属于政府"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。美联储的产权属于私人"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1ee6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea916a-70e3-11ee-9eff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。双本位制是金银两种本位币均按其实际价值流通，国家法律不规定金银币比价的货币制度"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。平行本位制国家法律不规定金银比价，双本位制国家法律规定金银比价"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1f0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea916b-70e3-11ee-a54c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。法定存款准备金率提高，货币乘数变小，货币供应量减少"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。从货币乘数的公式看，法定存款准备金率提高，货币乘数是会减小的，但是货币供应量不仅跟货币乘数有关，也跟基础货币有关，在基础货币的变化不清楚的情况下，不能确定货币供应量的变化"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1f40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea916c-70e3-11ee-8cd0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。预期通货膨胀率越高，货币需求就越大"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。预期通货膨胀率跟通货膨胀负相关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1f68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea916d-70e3-11ee-9ff7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。直接标价法下，外汇汇率上升意味着外币升值、本币贬值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1f90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea916e-70e3-11ee-a726-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。布雷顿森林体系解体后，固定汇率制代替了浮动汇率制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。布雷顿森林体系解体后，浮动汇率制替代了固定汇率制"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1fc2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea916f-70e3-11ee-9bed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。双本位制是金银两种本位币均按其实际价值流通，国家法律不规定金银币比价的货币制度"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。平行本位制国家法律不规定金银比价，双本位制国家法律规定金银比价"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f1fea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9170-70e3-11ee-8dbc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。法定存款准备金率提高，货币乘数变小，货币供应量减少"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。从货币乘数的公式看，法定存款准备金率提高，货币乘数是会减小的，但是货币供应量不仅跟货币乘数有关，也跟基础货币有关，在基础货币的变化不清楚的情况下，不能确定货币供应量的变化"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f2012-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9171-70e3-11ee-b6e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。预期通货膨胀率越高，货币需求就越大"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。预期通货膨胀率跟通货膨胀负相关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f203a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9172-70e3-11ee-8372-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。直接标价法下，外汇汇率上升意味着外币升值、本币贬值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f2062-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9173-70e3-11ee-9835-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。布雷顿森林体系解体后，固定汇率制代替了浮动汇率制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。布雷顿森林体系解体后，浮动汇率制替代了固定汇率制"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f208a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9174-70e3-11ee-8bf8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。双本位制是金银两种本位币均按其实际价值流通，国家法律不规定金银币比价的货币制度"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。平行本位制国家法律不规定金银比价，双本位制国家法律规定金银比价"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f20bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9175-70e3-11ee-a862-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。法定存款准备金率提高，货币乘数变小，货币供应量减少"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。从货币乘数的公式看，法定存款准备金率提高，货币乘数是会减小的，但是货币供应量不仅跟货币乘数有关，也跟基础货币有关，在基础货币的变化不清楚的情况下，不能确定货币供应量的变化"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f20e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9176-70e3-11ee-9673-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。预期通货膨胀率越高，货币需求就越大"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。预期通货膨胀率跟通货膨胀负相关"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f210c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9177-70e3-11ee-9ace-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。直接标价法下，外汇汇率上升意味着外币升值、本币贬值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f213e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9178-70e3-11ee-9ce8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。布雷顿森林体系解体后，固定汇率制代替了浮动汇率制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。布雷顿森林体系解体后，浮动汇率制替代了固定汇率制"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f2166-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea9179-70e3-11ee-ac51-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。金融工具与金融资产是对同一事物的两个不同性质的表述"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。对于企业来说金融工具就是金融资产"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "金融学类",
+		"raw_uuid": "349f218e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "8dea917a-70e3-11ee-b41e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。远期利率协议（FRA）并不涉及交易双方一笔本金的实际交易"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。\n远期利率协议不涉及执行"
+	}
+]

@@ -1,0 +1,97 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3c482-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "be268a12-6b4c-11ee-9283-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Findings of the Stanford University researchers will promote the sales of new Boeing and Airbus aircraft."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3c586-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "be26d7bc-6b4c-11ee-bcc4-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。The upwash experience may save propelling energy as well as reducing resistance."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3c5e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "be26d7bd-6b4c-11ee-b17e-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Formation flight is more comfortable because passengers can not see the other planes."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3c626-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "be26d7be-6b4c-11ee-b287-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。The role that weather plays in formation flight has not yet been clearly defined."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3c66c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "be26d7bf-6b4c-11ee-b376-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。It has been documented that during World War Ⅱ, America’s armed forces once tried formation flight to save fuel."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	}
+]

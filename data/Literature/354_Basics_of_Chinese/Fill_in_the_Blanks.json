@@ -1,0 +1,3327 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01320-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbbc496-6cde-11ee-9801-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。乌⻳ūguēi。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为wūguī。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0142e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11e8-6cde-11ee-8d68-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。⽪袄píǎo。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为pí’ǎo。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01474-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11e9-6cde-11ee-b38b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。阳光iánguāng。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yángguāng。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d014a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11ea-6cde-11ee-b401-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。丢弃diōuqì。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为diūqì。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d014ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11eb-6cde-11ee-9ace-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。⼟堆tǔduēi。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为tǔduī。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01500-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11ec-6cde-11ee-8aab-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。窈窕iǎotiǎo。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yǎotiǎo。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11ed-6cde-11ee-ab46-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。西安xīān。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为xī’ān。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0155a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11ee-6cde-11ee-8e8d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。圆⼼yǚánxīn。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yuánxīn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0158c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11ef-6cde-11ee-8714-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。谜案mīàn。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为mí’àn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d015b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f0-6cde-11ee-af17-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。新闻xīuén。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为xīnwén。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d015e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f1-6cde-11ee-95e8-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。乱子luènzǐ。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为luànzi。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01618-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f2-6cde-11ee-88bd-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。留学lióuxué。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为liúxué。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01640-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f3-6cde-11ee-b63a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。谜案mīàn。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为mí’àn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01672-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f4-6cde-11ee-94dc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。芣苢fóuǐ。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为fúyǐ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0169a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f5-6cde-11ee-9145-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。论文luènuén。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为lùnwén。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d016c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f6-6cde-11ee-9e26-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。流失lióushī。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为liúshī。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d016f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f7-6cde-11ee-8fab-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。规则guēizé。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为guīzé。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0171c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f8-6cde-11ee-8404-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。⽉夜yuèiè。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yuèyè。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01744-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11f9-6cde-11ee-b534-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。留洋lióuiáng。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为liúyáng。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01776-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11fa-6cde-11ee-86c7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。语气yǚqì。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yǔqì。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0179e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11fb-6cde-11ee-8c11-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。⾐服īfú。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yīfu。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d017d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11fc-6cde-11ee-8345-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。酷爱kùài。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为kù’ài。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d017f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11fd-6cde-11ee-8ea9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。文雅uényá。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为wényǎ。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0182a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11fe-6cde-11ee-9983-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。联系líɑnxì。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为liánxì。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01852-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc11ff-6cde-11ee-81d5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。⼼爱xīnài。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为xīn’ài。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01884-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1200-6cde-11ee-a143-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。扣留koùlióu。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为kòuliú。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d018ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1201-6cde-11ee-88d3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。扬言iángián。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yángyán。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d018de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1202-6cde-11ee-aa38-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。乱闻luànuén。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为luànwén。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1203-6cde-11ee-9490-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。流芳lióufāng。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为liúfāng。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01938-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1204-6cde-11ee-bc52-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。遥远iǎoyǚǎn。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yáoyuǎn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01960-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1205-6cde-11ee-9087-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。奇案qíàn。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为qí’àn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01992-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1206-6cde-11ee-a9fb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。灰⾊huēisè。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为huīsè。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d019c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1207-6cde-11ee-8448-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。用意iòngì。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yòngyì。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d019ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1208-6cde-11ee-97a5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。灰⾊huēisè。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为huīsè。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01a14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1209-6cde-11ee-a029-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。堤岸dīàn。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为dī’àn。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01a46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc120a-6cde-11ee-a566-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》，改正下列拼写错误。医学īxué。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应改为yīxué。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01a6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc120b-6cde-11ee-892d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》写出下列词语的拼音。蜿蜒。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "wānyán；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01a96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc120c-6cde-11ee-9dab-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》写出下列词语的拼音。照片。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "zhàopiān；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01ac8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc120d-6cde-11ee-8eeb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》写出下列词语的拼音。空⼉。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "kòngr；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01af0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc120e-6cde-11ee-88b6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《汉语拼音方案》写出下列词语的拼音。回流。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "huí1íú。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01b18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc120f-6cde-11ee-afb2-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列汉字的调值和调类。高明。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“高”调值55，调类阴平；“明”调值35，调类阳平。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01b4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1210-6cde-11ee-b15f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分析下列汉字的调值和调类。说话。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“说”调值55，调类阴平；“话”调值51，调类去声。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01b72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc1211-6cde-11ee-8808-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。世外桃园。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“世外桃园”应改为“世外桃源”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01b9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38f1-6cde-11ee-9797-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。⿎惑人⼼。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“⿎惑人⼼”应改为“蛊惑人⼼”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01bcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38f2-6cde-11ee-85ed-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。残⽆人道。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“残⽆人道”应改为“惨⽆人道”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01bf4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38f3-6cde-11ee-8e72-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。出奇致胜。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“出奇致胜”应改为“出奇制胜”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01c26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38f4-6cde-11ee-9995-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。灸⼿可热。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“灸⼿可热”应改为“炙⼿可热”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01c4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38f5-6cde-11ee-bda7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。绿草如阴。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“绿草如阴”应改为“绿草如茵”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01c76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38f6-6cde-11ee-8fdb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。破斧沉⾈。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“破斧沉⾈”应改为“破釜沉⾈”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01ca8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38f7-6cde-11ee-af53-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。迫不急待。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“迫不急待”应改为“迫不及待”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01cd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38f8-6cde-11ee-bea4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。鞠躬尽粹。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“鞠躬尽粹”应改为“鞠躬尽瘁”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01d02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38f9-6cde-11ee-8b77-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。饮鸠⽌渴。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“饮鸠⽌渴”应改为“饮鸩⽌渴”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01d2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38fa-6cde-11ee-aca4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。动辙得咎。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“动辙得咎”应改为“动辄得咎”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01d5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38fb-6cde-11ee-80c1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。戳力同⼼。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“戳力同⼼”应改为“勠力同⼼”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01d84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38fc-6cde-11ee-97a6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。卑躬曲膝。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“卑躬曲膝”应改为“卑躬屈膝”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38fd-6cde-11ee-b653-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。随声附合。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“随声附合”应改为“随声附和”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01dde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38fe-6cde-11ee-875e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。暇不掩瑜。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“暇不掩瑜”应改为“瑕不掩瑜”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc38ff-6cde-11ee-9456-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。宽洪大量。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“宽洪大量”应改为“宽宏大量”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3900-6cde-11ee-81d7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。飞扬拔扈。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“飞扬拔扈”应改为“飞扬跋扈”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01e60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3901-6cde-11ee-9fb5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。投机捣把。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“投机捣把”应改为“投机倒把”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01e88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3902-6cde-11ee-a90a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。如法泡制。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“如法泡制”应改为“如法炮制”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01eb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3903-6cde-11ee-8cd2-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。趋之若骛。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“趋之若骛”应改为“趋之若鹜”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01ee2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3904-6cde-11ee-8243-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。惮精竭虑。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“惮精竭虑”应改为“殚精竭虑”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01f0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3905-6cde-11ee-a7eb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。磬⽵难书。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“磬⽵难书”应改为“罄⽵难书”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01f3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3906-6cde-11ee-b0b5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。⽆是生⾮。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“⽆是生⾮”应改为“⽆事生⾮”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01f64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3907-6cde-11ee-b063-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。变本加利。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“变本加利”应改为“变本加厉”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01f96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3908-6cde-11ee-90b5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。好高鹜远。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“好高鹜远”应改为“好高骛远”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01fbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3909-6cde-11ee-ab27-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。搬门弄斧。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“搬门弄斧”应改为“班门弄斧”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d01fe6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc390a-6cde-11ee-b3da-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。按步就班。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“按步就班”应改为“按部就班”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0200e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc390b-6cde-11ee-b0ad-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。并行不背。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“并行不背”应改为“并行不悖”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02040-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc390c-6cde-11ee-9922-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。遗笑大方。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“遗笑大方”应改为“贻笑大方”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02068-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc390d-6cde-11ee-8cf9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。出奇不意。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“出奇不意”应改为“出其不意”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0209a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc390e-6cde-11ee-8679-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。肆⽆忌殚。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“肆⽆忌殚”应改为“肆⽆忌惮”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d020c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc390f-6cde-11ee-b33e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。以逸代劳。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“以逸代劳”应改为“以逸待劳”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d020f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3910-6cde-11ee-8e1d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。民生凋蔽。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“民生凋蔽”应改为“民生凋敝”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0211c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3911-6cde-11ee-ac7c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。梳装打扮。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“梳装打扮”应改为“梳妆打扮”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0214e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3912-6cde-11ee-8e0b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。一愁莫展。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“一愁莫展”应改为“一筹莫展”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02176-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3913-6cde-11ee-ad00-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。编缉杂志。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“编缉杂志”应改为“编辑杂志”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d021a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3914-6cde-11ee-b58b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。出类拔粹。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“出类拔粹”应改为“出类拔萃”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d021d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3915-6cde-11ee-b732-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。相形见拙。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“相形见拙”应改为“相形见绌”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d021f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3916-6cde-11ee-82a9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。别出新裁。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“别出新裁”应改为“别出⼼裁”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0222a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3917-6cde-11ee-ba65-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。谈笑风声。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“谈笑风声”应改为“谈笑风生”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02252-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3918-6cde-11ee-85ab-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。细⾄。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“细⾄”应改为“细致”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02284-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3919-6cde-11ee-99ee-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。疮伤。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“疮伤”应改为“创伤”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d022ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc391a-6cde-11ee-b404-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。粉粹。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“粉粹”应改为“粉碎”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d022de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc391b-6cde-11ee-b9f6-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。九洲。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“九洲”应改为“九州”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02306-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc391c-6cde-11ee-97ce-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。脏款。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“脏款”应改为“赃款”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02338-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc391d-6cde-11ee-b274-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。寒喧。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“寒喧”应改为“寒暄”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02360-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc391e-6cde-11ee-a2db-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。做⽉子。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“做⽉子”应改为“坐⽉子”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02388-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc391f-6cde-11ee-a10e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。风声鹤淚。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“风声鹤淚”应改为“风声鹤唳”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d023ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3920-6cde-11ee-aaa2-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。半途而费。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“半途而费”应改为“半途而废”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d023e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3921-6cde-11ee-868a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。哀声叹气。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“哀声叹气”应改为“唉声叹气”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02414-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3922-6cde-11ee-9bbe-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。百步串杨。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“百步串杨”应改为“百步穿杨”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0243c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3923-6cde-11ee-a59e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。百尺杆头。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“百尺杆头”应改为“百尺竿头”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0246e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3924-6cde-11ee-99c0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。罢绌百家。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“罢绌百家”应改为“罢黜百家”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02496-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3925-6cde-11ee-b546-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。杯工蛇影。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“杯工蛇影”应改为“杯弓蛇影”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d024be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3926-6cde-11ee-a4d4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语的错别字。草奸人命。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“草奸人命”应改为“草菅人命”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d024f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3927-6cde-11ee-ba19-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语的错别字。道不拾贻。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“道不拾贻”应改为“道不拾遗”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02518-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3928-6cde-11ee-ab15-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语的错别字。悍马功劳。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“悍马功劳”应改为“汗马功劳”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0254a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3929-6cde-11ee-93b9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语的错别字。针炙。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“针炙”应改为“针灸”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02572-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc392a-6cde-11ee-8723-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语的错别字。克已奉公。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“克已奉公”应改为“克己奉公”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0259a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc392b-6cde-11ee-90c4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语的错别字。明察秋豪。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“明察秋豪”应改为“明察秋毫”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d025cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc392c-6cde-11ee-9d45-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。图穷⼔现。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“图穷⼔现”应改为“图穷⼔见”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d025f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc392d-6cde-11ee-b88f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。渡假村。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“渡假村”应改为“度假村”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02626-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc392e-6cde-11ee-96dc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。以逸代劳。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“以逸代劳”应改为“以逸待劳”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02658-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc392f-6cde-11ee-bdb2-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。骄揉造作。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“骄揉造作”应改为“矫揉造作”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02680-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3930-6cde-11ee-a684-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。悬崖肋马。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“悬崖肋马”应改为“悬崖勒马”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d026a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3931-6cde-11ee-936c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。细⾄入微。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“细⾄入微”应改为“细致入微”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d026da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3932-6cde-11ee-9381-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。情不自尽。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“情不自尽”应改为“情不自禁”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02702-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3933-6cde-11ee-8f9f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。⾚搏上阵。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“⾚搏上阵”应改为“⾚膊上阵”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0272a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3934-6cde-11ee-8437-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。计日成功。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“计日成功”应改为“计日程功”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0275c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3935-6cde-11ee-9761-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。义不容词。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“义不容词”应改为“义不容辞”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02784-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3936-6cde-11ee-bb20-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。言简意该。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“言简意该”应改为“言简意赅”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d027b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3937-6cde-11ee-81f9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改正下列词语中的错别字。精神焕散。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“精神焕散”应改为“精神涣散”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d027de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3938-6cde-11ee-a740-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。飞扬拔扈。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“飞扬拔扈”应改为“飞扬跋扈”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02810-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3939-6cde-11ee-ab41-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。短小精捍。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“短小精捍”应改为“短小精悍”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02838-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc393a-6cde-11ee-a0cc-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。投机捣把。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“投机捣把”应改为“投机倒把”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02860-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc393b-6cde-11ee-99f1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。如法泡制。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“如法泡制”应改为“如法炮制”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02892-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc393c-6cde-11ee-93fa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。惮精竭虑。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“惮精竭虑”应改为“殚精竭虑”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d028ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc393d-6cde-11ee-aef1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。潜然泪下。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“潜然泪下”应改为“潸然泪下”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d028ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc393e-6cde-11ee-81ae-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。篷荜生辉。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“篷荜生辉”应改为“蓬荜生辉”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02914-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc393f-6cde-11ee-9b52-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。磬⽵难书。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“磬⽵难书”应改为“罄⽵难书”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0293c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3940-6cde-11ee-ad2f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。⽆是生⾮。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“⽆是生⾮”应改为“⽆事生⾮”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0296e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3941-6cde-11ee-ad8d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。变本加利。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“变本加利”应改为“变本加厉”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02996-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3942-6cde-11ee-8765-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。陈词烂调。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“陈词烂调”应改为“陈词滥调”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d029be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3943-6cde-11ee-a14c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。搬门弄斧。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“搬门弄斧”应改为“班门弄斧”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d029f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3944-6cde-11ee-9dcf-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。按步就班。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“按步就班”应改为“按部就班”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02a18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3945-6cde-11ee-998c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。暗然神伤。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“暗然神伤”应改为“黯然神伤”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02a40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3946-6cde-11ee-a433-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。负偶顽抗。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“负偶顽抗”应改为“负隅顽抗”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02a72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3947-6cde-11ee-bde3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有别字，请加以改正。并行不背。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“并行不背”应改为“并行不悖”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02a9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3948-6cde-11ee-96f4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有错别字，请加以改正。梳装打扮。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“装”应改为“妆”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02acc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3949-6cde-11ee-afed-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有错别字，请加以改正。编缉杂志。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“缉”应改为“辑”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02af4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc394a-6cde-11ee-9d61-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有错别字，请加以改正。条理清淅。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“淅”应改为“晰”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02b1c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc394b-6cde-11ee-94ab-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有错别字，请加以改正。按排工作。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“按”应改为“安”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02b4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc394c-6cde-11ee-81fa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有错别字，请加以改正。流览一遍。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“流”应改为“浏”。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02b76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc394d-6cde-11ee-ba3a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列词语中如有错别字，请加以改正。迫不及待。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“迫不及待”正确，⽆错别字。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02ba8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc394e-6cde-11ee-9ae0-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列诸字在《新华字典》中按哪一部⾸检字？事。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一部。“事”字是个合体字，检字法中取它的第一笔为部⾸。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02bd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc394f-6cde-11ee-8331-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列诸字在《新华字典》中按哪一部⾸检字？爽。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大部。“爽”字是个会意字，检字法中把“大”作为部⾸。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02bf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc3950-6cde-11ee-8e72-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列诸字在《新华字典》中按哪一部⾸检字？所。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "斤部。“斤”指的是斧子，是“所”字的部⾸。“所”的本义就是伐木声。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02c2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc5ffe-6cde-11ee-9a75-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列诸字在《新华字典》中按哪一部⾸检字？翅。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽻部。“翅”是个形声字，检字法中把“⽻”作为部⾸。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02c52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc5fff-6cde-11ee-8782-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列诸字在《新华字典》中按哪一部⾸检字？腾。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽉部。“腾”字是个形声字，检字法中把“⽉”作为部⾸。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02c7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6000-6cde-11ee-9853-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列诸字在《新华字典》中按哪一部⾸检字？弟。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼋部。“弟”字是个象形字，检字法中取它的前两笔为部⾸。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02cac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6001-6cde-11ee-9d0d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出下列各字的笔顺和笔画。张。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "张，横折、横、竖折折钩、撇、横、竖提、捺，共7画。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02cd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6002-6cde-11ee-81ee-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出下列各字的笔顺和笔画。鸟。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "鸟，撇、横折钩、点、竖折折钩、横，共5画。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02d06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6003-6cde-11ee-ac6f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出下列各字的笔顺和笔画。每。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "每，撇、横、竖、横折钩、点、横、点，共7画。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02d2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6004-6cde-11ee-a13d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出下列各字的笔顺和笔画。妈。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "妈，撇点、撇、横、横折、竖折折钩、横，共6画。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02d60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6005-6cde-11ee-8192-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出下列各字的笔顺和笔画。级。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "级，撇折、撇折、提、撇、横折折撇、捺，共6画。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02d88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6006-6cde-11ee-a056-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出下列各字的笔顺和笔画。凹。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凹，竖、横折弯、竖、横折、横，共5画。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02dba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6007-6cde-11ee-8d86-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出下列各字的笔顺和笔画。凸。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凸，竖、横、竖、横折折折、横，共5画。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02de2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6008-6cde-11ee-8999-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出下列各字的笔顺和笔画。好。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "好，撇点、撇、横、横撇、竖钩、横，共6画。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02e0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6009-6cde-11ee-a181-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出下列各字的笔顺和笔画。晚。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "晚，竖、横折、横、横、撇、横撇、竖、横折、横、撇、竖弯钩，共11画。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02e3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc600a-6cde-11ee-b684-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出与下列繁体字相对应的简化字。燦（）。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "燦（灿）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02e64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc600b-6cde-11ee-af66-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出与下列繁体字相对应的简化字。礙（）。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "礙（碍）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02e8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc600c-6cde-11ee-b6c9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出与下列繁体字相对应的简化字。頭（）。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "頭（头）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02ebe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc600d-6cde-11ee-b31f-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出与下列繁体字相对应的简化字。縣（）。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "縣（县）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02ee6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc600e-6cde-11ee-ac1e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出与下列繁体字相对应的简化字。謄（）。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "謄（誊）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02f18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc600f-6cde-11ee-9d20-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出与下列繁体字相对应的简化字。灑（）。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "灑（洒）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02f40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6010-6cde-11ee-8c63-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出与下列繁体字相对应的简化字。獸（）。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "獸（兽）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02f72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6011-6cde-11ee-84d5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出与下列繁体字相对应的简化字。憑（）。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "憑（凭）"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02f9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6012-6cde-11ee-bcfd-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列汉字的造字法，合体字请指出其偏旁及作用。森。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "森：会意字，偏旁是三个木，表示树很多组成一片森林。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02fcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6013-6cde-11ee-b5ee-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列汉字的造字法，合体字请指出其偏旁及作用。辩。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "辩：形声，内形外声，中间是“言”的变形，为形旁，声旁为辡，表示与说话有关。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d02ff4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6014-6cde-11ee-bd06-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列汉字的造字法，合体字请指出其偏旁及作用。从。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从：会意字，偏旁为两个“人”，一前一后，表前后相随。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0301c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6015-6cde-11ee-bd04-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列汉字的造字法，合体字请指出其偏旁及作用。⾈。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾈：象形，像一条船的整体轮廓。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0304e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6016-6cde-11ee-ae8d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列汉字的造字法，合体字请指出其偏旁及作用。甘。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "甘：指事，从又，中间的一横像又中含的食物，能含在又中的食物往往是甜的、美的。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d03076-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6017-6cde-11ee-a1c7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列汉字的造字法，合体字请指出其偏旁及作用。闻。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "闻：形声字，形旁为⽿，声旁为门，表示与⽿朵有关。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d030a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6018-6cde-11ee-83b7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列汉字的造字法，合体字请指出其偏旁及作用。阁。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阁：形声字，外形内声，门为形旁，声旁为各，表示与门有关。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d030d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6019-6cde-11ee-8b79-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "说明下列汉字的造字法，合体字请指出其偏旁及作用。武。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "武：会意字，偏旁为⼽和⽌，表示人拿着武器走，有征伐或显示武力的意思。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d03102-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc601a-6cde-11ee-843d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列词组的结构类型。窗前。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "方位短语；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0312a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc601b-6cde-11ee-b122-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列词组的结构类型。看门的。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“的”字短语；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d0315c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc601c-6cde-11ee-908c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列词组的结构类型。校长陆晨。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同位短语；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d03184-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc601d-6cde-11ee-884b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列词组的结构类型。发自内⼼。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中补短语；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d031ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc601e-6cde-11ee-89fd-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列词组的结构类型。当他醒过来的时候。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "偏正短语；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d031de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc601f-6cde-11ee-89eb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列词组的结构类型。有事找你。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "连动短语；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d03206-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6020-6cde-11ee-a2ff-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列词组的结构类型。派他去。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "兼语短语；"
+	},
+	{
+		"category": "文学",
+		"sub_category": "中国语言文学类",
+		"raw_uuid": "34d03238-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7dbc6021-6cde-11ee-b96b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "指出下列词组的结构类型。小声说。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "状中短语。"
+	}
+]

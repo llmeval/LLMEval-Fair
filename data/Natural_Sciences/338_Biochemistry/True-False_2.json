@@ -1,0 +1,6918 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353133f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a5987d-72dc-11ee-8014-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。自由能是热能的一种形式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。能量分为热能和自由能两种。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313506-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f1f-72dc-11ee-8159-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。呼吸链上电子流动的方向是从高标准氧化还原电位到低标准氧化还原电位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。呼吸链上电子流动的方向是从低标准氧化还原电位到高标准氧化还原电位。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531354c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f20-72dc-11ee-8283-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。解偶联剂使电子传递与氧化磷酸化脱节，电子传递释放的能量形成ATP。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。解偶联剂使电子传递与氧化磷酸化脱节，电子传递释放的能量以热量形式散发，不能形成ATP。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531357e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f21-72dc-11ee-9e3a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。糖异生是糖酵解的逆行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。糖酵解途径中有7步反应是可逆的，但己糖激酶、磷酸果糖激酶和丙酮酸激酶催化的三步反应是不可逆反应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353135a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f22-72dc-11ee-bb9e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。糖原的降解是磷酸解而不是水解。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。糖原磷酸解时产物为葡萄糖-1-磷酸，水解时产物为葡萄糖。葡萄糖-1-磷酸可以异构为葡萄糖-6-磷酸，再进入糖酵解途径降解，葡萄糖通过糖酵解途径降解时，首先需要被激酶磷酸化生成葡萄糖-6-磷酸，这一步需要消耗ATP,因此糖原选择磷酸解可以避免第一步的耗能反应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353135d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f23-72dc-11ee-947a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。合成胆固醇的限速酶是HMG还原酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。合成胆固醇的限速酶是HMG-CoA还原酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f24-72dc-11ee-9c07-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。磷酸吡哆醛只作为转氨酶的辅酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。磷酸吡哆醛不仅是氨基酸代谢中的转氨酶的辅酶，同时也是脱羧酶的辅酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f25-72dc-11ee-b247-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类、灵长类的动物体内嘌呤代谢的最终产物是尿囊素。由于后者生成过多或排泄减少，在体内积累，可引起痛风症。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。人类和其他灵长类动物、鸟类、爬行动物和昆虫嘌呤分解代谢的最终产物是尿酸，尿酸体内积累，可引起痛风症。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531365a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f26-72dc-11ee-9ff1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。腺嘌呤核苷酸循环不能脱去氨基。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。腺嘌呤核苷酸在腺苷酸脱氨酶作用下脱掉氨基又生成次黄嘌呤核苷酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313682-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f27-72dc-11ee-bafa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脱氧核糖核苷酸都是由相应的核糖核苷酸直接通过还原产生的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。生物体内脱氧核糖核苷酸可以由核糖核苷酸还原形成。腺嘌呤、鸟嘌呤和胞嘧啶核糖核苷酸经还原，将其中核糖第二位碳原子上的氧脱去，即成为相应的脱氧核糖核苷酸。胸腺嘧啶脱氧核糖核苷酸的形成则需要经过两个步骤，首先由尿嘧啶核糖核苷酸还原形成尿嘧啶脱氧核糖核苷酸，然后尿嘧啶经甲基化转变成胸腺嘧啶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353136b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f28-72dc-11ee-bfe2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当由dUMP生成dTMP时，其甲基供体是携带甲基的FH4。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。dUMP甲基化生成dTMP由胸腺嘧啶合成酶催化，Ns,N₁o-甲烯FH4提供甲基。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353136dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f29-72dc-11ee-80f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。阿莫西林的抗菌机理是阻止肽聚糖的合成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。阿莫西林是青霉素类抗菌药物，主要抑制细菌细胞壁中肽聚糖的合成。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531370e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f2a-72dc-11ee-9673-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个细菌只有一条双链DNA,人的一个染色体含有46条双链DNA。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。人的一个体细胞含有46条双链DNA,一个染色体仅含有1条双链DNA。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313736-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f2b-72dc-11ee-8592-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。遗传信息只存在于DNA分子中，一条双链DNA含有许许多多基因，他们是相互不重叠的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。遗传信息主要存在于DNA分子中，还有少数病毒的遗传信息是存在于RNA分子中，而且一条双链DNA上的基因是可以重叠的，称为重叠基因。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313768-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f2c-72dc-11ee-ab44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。原核生物和真核生物的染色体均为DNA与组蛋白的复合体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。真核生物的染色体为DNA与组蛋白的复合体，而原核生物的染色体为DNA与碱性精胺、亚精胺结合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313790-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f2d-72dc-11ee-a072-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA连接酶可以连接单独存在的两条DNA单链。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA连接酶是催化双链DNA或RNA中并列的5'-磷酸和3'-羟基之间形成磷酸二酯键的酶。单链合成双链需要形成氢键。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353137c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f2e-72dc-11ee-9351-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA复制时，冈崎片段的合成需要RNA。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。冈崎片段的合成需要RNA引物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353137ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f2f-72dc-11ee-bd94-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA复制时，前导链按5'→3'合成，滞后链则按3'→5'合成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA复制时，以5'→3'走向为模板的一条链合成方向为5'→3',与复制叉方向一致，称为前导链；另一条以5'→3'走向为模板链的合成链走向与复制叉移动的方向相反，称为滞后链，其合成是不连续的，先形成许多不连续的片段(冈崎片段),最后连成一条完整的DNA链，前导链与滞后链的合成方向都是5'→3'。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313812-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f30-72dc-11ee-bc37-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA的复制过程同时需要DNA聚合酶和RNA聚合酶参与。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。DNA复制时需要RNA引物，RNA引物由RNA聚合酶合成。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313844-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f31-72dc-11ee-805b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。构成密码子和反密码子的碱基都只是A、U、C、G。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。反密码子中存在稀有核苷酸，因配对不严格而能识别多种密码子，这种现象在生物学中称为“摆动性”。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531386c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f32-72dc-11ee-8e03-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。RNA的转录是以DNA为模版，新合成的RNA链与模版DNA链的方向是相同的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。用于转录的链称为模板链；对应的链称为编码链。编码链与新合成的RNA链碱基序列一样，方向相同，只是以尿嘧啶取代胸腺嘧啶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531389e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f33-72dc-11ee-a607-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生物体编码20种氨基酸的密码子数共有64个。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。生物体编码20种氨基酸的密码子数为61个，还有三个为终止密码子，不编码任何氨基酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353138c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f34-72dc-11ee-a126-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。遗传密码的变偶性可变性是指密码子的第1位碱基比其他两个碱基在识别反密码子时具有较小的专一性，这样反密码子的第3位碱基则可有最大的阅读能力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。遗传密码的变偶性(可变性)是指密码子的第3位碱基比其他两个碱基在识别反密码时具有较小的专一性，这样反密码子的第1位碱基则可有最大的阅读能力。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353138f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f35-72dc-11ee-8f4a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在蛋白质合成时的启动阶段，核糖体与mRNA的结合是在mRNA的5'端或靠近5'端。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。肽链合成方向为mRNA的5'→3',核糖体与mRNA的结合是在起始密码子附近的SD序列，并非空间意义上的mRNA的5'端或靠近5端。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313920-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f36-72dc-11ee-95ca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。与EF-G结合的GTP水解是核糖体移位的直接动力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。进位过程中GTP在EF-Tu上水解供能，在移动过程中于EF-G上进行水解供能。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313948-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f37-72dc-11ee-a842-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。阻遏蛋白是阻碍RNA聚合酶与启动子的结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。阻遏蛋白是基于某种调节基因所制成的一种控制蛋白质，在原核生物中具有抑制特定基因(群)产生特征蛋白质的作用。阻遏蛋白能识别特定的操纵基因，当操纵序列结合阻遏蛋白时会阻碍RNA聚合酶与启动序列的结合，或使RNA聚合酶不能沿DNA向前移动，阻遏转录，介导负性调节。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531397a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f38-72dc-11ee-9016-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。具有时空表达特征的基因是奢侈基因。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。奢侈基因是指不同类型细胞中特异性表达的基因，其产物赋予各种类型细胞特异的形态结构特征与功能。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353139a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f39-72dc-11ee-8166-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。高等生物基因组内含有大量不编码蛋白质的序列，因此基因组的大小与其进化程度并不一一对应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。在真核生物中，每种生物的单倍体基因组的DNA总量是恒定的，称为C值。C值一般随生物进化而增加，真核生物基因组中含大量非编码序列，因此可能存在某些低等生物的C值比高等生物大，即C值反常现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353139d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f3a-72dc-11ee-870c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。用凝胶过滤柱如SephadexG-100层析分离蛋白质时，总是分子质量小的先于分子质量大的下来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。凝胶过滤柱按照分子大小分离蛋白质，一般是大分子先流出来，小分子后流出来。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353139fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f3b-72dc-11ee-bda4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。ATP是果糖磷酸激酶PFK的别构抑制剂。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。ATP是果糖磷酸激酶(PFK)的底物，也是别构抑制剂。在PFK上有两个ATP结合位点：底物结合位点和调节位点。在ATP浓度高时，ATP除了与位点1结合外，还可以与位点2结合，使酶构象发生改变，降低酶活力。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313a2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f3c-72dc-11ee-b88c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。己糖激酶的底物包括葡萄糖、甘露糖和半乳糖。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。半乳糖不是已糖激酶的底物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313a60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f3d-72dc-11ee-b4e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。己糖激酶催化的反应是糖酵解的第一步反应，也是一步不可逆反应，因此，它是糖酵解最重要的调控位点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。糖酵解最重要的调控位点是第三步反应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313a88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f3e-72dc-11ee-88e3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。葡萄糖激酶和己糖激酶在各种细胞中对葡萄糖的亲和力都是一样的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。葡萄糖激酶只存在于肝和胰腺β-细胞，对葡萄糖的亲和力很低，Km值为12mmol/L,而己糖激酶的Km值在10μmol/L范围。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313aba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f3f-72dc-11ee-97b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。丙酮酸脱氢酶系中电子传递方向为硫辛酸→FAD→NAD+。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。丙酮酸脱氢酶系中，二氢硫辛酸脱氢酶氧化二氢硫辛酸，并将氢交给其辅基FAD,FADH₂再使NAD还原，因此电子传递方向为硫辛酸→FAD→NAD+。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313ae2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f40-72dc-11ee-b59d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。三羧酸循环可以产生NADH+H和FADH₂,但不能直接产生ATP。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。每一轮三羧酸循环可以产生一分子GTP、三分子NADH+H'和一分子FADH₂,但不能直接产生ATP。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313b14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f41-72dc-11ee-82f9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。丙酮酸脱氢酶系催化底物脱下的氢，最终交给FAD生成FADH₂。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。丙酮酸脱氢酶系催化底物脱下的氢，最终交给NAD+生成NADH。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313b3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f42-72dc-11ee-9330-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。三羧酸循环体系的所有的酶都位于线粒体基质中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。三羧酸循环体系中的琥珀酸脱氢酶是掺入线粒体内膜的酶"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313b6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f43-72dc-11ee-8051-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。三羧酸循环提供大量的能量是因为底物水平磷酸化直接生成ATP。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。三羧酸循环中通过氧化磷酸化提供了大量的能量，底物水平磷酸化直接生成的ATP仅有少量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313b96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f44-72dc-11ee-b50e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。TCA中底物水平磷酸化直接生成的是ATP。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。TCA中底物水平磷酸化在哺乳动物形成一分子GTP,在植物和微生物直接形成ATP。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313bc8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f45-72dc-11ee-8761-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。柠檬酸循环只是好氧生物的氧化分解途径。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。柠檬酸循环是分解及合成两用途径，某些中间代谢物还可用于合成其他生物分子的碳骨架，如氨基酸和糖类等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313bf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f46-72dc-11ee-96ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。三羧酸循环中，琥珀酸脱氢酶催化琥珀酸氧化成延胡索酸时，电子受体是NAD+。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。其电子受体为FAD。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313c22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f47-72dc-11ee-883e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。呼吸链上各成分的摩尔比是1:1。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。呼吸链上的各种成分并非以等摩尔比例存在。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313c4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f48-72dc-11ee-8fc1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。细胞色素b和细胞色素c因处于呼吸链的中间，因此它们的血红素辅基不可能与CN配位结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。氧化态细胞色素b和细胞色素c之所以不能与氰化物等一些含有孤对电子的物质结合，是因为其Fe³+形成的配位键已经饱和，而不是因为它们处于呼吸链的中间。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313c7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f49-72dc-11ee-9059-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在生物体内NADH和NADPH的生理生化作用是相同的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。NADH产生于糖酵解和细胞呼吸作用中的柠檬酸循环。葡萄糖代谢时通过产生NADH或FADH2经由一个电子传递与氧化磷酸反应可产生大量的ATP。NADPH是NADP+的还原形式，NADPH在很多生物体内的化学反应中起递氢体的作用。它是烟酰胺腺嘌呤二核苷酸(NAD+)中与腺嘌呤相连的核糖环系2'-位的磷酸化衍生物，参与多种合成代谢反应，如脂类、脂肪酸和核苷酸的合成，在暗反应还可为二氧化碳的固定供能。这些反应中需要NADPH作为还原剂、氢负离子的供体。因此两种的生理生化作用不同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313ca4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f4a-72dc-11ee-9626-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。电子通过呼吸链的传递方向是从AE′正到AE⁰'负。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。电子通过呼吸链的传递方向是从氧化还原电势低的一方到氧化还原电势高的一方。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313cd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f4b-72dc-11ee-af23-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。有机物的自由能决定于其本身所含基团的能量，一般是越稳定越不活泼的化学键常具有较高的自由能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。一般是越稳定越不活泼的化学键常具有较高的势能。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313cfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f4c-72dc-11ee-bf70-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。2,4-二硝基苯酚DNP可解除寡霉素对电子传递的抑制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。2,4-二硝基苯酚(DNP)是一种解偶联剂，它可使呼吸链上的电子流动与氧化磷酸化失去偶联关系。本来寡霉素是通过抑制氧化磷酸化而间接抑制电子流动的。当氧化磷酸化与呼吸链不再偶联的时候，寡霉素将丧失对电子流动的抑制作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313d26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f4d-72dc-11ee-933f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。琥珀酸脱氢酶的辅基FAD与酶蛋白之间是共价键结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。琥珀酸脱氢酶的辅基FAD与酶蛋白的一个组氨酸以共价键相连。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313d58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f4e-72dc-11ee-beed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在消耗ATP的情况下，电子可从复合体IV流动到复合体I。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。在特定的条件下，电子的流动是可逆的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313d80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f4f-72dc-11ee-bf73-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。线粒体内膜上的复合体I、Ⅱ、Ⅲ和IV中均含有Fe-S蛋白。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。复合体I、Ⅱ和Ⅲ均含有Fe-S蛋白，但复合体IV缺乏Fe-S蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313da8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f50-72dc-11ee-ade0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。呼吸作用和光合作用均能导致线粒体或叶绿体基质的pH升高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。呼吸作用产生跨线粒体内膜的质子梯度，线粒体基质pH升高，光合作用产生跨类囊体膜的质子梯度，同样使得叶绿体基质的pH升高。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313dda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f51-72dc-11ee-85ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生物氧化只有在氧气的存在下才能进行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。只要有合适的电子受体，生物氧化就能进行。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313e02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f52-72dc-11ee-8ee1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。NADH和NADPH都可以直接进入呼吸链。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。细胞溶胶内的NADH不能透过线粒体内膜进入线粒体氧化。通过两种“穿梭”途径解决NADH再氧化问题。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313e2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a66f53-72dc-11ee-8717-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。NADH脱氢酶是以NAD*为辅酶的脱氢酶的总称。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。NADH脱氢酶是一种以FMN为辅基的黄素蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313e5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4d5-72dc-11ee-a9c3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。线粒体内以FAD作为辅基的脱氢酶产生的FADH₂经复合体Ⅱ进入呼吸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。以FAD作为辅基的脱氢酶产生的FADH₂经CoQ进入电子传递链的主链。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313e84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4d6-72dc-11ee-ab73-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。ATP是生物体能量储存和利用的形式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。ATP是生物体能量利用的形式，能量主要以糖类、脂肪的形式储存。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313eb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4d7-72dc-11ee-94e8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。电子传递抑制剂和解偶联剂都可阻止电子的传递。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。电子传递抑制剂是指能够阻断呼吸链中某部位电子传递的物质；解偶联剂是通过消除跨膜质子梯度而使电子传递和ATP形成两个过程分离而不再紧密关联，它使电子传递产生的自由能最终都变为热能，不抑制电子传递过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313ee8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4d8-72dc-11ee-9949-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。磷酸戊糖途径为还原性生物合成提供NADH。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。该途径为还原性生物合成提供的是NADPH,NAD+一般在氧化分解途径中用作电子受体，还原成NADH后主要经由呼吸链传递提供能量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313f10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4d9-72dc-11ee-8630-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在肌肉细胞中磷酸戊糖途径比在脂肪细胞中更活跃。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。磷酸戊糖途径能为脂肪酸合成提供大量的还原当量NADPH,因而在脂肪细胞中该途径远比在肌肉细胞中更为活跃。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313f42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4da-72dc-11ee-a544-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。植物体内淀粉合成都是在淀粉合成酶催化下进行的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。淀粉的合成是由几种酶来催化的，每一种酶都有其自己催化的底物和引物(葡萄糖受体)。催化葡萄糖形成α-1,4-糖苷键合成直链淀粉的酶类是二磷酸葡萄糖尿苷转葡萄糖苷酶和二磷酸葡萄糖腺苷转葡萄糖苷酶。在支链淀粉的分支点上的a-1,6-糖苷键Q酶。Q酶能催化α-1,4-糖苷键转变为α-1,6-糖苷键，将直链淀粉转变为支链淀粉。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313f6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4db-72dc-11ee-848e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。糖异生作用的关键反应是草酰乙酸形成磷酸烯醇式丙酮酸的反应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。糖异生中很重要的是丙酮酸形成磷酸烯醇式丙酮酸的反应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35313f92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4dc-72dc-11ee-b7e2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在丙酮酸经糖异生作用代谢中，不会产生NAD+。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。丙酮酸经糖异生作用代谢的总反应为：2丙酮酸+4ATP+2GTP+2NADPH+6H₂O→葡萄糖+4ADP+2GDP+Pi+2NAD++2H,可产生NAD+"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314406-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4dd-72dc-11ee-85b7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。乙酰CoA不能作为动物糖异生的前体，所以它的含量多少对动物糖异生效率没有影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。丙酮酸羧化酶的活性受乙酰CoA和ATP激活，受ADP抑制。凡可转变为乙酰CoA的脂酸代谢产物都能促进糖异生作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314488-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4de-72dc-11ee-9c9f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。沿糖酵解途径简单逆行，可从丙酮酸等小分子前体物质合成葡萄糖。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。糖异生作用并不是糖酵解作用的直接逆反应。其中有三步反应是不可逆的：①由己糖激酶催化的葡萄糖和ATP形成6-磷酸葡糖和ADP;②由磷酸果糖激酶催化的6-磷酸果糖和ATP形成"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353145e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4df-72dc-11ee-97cf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在植物体内，蔗糖的合成主要是通过蔗糖磷酸化酶催化的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蔗糖由1分子葡萄糖和1分子果糖组成，G为葡萄糖，其合成主要是通过蔗糖合成酶催化的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314686-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e0-72dc-11ee-b2eb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。糖原合成酶和糖原磷酸化酶磷酸化后活性都升高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。磷酸化/脱磷酸是由蛋白激酶和磷蛋白磷酸酶这一组酶共同催化的。通过各种蛋白激酶的催化，由ATP提供磷酸基，使酶蛋白中丝氨酸、苏氨酸或酪氨酸等氨基酸残基侧链上的—OH磷酸化，调节酶的活性。糖原合成酶磷酸化后活性降低，糖原磷酸化酶磷酸化后活性升高。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353146b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e1-72dc-11ee-b713-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。糖原合酶催化葡萄糖-1-磷酸中的葡萄糖基转移到糖原的非还原端。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。糖原合成中，在糖原合酶作用下，UDPG(尿苷二磷酸葡萄糖)上的葡萄糖基转移给糖原引物的糖链非还原末端C₄的羟基上，形成a-1,4糖苷键，使糖原延长了一个葡萄糖残基。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353146ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e2-72dc-11ee-a656-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。糖原磷酸化酶可直接被蛋白激酶A磷酸化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白激酶A需要经由磷酸化酶b激酶的中介才能将低活性的糖原磷酸化酶b磷酸化成高活性的磷酸化酶a。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314712-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e3-72dc-11ee-a518-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。碳三植物叶片的叶肉细胞所含的磷酸烯醇式丙酮酸羧化酶对CO₂有很强的亲和力，所以碳三植物利用CO₂能力很高，是高产植物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。碳四植物叶片的叶肉细胞所含的磷酸烯醇式丙酮酸羧化酶对CO₂有很强的亲和力，所以碳四植物利用CO₂能力很高，是高产植物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314744-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e4-72dc-11ee-a660-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。暗反应只能在没有光照的条件下进行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。暗反应不需要光，因此可以在没有光照的条件下进行，但也可以在光照条件下进行。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531476c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e5-72dc-11ee-bea7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。光反应系统I存在于所有能进行光合作用的生物的类囊体膜上和基质中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。光反应系统I存在于所有能进行光合作用的生物的类囊体膜上和基质中，光反应系统Ⅱ存在于真核生物和绿藻的类囊体膜上。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531479e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e6-72dc-11ee-9b15-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。光合作用都在叶绿体中进行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。真核生物光合作用在叶绿体中进行，原核生物没有叶绿体，光合作用在间体上进行。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353147c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e7-72dc-11ee-9299-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。就光合作用总反应而言，生成的葡萄糖分子中的氧原子最终来自于水分子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。就光合作用总反应而言，生成的葡萄糖分子中的氧原子最终来自于暗反应固定的CO₂、H₂O中的氧以O₂的形式放出。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353147f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e8-72dc-11ee-97cd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。非循环式光合磷酸化既可产生ATP,也可产生O₂和NADPH。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。非循环式光合磷酸化电子沿Z形传递，直至NADP'产生NADPH,电子传递过程中产生的H'浓度差推动ATP的生成，同时分解H₂O分子产生O₂。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314820-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4e9-72dc-11ee-8280-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。大多数的叶绿素蛋白复合体不进行光化学反应，但它们可以将吸收的光能传递给反应中心叶绿素蛋白复合体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。叶绿素蛋白复合体按功能分为捕光叶绿素蛋白复合体和反应中心叶绿素蛋白复合体，大多数的叶绿素蛋白复合体属于捕光叶绿素蛋白复合体，不进行光化学反应，作用是将吸收的光能传递给反应中心叶绿素蛋白复合体，由后者进行光化学反应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314852-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4ea-72dc-11ee-ba44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。抗脂解激素有胰高血糖素、肾上腺素和甲状腺素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。脂肪细胞内甘油三酯脂肪酶是脂肪动员关键酶。肾上腺素、胰高血糖素等均能促进脂肪动员，因而称脂解激素；胰岛素、前列腺素E₂等可抑制脂肪动员，因而称抗脂解激素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531487a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4eb-72dc-11ee-a5fa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪酸活化为脂肪酰CoA时，需消耗两个高能磷酸键。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。脂肪酸的活化过程需消耗1molATP,但消耗2个高能磷酸键，也相当于消耗2molATP。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353148ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4ec-72dc-11ee-9d58-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。肉毒碱脂酰CoA转移酶有I型和Ⅱ型，其中I型定位于线粒体内膜外侧，Ⅱ型存在于线粒体内膜内侧。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。肉毒碱脂酰CoA转移酶I型和Ⅱ型催化的反应是不同的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353148d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4ed-72dc-11ee-886b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。血脂包括甘油三酯、磷脂、胆固醇及其酯、游离脂肪酸和载脂蛋白等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。血脂不包括载脂蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314906-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4ee-72dc-11ee-9c34-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。奇数碳原子的饱和脂酸经β-氧化后全部生成乙酰CoA。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。奇数碳原子的饱和脂肪酸经最后一次β-氧化后，生成产物为乙酰CoA和丙酰CoA。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531492e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4ef-72dc-11ee-8660-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只有偶数碳原子的脂肪酸才能在氧化降解时产生乙酰辅酶A。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。偶数碳原子的饱和脂肪酸，经过β氧化，最终全部分解为乙酰CoA,进入三羧酸循环进一步氧化分解。长链奇数碳原子的脂肪酸在开始分解时，每经过一次β氧化产生一个乙酰CoA,但当分解进行到只剩下末端3个碳原子的丙酰CoA时，就不再进行β氧化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314956-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f0-72dc-11ee-8c80-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪酸彻底氧化产物为乙酰CoA。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。脂肪酸彻底分解的过程是先经β氧化作用生成若干个乙酰CoA,生成的乙酰CoA再由三羧酸循环氧化生成二氧化碳和水。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314988-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f1-72dc-11ee-a12c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪酸从头合成需要NADPH作为还原反应的供氢体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。脂肪酸的从头合成指首先生成16碳的饱和脂肪酸，之后以乙酰CoA为原料合成脂肪酸的过程。NADPH是脂肪酸合成的还原力，为还原反应提供氢。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353149b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f2-72dc-11ee-9f5e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果动物长期饥饿，就要动用体内的脂肪，这时分解酮体的速度大于生成酮体的速度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。动物饥饿时，动员体内脂肪，而血浆内脂肪酸和酮体的浓度则可分别提高5倍和20倍。动物机体可以优先利用酮体以节约葡萄糖，从而满足如大脑等组织对葡萄糖的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353149e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f3-72dc-11ee-affb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。萌发的油料种子和某些微生物拥有乙醛酸循环途径，可利用脂肪酸α-氧化生成的乙酰辅酶A合成苹果酸，为糖异生和其他生物合成提供碳源。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。萌发的油料种子和某些微生物拥有乙醛酸循环途径，利用乙醛酸循环将乙酰CoA转化成琥珀酸，由琥珀酸再生成草酰乙酸而进入生糖途径。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314a0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f4-72dc-11ee-891e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酮体包括丙酮，β-羟丁酸和乙酰乙酸，前两种都衍生于乙酰乙酸，分别由乙酰乙酸脱羧酶和β-羟丁酸脱氢酶催化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。乙酰乙酸、β-羟丁酸和丙酮，统称为酮体。乙酰乙酸在肝线粒体β羟丁酸脱氢酶催化下可还原生成β-羟丁酸；由乙酰乙酸脱羧生成丙酮。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314a3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f5-72dc-11ee-8b5e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在脂酸从头合成过程中，乙酰CoA以苹果酸的形式从线粒体内转移到细胞液中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。脂肪酸从头合成中，将糖代谢生成的乙酰CoA从线粒体内转移到细胞液中的化合物是柠檬酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314a64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f6-72dc-11ee-9875-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂酸合成过程中所需的[H]全部由NADPH提供。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。由磷酸戊糖途径产生的NADPH提供。延长途径中可由FADH₂与NADPH提供[H]。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314a96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f7-72dc-11ee-834d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪酸的合成在细胞线粒体内，脂肪酸的氧化在细胞胞液内生成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。脂肪酸的合成所需的酶在胞液中，脂肪酸的β-氧化是在细胞线粒体内进行的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314abe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f8-72dc-11ee-a27c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪酶合成酶催化的反应是脂肪酸的β-氧化反应的逆反应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不完全是。脂肪酸的合成主要在线粒体外进行，催化反应的酶是不同于β-氧化的脂肪酸合成酶多酶体系。而β-氧化的逆反应只参与脂肪酸碳链的延长。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314af0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4f9-72dc-11ee-9cc6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哺乳动物催化脂肪酸合成的脂肪酸合酶是一个多功能酶，催化只需要一条肽链，因为其一条肽链具有7个不同的酶活性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。哺乳动物的脂肪酸合酶复合体由7个酶和一个酰基载体蛋白组成，是一个多酶复合体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314b18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4fa-72dc-11ee-8a31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在胞液中，脂肪酸合成酶合成的脂肪酸碳链的长度一般在18个碳原子以内，更长的碳链是在肝细胞内质网或线粒体内合成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。肝内质网具有使脂肪酸碳链延长的体系，脂肪酸合成酶催化合成软脂酸后进入肝内质网或线粒体内延长碳链，一般延长至24碳，但以18碳原子最多。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314b40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4fb-72dc-11ee-843f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。胆固醇的生物合成过程部分与酮体生成过程相似，两者的关键酶是相同的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。胆固醇和酮体的生物合成至β-羟-β-甲基戊二酸单酰CoA(HMGCoA)生成过程是相同的，但两途径的关键酶不同，胆固醇生物合成的关键酶是HMGCoA还原酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314b72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4fc-72dc-11ee-a28b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酰基载体蛋白ACP是饱和脂酸碳链延长途径中二碳单位的活化供体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。线粒体酶系、微粒体酶系与内质网酶系都能使短链饱和脂酸的碳链延长，每次延长两个碳原子。线粒体酶系延长碳链的碳源是乙酰CoA,微粒体内质网酶系延长碳链的碳源是丙二酸单酰CoA,它们都不用ACP作为酰基载体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314b9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4fd-72dc-11ee-a4dd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪酸的从头合成中，将糖代谢生成的乙酰辅酶A从线粒体内转移到胞液中的化合物是苹果酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。脂肪酸的从头合成中，在ATP供能情况下，线粒体中的乙酰CoA先和草酰乙酸经柠檬酸合酶催化、缩合成柠檬酸，柠檬酸经线粒体内膜上的相应载体协助进入胞液，然后由柠檬酸裂解酶催化生成乙酰CoA。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314bcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4fe-72dc-11ee-98de-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪酸的从头合成和β-氧化途径一样，都需要NADPH+H作为还原反应的供氢体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。脂肪酸的β-氧化，生成FADH₂和NADH;脂肪酸的从头合成，需要NADPH+H作为还原反应的供氢体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314bf4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e4ff-72dc-11ee-9ae1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪酸合成和β-氧化过程底物的转运都需要柠檬酸穿梭系统。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。脂肪酸β-氧化过程，需要脂酰CoA向线粒体转运，长链脂酰CoA分子不能直接跨过线粒体内膜，需要借助肉碱穿梭系统进行转运。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314c1c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e500-72dc-11ee-95a1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。血浆胆固醇含量与动脉硬化密切相关，如果能够一方面完全禁食胆固醇，另一方面完全抑制胆固醇的生物合成，将有助于健康长寿。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。血浆胆固醇含量与动脉硬化密切相关。但胆固醇的对人体有重要的作用，它不仅作为生物膜组分，调节生物膜流动性，还是固醇激素和胆酸盐的前体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314c4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e501-72dc-11ee-84bc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。L-氨基酸氧化酶是参与氨基酸脱氨基作用的主要酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。谷氨酸脱氢酶才是参与氨基酸脱氨基作用的主要酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314c76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e502-72dc-11ee-9441-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般来说，在哺乳动物体内由蛋白质氧化分解产生的能量效率低于糖或脂肪的氧化分解。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。蛋白质水解产生的氨基酸经氧化分解产生CO₂、H₂O、ATP和NH4+。NH4+在动物体内需要经过尿素循环形成尿素，这种过程需要消耗ATP。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e503-72dc-11ee-87f5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白质在人体内消化的主要器官是胃和小肠。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。胃是食物蛋白最初消化部位，但主要在小肠中进行。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314d7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e504-72dc-11ee-8d9e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。谷氨酸是联合脱氨基作用的重要中间代谢物，若食物中缺乏时可引起脱氨基作用障碍。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。谷氨酸是人体非必需氨基酸，在体内可由α-酮戊二酸接受NH₃而生成，因此，即使食物中缺乏谷氨酸，也不影响氨基酸脱氨基作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e505-72dc-11ee-9e03-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。合成尿素首步反应的产物是瓜氨酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。肝细胞液中的氨基酸经转氨作用与α-酮戊二酸生成Glu,Glu进入线粒体基质，经Glu脱氢酶作用脱下氨基，游离的氨(NH4+)与TCA循环产生的CO₂反应生成氨甲酰磷酸。氨基甲酰磷酸的形成是尿素合成的第一步，也是限速步骤。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e506-72dc-11ee-a3f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。参与尿素循环的酶都位于线粒体内。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。尿素循环中主要有5个酶的参与，其中氨甲酰磷酸合酶和鸟氨酸转氨甲酰酶存在于线粒体中，另外三个精氨琥珀酸合成酶、精氨琥珀酸裂解酶、精氨酸酶则位于细胞质中。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e507-72dc-11ee-800a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。氨基酸合成的过程中，将NH₄+引入α-酮戊二酸分子中生成谷氨酰胺需要NADH提供还原力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在这个过程中，提供还原力的物质是NADPH。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e508-72dc-11ee-9fda-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白质的生理价值主要取决于必需氨基酸的种类、数量及比例。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。蛋白质所含必需氨基酸的种类、数量和比例越高则营养价值越高。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314e56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e509-72dc-11ee-941b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Lys在人体内可以通过复杂的合成途径合成，是人体生物合成所必需的氨基酸，故为“必需氨基酸”之一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。细菌和植物先将天冬氨酸还原成半醛，再与丙酮酸缩合成环，还原后开环并N-琥珀酰化，末端羧基转氨后脱去琥珀酸，异构，脱羧，形成赖氨酸。人体不能通过自身的酶类进行合成，必须从外源摄入，故称必需氨基酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314e88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e50a-72dc-11ee-a398-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Lys的缺乏可以通过在食物中添加相应的a-酮酸加以纠正。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。Lys为必需氨基酸，人体不能通过自身的酶类进行合成Lys,必须从外源摄入。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314eba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e50b-72dc-11ee-8fcd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。O₂能刺激固氮酶的活性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。O₂能抑制固氮酶的活性，豆科植物可表达豆血红蛋白结合O₂以解除它对固氮酶的抑制。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314ee2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e50c-72dc-11ee-8a26-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。黄嘌呤氧化酶既可以使用黄嘌呤也可以使用次黄嘌呤作为底物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。次黄嘌呤被黄嘌呤氧化酶氧化成黄嘌呤，黄嘌呤再被黄嘌呤氧化酶氧化成尿酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314f14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e50d-72dc-11ee-913f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核细胞内参与嘧啶核苷酸从头合成的酶都位于细胞质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。真核细胞参与嘧啶核苷酸从头合成的二氢乳清酸脱氢酶位于线粒体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314f3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e50e-72dc-11ee-930f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。嘌呤类、嘧啶类化合物的分解代谢均可以在碱基、核苷、核苷酸三个水平上进行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。嘌呤类化合物可以。但嘧啶类化合物的分解因生物种类不同有差异。一般是在碱基水平上进行脱氨，但人和某些动物也可能在核苷或核苷酸的水平上脱氨。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35314f6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e50f-72dc-11ee-b2b6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。嘧啶合成所需要的氨甲酰磷酸合成酶与尿素循环所需要的氨甲酰磷酸合成酶是同一个酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。嘧啶合成与尿素循环都需要氨甲酰磷酸合成酶，但前者需要的氨甲酰磷酸合成酶位于胞质，后者位于线粒体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353151b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e510-72dc-11ee-b7b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哺乳动物体内，胞嘧啶的水解脱氨生成尿嘧啶的反应发生在核苷酸水平上。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。哺乳动物体内，胞嘧啶的水解脱氨生成尿嘧啶的反应发生在核苷水平上。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531527a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e511-72dc-11ee-a594-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。嘌呤碱合成的限速步骤是合成IMP的反应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。嘌呤碱合成的限速步骤是合成5-磷酸核糖胺(PRA)的反应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353152e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e512-72dc-11ee-b68a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。嘧啶环和嘌呤环在分解代谢中均被水解开环，且降解产物均易溶于水。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。嘧啶环分解过程中开环，降解产物易溶于水。但嘌呤环不同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531532e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e513-72dc-11ee-9d79-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。dTMP合成的直接前体物质是TDP。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。dTMP合成的直接前体是dUMP。细胞内脱氧核苷酸的合成是在核苷二磷酸的水平上进行的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531537e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e514-72dc-11ee-a298-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。细菌代谢酶的诱导和合成途径中酶的阻遏，调节蛋白都对操纵子起负调控作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据操纵子对于能调节它们表达的小分子的应答反应的性质不同，可将操纵子分为可诱导的操纵子和可阻遏的操纵子。可诱导的操纵子(如乳糖操纵子)的调控机制：有诱导物存在时，诱导物与调节蛋白(阻遏蛋白)结合使之变构，使调节蛋白无活性，不能与操纵基因结合，促使结构基因转录；无诱导物存在时，调节蛋白(阻遏蛋白)有活性，调节蛋白与操纵基因结合，阻止结构基因转录。可阻遏的操纵子(如色氨酸操纵子)的调控机制：辅阻遏物存在时，与调节蛋白结合使之变构，使调节蛋白有活性，与操纵基因结合，阻止结构基因转录；辅阻遏物不存在时，调节蛋白无活性，不能与操纵基因结合，促使结构基因转录。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353153c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e515-72dc-11ee-9a6a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA复制的模板是亲代DNA,引物一般是短的DNA,底物是dNMP。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA复制的引物一般是短的RNA,底物是dNTP。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531540a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e516-72dc-11ee-80e4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA的复制方式有多种，滚动式复制通常以双向方式进行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。DNA的滚动式复制是双向复制的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315450-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e517-72dc-11ee-b70c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白质翻译一般以AUG作为起始密码子，有时也以GUG为起始密码子，但以GUG为起始密码子，则第一个被掺入的氨基酸为Val。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不管哪一个是起始密码子，被掺入的氨基酸仍然是Met。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315496-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e518-72dc-11ee-8b60-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。原核生物中的三种终止与释放因子分别识别三种终止密码子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。原核生物中的三种终止与释放因子：RF1识别UAA和UAG,RF2识别UAA和UGA,RF3起辅助作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353154dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e519-72dc-11ee-8275-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。线粒体tRNA在识别密码子时遵循更为宽松的摆动原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。线粒体中的tRNA种类比原核生物和真核生物细胞质中的tRNA种类少，要识别60多种密码子，需要遵循更为宽松的摆动原则。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315522-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e51a-72dc-11ee-80a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。细胞中DNA链延长的速度随细胞的培养条件改变。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。细胞DNA的复制发生在细胞周期的DNA合成期，细胞培养条件的改变会改变细胞的生长周期，它可通过控制复制起始的频率来实现，但复制叉移动(链延长)的速度在改变复制总速度的情况下仍保持相当的稳定。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315568-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e51b-72dc-11ee-b594-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。线粒体DNA的复制需要使用DNA引物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。线粒体DNA为双链环状分子(纤毛虫的线粒体DNA除外),其复制方式为D环式，复制的引物为RNA。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353155ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e51c-72dc-11ee-ae1c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA连接酶能将两条游离的DNA单链连接起来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。大肠杆菌的DNA连接酶要求断开的两条链由互补链将它们聚在一起，形成双螺旋结构，而不能将两条游离的DNA单链连接起来。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353155f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e51d-72dc-11ee-8ca8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。与真核生物相比，原核生物DNA的复制速度较慢。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。真核生物的基因组大，复制叉的移动速度比原核生物DNA复制叉的移动速度慢，然而，真核生物的复制子的长度仅是原核生物的几十分之一(真核生物DNA的复制子的数量要远远多于原核生物DNA复制子的数量),就单个复制子而言，复制所需要时间在同一数量级。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531563a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e51e-72dc-11ee-a19e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA重组修复可将DNA损伤部位彻底修复。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA重组修复是一种复制后修复，指一些带有结构损伤的DNA在复制时，复制酶系在损伤部位无法通过碱基配对合成子代DNA链而跳过损伤部位，在下一个冈崎片段的起始位置或前导链的相应位置上重新合成引物和DNA链，结果子代链在损伤相对应处留下缺口，并从同源DNA的母链上将相应核苷酸序列片段通过遗传重组转移到子链缺口处，然后用再合成的序列来补上母链的空缺。由此可见，DNA的重组修复并未除去DNA链的损伤。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315680-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e51f-72dc-11ee-85a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA聚合酶I在DNA复制过程中以5'→3'的方向合成新的DNA链，同时具有5'→3'的外切酶活性对复制进行校验proofreading。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA聚合酶I对复制进行校对功能的是其3'→5'的核酸外切酶活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353156c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e520-72dc-11ee-9c6f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA聚合酶催化的DNA合成必须有RNA引物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA聚合酶催化的DNA合成必须要有引物，但是引物可以是DNA,也可以是RNA,在体内DNA复制时一般使用RNA引物，在体外PCR扩增时使用DNA为引物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531570c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e521-72dc-11ee-a080-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。滚环复制是一种特殊的复制方式，只存在于含有单链DNA的噬菌体中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。含有双链DNA的入噬菌体通过滚环复制产生双链DNA,少数真核生物基因在特定情况下依靠滚环复制产生重复基因。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315752-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e522-72dc-11ee-a7ea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA分子是由两条链组成的，其中一条链作为前导链的模板，另一条链作为后随链的模板。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。对于一个双向复制的DNA分子来说，相对于一个复制叉为前导链模板的那条链相对于另一个复制叉来说则是后随链的模板。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353157a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e523-72dc-11ee-adcb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA复制的忠实性主要是由DNA聚合酶的3→5外切酶的校对来维持。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA复制的忠实性主要是由DNA聚合酶的高度选择性决定的，DNA聚合酶所具有的3'→5外切核酸酶活性只是进一步提高复制的忠实性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353157de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e524-72dc-11ee-84ff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。滚环复制不需要RNA作为引物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。滚环复制的后随链合成仍然需要RNA引物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531581a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e525-72dc-11ee-86ed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。单细胞生物体内的端粒酶活性比多细胞生物中体细胞内的端粒酶活性高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。单细胞生物体内的端粒酶活性很高，否则将导致物种灭绝。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315860-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e526-72dc-11ee-a4b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。滚环复制也存在于真核细胞。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。某些真核生物基因在特定情况下可以依靠滚环复制产生倍增基因。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353158a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e527-72dc-11ee-8a91-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。大肠杆菌只有一个DNA复制起点，因此完成基因组DNA复制的时间是恒定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。大肠杆菌虽然只有一个DNA复制起点，但是如果培养基中营养丰富，在一轮复制没有完成之前可以启动第二轮复制，形成多复制叉结构，缩短完成DNA复制所需的平均时间，因此完成一轮DNA复制的时间取决于培养基中的营养状况。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353158ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e528-72dc-11ee-a649-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。据测定，多莉羊sheepDolly的端粒长度比正常生殖的同龄羊的端粒长度短。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。据测定多莉羊的端粒长度只有正常生殖的同龄羊的端粒长度的80%。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315900-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e529-72dc-11ee-9e47-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。大肠杆菌参与DNA错配修复的DNA聚合酶是DNA聚合酶I。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。参与大肠杆菌DNA错配修复的DNA聚合酶为DNA聚合酶Ⅲ。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315928-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e52a-72dc-11ee-b022-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。原核细胞和真核细胞都是以甲基化作为DNA错配修复过程中识别新链和老链的标志。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。真核细胞通过甲基化调节基因的表达，并不是以此作为错配修复时识别老链和子链的标志。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315950-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e52b-72dc-11ee-b833-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。TaqDNA聚合酶无校对的功能，因此它所催化的PCR反应，错误机会较大。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。TaqDNA聚合酶缺乏3'→5外切酶的活性，就意味着没有校对能力，合成DNA忠实性必然低于具有3'→5'外切酶活性的DNA聚合酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315982-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e52c-72dc-11ee-9f32-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。大肠杆菌可以通过光复活、切除修复系统或重组修复系统，去除嘧啶二聚体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。重组修复只能将嘧啶二聚体从一条链转移到另一条链，并不能根除嘧啶二聚体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353159aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e52d-72dc-11ee-a418-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA分子中没有修饰的C发生自发脱氨基引发突变的可能性比修饰后的5-甲基胞嘧啶自发脱氨基引发突变的可能性低得多。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。DNA分子中没有修饰的C发生自发脱氨基后转变为U,很容易被细胞内的BER系统识别和修复。5-甲基胞嘧啶自发脱氨基后转变为T,而T是DNA分子中正常的碱基，不容易被识别和修复，经过一轮复制以后，将导致CG碱基对突变为TA碱基对。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353159dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e52e-72dc-11ee-b25c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。转座现象主要发生在原核生物中，真核生物中的转座现象比较少。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。对几种生物的基因组序列分析结果显示，人、小鼠、水稻的基因组中约40%的序列由转座子衍生而来。但在低等真核生物和细菌的基因组中只有1%～5%的序列来自转座作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315a04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e52f-72dc-11ee-85a9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Mu噬菌体感染大肠杆菌后，其DNA通过位点特异性重组整合到宿主DNA中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。Mu噬菌体感染大肠杆菌后，其DNA通过转座方式随机地整合到宿主DNA中。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315a36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e530-72dc-11ee-8f25-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。T₄DNA连接酶与DNA连接酶的功能相同，均可用于基因重组。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA连接酶催化双链DNA切口的5'磷酸基和3'羟基生成磷酸二酯；T₄DNA连接酶不仅能将DNA-DNA之间切口通过磷酸二酯键连接，也能连接无单链黏性末端的平头双链DNA,还能连接RNA-RNA或RNA-DNA之间的切口。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315a68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e531-72dc-11ee-9644-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。转座要求供体和受体位点之间具有同源性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。转座作用既不依靠转座成分和插入区段序列的同源性，又不需要RecA蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315a90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e532-72dc-11ee-84d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。大肠杆菌染色体DNA由两条链组成，其中一条链充当模板链，另外一条链充当编码链。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不同的基因使用不同的链作为其编码链和模板链。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315ac2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e533-72dc-11ee-9747-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。原核生物RNA聚合酶和真核生物细胞核RNA聚合酶属于多亚基RNA聚合酶家族，真核生物细胞器RNA聚合酶和噬菌体RNA聚合酶属于单亚基RNA聚合酶家族。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。原核生物RNA聚合酶、真核生物细胞核RNA聚合酶和叶绿体RNA聚合酶属于多亚基RNA聚合酶家族，线粒体RNA聚合酶和噬菌体RNA聚合酶属于单亚基RNA聚合酶家族。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315aea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e534-72dc-11ee-81ea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。原核细胞中，构成RNA聚合酶的σ因子的浓度低于核心酶的浓度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。原核细胞RNA聚合酶全酶中的σ因子只参与转录的起始，当起始完成以后即与核心酶解离，并可以重新利用参与新一轮的转录起始，因此它的浓度不需要与核心酶一样。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315b12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e535-72dc-11ee-bd45-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。7SKRNA基因由RNApollI负责转录，具有内部启动子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。RNApolI负责转录的基因的启动子有两种类型，7SKRNA、7SLRNA和U6snRNA等基因的启动子位于基因上游，属于外部启动子。tRNA、5srRNA等基因的启动子位于基因内部，属于内部启动子。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315b44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e536-72dc-11ee-bbb4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。反转录病毒都是肿瘤病毒。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。HIV是一种反转录病毒，但并不是肿瘤病毒。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315b6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e537-72dc-11ee-9e87-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。tRNA的3'端所具有的CCA序列都是通过转录后加工才加上的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。原核生物tRNA基因的3'端编码链上就含有CCA序列，它不需要通过后加工的方式产生。真核生物tRNA基因的3'端编码链上没有CCA序列，需要在转录后加工过程中添加CCA序列。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315b9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e538-72dc-11ee-a44b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核生物mRNA的内部甲基化只发生在外显子序列上。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。真核生物mRNA的内部甲基化既可以发生在外显子序列上，也可以发生在内含子序列上。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315bc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e539-72dc-11ee-888d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。放线菌素D既可以抑制原核细胞的基因转录，又可以抑制真核细胞的基因转录。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。放线菌素D能够插入到DNA链的GC碱基对之间，导致DNA结构改变，阻止RNA聚合酶向前移动，从而抑制基因的转录。因此既可以抑制原核细胞的基因转录，又可以抑制真核细胞的基因转录。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315bf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e53a-72dc-11ee-af99-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核生物5SrRNA的转录对α-鹅膏蕈碱不敏感。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。真核生物5SrRNA由RNApolI催化转录，该酶对α-鹅膏蕈碱中度敏感。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315c2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e53b-72dc-11ee-841b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。mRNA的选择性拼接可以改变外显子的连接次序。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。外显子连接次序不会改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315c52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e53c-72dc-11ee-88dd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。原核生物基因转录时，第一个磷酸二酯键形成以后，α因子与全酶解离，转录从起始状态转入延伸状态。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。实际上在合成大约十聚核苷酸以后，σ因子才与RNApol全酶解离，RNApol开始移位，转录进入延伸阶段。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315c84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e53d-72dc-11ee-9e7d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。TATAbox是真核生物所有细胞核基因都具有的核心启动子元件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。TATAbox是大多数真核生物核基因具有的核心启动子元件，但有例外，一些持家基因(housekeepinggene)如腺苷脱氨酶等和一些发育调节基因如果蝇的同源异型基因(hemeoticgene)缺少TATAbox。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315cac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e53e-72dc-11ee-a50d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核细胞内的RNA都从DNA转录而来，是由一种RNA聚合酶合成的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。真核细胞内的RNA不都是从DNA转录而来，有些是本身就有的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315cde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e53f-72dc-11ee-901a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核细胞中的RNA聚合酶仅在细胞核中有活性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。RNA聚合酶在细胞质中也有活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315d06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e540-72dc-11ee-88ad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。RNA聚合酶能以两个方向同启动子结合，并启动相邻基因的转录。但是，模板链的选择由另外的蛋白因子确定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。核不均一RNA是不成熟的mRNA。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315d38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e541-72dc-11ee-a4af-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核生物和原核生物的转录和翻译都是偶联的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。原核生物的转录和翻译都是偶联的，而真核生物则不是。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315d60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e542-72dc-11ee-82bc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核生物的基因都含有内含子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。真核生物的基因并不是都含有内含子。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315d92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e543-72dc-11ee-9adb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。氨酰-tRNA合成酶都是单体酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。氨酰-tRNA合成酶分为两类，第一类是单体酶，第二类是寡聚酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315dba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e544-72dc-11ee-9cc5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。氨酰-tRNA合成酶可通过其催化的逆反应对误载的氨基酸进行校对。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。氨酰-tRNA合成酶是通过其水解酶活性进行校对，并非逆反应(焦磷酸解)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315de2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e545-72dc-11ee-93a1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在蛋白质生物合成中，所有的氨酰-tRNA都是首先进入核糖体的A部位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在蛋白质生物合成中，起始氨酰-tRNA进入核糖体P位，其他的氨酰-tRNA都是首先进入核糖体的A部位。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315e14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e546-72dc-11ee-b65a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。fMet-tRNAmeMet与Met-tRNA,Me的合成由同一种氨酰-tRNA合成酶催化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。fMet-tRNAMet与Met-tRNAmMe的合成由同一种氨酰-tRNA合成酶催化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315e3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e547-72dc-11ee-a55b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。tRNA的个性即是其特有的三叶草结构。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。tRNA是一个tRNA分子上决定所携带氨基酸性质的核苷酸序列和阻止其他氨基酸被携带的核苷酸序列。不同种的tRNA的个性是不同的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315e6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a6e548-72dc-11ee-a6c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。含硒半胱氨酰-tRNA是由游离的含硒半胱氨酸与tRNASc合成而来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。细胞中并无游离的含硒半胱氨酸，Sec-tRNASee是由Ser-tRNAScc经过修饰产生的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315e96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781a5-72dc-11ee-8bda-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在大肠杆菌里表达人组蛋白，可直接从人基因组中获取目的基因。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。组蛋白基因不含内含子，因此可从基因组中直接获取它的基因。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315ec8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781a6-72dc-11ee-bcb1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。肽链的折叠在蛋白质合成结束以后才开始。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。翻译过程中，核糖体可以保护30～40个氨基酸残基。一旦多肽链从核糖体中伸出，就开始多肽链折叠和翻译后修饰。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315ef0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781a7-72dc-11ee-9adc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。线粒体内的翻译系统中，第一个被掺入的氨基酸都是甲酰甲硫氨酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。哺乳动物线粒体翻译的蛋白质第一个氨基酸不是甲酰甲硫氨酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315f22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781a8-72dc-11ee-8217-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。翻译的起始、延伸、终止都需要G蛋白的参与。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。翻译的起始因子IF2、延伸因子EF-Tu、EF-G、终止与释放因子RF3都是G蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315f4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781a9-72dc-11ee-ab94-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核细胞的基因转录也具有抗终止作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。抗终止作用即是转录水平上的通读，某些真核细胞基因的转录可在特定的条件下可以发生这种现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315f72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781aa-72dc-11ee-b1cc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某一个基因的转录活性越强，则该基因所处的DNA序列对DNaseI就越敏感。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。某一个基因处于转录的活性状态，则它所处的染色质构象就越松散，核小体结构可能发生有利于转录的变化，这时对DNaseI更为敏感。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315fa4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ab-72dc-11ee-a260-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。用烟草花叶病毒构建植物表达载体时，外源基因可直接插入其基因组中，然后感染植物细胞，并在植物细胞中高水平表达。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。因烟草花叶病毒为单链RNA病毒，应首先将其RNA逆转录成cDNA。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315fcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ac-72dc-11ee-838a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在克隆载体pBSK质粒中，利用完整的lacZ基因作为筛选标记，白色转化菌落表明重组质粒含有插入片段。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。作为筛选标记的不是完整的lacZ基因，而是无法单独编码有活性的β-半乳糖苷酶的缺陷型lacZ'基因。lacZ中包括：一段0-半乳糖苷酶的启动子、编码α肽链的区段、一个多克隆位点(MCS)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35315ffe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ad-72dc-11ee-a217-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。基因工程使用的Ⅱ类核酸限制性内切酶不仅具有内切核酸酶的活性，而且有甲基化酶的活性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。I类核酸限制性内切酶没有甲基化酶的活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316026-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ae-72dc-11ee-9a78-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。葡萄糖通过脱氢可异构为果糖。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在碱性水溶液中，葡萄糖分子发生重排，通过中间物烯二醇互相转化，称酮-烯醇互变异构。例如D-葡萄糖在氢氧化钡溶液中放置数天，从形成的混合液中可分离出"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531604e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781af-72dc-11ee-8dfe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。有n个不对称C原子单糖的旋光异构体为2*-1。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。糖分子的旋光异构体数目取决于其所含不对称碳原子数目，用n表示不对称碳原子数目，C*表示不对称碳原子。含n个C*的单糖有2n个旋光异构体，组成2n-1对不同的对映体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316080-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b0-72dc-11ee-8c2e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪的皂化价高表示含低相对分子质量的脂肪酸少。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。皂化值是指皂化1g脂肪所需的KOH的毫克数。通常从皂化值的数值即可略知混合脂酸或混合脂肪的平均相对分子质量。皂化值与脂肪(或脂酸)的相对分子质量成反比，脂肪的皂化值高表示含低相对分子质量的脂酸较多，因为相同质量的低级脂酸皂化时所需的KOH数量比高级脂酸为多。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353160a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b1-72dc-11ee-b806-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。天然存在的不饱和游离脂肪酸大多具有反式结构。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。天然存在的不饱和游离脂肪酸大多具有顺式结构，少部分具有反式结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353160da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b2-72dc-11ee-9311-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所有氨基酸都具有旋光性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。甘氨酸的α-碳原子连接的4个原子和基团中有2个是氢原子，所以不是不对称碳原子，没有立体异构体，所以不具有旋光性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316102-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b3-72dc-11ee-bb16-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。等电点不是蛋白质的特征常数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。特征常数指能够表明某种物质特征的常数，例如酶的米氏常数。除蛋白质外，氨基酸，多肽等物质也具有等电点，因此等电点不是蛋白质的特征常数。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531612a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b4-72dc-11ee-972b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个化合物如能和茚三酮反应生成紫色，说明这化合物是氨基酸、肽或蛋白质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。具游离α-氨基的胺类就可以与茚三酮发生反应生成紫色物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531615c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b5-72dc-11ee-9de8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。β-折叠是主肽链相当伸展的结构，因此它仅存在于某些纤维状蛋白质中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。β-折叠除存在于某些纤维状蛋白质中外，也存在于球状蛋白质中。在纤维状蛋白质中β-折叠片主要是反平行式的，而球状蛋白质中反平行和平行两种方式几乎同样广泛地存在；在纤维状蛋白质中，β-折叠片的氢键主要是在不同肽链之同形成，而球状蛋白质中既可以在不同肽链或不同蛋白质分子之间形成，也可以在同一肽链的不同肽段之间形成。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316184-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b6-72dc-11ee-8992-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。变性蛋白质溶解度降低是由蛋白质分子的电荷被中和去除了蛋白质外面的水化层所引起的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质变性是由于维持蛋白质构象稳定的作用力(次级键和二硫键)被破坏从而使蛋白质空间结构被破坏并使个体丧失生物活性的现象，次级键破坏之后，蛋白质结构松散，原来聚集在分子内部的疏水性氨基酸侧链伸向外部，减弱了蛋白质分子与水分子之间的相互作用，因此溶解度降低。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353161b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b7-72dc-11ee-a169-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白质变性后，会使大量氨基酸游离出来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质变性是指蛋白质的空间结构被破坏，而一级结构仍保持完整，所以不会有氨基酸游离出来，大量氨基酸游离出来的现象称为氨基酸的降解。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353161de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b8-72dc-11ee-afb2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。功能蛋白质分子中，只要有氨基酸残基发生改变都会引起生物功能的丧失。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。一个典型蛋白质的功能决定于它的三维结构，而蛋白质所采取的三维结构又决定于它的氨基酸序列。若由于氨基酸残基发生的改变影响了该蛋白质的三维结构，则会引起其生物功能的丧失，但若未影响其三维结构，则不一定会引起生物功能的丧失。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316206-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781b9-72dc-11ee-ac66-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。血红蛋白具有别构效应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。血红蛋白有四个亚基，当第一个亚基与氧结合后，产生别构效应，使其他亚基更易与氧结合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316238-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ba-72dc-11ee-8730-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当某种蛋白质分子的酸性氨基酸残基数目等于碱性氨基酸残基数目时，此蛋白质的等电点为7.0。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质的等电点为所带净电荷为零时溶液的pH值，而并不是由酸碱氨基酸残基数目决定的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316260-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781bb-72dc-11ee-aba8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所有的酶都含有辅基或辅酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不是所有的酶都含有辅基或辅酶，单纯酶只有蛋白质而不含有辅因子，如脲酶、淀粉酶和一些消化酶等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316292-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781bc-72dc-11ee-8b7b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶的反竞争性抑制作用的特点是Km值变小，Vmx也变小。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。加入竞争性抑制剂后，Vmx不变，Km变大；加入非竞争性抑制剂后，Km值不变，Vmx变小；加入反竞争性抑制剂后，Km及Vmx都变小。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353162ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781bd-72dc-11ee-b493-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶的不可逆抑制机制是由于抑制剂与活性中心次级键结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不可逆的抑制作用是由于抑制剂与酶的必需基团以共价键结合引起酶活力丧失。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353162e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781be-72dc-11ee-9fa3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。辅酶I和辅酶Ⅱ都是由烟酰胺转化来的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。在体内烟酰胺与核糖、磷酸、腺嘌呤组成脱氢酶的辅酶，主要是烟酰胺腺嘌呤二核苷酸(NAD+,辅酶I)和烟酰胺腺嘌呤二核苷酸磷酸(NADP+,辅酶Ⅱ),其还原形式为NADH和NADPH。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316314-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781bf-72dc-11ee-9f95-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凝乳蛋白酶具有四级结构，而胰岛素没有四级结构。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质四级结构的亚基之间无共价键的连接。因此胰岛素(αβ)、胰凝乳蛋白酶(αβy)中的肽链都不是亚基，是各自蛋白质三级结构的一部分，所以凝乳蛋白酶和胰岛素都没有四级结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316346-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c0-72dc-11ee-842b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类不能合成Vc的原因是由于体内缺乏Vc氧化酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。人类不能合成Vc的原因是人的肝中缺少L-古洛糖酸-γ-内酯氧化酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531636e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c1-72dc-11ee-b5fe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。mRNA是细胞内种类最多、含量最丰富的RNA。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。mRNA是细胞内种类最多、但含量很低的RNA。细胞中含量最丰富的RNA是rRNA,占RNA总量的82%左右。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353163a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c2-72dc-11ee-81c2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。天然核酸构型以反式为主，否则其结构会发生改变。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。碱基与糖的旋转位置在立体结构上是受限制的，天然核苷中通常是反式构象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353163c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c3-72dc-11ee-8965-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Tm是DNA的一个重要特性，其定义为：使DNA双螺旋90%解开时所需要的温度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。Tm是使DNA双螺旋一半解开时所需要的温度。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353163f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c4-72dc-11ee-b0b7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在DNA变性的过程中，总是G-C对丰富区先溶解分开。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。碱基互补配中中，G与C通过三个氢键链接，A与T通过两个氢键链接，比较之下，G-C间配对更稳定。应该是A-T对丰富区先溶解分开。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316422-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c5-72dc-11ee-85a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。胰岛素分子中含有A7-S-S-B7,A20-S-S-B19和A6-S-S-A11三个二硫键，这些属于二级结构的内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。二硫键在一级结构中指的是数量和位置，在三级结构中指的是二硫键本身。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531644a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c6-72dc-11ee-a4c3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。缩短磷脂分子中层脂酸的碳氢链可增加细胞膜的流动性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。磷脂分子中脂酸的碳氢链长与细胞膜的流动性相关，碳氢链越长，细胞膜的流动性增加。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316472-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c7-72dc-11ee-b8d0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。霍乱毒素能与肠道上皮细胞膜中的鞘糖脂结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。鞘糖脂中的神经节苷脂在神经突触的传导中起重要作用，除此之外也作为细菌毒素的受体，如霍乱毒素的受体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353164a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c8-72dc-11ee-a8fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。天然氨基酸都具有一个不对称a-碳原子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。甘氨酸无不对称a-碳原子"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353164cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781c9-72dc-11ee-b6aa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只有在很高或很低pH时，氨基酸才主要以非离子化形式存在。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在水溶液中氨基酸的非离子化形式从来不会占优势。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353164f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ca-72dc-11ee-896d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。用纸电泳法分离氨基酸主要是根据氨基酸的极性不同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。用纸电泳法分离氨基酸主要根据氨基酸所带净电荷的不同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316544-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781cb-72dc-11ee-8063-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。组氨酸是人体的一种半必需氨基酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。组氨酸和精氨酸是人体的半必需氨基酸，人体可合成一部分，但合成量甚少，不足维持正常生理，需由食物供给一部分，故称半必需氨基酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316576-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781cc-72dc-11ee-bc2c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。溶液的pH可以影响氨基酸的等电点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。氨基酸的等电点是指氨基酸所带净电荷为零时溶液的pH,溶液的pH并不影响氨基酸的等电点。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531659e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781cd-72dc-11ee-85cb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。到目前为止，自然界发现的氨基酸为20种左右。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。从蛋白质水解物中分离出来的常见氨基酸在20种左右，但自然界中发现的氨基酸已有200多种"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353165c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ce-72dc-11ee-ba89-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。茚三酮与氨基酸的反应是通过氨基还原作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。茚三酮在弱酸溶液中与α-氨基酸共热，即使氨基酸起氧化脱氨产生酮酸，酮酸脱羧成醛，茚三酮本身即变为还原茚三酮，后者再与茚三酮和氨作用产生蓝紫色物质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353165f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781cf-72dc-11ee-ba65-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所谓肽单位就是指组成蛋白质的氨基酸残基。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。肽单位(peptideunit)又称肽基(peptidegroup),是肽链主链上的重复结构，是由参与肽键形成的氮原子、碳原子和它们的4个取代成分-羰基氧原子、酰胺氢原子和两个相邻的a-碳原子组成的一个平面单位。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316620-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d0-72dc-11ee-8173-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。两性离子氨基酸在溶液中，其正负离子的解离度与溶液pH无关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。两性离子氨基酸在溶液中，其正负离子的解离度与溶液pH有关。在酸性条件下，氨基酸中的氨基可以加上一个氢离子而带正电；在碱性条件下，羧基可以解离出一个氢离子而带负电。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316652-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d1-72dc-11ee-9251-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。a-碳和羧基碳之间的键不能自由旋转。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质多肽链骨架结构的最基本单位是酰胺键。酰胺键具有一定的双键性质不能转动，从而使肽单位上的6个原子处于同一平面中。所以肽链骨架是由一系列肽平面连接成的。每两相邻平面由α-碳原子(Ca)连接起来。C用两个单键N-C和Ca-C连接两个相邻的肽平面，这两个单键可以自由旋转。因此α-碳和羧基碳之间的键是能自由旋转的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531667a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d2-72dc-11ee-ae8b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个蛋白质分子中有两个半胱氨酸存在时，它们之间可以形成两个二硫键。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。二硫键是由两个半胱氨酸的巯基脱氢氧化而形成的，所以两个半胱氨酸最多只能形成一个二硫键。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353166ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d3-72dc-11ee-9643-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凡是与茚三酮反应不产生特有的蓝紫色的氨基酸，即可认为不是蛋白质氨基酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。有的氨基酸与茚三酮反应不产生特有的蓝紫色，如脯氨酸、羟脯氨酸与茚三酮反应生成的是黄色产物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353166d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d4-72dc-11ee-884d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。CNBr能裂解Gly-Met-Pro三肽。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。Pro并不影响CNBr的裂解反应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316706-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d5-72dc-11ee-a250-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。可用8mol/L尿素拆开蛋白质分子中的二硫键。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。尿素是蛋白质变性剂，它使蛋白质分子中的氢键破坏，但不能拆开二硫键。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531672e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d6-72dc-11ee-93ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在一次实验中，蛋白质顺序仪可测定肽链长度为200个氨基酸残基的氨基酸顺序。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。应该先将该多肽链水解成片段，然后用蛋白质顺序仪测定。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316756-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d7-72dc-11ee-bd5d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。变性蛋白质溶解度降低是因为蛋白质分子的电荷被中和以及除去了蛋白质外面的水化层所引起的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质变性后，分子中的次级键(主要是氢键)被破坏，构象发生了改变，肽链呈松散、无序状态，分子内部的疏水基团暴露，因而使蛋白质溶解度降低。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316788-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d8-72dc-11ee-9c32-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白质分子的亚基与结构域是同义词。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。亚基是指一条多肽链或以共价键连接在一起的几条多肽链组成的蛋白质分子的最小共价结构单位。而结构域是指在较大的球状蛋白质分子中，多肽链往往形成几个紧密的球状构象，彼此分开，以松散的肽链相连，此球状构象就是结构域。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353167b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781d9-72dc-11ee-beec-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。皮肤胶原蛋白中含量最多的氨基酸是甘氨酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。皮肤胶原蛋白含有很高量的Gly(33%)和Pro(13%),并含有不常见的羟脯氨酸和羟赖氨酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353167e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781da-72dc-11ee-9976-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据蛋白质的motifs可以了解蛋白质侧链是如何相互作用的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质的motifs即蛋白质的超二级结构，介于蛋白质二级结构和三级结构之间，由相邻的二级结构单元彼此相互作用，组合在一起，排列成规则的，在空间结构能够辨认的二级结构组合体，并充当三级结构的构件。多数情况下，只有非极性残基侧链参与这些相互作用，而亲水侧链多在分子的外表面。所以根据蛋白质的motifs并不可以了解蛋白质侧链是如何相互作用的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531680a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781db-72dc-11ee-86b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果用末端测定法测不出某肽的末端，则此肽必定是个环肽。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。如果用末端测定法测不出某肽的末端，并不能肯定则此肽必定是个环肽，可能是因为有某种修饰导致不反应，比如生成焦谷氨酸、各种酰化等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531683c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781dc-72dc-11ee-8b3c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一种特定的氨基酸序列通常能决定几种不同的稳定的特定三维结构。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。一种特定的氨基酸只能决定一种稳定的特定三维结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316864-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781dd-72dc-11ee-9288-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。因为α-螺旋是蛋白质构象稳定的重要因素，因此蛋白质活性部位通常在α-碳螺旋区的表面。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质活性部位通常位于蛋白质的结构域、亚基之间的裂隙或是蛋白质表面的凹陷部位，通常都是由在三维空间上靠得很近的一些氨基酸残基组成。具有活性的蛋白质通常具有α-螺旋结构，但是与α-螺旋没有太多的相关性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531688c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781de-72dc-11ee-82a6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。膜蛋白的二级结构均为α-螺旋。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。膜蛋白包括骨架蛋白、受体、酶、抗原等。膜蛋白的二级结构包括α-螺旋、β-折叠、β-转角和无规则卷曲4种形式。其中，α-螺旋伸入到膜脂双层中，其螺旋外侧的疏水基团与脂双层疏水区的烃链形成疏水键，二级结构中的β-折叠和β-转角多铺于膜表面与磷脂产生疏水和静电作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353168be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781df-72dc-11ee-b666-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。胰岛素的生物合成途径是先分别合成A、B两条链，然后通过S-S键相连。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。生物合成胰岛素时，首先合成它的前体-前胰岛素原，它是单链的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353168e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e0-72dc-11ee-b05e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。血红蛋白的α-链、β-链和肌红蛋白的肽链在三级结构上很相似，所以它们都有结合氧的能力。血红蛋白与氧的亲和力较肌红蛋白更强。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。对一定的氧压而言，肌红蛋白与氧的亲和力较血红蛋白强。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316918-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e1-72dc-11ee-92bf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。血红蛋白和肌红蛋白的功能都是运输氧。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。血红蛋白是输氧蛋白，而肌红蛋白主要是捕获氧、储藏氧。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531694a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e2-72dc-11ee-9b5e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。具有四级结构的蛋白质，当它的每个亚基单独存在时仍能保持蛋白质原有的生物活性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质的四级结构是指数条具有独立的三级结构的多肽链通过非共价键相互连接而成的聚合体结构。在具有四级结构的蛋白质中，每一条具有三级结构的肽链称为亚基或亚单位，缺少一个亚基或亚基单独存在都不具有活性。四级结构涉及亚基在整个分子中的空间排布以及亚基之间的相互关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316972-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e3-72dc-11ee-9a31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生活在空气稀薄的高山地区的人和生活在平地上的人比较，高山地区的人血液中2,3-二磷酸甘油酸2,3-DPG的浓度较低。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。生活在空气稀薄的高山地区的人比平地上的人血液中2,3-DPG的浓度高，这样使为数不多的氧合血红蛋白分子尽量释放氧，以满足组织对氧的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353169a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e4-72dc-11ee-9172-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在生理条件下，氧和二氧化碳均与血红蛋白血红素中的二价铁结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。氧与血红蛋白血红素中的二价铁结合，而二氧化碳与血红蛋白4个亚基的N端氨基结合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353169cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e5-72dc-11ee-885c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。组蛋白是一类碱性蛋白质，它含有很多的组氨酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。组蛋白是染色体基本结构蛋白，因富含碱性氨基酸精氨酸和赖氨酸而呈碱性，可与酸性的DNA紧密结合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353169f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e6-72dc-11ee-b61f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白质中一个氨基酸残基的改变，必定引起蛋白质结构的显著变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质中一个氨基酸残基的改变，不一定会引起蛋白质结构的显著变化。这要看氨基酸在肽链中的具体位置。例如血红蛋白C(HbC),β链中赖氨酸被谷氨酸取代，但是依旧能发挥血红蛋白的作用。而血红蛋白S(HbS),镰刀状细胞红蛋白，β链的第6位谷氨酸被缬氨酸所代替，形成一个不溶的长柱形螺旋纤维束，使红细胞扭旋成镰刀形，携氧能力也下降。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316a1c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e7-72dc-11ee-8fb3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。血红蛋白和肌红蛋白具有相同的生物学功能，因此它们具有相同的空间结构。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。血红蛋白分子近似球形，是一个四聚体蛋白质，由4个多肽亚基组成，每一亚基缔合有一个血红素辅基。肌红蛋白只有一、二、三级结构，无四级结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316a4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e8-72dc-11ee-bf94-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。血红蛋白和细胞色素C的辅基相同，前者运输氧，后者用于组成呼吸链。它们的生物学功能本质是相同的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。血红蛋白与细胞色素C都含有血红素辅基，前者是运输氧，后者血红素是用于传递电子，因此生物学本质截然不同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316a76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781e9-72dc-11ee-b9ac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。肌球蛋白、原肌球蛋白及γ球蛋白都是由几条多肽链组成的球形分子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。肌球蛋白(myosin)是一种很长的棒状分子，有6条多肽链组成。原肌球蛋白(protomyosin)也是一种纤维状蛋白质。由两条不同的螺旋肽链互相缠绕而形成超螺旋。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316aa8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ea-72dc-11ee-b026-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。抗体在体内除了识别抗原与结合抗原作用外还具有杀伤抗原的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。抗体介导免疫细胞对抗原的作用，不具有直接杀伤作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316ada-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781eb-72dc-11ee-9e08-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。血液凝结时，血纤维蛋白的几条可溶性肽链随时可以通过非共价键的高度聚合成为不溶性的血纤维蛋白的凝块。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。血液凝结时，血纤维蛋白(纤维蛋白原)α₂β2Y₂从两条α-链和两条β-链的N端各断裂一个特定的肽键-Arg-Gly,释放出两个纤维肽A(19个氨基酸)和两个纤维肽B(21个氨基酸),A、B肽含有较多的酸性氨基酸残基。A、B肽切除后，减少了蛋白质分子的负电荷，促进分子间聚集，形成网状结构。在凝血因子XⅢ(纤维蛋白稳定因子)催化下，纤维蛋白质单体间形成共价键(Gln-Lys结合),生成交联的纤维蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316b02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ec-72dc-11ee-94ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。测定别构酶的相对分子质量可以用十二烷基硫酸钠SDS-聚丙烯酰胺凝胶电泳。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。别构酶一般是由亚基组成的。SDS-聚丙烯酰胺凝胶电泳测出的是亚基的相对分子质量，而不是别构酶的相对分子质量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316b2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ed-72dc-11ee-a369-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白质变性是指肽键断裂，失去蛋白质生物大分子的性质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质变性时，高级结构遭到破坏，但并不导致一级结构的改变；二硫键的改变引起的失活可看作变性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316b5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ee-72dc-11ee-8684-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。结晶蛋白质都是变性蛋白质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。结晶蛋白质一般都是具有活性的蛋白质，如1965年我国科学家在世界上第一次用人工方法合成了具有生命活力的蛋白质-结晶牛胰岛素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316b84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ef-72dc-11ee-8e7a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某一种蛋白质在pH为5.0时向阴极移动，则其pI小于5.0。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。若该蛋白质的等电点(pI)小于"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316bb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f0-72dc-11ee-9fad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。用纸电泳法分离氨基酸主要是根据氨基酸的极性不同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。用纸电泳法分离氨基酸主要是根据氨基酸所带电荷量不同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316bde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f1-72dc-11ee-b0da-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白质变性和DNA变性的机理是相似的，复性时都可以恢复原来的生物活性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质的变性作用是指天然蛋白质受到某些物理或化学因素的影响，生物活性丧失，溶解度降低，分子内部原有的高度规则性的空间排列发生变化，致使其原有性质和功能发生部分或全部丧失的作用。如果变性条件剧烈持久，蛋白质的变性是不可逆的；如果变性条件不剧烈，这种变性作用是可逆的，这时，如果除去变性因素，在适当条件下变性蛋白质可恢复其天然构象和生物活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316c10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f2-72dc-11ee-8e41-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。变性蛋白质溶解度降低是因为蛋白质分子的电荷被中和以及除去了蛋白质外面的水化层所引起的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质变性会破坏分子内氢键，使它的空间结构被破坏，变成了氨基酸长链，疏水基外露，这样链与链之间容易形成分子间氢键而聚集成团，不易被溶解。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316c38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f3-72dc-11ee-95c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。沉淀的蛋白质都已变性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。盐析沉淀一般不引起蛋白质变性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316c6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f4-72dc-11ee-9f6a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。某蛋白样品在电泳时显示一条带，说明该样品是纯度高的单一蛋白质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。电泳结果显示一条带，只能说明蛋白质的分子量是单一的一种，和样品纯度没关系。电泳完染色剂只针对蛋白质进行染色，其它东西不能被染色。即不管样品纯度是多少，跑出来都是这一条带，非蛋白杂质不影响染色结果的显示。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316c92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f5-72dc-11ee-824b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白质变性后，其构象发生改变而构型不变。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。蛋白质变性后，构型也可能会发生改变。构型是一个有机分子中各个原子特有的固定的空间排列。这种排列不经过共价键的断裂和重新形成是不会改变的。蛋白质变性中，可能会涉及二硫键的断裂，进而影响到蛋白质构型的变化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316cc4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f6-72dc-11ee-b389-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在强酸或强碱条件下，蛋白质的构型会发生改变而失去生物活性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在强酸或强碱条件下，蛋白质会变性，如果不涉及共价键的断裂，构型就不会发生改变，因为构型改变需要断裂共价键。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316cec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f7-72dc-11ee-8959-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶可以促成化学反应向正反应方向转移。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。对于可逆反应而言，酶既可以改变正反应速率，也可以改变逆反应速率，但不改变化学反应的平衡点。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316d1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f8-72dc-11ee-bb5b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般酶和底物大小差不多。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶与底物之间的结合，是通过酶对于底物的化学结构和空间构型来进行识别的。不同种类的酶大小可能不同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316d46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781f9-72dc-11ee-a6d4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶影响它所催化反应的平衡。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶可以改变反应速率，但不改变化学反应的平衡点。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316d6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781fa-72dc-11ee-8869-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶和底物的关系比喻为锁和钥匙的关系是很恰当的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。为了解释酶作用的专一性，曾提出过不同的假说，早在1894年E.Fisher提出\"锁钥学说\",即酶与底物为锁与钥匙的关系，以此说明酶与底物结构上的互补性。该学说的局限性是不能解释酶的逆反应，如果酶的活性中心是\"锁钥学说\"中的锁，那么这种结构不可能既适合于可逆反应的底物，又适合于可逆反应的产物，因此本题表述错误。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316da0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781fb-72dc-11ee-95fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶活力的测定实际上就是酶的定量测定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。检查酶的含量及存在，不能直接用质量或体积来表示，常用它催化某一特定反应的能力来表示，即用酶的活力来表示，因此酶活力的测定实际上就是酶的定量测定。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316dc8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781fc-72dc-11ee-a3b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶反应速率一般用单位时间内底物的减少量来表示。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶反应速率可以用单位时间内底物的减少量或产物的增加量来表示，但在反应的初速率阶段，底物的减少量小于5%,难以准确测定，而产物的增加是从无到有，只要测定方法足够灵敏，可以准确测定，因此酶反应速率一般用单位时间内产物的增加量来表示。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316df0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781fd-72dc-11ee-9a46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶促反应的初速度与底物浓度无关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。影响酶促反应的初速度的因素主要有：酶和底物的浓度以及它们之间的相对浓度、温度、pH、激活剂、抑制剂等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316e22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781fe-72dc-11ee-b091-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。测定酶活力时，底物浓度不必大于酶浓度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。通过两种方式可进行酶活力测定：①测定完成一定量反应所需的时间，②测定单位时间内酶催化的化学反应量。测定酶活力就是测定产物增加量或底物减少量，主要根据产物或底物的物理或化学特性来决定具体酶促反应的测定方法。在酶活力测定实验中底物往往是过量的，因此底物的减少量只占总量的极小部分。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316e4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a781ff-72dc-11ee-b7ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶的比活力是酶的特征常数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶的特征常数是米氏常数。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316ecc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78200-72dc-11ee-8f68-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。由1g粗酶制剂经纯化后得到10mg电泳纯的酶制剂，则酶的比活力较原来提高了100倍。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶的比活力代表酶的纯度，对同一种酶来说，比活力愈大，表示酶的纯度愈高。从理论上讲是对的，即原来1g中的酶全部保留在10mg中，所以比活力提高100倍。但是实际上酶和杂蛋白都会有损失，并且在纯化过程中，酶活性会有损失。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316efe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78201-72dc-11ee-b799-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。激酶在酶的系统分类中属于水解酶类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据激酶的作用机制不同，可将其归入下列3类：①转移酶类：如蛋白激酶、己糖激酶、磷酸果糖激酶；②水解酶类：如肠激酶、尿激酶；③异构酶类：如链激酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316f26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78202-72dc-11ee-9130-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一般来说酶是具有催化作用的蛋白质，相应的蛋白质都是酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶是由活细胞产生的、对其底物具有高度特异性和高度催化效能的蛋白质或RNA。一般来说，酶是具有催化作用的蛋白质，但是相应的蛋白质不一定都是酶，要根据不同情况下蛋白质的作用进行区分。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316f58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78203-72dc-11ee-9eca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。L-氨基酸氧化酶可以催化D-氨基酸氧化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶具有高度专一性。L-氨基酸氧化酶只能催化L-氨基酸氧化，而对D-氨基酸无作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316f80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78204-72dc-11ee-b6d2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。寡聚酶一般是指由多个相同亚基组成的酶分子。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。寡聚酶是由两个或两个以上亚基组成的酶，这些亚基可以是相同的，也可以是不相同的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316fb2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78205-72dc-11ee-b31b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。就已有文献资料来看，核酶ribozyme不符合催化剂概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。核酶是具有催化功能的小分子RNA,属于生物催化剂，可降解特异的mRNA序列。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35316fda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78206-72dc-11ee-913a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。纯酶一定可以结晶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。通过各种提纯方法获得较纯的酶溶液后，就可能将酶进行结晶。常用的方法有：盐析、有机溶剂、透析平衡、等电点等结晶方法。酶的结晶过程进行得很慢，如果要得到好的晶体也许需要数天或数星期。通常的方法是把盐加入一个比较浓的酶溶液中至微呈混浊为止。有时需要改变溶液的pH及温度，轻轻摩擦玻璃壁等方法以便达到结晶的目的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531700c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78207-72dc-11ee-bdf7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。固定化酶的一个缺点是很难作用于水不溶性底物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。通常酶催化反应都是在水溶液中进行的，而固定化酶是将水溶性酶用物理或化学方法处理，使之成为不溶于水的，但仍具有酶活性的状态。酶的固定化方法大致分为物理法和化学法，物理法有吸附法和包埋法；化学法有共价偶联法和交联法。经过固定化的酶不仅仍具有高的催化效率和高度专一性，而且固定化酶提高了对酸碱和温度的稳定性，增加丁酶的使用寿命。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317034-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78208-72dc-11ee-ac2f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在整个发育时期或在各种培养基上，细菌都能合成的酶称诱导酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。诱导酶是在环境中有诱导物(一般是反应的底物)存在时，微生物会因诱导物存在而产生的一种酶。诱导酶的合成除取决于环境中诱导物外，还受基因控制即受内因和外因共同控制。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317066-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78209-72dc-11ee-80d7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Km是酶的特征常数，只与酶的性质有关，与酶浓度无关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。Km是酶的特征常数之一，一般只与酶的性质有关，与酶浓度无关。不同的酶，Km值不同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531708e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7820a-72dc-11ee-8b13-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当[S]>>Km时，V趋向于Vmx,此时只有通过增加[E]来增加V。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。当[S]>>Km时，V趋向于Vmx因为v=K;[E],所以可以通过增加[E]来增加V。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353170b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7820b-72dc-11ee-a26d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶的pH对酶活性的曲线均为钟罩形。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。虽然大多数酶的pH~酶活性曲线为钟罩形，但并不是所有的酶都如此，有的只有钟罩形的一半，如胃蛋白酶、胆碱酯酶；有的甚至是直线，如木瓜蛋白酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353170e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7820c-72dc-11ee-90b0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。金属离子作为酶的激活剂，有的可以相互取代，有的可以相互拮抗。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。金属离子作为酶的激活剂，有的可以相互取代，如Mg²+作为激酶等的激活剂可以被Mn²+取代；有的可以相互拮抗，如Na抑制K的激活作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317110-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7820d-72dc-11ee-9a78-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。正协同效应使酶促反应速率增加。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。正协同效应使酶与底物或调节物的结合越来越容易，如果调节物是激活剂，则促使反应速率增加，如果调节物是抑制剂，则降低反应速率。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317142-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7820e-72dc-11ee-8706-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。竞争性可逆抑制剂一定与酶的底物结合在酶的同一部位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。竞争性可逆抑制剂可以与酶的底物结合在酶的同一部位，也可以与酶的底物结合在酶的不同部位，由于空间位阻或构象改变的原因而不能同时结合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531716a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7820f-72dc-11ee-a7f1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。己糖激酶作用于葡萄糖的Km=6×10-mol/L,作用于果糖的Km=2×10-³mol/L,由此可知己糖激酶对果糖的亲和力更高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。1/Km可近似地表示酶对底物亲和力的大小。1/Km愈大，表明亲和力愈大，因为1/Km愈大，则Km愈小，达到最大反应速率一半所需要的底物浓度就愈小。显然，最适底物时酶的亲和力最大，Km最小。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531719c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78210-72dc-11ee-ad14-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。非竞争性抑制剂和底物结构有类似性，能与正常底物竞争结合酶的同一个部位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。非竞争性抑制剂是指与酶的活性位点以外的部位结合，与底物不形成竞争关系的化学试剂，一般与底物结构无相似性。大多数竞争性抑制剂的结构与底物结构类似，因此能与酶的活性部位结合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353171c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78211-72dc-11ee-8918-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶的最适pH是一个常数，每一种酶只有一个确定的最适pH。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。各种酶在一定条件下都有其特定的最适pH,因此最适pH是酶的特性之一。但酶的最适pH不是一个常数，受许多因素影响，随底物种类和浓度、缓冲液种类和浓度的不同而改变，因此最适pH只有在一定条件下才有意义。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353171f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78212-72dc-11ee-9ab3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶的最适温度与酶的作用时间有关，作用时间愈长，则最适温度愈高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在较低的温度范围内，酶反应速率随温度升高而增大，但超过一定温度后，反应速率反而下降，因此只有在某一温度下，反应速率达到最大值，这个温度通常就称为酶反应的最适温度。最适温度不是酶的特征物理常数，常受到其他条件如底物种类、作用时间、pH和离子强度等因素影响而改变。如最适温度随着酶促作用时间的长短而改变，由于温度使酶蛋白变性是随时间累加的。一般讲反应时间长，酶的最适温度低，反应时间短则最适温度就高，因此只有在规定的反应时间内才可确定酶的最适温度。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531721e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78213-72dc-11ee-9e84-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。抑制剂对酶的抑制作用是酶变性失活的结果。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。引起抑制作用的物质称为抑制剂。由于酶的必需基团化学性质的改变，但酶未变性，而引起酶活力的降低或丧失而称为抑制作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317250-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78214-72dc-11ee-b116-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶的最适pH与酶的等电点是两个不同的概念，但两者之间有相关性，两个数值通常比较接近或相同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶的等电点是指酶所带净电荷为零时所处溶液的pH,以pI代表。酶的最适pH是指表现出酶最大活力的pH。各种酶在一定条件下都有其特定的最适pH,因此最适pH是酶的特性之一。但酶的最适pH不是一个常数，受许多因素影响，随底物种类和浓度、缓冲液种类和浓度的不同而改变，因此最适pH只有在一定条件下才有意义。酶的最适pH与等电点在数值上没有直接联系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317278-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78215-72dc-11ee-9892-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。若H是酶的竞争性抑制剂，那么酶的最适pH一定在碱性范围内。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。竞争性抑制是最常见的一种可逆抑制作用。抑制剂(I)和底物(S)竞争酶的结合部位，从而影响了底物与酶的正常结合。即使H是酶的竞争性抑制剂，酶的最适pH也不能确定。因为酶的最适pH不是一个常数，受许多因素影响，随底物种类和浓度、缓冲液种类和浓度的不同而改变，因此最适pH只有在一定条件下才有意义。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353172aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78216-72dc-11ee-8329-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶活性中心一般由在一级结构中相邻的若干氨基酸残基组成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。构成酶活性中心的氨基酸残基可以由在一级结构中相邻的若干氨基酸残基组成，也可以由在一级结构中相距较远的、或位于不同肽链上的若干氨基酸残基组成，但在空间结构上它们彼此靠近。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353172d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78217-72dc-11ee-a6a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。对于酶的催化活性来说，酶蛋白的一级结构是必需的，而与酶蛋白的构象关系不大。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶的催化活性与酶蛋白的一级结构和酶蛋白的构象都有关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317304-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78218-72dc-11ee-b9b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在酶的活性部位，仅仅只有侧链带电荷的氨基酸残基直接参与酶的催化反应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。从结构上看，氨基酸R基的一些不带电基团也能形成空间位阻从而与底物相互契合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531732c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78219-72dc-11ee-bc4e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶分子除活性中心部位和必需基团外，其他部位对酶的催化作用是不必需的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。活性部位的形成要求酶蛋白分子具有一定的空间构象，因此，酶分子中其它部位的作用对于酶的催化作用来说，可能是次要的，但绝不是毫无意义的，它们至少为酶活性部位的形成提供了结构的基础。所以酶的活性部位与酶蛋白空间构象的完整性之间，是辩证统一的关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317354-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7821a-72dc-11ee-a719-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。同工酶的最适pH值相同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。同工酶是指催化相同的化学反应，但其蛋白质分子结构、理化性质和免疫性能等方面都存在明显差异的一组酶。各种酶在一定条件下都有其特定的最适pH,因此最适pH是酶的特性之一。但酶的最适pH不是一个常数，受许多因素影响，随底物种类和浓度、缓冲液种类和浓度的不同而改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317386-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7821b-72dc-11ee-8186-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶活性中心与底物的亲和性要高于活性中心与过渡态的亲和性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。酶活性中心的结构与过渡态的互补性更好，因此能更好地结合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353173ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7821c-72dc-11ee-8494-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。细胞内的绝大多数酶属于别构酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。细胞内绝大多数酶不是限速酶，因此不需要通过别构效应来调节酶活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353173e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7821d-72dc-11ee-b54b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。同工酶就是一种酶同时具有几种功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。同工酶是指催化相同的化学反应，但其蛋白质分子结构、理化性质和免疫性能等方面都存在明显差异的一组酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317412-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7821e-72dc-11ee-9b9d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。蛋白激酶使蛋白质磷酸化的部位都是丝氨酸残基。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。底物蛋白质被磷酸化的氨基酸残基有两类：①Thr、Ser、Tyr、Asp、Glu……“P-O”键连接；②Lys、Ar9、His……“P-N”键连接。主要是磷酸化Ser、Thr,个别为Tyr。被磷酸化的氨基酸残基可以是一个、两个或多个。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531743a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7821f-72dc-11ee-bafd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。用定位点突变方法得到缺失某一个氨基酸残基的突变体，这个突变的酶蛋白不再具有催化活性，因此可以认为该缺失残基一定是酶结合底物的必需基团。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。该缺失残基可能与形成酶蛋白的空间构象有关。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531746c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78220-72dc-11ee-8c83-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。酶催化反应是发生在酶的活性部位，酶之所以具有高效率是由于活性部位存在多种催化基团，起着多元催化的作用，其他部分只是维持酶的催化基团具有合适的位置，对催化作用不产生影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。活性部位的形成要求酶蛋白分子具有一定的空间构象，因此，酶分子中其它部位的作用对于酶的催化作用来说，可能是次要的，但绝不是毫无意义的，它们至少为酶活性部位的形成提供了结构的基础。所以酶的活性部位与酶蛋白空间构象的完整性之间，是辩证统一的关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317494-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78221-72dc-11ee-817b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。别构酶调节机制中的齐变模式更能解释负协同效应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。别构酶调节机制中的齐变模型的最大局限性是不能解释负协同效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353174c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78222-72dc-11ee-afac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。a-淀粉酶和β-淀粉酶的区别在于α-淀粉酶水解a-1,4糖苷键，β-淀粉酶水解β-1,4糖苷键。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。α-淀粉酶和β-淀粉酶的区别在于α-淀粉酶能随机水解淀粉内部的α-1,4糖苷键，而β-淀粉酶要从淀粉的非还原端开始，以两个葡萄糖残基为单位，依次水解α-1,4糖苷键，产生麦芽糖。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353174ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78223-72dc-11ee-8727-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。D-葡萄糖的对映体为L-葡萄糖，后者存在于自然界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。自然界广泛存在为D-葡萄糖。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317520-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78224-72dc-11ee-9d4c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。糖的变旋现象是由于糖在溶液中起了化学作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。糖的变旋现象不是由于糖在溶液中起了化学作用，而是由于其分子结构在溶液中起了变化，从α型变成β型或相反地从β型变成α型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317548-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78225-72dc-11ee-ab49-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从热力学上讲，葡萄糖的船式构象比椅式构象更稳定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。葡萄糖的椅式构象比船式构象要更稳定，因为椅式构象中没有C-C键的重叠和H原子之间的互作影响，而在船式构象中存在有G₂-C₃和Gs-C₆键的重叠，以及G₁-C4竖直H原子之间("
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531757a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78226-72dc-11ee-8102-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凡具有吡喃糖型的均为六碳糖，而具有呋喃糖型的都是五碳糖。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。六碳糖如果以C₄羟基与羰基成环亦可形成呋喃糖型，而五碳糖如果以C羟基与羰基成环也可形成吡喃糖型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353175a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78227-72dc-11ee-881e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。葡萄糖分子中有醛基，它和一般的醛类一样，能和希夫Schiff试剂反应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。葡萄糖分子中的醛基在环状结构中变成了半缩醛基，所以其醛基不如一般醛类的醛基活泼，不能和Schiff试剂反应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353175d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78228-72dc-11ee-af76-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。同一种单糖的α型和β型是对映体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。同一种单糖的α型和β型不是对映体，而是异头体，它们仅仅是异头碳原子上的构型不同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353175fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78229-72dc-11ee-b6de-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。不同种属来源的细胞可以互相融合，说明所有细胞膜都由相同的组分组成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不同种属来源的细胞可以互相融合是因为膜结构的共性和疏水作用的非特异性，而不是因为所有的膜都有相同的组分。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531762e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7822a-72dc-11ee-961b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪的皂化价高表示含低相对分子质量的脂酸少。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。脂肪的皂化价与其相对分子质量成反比，皂化价愈高表示含低相对分子质量的脂酸愈多。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317656-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7822b-72dc-11ee-ae85-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脂肪和胆固醇都属脂类化合物，它们的分子中都含有脂酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。胆固醇的化学本质是醇，分子中无脂酸"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317688-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7822c-72dc-11ee-9f8c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脑磷脂与血液凝固有关，是仅分布于高等动物脑部组织中的甘油磷脂。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。脑磷脂，又称磷脂酰乙醇胺，与血液凝固有关，临床上可用做止血药和肝功能检查的试剂。在动物体内广泛分布，尤富集于脑和脊髓，在大豆中含量也较高。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353176b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7822d-72dc-11ee-8ac4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。血浆载脂蛋白LDL分子中含载脂蛋白A。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。血浆载脂蛋白LDL分子含有载脂蛋白B-100,血浆载脂蛋白CM分子含有载脂蛋白B-48,血浆载脂蛋白VLDL分子含有载脂蛋白B-100,血浆载脂蛋白HDL分子含有载脂蛋白E。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353176e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7822e-72dc-11ee-b0ea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。不同种属来源的细胞可以互相融合，说明所有细胞膜都由相同的组分组成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不同种属来源的细胞其细胞膜的骨架都为磷脂双分子层，且具有流动性，所以可以相互融合，但是不同的细胞膜其表面的蛋白质种类、糖蛋白、脂蛋白等都会有差异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531770a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a7822f-72dc-11ee-8bfa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个核酸分子由一个磷酸、一个五碳糖和一个碱基构成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。核酸分子是由许多核苷酸分子聚合而成的生物大分子化合物，核苷酸由一个磷酸、一个五碳糖和一个碱基构成。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531773c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78230-72dc-11ee-8cd8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核细胞和原核细胞核糖体中的RNA数目和种类是相同的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。核糖体中的RNA数目和种类具有种属差异性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317764-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a78231-72dc-11ee-ac34-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。核酶只能以RNA为底物进行催化反应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。核酶是具有催化活性的RNA分子，具有酶的催化功能。核酶的作用底物可以是不同的分子，有些作用底物就是同一RNA分子中的某些部位，有的能够切割RNA,有的能够切割DNA,有些还具有RNA连接酶、磷酸酶等活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531778c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f58-72dc-11ee-8cf2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。mRNA是细胞内种类最多、含量最丰富的RNA。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。mRNA是细胞内种类最多、但含量很低的RNA。细胞内含量最丰富的RNA是rRNA。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353177be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f59-72dc-11ee-86ab-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。基因表达的最终产物都是蛋白质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。基因表达的产物可以是蛋白质或RNA。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353177e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f5a-72dc-11ee-af40-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。两个核酸样品A和B,如果A的OD₂60/OD₂so大于B的OD₂60/OD₂80,那么A的纯度大于B的纯度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。核酸样品的纯度可以根据样品的OD₂6o/OD28o的比值判断，纯的DNA样品OD₂o/OD280="
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531780e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f5b-72dc-11ee-accb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。具有对底物分子切割功能的都是蛋白质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。已经发现一些RNA具有催化能力，可以催化自我拼接等反应"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317840-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f5c-72dc-11ee-9dc7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在原核细胞和真核细胞中染色体DNA都与组蛋白形成复合体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在原核细胞中一般只有一个环状的DNA分子，DNA不与蛋白质结合。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317868-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f5d-72dc-11ee-8a91-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。和其他生物一样，每一种病毒都含有RNA及DNA两种核酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。病毒只含有DNA或RNA,分为DNA病毒和RNA病毒两种。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531789a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f5e-72dc-11ee-9192-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生物体的不同组织中的DNA,其碱基组成也不同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA的组成具有种的特异性，但没有组织和器官特异性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353178c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f5f-72dc-11ee-a6a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生物体内核酸的碱基配对方式都是Watson-Crick配对"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。生物体内核酸的碱基配对是以碱基互补原则进行的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353178ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f60-72dc-11ee-9609-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。组成D-DNA与Z-DNA分子的重复单位为单核苷酸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。组成不同空间构型DNA分子的重复单位为多核苷酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531791c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f61-72dc-11ee-8e44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。原核与真核核糖体中均含有5SrRNA,它们的结构和功能相同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。原核与真核核糖体中均含有5SrRNA,但结构不完全相同。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317944-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f62-72dc-11ee-8abd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。原核mRNA中的修饰碱基比真核mRNA的多。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。原核mRNA与真核mRNA相比5'端无帽状结构存在，3'端不含polyA结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531796c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f63-72dc-11ee-b295-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真核生物细胞核内的不均一RNAhnRNA分子质量虽然不均一，但是半衰期长，比胞质成熟mRNA更为稳定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不同细胞类型的hnRNA半衰期不同，一般在几分钟至1h左右，而胞质成熟mRNA的半衰期一般为1～10h,神经细胞的mRNA的半衰期最长，可达数年。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3531799e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f64-72dc-11ee-8591-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。DNA核蛋白及RNA核蛋白可用0.14mol/LNaCl溶液抽提出来。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA核蛋白及RNA核蛋白一般用1mol/LNaCl抽提。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353179c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f65-72dc-11ee-8b84-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。tRNA只在蛋白质生物合成中起作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。tRNA在蛋白质合成过程中具有转运氨基酸的作用，还在DNA反转录合成中及其他代谢调节中起重要作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "353179f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f66-72dc-11ee-ab40-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。用碱水解核酸，可以得到2'-核苷酸与3'-核苷酸的混合物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。碱水解核酸时，先生成2'、3'-环核苷酸，再水解为2'或3'-核苷酸。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317a20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f67-72dc-11ee-be2f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。核酸变性或降解时，出现减色效应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。核酸变性或降解时，碱基堆叠被破坏，碱基暴露，光吸收增加，称为增色效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317a52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f68-72dc-11ee-94ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。核糖核酸酶和脱氧核糖核酸酶分别作用于RNA和DNA中的磷酸二酯键，均属于特异性的磷酸二酯酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。核糖核酸酶和脱氧核糖核酸酶有一定的专一性，作用于磷酸二酯键，是内切核酸酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317a84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f69-72dc-11ee-9fff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在DNA变性过程总是G-C对丰富区先解链。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在DNA变性过程中A-T对丰富区先解链。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317aac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f6a-72dc-11ee-9c3b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。三维结构的破坏和生物活性的丧失是蛋白质变性和核酸变性的最重要的标志。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。DNA的生物活性并不因为变性而丧失。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317ad4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f6b-72dc-11ee-b7d1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。杂交双链是指DNA双链分开后两股单链的重新结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。杂交双链中一条为模板链，另一条为新合成的DNA单链。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317b06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f6c-72dc-11ee-a42b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。核酸的紫外吸收与溶液的pH值无关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。pH值过高或者过低都会引起核酸变性，核酸变性会使紫外吸收值增高(增色效应)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317b2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f6d-72dc-11ee-8b07-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。其嘧啶碱基含量较高的DNA的Tm值高于嘌呤碱基含量较高的DNA。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。根据碱基配对原则，A+G=C+T,DNA的双链中，嘧啶碱基含量与嘌呤含量相等。一种DNA分子的Tm值大小与其所含碱基中的G+C比例相关，G+C比例越高，Tm值越高。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317b60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f6e-72dc-11ee-8fcb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。毫无例外，从结构基因中DNA序列可以推出相应的蛋白质序列。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。不是毫无例外的，蛋白质的合成要受到多种因素的制约。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317b88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f6f-72dc-11ee-9590-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。维生素是维持机体正常生命活动不可缺少的一类高分子有机物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。维生素不是高分子有机物"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317bba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f70-72dc-11ee-b8bc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。维生素是各种生物需求量很少，机体又不能合成的一类小分子有机化合物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。维生素是维持生物体正常生长发育和代谢所必需的一类微量有机物质，不能由机体合成，或合成量不足，必须靠食物供给。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317be2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f71-72dc-11ee-b032-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。B族维生素具有相似的结构和生理功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。维生素B族全是水溶性维生素，是所有人体组织必不可少的营养素，是食物释放能量的关键，全是辅酶，参与体内糖、蛋白质和脂肪的代谢，因此被列为一个家族。B族维生素并不具有相似的结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317c0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f72-72dc-11ee-b130-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。维生素对人体有益，所以摄入的越多越好。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。维生素满足人体所需是最合适的。当人体射入的水溶性维生素过多，会被排泄掉，但如果是脂溶性维生素过量，无法排泄出，反而对人体有害。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317c3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f73-72dc-11ee-8ac9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。烟酰胺腺嘌呤二核苷酸即辅酶Ⅱ,是各种脱氢酶的辅酶。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。除了NAD可以作为脱氢酶的辅酶外，还有黄素腺嘌呤二核苷酸(FAD)也可以作为脱氢酶的辅酶。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317c64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f74-72dc-11ee-b39d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。缺乏维生素C,使Fe³+易被还原为Fe²+,导致胶原纤维不能正常合成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。维生素C具有防治坏血病的功能，故称为抗坏血酸。抗坏血酸是一种强还原剂，缺乏，不能使Fe³+还原为Fe²+。维生素C缺乏时，由于胶原蛋白合成障碍，从而导致创口、溃疡不易愈合，骨骼、牙齿等易于折断、脱落；毛细血管脆性增加，而引起皮肤、黏膜、肌肉出血等坏血病症状。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317c96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f75-72dc-11ee-983c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。动物可利用葡萄糖合成维生素C。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。动物无法自身合成维生素C仅能通过外界摄入。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317cbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f76-72dc-11ee-a244-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。长期素食很可能引起维生素B₁₂缺乏。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。维生素B₁2主要富含于肝、瘦肉、鱼、牛奶及鸡蛋中，长期素食会造成缺乏。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317ce6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f77-72dc-11ee-bc9b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所有B族维生素都是杂环化合物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。B族维生素中维生素B₃不含环状结构，其余都是杂环化合物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317d18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f78-72dc-11ee-8f02-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。甾体激素可以通过跨膜信号传递引起细胞响应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。甾体激素作用实质上是激素这个小分子通过与细胞中相应的受体蛋白结合成复合物后，作为一个由激素激活的反式作用因子，与其他调控元件和因子协同下引起其靶基因表达的改变从而影响细胞功能。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317d40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f79-72dc-11ee-8266-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。水溶性激素的受体一定在细胞膜上，而脂溶性激素的受体则一定在细胞内。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。爪蟾孕激素的受体就在细胞膜上。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317d72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f7a-72dc-11ee-b413-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。胰高血糖素既可以促进肝糖原的分解，又能促进肌糖原的分解。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。肌细胞上并无胰高血糖素的受体，因此肌糖原的降解不受胰高血糖素的影响。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317d9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f7b-72dc-11ee-a241-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。激素是通过膜受体引发生物效应的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。类固醇激素是疏水的脂溶性分子，因此，可以通过质膜，它们的受体是一些转录因子。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317dcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f7c-72dc-11ee-ad9d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。胰高血糖素通过促进肝糖原和肌糖原的降解使血糖升高。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。胰高血糖素并不使肌糖原降解。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317df4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f7d-72dc-11ee-9754-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。脑细胞中也有胰岛素和胆囊收缩素以及其他一些肠道激素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。通过细胞化学等手段已证明许多肠道激素在脑细胞中也表达，同样某些脑肽在肠道细胞中也表达。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317e26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f7e-72dc-11ee-a77c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所有的激素都可以使用RIA放射免疫测定法进行定量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。乙烯是一种气体激素，它无法使用RIA测定其浓度。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317e4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f7f-72dc-11ee-a972-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。肾上腺素既可以使用cAMP作为“第二信使”,也可以使用DG和IP₃作为“第二信使”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。肾上腺素具有不同的受体，通过β-受体作用时的第二信使为cAMP,而通过α-受体作用时的第二信使则为DG、IP₃和Ca²+。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317e80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f80-72dc-11ee-8d1b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。TRF促甲状腺激素释放因子是一种三肽，它是直接由三个氨基酸缩合而成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。TRF虽然是一个三肽，但它有一个相对分子质量较大的多肽作为前体，前体中含有几个TRF的拷贝。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317ea8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f81-72dc-11ee-999d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生长因子的受体都具有酪氨酸蛋白激酶的活性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。生长因子的种类很多，并非每一种生长因子的受体都具有酪氨酸激酶的活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317ed0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f82-72dc-11ee-84a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。促黑激素和褪黑激素的本质都是多肽。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。褪黑激素并不是多肽，而是N-乙酰-5-甲氧基色胺。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317f02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f83-72dc-11ee-85a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。可以使用HCG的α-亚基的单克隆抗体检测血液中HCG的含量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。HCG与FSH,LH和TSH的α-亚基几乎相同的，因此不能通过检测它的α-亚基含量来确定HCG的含量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317f2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f84-72dc-11ee-b317-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。催产素和加压素都是由脑垂体后叶细胞合成和分泌的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。催产素和加压素的合成是在下丘脑细胞中进行的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317f5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f85-72dc-11ee-98c6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。ACTH具有促黑激素的活性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。ACTH的N端的一段氨基酸序列与yMSH的序列完全一致，因此，ACTH也有一定的MSH的活性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317f84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f86-72dc-11ee-87e5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。G蛋白一定是通过其a亚基发挥作用的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。某些G蛋白是通过其βy-亚基复合物发挥作用的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317fac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f87-72dc-11ee-aee4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。表皮生长因子的作用不需要G蛋白。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。表皮生长因子的作用需要Ras蛋白，而Ras蛋白实际上就是一种G蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35317fde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f88-72dc-11ee-8820-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从进化的角度来看，细胞癌基因来源于病毒癌基因。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。细胞癌基因具有内含子，病毒癌基因缺乏内含子，因此细胞癌基因不可能来源于病毒癌基因。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35318006-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f89-72dc-11ee-b82c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Ca²+的信使作用必须通过钙调蛋白来完成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。Ca²+的信使作用是通过钙调蛋白来完成的，但也有通过其他蛋白质作用的，比如通过PKC或其他钙离子传感器蛋白。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35318038-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f8a-72dc-11ee-8fb2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。cAMP总是通过PKA起作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。嗅觉和味觉信号转导系统中，cAMP作用离子通道。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35318060-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f8b-72dc-11ee-95dd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。肾上腺分泌的激素均为氨基酸衍生物激素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。肾上腺皮质分泌的激素根据其生理功能可分为三类：包括糖皮质激素、盐皮质激素和少量性激素三大类。都是在垂体分泌的促肾上腺皮质激素(ACTH)的作用下，由胆固醇转化为孕烯醇酮，再经一系列化学反应形成的，均为类固醇(甾体)激素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "35318092-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "17a81f8c-72dc-11ee-9953-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。激素与受体结合作用的特点是具有高亲和力的共价键结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。激素与受体结合是非共价的、可逆的，当激素与受体分离后，激素的信使作用即中止。"
+	}
+]

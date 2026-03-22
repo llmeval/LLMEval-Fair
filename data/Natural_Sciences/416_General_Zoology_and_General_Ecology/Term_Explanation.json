@@ -1,0 +1,3365 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527af5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c093e913-7085-11ee-9a63-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Fitness"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Fitness的中⽂名称是适合度。适合度是指⼀种⽣物对⽣境的适合程度，以平均每个个体⽣育的存活后代的数量作为衡量适合度⾼低的指标。适合度是分析估计⽣物所具有的各种特征的适应性，以及在进化过程中继续往后代传递的能⼒的指标。适合度越⼤，个体成活的机会和繁殖成功的机会也越⼤，反之则相反。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b076-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941010-7085-11ee-ad44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Gaia Hypothesis"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Gaia Hypothesis的中⽂名称是盖亚假说。盖亚假说认为，地球表⾯的温度和化学组成是受地球表⾯的⽣命总体（⽣物圈）所主动调节的，⽣命体与⾃然环境之间存在着复杂连贯的相互作⽤。这些相互关系共同作⽤使地球保持着适度的稳定状态，以使⽣命继续⽣存。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b0b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941011-7085-11ee-8a11-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Predation"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Predation的中⽂名称是捕⾷。捕⾷是指⼀种⽣物摄取其他⽣物个体的全部或部分的现象。捕⾷在⽣态学意义上有⼴义与狭义之分。⼴义捕⾷主要包括三种形式：①⾷草动物吃植物；②昆⾍中的拟寄⽣现象；③同类动物相⾷现象。狭义捕⾷仅指⼀种动物猎取另⼀种动物为⾷的现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b0e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941012-7085-11ee-b698-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Synusia层⽚"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "层⽚又称层群，是指在同⼀个层中，⽣活型与⽣态特性相同⽽物种不同构成的群落的⼀个结构部分，其是植物群落结构的基本单位。各个层⽚占据着不同的地段与不同⾼度的空间，并且在分布上与⼩⽣境有⼀定的联系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b116-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941013-7085-11ee-a888-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Secondary succession次⽣演替"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "次⽣演替是指发⽣在原来有过植被覆盖，后来由于某种原因原有植被消失了的次⽣裸地上的群落演替。⼤多数的次⽣裸地上还多少保存着原有群落的⼟壤条件，甚⾄还保留了原来群落中某些植物的繁殖体，次⽣演替系列演替速度⼀般都较快。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b148-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941014-7085-11ee-ba4e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：顶极群落"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "顶极群落是指当⼀个群落或⼀个演替系列演替到同环境处于平衡状态的时候，演替就不再进⾏的群落。其是⽣态演替的最终阶段，群落中各主要种群的出⽣率和死亡率达到平衡，能量的输⼊与输出以及⽣产量和消耗量也都达到平衡。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b170-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941015-7085-11ee-b9bd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：光合有效辐射"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "光合有效辐射是指光合作⽤系统能够利⽤太阳光谱的⼀个有限带，即380～710nm波长的辐射能。光合有效辐射占太阳直接辐射的⽐例随太阳⾼度⾓增加⽽增加，最⾼可达45%。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b1a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941016-7085-11ee-b604-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：哈-温定律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "哈-温定律又称哈代-温伯格平衡定律，是⼀种遗传平衡定律。具体是指在⽆限⼤的种群中，每⼀个体与种群内其他个体的交配机会均等，并且没有其他⼲扰因素（突变、漂移、⾃然选择等），各代的基因频率不变的情况下，⽆论其基因型频率和基因频率如何，只经历⼀代，即达到遗传平衡。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b1ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941017-7085-11ee-9d85-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：环境容纳量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "环境容纳量（K值）是指环境所能维持的种群最⼤数量，并不是指种群数量的最⾼值，在某些时候种群数量可能⾼于环境容纳量，种群的内源性因素会影响种群数量，但不会直接影响环境容纳量；环境最⼤容纳量的⼤⼩主要取决于环境条件。同⼀种⽣物的K值不是固定不变的，会受到环境的影响，在环境不遭受破坏的情况下，种群数量会在K值附近上下波动；当环境遭受破坏时，K值下降；当⽣物⽣存环境改善时，K值上升。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b1f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941018-7085-11ee-afe1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：极点排序法"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "极点排序法是指在多维的植物种空间中主观确定两个样⽅点，假定它们处在数据集的某⼀组合环境梯度的两个端点，然后按空间坐标投影的⽅法将所有的样⽅点都投影到两点连成的直线上，排序得分就是各样⽅在直线上的相对位置，给出多个极点对可以得到多维排序的⽅法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b224-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0941019-7085-11ee-86ce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：建群种"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "建群种是指优势层中的优势种，其决定着群落的外貌，⽽且也控制着群落的⽣态环境和群落中的其他组成成分。建群种的个体数量不⼀定很多，但却能决定群落结构和内部环境条件，是群落的建造者。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b24c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094370f-7085-11ee-b7e9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：建群种"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "建群种是指优势种中的最优势者，即盖度最⼤，占有最⼤空间，在建造群落和改造环境⽅⾯作⽤最突出的⽣物种。其决定着整个群落的基本性质，决定群落外貌的主要是建群种的⽣活型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b27e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943710-7085-11ee-b47d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：竞争排斥原理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "竞争排斥原理是指在环境资源上需求接近的两个种类是不能在同⼀地区⽣活的，如果在同⼀地区⽣活，往往在栖息地、⾷性、活动时间等⽅⾯有所不同；若两个物种⽣态位完全重叠，必然是⼀个物种死亡，若使两个物种同时⽣存，则要使⽣态位有差异，使⽣态位分化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b2a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943711-7085-11ee-a2c1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：竞争排斥原理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "竞争排斥原理又称⾼斯原理，是指在⼀个稳定的环境内，两个以上受资源限制的、但具有相同资源利⽤⽅式的种，不能长期共存在⼀起。因为两者之间会展开竞争，导致其中的⼀⽅获胜，可以留在原来的⽣态位继续⽣存。另⼀⽅为了继续⽣存，会改变⾃⼰的居住地、饮⾷习惯或者改变⾃⾝习性（如改⽇⾏性为夜⾏性，达到时间上和获胜的⼀⽅分离），最终进化适应以延续⽣命。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b2d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943712-7085-11ee-bb39-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：局域种群"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "局域种群是指同⼀个种的，并且以很⾼的概率相互作⽤的个体集合。即⼀个区域内，各⽣境斑块中的同种个体构成“局域种群”，各局域种群通过某种程度的个体迁移连接在⼀起，从⽽形成整个区域的群体称为“集合种群”。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b300-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943713-7085-11ee-a415-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Acclimation"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Acclimation的中⽂名称是驯化。驯化是指⼈⼯的定向诱导可以导致⽣物的耐受限度变化的过程。⽣物借助于驯化过程可以稍稍调整它们对某个⽣态因⼦或某些⽣态因⼦的耐受范围。如果⼀种⽣物长期⽣活在它的最适⽣存范围偏⼀侧的环境条件下，久⽽久之就会导致该种⽣物耐受曲线的位置移动。驯化在实验室条件下，⼀般只需较短时间；⽽在⾃然环境中这个变化通常要较长时间。驯化可以理解为⽣物体内决定代谢速率的酶系统的适应性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b332-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943714-7085-11ee-bfb0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Adaptive suites"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Adaptive suites的中⽂名称是适应组合。适应组合是指⽣物适应特定环境条件，在形态结构、⽣理⽣化特性与⾏为上所表现的⼀整套适应，如骆驼和仙⼈掌对炎热⼲旱环境的适应。形成适应组合是⾃然选择的结果，⽣物为了继续正常地⽣存、繁殖、⽣长发育等⼀系列⽣命活动，只有不断进化出适应于环境的适应特征，才能得以存活繁殖，否则将被淘汰。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b364-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943715-7085-11ee-9e7d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Biosphere"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Biosphere的中⽂名称是⽣物圈。⽣物圈是指地球上的全部⽣物和⼀切适合⽣物栖息的场所，包括岩⽯圈的上层（风化壳）、全部⽔圈和⼤⽓圈的下层（对流层）。⽣物圈的范围在地表以上可达23km的⾼空，⽽在地表以下可延伸到12km的深度。但是有机体能够定居的区域⽐这⼀范围要窄得多。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b38c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943716-7085-11ee-8b8a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：耐受性定律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "耐受性定律是指任何⼀个⽣态因⼦在数量上或质量上的不⾜或过多，即当其接近或达到某种⽣物的耐受限度时会使该种⽣物衰退或不能⽣存。耐受定律的进⼀步发展，不仅估计了环境因⼦量的变化，还估计了⽣物本⾝的耐受限度；同时，耐受性定律允许⽣态因⼦间的相互作⽤。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b3b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943717-7085-11ee-94a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Innate rate of increase内禀增长率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内禀增长率也称⽣物潜能，是指在⽆限制环境条件下，种群内在因素决定的最⼤相对增殖速度。对于某⼀种群来说，不同的年龄构成表现出不同的增长率，当建⽴了稳定的年龄分布时，其稳定的相对增长率即为内禀增长率。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b3e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943718-7085-11ee-b17b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Ordination排序"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "排序也称⽣境梯度分析，是指把⼀个地区内所调查的群落样地按照相似度来排定各样地的位序，从⽽分析各样地间及其与⽣境之间的相互关系的数量分析⽅法，通常⽤于研究连续群落变化。排序⽅法可分为两类：直接排序和间接排序。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b418-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943719-7085-11ee-832b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Convergent adaptation趋同适应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "趋同适应是指不同种类的⽣物⽣活在相同或相似的环境条件下，通过变异选择形成相同或相似的形态或⽣理特征以及相同或相似的适应⽅式或途径。例如，哺乳类的鲸、海豚、海象、海豹，鱼类的鲨鱼，它们在亲缘关系上相距甚远，但都长期⽣活在海洋中，整个⾝躯形成适于游泳的纺锤形。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b440-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094371a-7085-11ee-9384-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：趋异适应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "趋异适应是指同种类的⽣物⽣活在不同环境条件下，通过变异选择形成不同的形态或⽣理特征以及不同的适应⽅式或途径。如蓖⿇在我国北⽅是⼀年⽣的⾼草本植物，⽽在南⽅却呈树状的多年⽣植物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b468-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094371b-7085-11ee-abc3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：群落演替"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "群落演替是指由于⽓候变迁、洪⽔、⽕烧、⼭崩、动物的活动和物质繁殖体的迁移散布，以及因群落本⾝的活动改变了内部环境等⾃然原因，或者由于⼈类活动的结果，使在⼀定地段上⼀种群落被另⼀种群落所替代的过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b49a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094371c-7085-11ee-9142-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：似然竞争"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "似然竞争是指当⼀种捕⾷者可以捕⾷两种物种时，⼀个物种个体数量的增加将会导致捕⾷者种群数量的增加，从⽽加重对另⼀个物种的捕⾷作⽤。在通过共同捕⾷者⽽相互影响时，两个种可能都不受资源短缺的限制。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b4c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094371d-7085-11ee-83b0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：适应辐射"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适应辐射也称趋异适应，是指同⼀种⽣物长期⽣活在不同条件下，可能出现不同的形态结构和⽣理特性，这些变异由于分布地区的间隔，长期接受不同环境条件的作⽤和影响，结果使得不同个体群之间产⽣差异并在遗传上固定下来。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b4f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094371e-7085-11ee-b34b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Rescue effect挽救效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "挽救效应是岛屿⽣物地理学中的⼀种现象，是指⼀个迁移到某岛屿的物种可能早已存在于该岛屿上，因⽽具有降低该物种从该岛屿上灭绝机会的效应。距离⼤陆越近的岛屿，由于迁移率较⼤，拯救效应也越⼤。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b53a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094371f-7085-11ee-9ca3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：温周期现象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "温周期现象是指植物适应于温度节律变化的现象。温周期现象实际上是植物适应温度变化（变温）的结果。对于⼤部分植物来说，适当的变温是有利的，但变温过⼤就会有害。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b562-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943720-7085-11ee-b64f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：稳态"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "稳态是指有机体在可变动的外部环境中维持⼀个相对恒定的内部环境。正常机体通过调节作⽤，使得各个器官、系统协调活动，共同维持内环境的相对稳定。内环境保持相对稳定是⽣物体⾃由⽣存的条件。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b594-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943721-7085-11ee-b3a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：休眠"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "休眠是指⽣物的潜伏、蛰伏或不活动状态，是抵御不利环境的⼀种有效的⽣理机制。有些动植物在不良环境条件下⽣命活动极度降低，进⼊昏睡状态。等不良环境过去后，又重新苏醒过来，正常⽣长、活动。动物界的休眠⼤致有两种类型，⼀类是严冬季节时（低温和缺少⾷物）进⾏的冬眠，如青蛙、刺猬等；⼀类是酷暑季节进⾏的夏眠，如海参、肺鱼等。休眠在动物界是较为常见的⽣物学现象，除了两栖动物、爬⾏动物外，不少的⽆脊椎动物和少数的鸟类、哺乳动物等也有休眠的现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b5bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943722-7085-11ee-839d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：演替系列"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "演替系列是指从⽣物定居开始直到形成稳定的群落为⽌的过程。如旱⽣演替系列包括地⾐植物群落阶段、苔藓植物群落阶段、草本植物群落阶段、灌⽊群落阶段、⽊本群落阶段五个阶段。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b5e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943723-7085-11ee-b813-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：阳⽣植物"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阳⽣植物是指在强光环境中才能⽣长、发育健壮，弱光条件下⽣长发育不良的植物。阳⽣植物的光饱和点和光补偿点很⾼，⼀般⾼于⾃然条件下的光合有效辐射值，其光合速率和代谢速率都⽐较⾼。常见的阳⽣植物有蒲公英、蓟、刺苋等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b616-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943724-7085-11ee-ba45-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：优势度"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "优势度是指表⽰植物群落内各植物种类处于何种优势或劣势状态的群落测定度。其是确定物种在群落中⽣态重要性的指标，优势度⼤的种就是群落中的优势种。确定植物优势度时，指标主要是种的盖度和密度。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b63e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943725-7085-11ee-b8ad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：优势种"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "优势种是指凡是在群落的每个层中占优势的种类，即个体数量多，⽣物量⼤，枝叶覆盖地⾯的程度⼤，⽣活能⼒强，并且对其他植物和群落环境产⽣很⼤影响的⽣物种类。植物群落的外貌主要决定于群落中优势植物的⽣活型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b666-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943726-7085-11ee-a695-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：有效积温"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有效积温是指⽣物在⽣长发育过程中必须从环境中摄取⼀定的热量，才能完成某⼀阶段的发育，各个发育阶段所需的总热量。有效积温公式为K＝N（T－T0）；其中K为该⽣物所需的有效积温，它是个常数；T为当地该时期的平均温度℃；T0为该⽣物⽣长活动所需的最低临界温度（⽣物零度）℃；N为天数d。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b6ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943727-7085-11ee-ad4f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：原⽣演替"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "原⽣演替又称初⽣演替，是指在原⽣裸地或者原⽣荒原上进⾏的演替。原⽣演替是在⼀个从来没有被植物覆盖的地⾯，或者是在原来存在植被、但后来被彻底消灭了的地⽅进⾏的演替。如沙丘、⽕⼭岩、冰川泥上发⽣的演替。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b6f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943728-7085-11ee-ba1c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：指⽰⽣物"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指⽰⽣物是指具有某种指⽰特性的⽣物。指⽰⽣物包括指⽰植物、浮游⽣物、着⽣⽣物、底栖动物、鱼类及细菌等。如唐菖蒲可以指⽰氟化氢的污染状况，地⾐可以指⽰⼆氧化硫的污染状况，颤蚓的数量可以指⽰⽔体有机物污染的程度。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b72e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943729-7085-11ee-bd38-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⼟壤腐殖质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼟壤腐殖质是指⼟壤中的新鲜有机质经过微⽣物分解转化所形成的⿊⾊胶体物质，⼀般占⼟壤有机质总量的85%～90%以上。腐殖质是⼟壤中有机物存在的⼀种特殊形式，有着特殊化学和⽣物本性、构造复杂的⾼分⼦化合物，是⼟壤有机质存在的主要形态。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b76a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094372a-7085-11ee-86f9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⼟壤结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼟壤结构是指⼟壤颗粒排列形式、孔隙度及团聚体的⼤⼩和数量。在⽥间鉴别时，通常指那些不同形态和⼤⼩，且能彼此分开的结构体。⼟壤结构是成⼟过程或利⽤过程中由物理的、化学的和⽣物的多种因素综合作⽤⽽形成，按形状可分为块状、⽚状和柱状三⼤类型；按其⼤⼩、发育程度和稳定性等，可再分为团粒、团块、块状、棱块状、棱柱状、柱状和⽚状等结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b7b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094372b-7085-11ee-9bb4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣活史对策"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣活史对策（又称⽣态对策）是指各种⽣物在进化过程中形成各种特有的⽣活史，⽣物在⽣存过程中获得⽣存的对策。⾃然选择有利于形成这样的⽣活史对策：其能量分配合理，各个⽣命过程协调最佳，并使物种的繁殖和存活效益或适合度达到最⼤。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b800-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094372c-7085-11ee-88fc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣活型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣活型是指⽣物对所⽣存环境适应的⼀种外在（表型）的表现形式，是不同⽣物对相同环境的趋同适应。⽣活型是⽣物对于特定⽣境长期适应⽽在外貌上反映出来的类型，是⽣物的⼀种⽣态分类单位，凡是在外貌上具有相同或相似的适应特征的归为同⼀类⽣活型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b850-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094372d-7085-11ee-9fde-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣境"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣境又称栖息地，是指⽣物的个体、种群或群落⽣存所在的具体地段的⽣态环境。⽣境内包含⽣物所必需的⽣存条件和其他的⽣态因素。例如氧、⽔、温度、光等为不可或缺因素，⽽风、闪电等对⽣物⽆影响"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b8a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094372e-7085-11ee-ad92-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣态系统服务"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣态系统服务是指⼈类从⽣态系统获得的所有惠益，包括供给服务（如提供⾷物和⽔）、调节服务（如控制洪⽔和疾病）、⽂化服务（如精神、娱乐和⽂化收益）以及⽀持服务（如维持地球⽣命⽣存环境的养分循环）。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b8f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094372f-7085-11ee-9723-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣态型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣态型是⽣态分类的最⼩单位，是指同种⽣物的个体群（种群），由于分布和⽣长在不同的⾃然环境或⼈为环境⾥，长期受不同环境条件的影响，在其⽣态适应过程中发⽣了个体群之间的差异和分化，形成了⼀些在⽣态学上具有稳定的形态、⽣理、遗传、适应性和⽣态特征的类型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b940-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943730-7085-11ee-8e06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Ecological footprint⽣态⾜迹"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣态⾜迹也称“⽣态占⽤”，是指能够持续地提供资源或消纳废物的、具有⽣物⽣产⼒的地域空间。其含义是要维持⼀个⼈、地区、国家的⽣存所需要的或者指能够容纳⼈类所排放的废物的、具有⽣物⽣产⼒的地域⾯积。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b986-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943731-7085-11ee-a47f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣物群落"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣物群落是指特定空间或特定⽣境下⽣物种群有规律的组合，与环境之间彼此影响、相互作⽤，具有⼀定的形态结构与营养结构，并具有特定的功能的⽣物集合体。与种群⼀样，⽣物群落也有⼀系列的基本特征。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527b9cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943732-7085-11ee-b186-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Self-thinning⾃疏"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾃疏是指同种植物或固着性动物，因种群密度过⼤⽽引起种群个体死亡、密度减少的过程。⾃疏现象是随着播种密度的提⾼超过⼀定值时，种内对资源的竞争不仅影响到植株⽣长发育的速度，也影响到植株的存活的现象。植物的⾃疏现象是种内竞争的结果，是⼀种进化适应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527ba12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943733-7085-11ee-b829-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生物学零度"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生物学零度是指温度降低使生物的某种生理活动停止时的温度。如作物处于发育的生物学零度以下时，发育停止，但生长仍可维持；当处于生长的下限温度时，生长停止，但尚不致受冻害。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527ba58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943734-7085-11ee-a2f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：斜温层"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "斜温层是指大体积流体内，一层很明显的薄层。该层内的温度随深度变化较在这层之上或下层的温度变化都快。影响斜温层的深度和厚度的因素包括季节和气候变化，纬度和局部环境条件，如潮汐和水流等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527ba9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943735-7085-11ee-bea6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：性状替换"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "性状替换是指竞争导致生态位收缩会使生物的形态性状发生变化。例如，收获蚁的下颚大小与其他食种子的竞争蚂蚁的数量呈负相关，这表明当其他蚂蚁参与食物竞争时，收获蚁只能转而食用一些体积更小的种子。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bae4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943736-7085-11ee-bf62-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态入侵"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态入侵是指由于人类有意识或无意识地把某种生物带入适宜于其栖息和繁衍的地区，种群不断扩大，分布区逐步稳定扩展的过程。生态入侵会对原有的环境造成破坏，造成生物多样性的丧失或削弱，为人类经济活动带来极大损失。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bb2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943737-7085-11ee-bb85-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：协同进化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "协同进化是指两个相互作用的物种在进化过程中发展相互适应的共同进化。一个物种由于另一物种影响而发生遗传进化的进化类型。协同进化是生物与环境的交互关系，是一种协同关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bb70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943738-7085-11ee-8642-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：竞争排斥原理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "竞争排斥原理又称高斯原理，是指两个物种不能同时，或者是不能长时间地在同一个生态位生存。两者之间会展开竞争，导致一方获胜，另一方为了继续生存，会进化适应以延续生命，有时会灭绝。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bbb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943739-7085-11ee-8c54-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生活型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生活型是指不同物种的生物，由于长期生存在相同的自然生态条件下和人为培养条件下，发生趋同适应，并经自然选择和人工选择而形成的，具有类似的形态、生理和生态特性的物种类群。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bbfc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094373a-7085-11ee-8106-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：建群种"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "建群种是指植物群落内对形成群落特定的环境，决定群落特性和其他成分存在的主要植物种。其以极多的个体和覆盖度大，占据上层空间或控制着土壤的性态。其存在是群落存在的前提，例如云杉林中的云杉、沼泽森林中的泥炭藓等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bc4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094373b-7085-11ee-a159-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态金字塔"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态金字塔是指把生态系统中各个营养级有机体的个体数量、生物量或能量，按营养级位顺序排列并绘制成金字塔形的图。生态金字塔是生态学中表示不同关系的一种形式，生态学中常以金字塔的形式表示的有能量金字塔、数量金字塔、生物量金字塔等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bc7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094373c-7085-11ee-b350-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生境"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生境又称栖息地，是指生物的个体、种群或群落生存所在的具体地段的自然环境。生境内包含生物所必需的生存条件和其他的生态因素。例如氧、水、温度、光等为不可或缺因素，而风、闪电等对生物无影响。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bca6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094373d-7085-11ee-b058-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：驯化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "驯化是指外来植物通过改变其遗传性状以适应新环境的过程或将动物从野生状态改变为家养或栽培的过程。生物借助于驯化过程可以微调其对某些生态因子的耐受范围。驯化可以理解为生物体内决定代谢速率的酶系统的适应性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bcce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094373e-7085-11ee-a99f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：适应辐射"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适应辐射是指发生于一个祖先种或线系在短时间内经过辐射扩展而侵占了许多的不同的生态位，发展出许多新的物种或新的分类阶元，是动物进化形式的一种。适应辐射进化有渐变模式和断续模式两种模式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bd00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094373f-7085-11ee-9f21-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：他感作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "他感作用是指一种植物将其次生代谢物质释放到环境中，这些化学物质能抑制其他植物发芽或生长的现象。其由德国学者H．Molisch于1937年提出。该种作用是种间关系的一部分，是生存竞争的一种特殊形式，种内关系也有此现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bd28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943740-7085-11ee-addc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态系统是指由生物群落与无机环境构成的统一整体。生态系统的范围可大可小，相互交错，最大的生态系统是生物圈；最为复杂的生态系统是热带雨林生态系统，人类主要生活在以城市和农田为主的人工生态系统中。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bd5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943741-7085-11ee-8f15-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Niche"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Niche的中文名称是生态位，生态位是指一个种群在生态系统中，在时间空间上所占据的位置及其相关种群之间的功能关系与作用。其包括基础生态位、实际生态位、营养生态位、空间生态位及功能生态位等类别。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bd82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943742-7085-11ee-ae6b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Community"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Community的中文名称是群落，是指生活在一定的自然区域内，相互之间具有直接或间接关系的各种生物的总和。生物群落的基本特征包括群落中物种的多样性、群落的生长形式和结构、优势种、相对丰盛度、营养结构等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bdb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943743-7085-11ee-a9ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Landscape"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Landscape的中文名称是景观，景观是指反映地形地貌景色的图像，是一定空间范围内，由不同生态学系统所组成的，具有重复性格局的异质性地域单元。其具有的特征：① 异质性；② 是具有明显形态特征与功能联系的地理实体；③ 既是生物的栖息地，也是人类的生存环境；④ 是处于生态系统之上、区域之下的中度尺度；⑤景观具有经济、生态、文化的多重属性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bddc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943744-7085-11ee-93c0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Metapopulation"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Metapopulation的中文名称是集合种群，又称超种群，是指局域种群通过某种程度的个体迁移而连接在一起的区域种群。通常用局域种群来表示传统意义上由一群个体组成的种群，用集合种群表示一组局域种群构成的种群。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527be04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943745-7085-11ee-b981-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Innate rate of increase"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Innate rate of increase的中文名称是内禀增长率，是指具有稳定年龄结构的种群，在食物与空间不受限制、同种其他个体的密度维持在最适水平、环境中没有天敌、并在某一特定的温度、湿度、光照和食物性质的环境条件组配下，物种的最大瞬时增长率。其反映了种群在理想状态下，生物种群的扩繁能力。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527be2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943746-7085-11ee-a904-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：层片Synusia"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "层片又称层群，是指在同一个层中，生活型与生态特性相同而物种不同构成的群落的一个结构部分。其是植物群落结构的基本单位。各个层片占据着不同的地段与不同高度的空间，并且在分布上与小生境有一定的联系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527be5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943747-7085-11ee-bfa2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：尺度Scale"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尺度是指研究一定对象或现象时所采用的空间分辨率或时间间隔，同时又可指某一研究对象在空间上的范围和时间上的发生频率。景观生态学认为景观在不同研究尺度表现出不同的性质与属性，即景观的空间格局与生态过程是随尺度的不同而异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527be86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943748-7085-11ee-80d0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态位Niche"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态位是指一个种群在生态系统中，在时间空间上所占据的位置及其相关种群之间的功能关系与作用，包括基础生态位、实际生态位、营养生态位、空间生态位及功能生态位等类别。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527beae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943749-7085-11ee-90ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：顶级群落Climax community"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "顶极群落是指当一个群落或一个演替系列演替到同环境处于平衡状态的时候，演替就不再进行的群落。其是生态演替的最终阶段，群落中各主要种群的出生率和死亡率达到平衡，能量的输入与输出以及生产量和消耗量也都达到平衡。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bee0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094374a-7085-11ee-9c33-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：辐射适应Adaptive radiation"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "辐射适应是指发生于一个祖先种或线系在短时间内经过辐射扩展而侵占了许多的不同的生态位，发展出许多新的物种或新的分类阶元，是动物进化形式的一种。辐射适应进化有渐变模式和断续模式两种模式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bf08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094374b-7085-11ee-ab7d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：富营养化Eutrophication"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "富营养化是指由于大量营养物质聚积或滞留在水体中，引起藻类及其他浮游水生生物迅速大量地繁殖，使水体产生恶臭、溶解氧极低、水质恶化、鱼类及其他好氧水生生物大批量死亡的现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bf3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094374c-7085-11ee-b36c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：干扰Disturbance"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "干扰是指由自然或人为因素引起的、群落外部不连续存在、间断发生因子的突然作用或连续存在因子的超“正常”范围波动，引起有机体、种群或群落发生全部或部分明显变化，使生态系统的结构和功能发生积极或消极的位移。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bf62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094374d-7085-11ee-bca0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：构件生物Modular organism"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "构件生物是指由一个合子发育形成一套构件组成的个体。不同生物构件数很不相同，随着环境的变化而变化。一般高等植物是构件生物，大多数动物属单体生物。但营固着生活的如珊瑚、苔藓也是构件生物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bf8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094374e-7085-11ee-bb28-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：关键种Key species"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "关键种是指其消失或削弱能引起整个群落和生态系统发生根本性的变化的物种。关键种的个体数量可能稀少，但也可能多，其功能或是专一的也可能是多样的。关键种从群落中消失会使得群落结构发生严重改变，可能导致物种的灭绝和多度剧烈变化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bfbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094374f-7085-11ee-917e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：光合有效辐射 Photosynthetic active radiation"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "光合有效辐射是指绿色植物进行光合作用过程中，吸收的太阳辐射中使叶绿素分子呈激发状态的那部分光谱能量。光合有效辐射是植物生命活动、有机物质合成和产量形成的能量来源。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527bfe4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943750-7085-11ee-9388-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态工程"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态工程是指应用生态系统中物质循环原理，结合生产工艺系统，将生物群落内不同物种共生、物质与能量多级利用、环境自净和物质循环再生等原理与系统工程的优化方法相结合，达到资源多层次和循环利用的目的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c00c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943751-7085-11ee-99e7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生活型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生活型是指不同物种的生物，由于长期生存在相同的自然生态条件下和人为培养条件下，发生趋同适应，并经自然选择和人工选择而形成的，具有类似的形态、生理和生态特性的物种类群。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c03e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943752-7085-11ee-a68f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：边缘效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "边缘效应是指两个性质不同的生态系统交界地带，或者不同的生物地理群落的交界地带，生态系统结构比较复杂，出现多种生境的生物种类共生，生物种群较多、密度较大，生态系统功能增强，稳定性较好，某些生物种类活动特别活跃，具有较高的净生产力的现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c066-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943753-7085-11ee-b284-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生物量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生物量是指在单位时间内，一个单位面积和空间内所含的一个或一个以上的生物种，或一个生物群落中所有的生物种的个体总量。例如中国大连的蛤仔，最大生物量为每平方米72个。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c08e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943754-7085-11ee-9990-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：种群"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "种群又称群体，是指在一定空间和时间内的同种生物个体数组成的群体。种群内的个体在单位时间和空间内都存在着不断地增殖、死亡、侵入或迁出，但作为种群整体却是相对稳定的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c0c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943755-7085-11ee-8db8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态因子"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态因子是指生物有机体周围所有环境要素的总和。其包括空间以及其中可以直接或间接影响有机体生活和发展的各种因素，及其相互作用。生态因子通常分为非生物因子和生物因子两类。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c0e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943756-7085-11ee-afe4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：食物链"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "食物链是指生产者所固定的能量和物质，通过一系列取食和被食的关系在生态系统中传递，各种生物按其食物关系排列的链状顺序。生态系统中的食物链，在短时间内也会因动物食性的变化而改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c11a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943757-7085-11ee-9ff6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：群落交错区"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "群落交错区是指两个不同的群落在时间上或者空间上有一定的重叠或者交叉的。群落交错区可以将两个群落间接地联系在一起，也可造成两个群落内的生物进行空间和事物的争夺，从而影响两个群落的组成。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c142-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943758-7085-11ee-b6dc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：关键种"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "关键种是指其消失或削弱能引起整个群落和生态系统发生根本性的变化的物种。关键种的个体数量可能稀少，但也可能多，其功能或是专一的也可能是多样的。关键种从群落中消失会使得群落结构发生严重改变，可能导致物种的灭绝和多度剧烈变化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c16a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943759-7085-11ee-97ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：群落演替"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "群落演替是指在植物群落发展变化过程中，由低级到高级、由简单到复杂、一个阶段接着一个阶段，一个群落代替另一个群落的自然演变现象。根据植物群落演替的起始条件即裸地类型可将植物群落演替分为初原生演替与次生演替。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c192-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094375a-7085-11ee-b248-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态入侵"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态入侵是指由于人类有意识或无意识地把某种生物带入适宜于其栖息和繁衍的地区，种群不断扩大，分布区逐步稳定扩展的过程。生态入侵会对原有的环境造成破坏，造成生物多样性的丧失或削弱，为人类经济活动带来极大损失。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c1c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094375b-7085-11ee-896d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：林德曼效率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "林德曼效率是指上一营养级与下一营养级的能量比，约为1/10。在每一个生态系统中，从绿色植物开始，能量沿着捕食食物链或营养转移流动时，每经过一个环节或营养级数量都要大大减少，最后只有少部分能量留存下来用于生长，形成动物的组织。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c1ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094375c-7085-11ee-a2b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态系统是指在同一时间内，所有生物和非环境因素的总和。生物包括动物、植物、微生物、人类等，非环境因素包括无机元素，有机元素，人类活动和人类与社会的关系及其影响等环境系统。生态系统可以和外界环境通过物质循环和能量流动进行联系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c21e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094375d-7085-11ee-a2ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：温室效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "温室效应是指透射阳光的密闭空间由于与外界缺乏热交换而形成的保温效应，即太阳短波辐射可以透过大气射入地面，而地面增暖后放出的长波辐射却被大气中的二氧化碳等物质所吸收，产生大气变暖的效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c246-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094375e-7085-11ee-9c2b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：净初级生产量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "净初级生产量是指植物通过光合作用从大气中获得的能量，去除呼吸作用消耗的能量，剩下的用于植物本身生长繁殖的能量。净初级生产量通常是可以供该生态系统中其他生物，如人和其他动物利用的能量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c278-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c094375f-7085-11ee-b25b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生境"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生境又称栖息地，是指生物的个体、种群或群落生存所在的具体地段的自然环境。生境内包含生物所必需的生存条件和其他的生态因素。例如氧、水、温度、光等为不可或缺因素，而风、闪电等对生物无影响。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c2a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943760-7085-11ee-92ac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态平衡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态平衡是指在一定时间内生态系统中的生物和环境之间、生物各个种群之间，通过能量流动、物质循环和信息传递，使它们相互之间达到高度适应、协调和统一的状态。生态平衡是在适当的范围内进行小范围的波动。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c2d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943761-7085-11ee-af15-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：化感作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "化感作用又称他感作用，是指植物可以通过分泌某种化学物质直接或间接地对另外的生物的生长发育等产生作用，可以促进其生长发育或者抑制其生长发育。化感物质是化感作用的媒介，主要是植物的次生代谢物质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c304-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943762-7085-11ee-aff8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：群落交错区"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "群落交错区是指两个不同的群落在时间上或者空间上有一定的重叠或者交叉。群落交错区可以将两个群落间接地联系在一起，也可能造成两个群落内的生物进行空间和事物的争夺，从而影响两个群落的组成。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c34a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943763-7085-11ee-95c0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：群落演替"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "群落演替是指一个生物群落出现并逐渐取代之前的生物群落的过程。群落演替是与波动不同的一种群落变化。群落演替是朝着一个方向进行的连续的变化过程，通常情况是朝着更稳定的方向进行变化，而波动是指不定向地进行的变化，是可逆的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c39a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943764-7085-11ee-a016-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态入侵"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态入侵是指由于人类有意识或无意识地把某种生物带入适宜于其栖息和繁衍的地区，种群不断扩大，分布区逐步稳定扩展的过程。生态入侵会对原有的环境造成破坏，造成生物多样性的丧失或削弱，为人类经济活动带来极大损失。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c3e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943765-7085-11ee-a5f5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态系统是指在同一时间内，所有生物和非环境因素的总和。生物包括动物、植物、微生物、人类等，非环境因素包括无机元素，有机元素，人类活动和人类与社会的关系及其影响等环境系统。生态系统可以和外界环境通过物质循环和能量流动进行联系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c426-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943766-7085-11ee-ba3d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：种间竞争"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "种间竞争是指由于营养物质等的缺乏或者不足，使得具有相同或者相似要求的种群，为了争夺营养物质等，通过直接或者间接的方法对另一个种群进行抑制的现象。在种间竞争中，一方占有优势，另外一方占有劣势。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c46c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0943767-7085-11ee-b0b2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：净初级生产量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "净初级生产量是指植物通过光合作用从大气中获得的能量，去除呼吸作用消耗的能量，剩下的用于植物本身生长繁殖的能量。净初级生产量通常是可以供该生态系统中其他生物，如人和其他动物利用的能量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c4b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e1c-7085-11ee-8a9a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：植物的优势种"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "植物的优势种是指在一个群落中，对群落的结构和群落环境的形成有明显控制作用的植物。植物的优势种通常是那些个体数量多、投影盖度大、生物量较高、体积较大等优势度最大的植物种类。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c502-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e1d-7085-11ee-a7e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：内稳态"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内稳态是指生物控制自身的体内环境使其保持相对稳定，是进化发展过程中形成的一种更进步的机制。具有内稳态的机制的生物借助于内环境的稳定而相对独立于外界条件。内稳态机制大大提高了生物对生态因子的耐受范围。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c552-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e1e-7085-11ee-b6e5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态阈值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态阈值又称环境容量，是指某一环境区域内对人类活动造成影响的最大容纳量。大气、土地、动植物等都有承受污染物的最高限制，接近或超过临界点，就会危及生物的自身生存发展。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c5a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e1f-7085-11ee-bf62-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：岛屿效应"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "岛屿效应是指岛屿上物种数目会随着岛屿面积的增加而增加，最初增加十分迅速，当物种接近该生境所能承受的最大数量时，增加将逐渐停止。物种数目的对数与面积对数的坐标图显示的是一个线性关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c5e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e20-7085-11ee-af9e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生物地球化学循环"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生物地球化学循环是指组成生物体的C、H、O、N等基本元素，在生态系统的生物群落与无机环境之间所形成的反复的循环运动。例如碳元素在生物群落与无机环境之间是以二氧化碳的形式进行循环；二氧化碳进入生物群落合成为各种含碳的有机物；有机物再从生物群落中以二氧化碳的形式返回大气层中，其中一部分碳则以化石燃料的形式储藏于地层中。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c62e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e21-7085-11ee-91a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：他感作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "他感作用是指一种植物将其次生代谢物质释放到环境中，这些化学物质能抑制其他植物发芽或生长的现象。其由德国学者H．Molisch于1937年提出。该种作用是种间关系的一部分，是生存竞争的一种特殊形式，种内关系也有此现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c674-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e22-7085-11ee-92d2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态演替"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态演替是指在群落发展变化过程中，由低级到高级、由简单到复杂、一个阶段接着一个阶段，一个群落代替另一个群落的自然演变现象。其主要标志为群落在物种组成上发生了变化，或者是在一定区域内一个群落被另一个群落逐步替代。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c6b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e23-7085-11ee-8330-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生物多样性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生物多样性是指在一定时间和一定地区所有生物（动物、植物、微生物）物种及其遗传变异和生态系统的复杂性总称。其主要包括遗传多样性、物种多样性、生态系统多样性三个层次。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c6f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e24-7085-11ee-82c2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：协同进化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "协同进化是指两个相互作用的物种在进化过程中发展相互适应的共同进化。一个物种由于另一物种影响而发生遗传进化的进化类型。例如一种植物由于食草昆虫所施加的压力而发生遗传变化，这种变化又导致昆虫发生遗传性变化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c73c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e25-7085-11ee-86db-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态幅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态幅是指每一种生物对每一种生态因子都有一个耐受范围，即有一个生态上的最低点和最高点，在最低点和最高点（或称耐受性的上限和下限）之间的范围。此范围可指整个生态环境，亦可仅限于某一个生态因子。1"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c78c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e26-7085-11ee-9158-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：水体富营养化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "水体富营养化是指在人类活动的影响下，生物所需的氮、磷等营养物质大量进入湖泊、河湖、海湾等缓流水体，引起藻类及其他浮游生物迅速繁殖，水体溶解氧量下降，水质恶化，鱼类及其他生物大量死亡的现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c7d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e27-7085-11ee-bb01-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生活型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生活型是指不同物种的生物，由于长期生存在相同的自然生态条件下和人为培养条件下，发生趋同适应，并经自然选择和人工选择而形成的，具有类似的形态、生理和生态特性的物种类群。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c818-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e28-7085-11ee-8a6f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Gaia假说"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Gaia假说是指在生命与环境的相互作用之下，能使得地球适合生命持续地生存与发展。其含义包括：① 生物有效地调节着大气的温度和化学构成；② 生物体与环境共同进化；③ 存在调节负反馈调节；④ 大气保持稳态不仅取决于生物圈，而且为了生物圈；⑤ 生物调节其物质环境，以便创造优化的生存条件。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c840-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e29-7085-11ee-8bfc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态位分离"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态位分离是指同域的亲缘物种为了减少对资源的竞争而形成的在选择生态位上的某些差别的现象。生态位分离是保持有生态位重叠现象的两个物种得以共存的原因，如无分离就会发生激烈竞争，以致使弱势物种种群被消灭。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c872-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e2a-7085-11ee-a58f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：面源污染"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "面源污染又称非点源污染，是指溶解和固体的污染物从非特定地点，在降水或融雪的冲刷作用下，通过径流过程而汇入受纳水体并引起有机污染、水体富营养化或有毒有害等其他形式的污染。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c89a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e2b-7085-11ee-9d25-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：营养结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "营养结构是指生态系统中生产者、各级消费者和分解者之间的取食和被取食的关系网络。一个生态系统的营养结构一般不超过5～6级，一般下一营养级所含生物量是上一营养级的10％～20％。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c8c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e2c-7085-11ee-a641-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态文化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态文化是指从人统治自然的文化过渡到人与自然和谐的文化。生态文化重要的特点在于用生态学的基本观点去观察现实事物，解释现实社会，处理现实问题，运用科学的态度去认识生态学的研究途径和基本观点，建立科学的生态思维理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c8f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e2d-7085-11ee-a364-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态系统是指由生物群落与无机环境构成的统一整体。生态系统的范围可大可小，相互交错，最大的生态系统是生物圈；最为复杂的生态系统是热带雨林生态系统，人类主要生活在以城市和农田为主的人工生态系统中。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c91c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e2e-7085-11ee-9cac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Gaia假说"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Gaia假说是指在生命与环境的相互作用之下，能使得地球适合生命持续地生存与发展。其含义包括：① 生物有效地调节着大气的温度和化学构成；② 生物体与环境共同进化；③ 存在调节负反馈调节；④ 大气保持稳态不仅取决于生物圈，而且为了生物圈；⑤ 生物调节其物质环境，以便创造优化的生存条件。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c944-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e2f-7085-11ee-994e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：反馈"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反馈是指当生态系统中某一成分发生变化的时候，必然会引起其他成分出现一系列的相应变化，这些变化最终又反过来影响最初发生变化的那种成分的过程。反馈有两种类型，即负反馈和正反馈。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c976-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e30-7085-11ee-8400-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态工程"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态工程是指应用生态系统中物质循环原理，结合系统工程的最优化方法设计的分层多级利用物质的生产工艺系统，其目的是将生物群落内不同物种共生、物质与能量多级利用、环境自净和物质循环再生等原理与系统工程的优化方法相结合，达到资源多层次和循环利用的目的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c99e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e31-7085-11ee-bf4b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生物安全"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生物安全是指由现代生物技术开发和应用所能造成的对生态环境和人体健康产生的潜在威胁，及对其所采取的一系列有效预防和控制措施。如转基因作物对人类有害与否存在争议。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527c9d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e32-7085-11ee-90fd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：景观生态学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "景观生态学是指研究地表景观单元中生物与非生物因素形成的相关联系统的科学，是地理、生态以及人文科学的交叉学科。把景观单元作为一个生物学谱系中高于生态系的生物系统，重点研究景观单元中的变化机理、规律及其与景观周围环境条件的关系，把原始状态的景观与受人为干扰影响下的景观进行比较研究。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527ca02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e33-7085-11ee-9060-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：协同进化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "协同进化是指两个相互作用的物种在进化过程中发展相互适应的共同进化。一个物种由于另一物种影响而发生遗传进化的进化类型。协同进化是生物与环境的交互关系，是一种协同关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527ca2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e34-7085-11ee-8746-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：建群种"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "建群种是指植物群落内对形成群落特定的环境，决定群落特性和其他成分存在的主要植物种。其以极多的个体和覆盖度大，占据上层空间或控制着土壤的性态。其存在是群落存在的前提，例如云杉林中的云杉、沼泽森林中的泥炭藓等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527ca70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e35-7085-11ee-a8d6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态系统服务"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态系统服务是指人类生存与发展所需要的资源归根结底都来源于自然生态系统。自然生态系统为我们的生存直接提供各种原料或产品，在大尺度上具有调节气候、净化污染、涵养水源、保持水土、防风固沙、减轻灾害、保护生物多样性等功能，为人类的生存与发展提供良好的生态环境。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cab6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e36-7085-11ee-b00d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：个体生态学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个体生态学又称种生态学，是指研究生物个体与环境因子之间关系的科学。个体生态学在生态学领域的组建水平上处最低级层次，其研究的内容很具体，多数情况下必须量化。个体生态学研究的主要内容就是生物在生长发育过程中受环境因素作用下的个体行为规律。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cafc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e37-7085-11ee-83ca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态旅游"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态旅游是指以可持续发展为理念，以保护生态环境为前提，以统筹人与自然和谐发展为准则，并依托良好的自然生态环境和独特的人文生态系统，采取生态友好方式，开展的生态体验、生态教育、生态认知并获得心身愉悦的旅游方式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cb42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e38-7085-11ee-a77b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：MacArthur平衡说"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "MacArthur平衡说是指认为某个区域内物种数目的多少由新物种的迁入和原有物种消亡或迁出之间动态变化所决定，其遵循着的一种动态平衡的规律。一定区域时间内物种数目在一定水平线上上下波动。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cb92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e39-7085-11ee-86a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：空间异质性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "空间异质性是指生态学过程和格局在空间分布上的不均匀性及其复杂性。空间异质性可分为空间局域异质性和空间分层异质性。前者是指该点属性值与周围不同，如热点或冷点；后者是指多个区域之间互相不同，例如分类和生态分区。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cbd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e3a-7085-11ee-9d11-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：信息素"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "信息素又称外激素，是指由一个个体分泌到体外，被同物种的其他个体通过嗅觉器官察觉，使后者表现出某种行为，情绪，心理或生理机制改变的物质。其具有通讯功能。几乎所有的动物都证明有信息素的存在。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cc3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e3b-7085-11ee-aa02-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：食物链"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "食物链是指生产者所固定的能量和物质，通过一系列取食和被食的关系在生态系统中传递，各种生物按其食物关系排列的链状顺序。生态系统中的食物链不是固定不变的，在短时间内会因动物食性的变化而改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527ccaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e3c-7085-11ee-a9ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：可持续发展"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可持续发展是指既满足当代人的需求，又不对后代人满足其自身需求的能力构成危害的发展。可持续发展注重社会、经济、文化、资源、环境、生活等各方面协调发展，要求各项指标组成的向量的变化呈现单调增态势，至少其总的变化趋势不是单调减态势。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527ce76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e3d-7085-11ee-904e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态系统是指由生物群落与无机环境构成的统一整体。生态系统的范围可大可小，相互交错，最大的生态系统是生物圈；最为复杂的生态系统是热带雨林生态系统，人类主要生活在以城市和农田为主的人工生态系统中。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cef8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e3e-7085-11ee-bef7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：高斯竞争排斥原理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高斯竞争排斥原理是指两个物种不能同时，或者是不能长时间地在同一个生态位生存。两者之间会展开竞争，导致一方获胜，另一方为了继续生存，会进化适应以延续生命，有时会灭绝。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cf2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e3f-7085-11ee-a9d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：群落"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "群落是指生活在一定的自然区域内，相互之间具有直接或间接关系的各种生物的总和。生物群落的基本特征包括群落中物种的多样性、群落的生长形式和结构、优势种、相对丰盛度、营养结构等。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cf52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e40-7085-11ee-9cca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：指示生物"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指示生物是指对某一环境特征具有某种指示特性的生物，包括水污染指示生物、大气污染指示生物、土壤污染指示生物。如地衣、苔藓植物、紫花苜蓿等是二氧化硫指示生物，唐昌蒲是氟化氰的指示生物。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cf84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e41-7085-11ee-842c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：他感作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "他感作用是指一种植物将其次生代谢物质释放到环境中，这些化学物质能抑制其他植物发芽或生长的现象。其由德国学者H．Molisch于1937年提出。该种作用是种间关系的一部分，是生存竞争的一种特殊形式，种内关系也有此现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cfb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e42-7085-11ee-ace1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：原生演替"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "原生演替又称为初生演替，是指在原生裸地或者原生荒原上进行的演替。原生演替在一个从来没有被植物覆盖的地面，或者是原来存在植被、但后来被彻底消灭了的地方的演替。如沙丘、火山岩、冰川泥上发生的演替。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527cfde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e43-7085-11ee-9a12-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生活型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生活型是指不同物种的生物，由于长期生存在相同的自然生态条件下和人为培养条件下，发生趋同适应，并经自然选择和人工选择而形成的，具有类似的形态、生理和生态特性的物种类群。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d006-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e44-7085-11ee-8a0c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：优势种"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "优势种是指对群落的结构和群落环境的形成有明显控制作用的植物种。其通常是那些个体数量多、投影盖度大、生物量高、体积较大、生活能力较强，占有竞争优势，并能通过竞争来取得资源的优先占有地位，即优势度较大的种。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d038-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e45-7085-11ee-afd2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Shelford耐性定律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Shelford耐受定律是指生物的生存需要依赖环境中的多种条件，而且生物有机体对环境因子的耐受性有一个上限和下限，任何因子不足或过多，接近或超过了某种生物的耐受限度，该种生物的生存就会受到影响，甚至灭绝。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d06a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e46-7085-11ee-a554-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：十分之一定律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "十分之一定律是指生物量从绿色植物向食草动物、食肉动物等按照食物链的顺序在不同营养级上转移时，后一级生物量只等于或者小于前一级生物量的1/10。其余9/10由于呼吸，排泄，消费者采食时的选择性等被消耗掉。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d092-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e47-7085-11ee-9277-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：阿利氏群聚原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阿利氏群聚原则是指群聚可能会增加个体间对营养、食物和空间的竞争，但这经常被群体存活力的提高而抵消的规律。群聚有利于种群的最适增长和存活，群聚的程度，像整体密度一样，随种类和条件而变化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d0c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e48-7085-11ee-9ae9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：高斯假说"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高斯假说是指由于竞争的结果，两个相似的物种不能占有相似的生态位，而是以某种方式彼此取代，使每一物种具有食性或其他生活方式上的特点，从而在生态位上发生分离的现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d0f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e49-7085-11ee-b5fd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：协同进化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "协同进化是指两个相互作用的物种在进化过程中发展相互适应的共同进化，是一个物种由于另一物种影响而发生遗传进化的进化类型。协同进化是生物与环境的交互关系，两者之间是一种协同关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d11e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e4a-7085-11ee-859b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态型是指同种生物的不同个体或群体，长期生存在不同的自然生态条件或人为培养条件下，发生趋异适应，并经自然选择或人工选择而分化形成的生态、形态和生理特性不同的基因类群。生态型是分类学种以下的分类单位。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d146-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e4b-7085-11ee-8871-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：可持续发展"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可持续发展是指既满足当代人的需求，又不对后代人满足其自身需求的能力构成危害的发展。可持续发展注重社会、经济、文化、资源、环境、生活等各方面协调发展，要求各项指标组成的向量的变化呈现单调增态势，至少其总的变化趋势不是单调减态势。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d178-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e4c-7085-11ee-b0cf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：水体富营养化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "水体富营养化是指水体中N、P等营养盐含量过多而引起水质污染的现象。其实质是由于营养盐的输入输出失去平衡，导致水生态系统物种分布失衡，单一物种疯长，破坏了系统的物质与能量的流动。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d1a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e4d-7085-11ee-aa6f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生物学放大作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生物学的放大作用又称食物链的浓集作用，是指生物从周围环境中吸收某些元素或不易分解的化合物，沿食物链各营养级传递时，在生物体内残留浓度随生物的营养级的升高不断升高的现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d1c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e4e-7085-11ee-ac6e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生态学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态学是指研究生物体与其周围环境（包括非生物环境和生物环境）相互关系的科学。其是研究对象、任务和方法比较完整和独立的学科，由德国生物学家恩斯特·赫克尔于1866年提出。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d1fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e4f-7085-11ee-b832-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：总初级⽣产量和净初级⽣产量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "初级⽣产量是植物光合作⽤固定的太阳能或所制造的有机物质的量。总初级⽣产量是指包含植物本⾝呼吸消耗在内的初级⽣产量。净初级⽣产量是指去除植物本⾝呼吸消耗部分的初级⽣产量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d222-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e50-7085-11ee-863a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：产量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "产量是指⽣物体的全部或⼀部分的⽣物量。⽣态系统的⼀个主要特征就是能够通过⽣产者有机体⽣产有机物质和固定太阳能，为系统的其他成分和⽣产者本⾝所利⽤，维持⽣态系统的正常运转。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d254-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e51-7085-11ee-9d44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：初级⽣产⼒"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "初级⽣产⼒是指⽣态系统中植物群落在单位时间、单位⾯积上所产⽣有机物质的总量。⼀般以每天、每平⽅⽶有机碳的含量（质量数）表⽰。即单位时间、单位空间内，⽣产者积累有机物质的量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d27c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e52-7085-11ee-904e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：初级⽣产和次级⽣产"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "初级⽣产又称第⼀性⽣产，是指绿⾊植物和某些细菌的⽣产。植物通过光合作⽤，吸收和固定光能，把⽆机物转化为有机物的⽣产过程。次级⽣产或称为第⼆性⽣产，是指⽣态系统初级⽣产以外⽣物有机体的⽣产。次级⽣产就是异养⽣物的⽣产。次级⽣产最终是以初级⽣产为基础，次级对初级⽣产是有反馈调节作⽤。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d2ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e53-7085-11ee-8d9e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣态效率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣态效率是指⾷物链的各个营养级之间实际利⽤的能量占可利⽤能量的百分率。⽣态系统中能量从⼀个营养阶层流转到另⼀个营养阶层，在不同营养阶层上能量各参数的⽐值。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d2d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e54-7085-11ee-8629-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：矿化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矿化是⽣物异化作⽤阶段，腐⽣⽣物在酶的作⽤下，把有机物碎屑转变成为腐殖酸和其他可溶性有机物，即从聚合体变成单体。然后腐殖酸和其他可溶性有机物缓慢分解，逐步变成⽣产者可以重新利⽤的⽆机物。⽣态系统的分解过程中，⽆机的元素从有机物质中释放出来的过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d308-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e55-7085-11ee-b77d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：异化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "异化是指⽣物体在新陈代谢过程中，⾃⾝的组成物质发⽣分解，同时放出能量。有机物质在酶的作⽤下分解，从聚合体变成单体，进⽽成为矿物成分的过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d330-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e56-7085-11ee-9510-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Ecosystem"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Ecosystem即⽣态系统，是指⼀定时间和空间内，由⽣物成分和⾮⽣物成分相互作⽤⽽组成的具有⼀定结构和功能的有机统⼀体。在这个统⼀整体中，⽣物与环境之间相互影响、相互制约，并在⼀定时期内处于相对稳定的动态平衡状态。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d362-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e57-7085-11ee-97b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：耗散结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "耗散结构是指开放系统在远离平衡态的⾮平衡状态下，系统可能出现的⼀种稳定的有序结构。当系统处于远离热⼒学平衡的状态时，在⼀定外界条件下，由于系统内部⾮线性相互作⽤，可以经过突变⽽形成新的有序结构即耗散结构。这⾥的耗散指的是系统维持这种新型结构需要从外界输⼊能量或物质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d38a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e58-7085-11ee-af8f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：营养级"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "营养级是指⾷物链上每个位置上所有⽣物的总和。⽣态系统的⾷物能量流通过程中，按⾷物链环节所处位置⽽划分不同的等级。在⾷物链中距离初级⽣产距离相等的不同物种的组合称为⽣态系统该距离级别的营养级。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d3bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e59-7085-11ee-8dab-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：同化效率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同化效率指被植物吸收的⽇光能中被光合作⽤所固定的能量⽐例，或被动物摄⾷的能量中被同化了的能量⽐例。⼀般情况下，⾷草和素⾷动物的同化效率较低，⽽⾷⾁动物较⾼。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d3e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e5a-7085-11ee-82d6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⾷物链"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾷物链亦称“营养链”，是由于⽣物之间取⾷与被取⾷的关系⽽形成的链锁状结构。⽣态系统中各种⽣物为维持其本⾝的⽣命活动，必须以其他⽣物为⾷物的这种由⾷物联结起来的链锁关系。这种摄⾷关系，实际上是太阳能从⼀种⽣物转到另⼀种⽣物的关系，即物质能量通过⾷物链的⽅式流动和转换。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d416-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e5b-7085-11ee-99e1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⾷物⽹"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⾷物⽹是指不同的⾷物链相互交叉⽽形成的⽹状结构。在⽣态系统中，⽣物成分之间通过能量传递关系存在着⼀种错综复杂的普遍联系，这种联系像是⼀个⽆形的⽹把所有⽣物都包括在内，使它们彼此之间都有着某种直接或间接的关系，这就是⾷物⽹"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d43e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e5c-7085-11ee-85a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⼗分之⼀定律（能量利⽤的百分之⼗定律）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⼗分之⼀定律（能量利⽤的百分之⼗定律）是两个营养级间的能量关系的⼀种描述。⾷物链结构中，营养级之间的能量转化效率⼤致为⼗分之⼀，其余⼗分之九由于消费者采⾷时的选择性浪费，以及呼吸和排泄等⽽被消耗掉，这就是所谓的“⼗分之⼀定律”，也叫能量利⽤的百分之⼗定律。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d470-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e5d-7085-11ee-b345-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：库"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "库是指某些⽣物成分或⾮⽣物成分中⼀定数量的某种化学物质在⽣态系统中的储存场所。对于某⼀种元素⽽⾔，存在⼀个或多个的主要的蓄库。在库⾥，该元素的数量远远超过正常结合在⽣命系统中的数量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d498-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e5e-7085-11ee-aa5b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣物学的放⼤作⽤"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣物学的放⼤作⽤也称为⾷物链的浓集作⽤，是指在⽣物体内有毒物质沿⾷物链各营养级传递时，在⽣物体内残留浓度不断升⾼的现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d4c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e5f-7085-11ee-985d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣物富集"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣物富集也称为⽣物浓缩，是指⽣物个体或处于同⼀营养级的许多⽣物种群，从周围环境中吸收并积累某种元素或难分解的化合物，导致⽣物体内该物质的平衡浓度超过环境中浓度的现象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d4f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e60-7085-11ee-b5e4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：富营养化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "富营养化是⼀种氮、磷等植物营养物质含量过多所引起的⽔质污染现象，是指由于直接向湖泊排污或农⽤化肥随地表径流输⼊湖中，使很多以硅藻和绿藻占优势的湖泊转变成以蓝绿藻占优势的湖泊的过程。富营养化的指标⼀般采⽤：⽔体中氮的含量超过0.2～0.3.pm，磷含量⼤于0.1.0.2.pm，⽣化需氧量⼤于0.pm，pH值7～9的淡⽔中细菌总数每毫升超过0.个，表征藻类数量的叶绿素a含量⼤于0.克/升。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d51a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e61-7085-11ee-b76a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：景观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "景观包括狭义景观和⼴义景观。狭义景观是指在⼏⼗千⽶⾄⼏百千⽶范围内，由不同类型的⽣态系统所组成的、具有重复性格局的异质性地理单元，反映⽓候、地理、⽣物、经济、社会和⽂化综合特征的景观复合体相应地称为区域。⼴义景观是指包括出现在从微观到宏观不同尺度上的、具有异质性或斑块性的空间单元。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d54c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e62-7085-11ee-94cc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：遥感"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "遥感是指通过任何不接触被观测物体的⼿段来获取信息的过程和⽅法，⼀般指运⽤传感器、遥感器对物体的电磁波的辐射、反射特性的探测。包括航空照⽚、卫星影像、热红外图像等。遥感是获取其反射、辐射或散射的电磁波信息并进⾏提取、判定、加⼯处理、分析与应⽤的⼀门科学和技术。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d574-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e63-7085-11ee-9aee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：斑块-廊道-基底模式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "斑块-廊道-基底模式是指组成景观的结构单元有3种，即斑块、廊道和基底，是描述景观空间异质性的⼀个基本模式。斑块-廊道-基质模型是景观⽣态学⽤来解释景观结构的基本模式，普遍适⽤于各类景观，包括荒漠、森林、农业、草原、郊区和建成区景观，景观中任意⼀点或是落在某⼀斑块内，或是落在廊道内，或是在作为背景的基质内。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d5a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e64-7085-11ee-a866-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：可持续发展"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可持续发展是指既满⾜当代⼈的需要，又不对后代满⾜其需要的能⼒构成危害的发展。可持续发展注重社会、经济、⽂化、资源、环境、⽣活等各⽅⾯协调发展，要求各项指标组成的向量的变化呈现单调增态势，⾄少其总的变化趋势不是单调减态势。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d5ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e65-7085-11ee-87bd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Ecological Balance"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Ecological Balance的中⽂名称是⽣态平衡。⽣态平衡是指在⼀定时空条件下，⽣态系统的结构与功能表现为相对稳定，能量与物质的输⼊、输出接近相当，外来⼲扰所引起的变化可由⾃我调节⽽恢复到原初的稳定状态。 "
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e66-7085-11ee-b5c1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣态幅"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣态幅是指每⼀种⽣物对每⼀种⽣态因⼦的耐受范围，即有⼀个⽣态上的最低点和最⾼点，在最低点和最⾼点（或称耐受性的上限和下限）之间的范围。此范围可指整个⽣态环境，亦可仅限于某⼀个⽣态因⼦。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d628-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e67-7085-11ee-be3f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：⽣态位"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣态位是指在⽣态因⼦变化范围内，能够被⽣物实际和潜在占据、利⽤或适应的部分。⽣态位是⽣物在群落或⽣态系统中的地位和⾓⾊，是物种所有⽣态特征的总和，也指⾃然⽣态系统中的⼀个种群在时间、空间上的位置及其与相关种群之间的关系。其包括基础⽣态位、实际⽣态位、营养⽣态位、空间⽣态位及功能⽣态位等类别。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3527d650-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c0945e68-7085-11ee-99de-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：Biomass⽣物量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "⽣物量是指某⼀时间单位⾯积或体积栖息地内所含⼀个或⼀个以上⽣物种，或所含⼀个⽣物群落中所有⽣物种的总个数或总⼲重（包括⽣物体内所存⾷物的重量）。⽣物量（⼲重）的单位通常是⽤g/㎡或J/㎡表⽰，某⼀时限任意空间所含⽣物体的总量的值⽤重量或能量来表⽰，⽤于种群和群落。⽤鲜重或⼲重衡量时，规定⽤B表⽰；⽤能量衡量时，则⽤QB（也称活体能量，biocontent）表⽰。"
+	}
+]

@@ -1,0 +1,211 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c0ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c77389e-6bdf-11ee-abf2-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Bilden Sie Relativsatze!\nIn dem Sachbuch steht manches: Es interessiert die Leser brennend"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "In dem Sachbuch steht manches, was die Leser brennend interessiert。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c188-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c77389f-6bdf-11ee-934a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Bilden Sie Relativsatze!\nIn dem Sachbuch steht manches: In der Offentlichkeit wird darüber heftigdiskutiert"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "In dem Sachbuch steht manches, darüber in der Offentlichkeit heftig diskutiertwird。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c1c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c7738a0-6bdf-11ee-b66d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Bilden Sie Relativsatze!\nIn dem Sachbuch steht manches. Es interessiert die Leser brennend"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "In dem Sachbuch steht manches, was die Leser brennend interessiert"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c1f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c7738a1-6bdf-11ee-a6ba-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Bilden Sie Relativsatze!\nIn dem Sachbuch steht manches. In der Offentlichkeit wird darüber heftigdiskutiert"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "In dem Sachbuch steht manches, darüber in der Offentlichkeit heftig diskutiertwird"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c21e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c7738a2-6bdf-11ee-8958-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Bilden Sie Relativsatze!\nIn dem Sachbuch steht manches: Es interessiert die Leser brennend"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "In dem Sachbuch steht manches, was die Leser brennend interessiert。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c250-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c7738a3-6bdf-11ee-9ef6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Bilden Sie Relativsatze!\nIn dem Sachbuch steht manches: In der Offentlichkeit wird darüber heftigdiskutiert"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "In dem Sachbuch steht manches, darüber in der Offentlichkeit heftig diskutiertwird。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c278-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c7738a4-6bdf-11ee-8fb9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man _____:\na) Ausdauerd) Geschicklichkeit g) Gewissenhaftigkeit j)Gerechtigkeit\nb) Disziplin    e) Gewandtheith) Wachsamkeit\nc) Ehrlichkeit   f) Wissbegierdei) Uberzeugungskraft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Von einem Richter erwartet man     Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c2aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c7738a5-6bdf-11ee-8ae5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man _____:\na) Ausdauerd) Geschicklichkeit g) Gewissenhaftigkeit j)Gerechtigkeit\nb) Disziplin    e) Gewandtheith) Wachsamkeit\nc) Ehrlichkeit   f) Wissbegierdei) Uberzeugungskraft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Von einem Handwerker erwartet man GeschicklichkeitUberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c2d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c7738a6-6bdf-11ee-b6da-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man _____:\na) Ausdauerd) Geschicklichkeit g) Gewissenhaftigkeit j)Gerechtigkeit\nb) Disziplin    e) Gewandtheith) Wachsamkeit\nc) Ehrlichkeit   f) Wissbegierdei) Uberzeugungskraft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Von einem Redner erwartet man。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c2fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c7738a7-6bdf-11ee-8410-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man _____:\na) Ausdauerd) Geschicklichkeit g) Gewissenhaftigkeit j)Gerechtigkeit\nb) Disziplin    e) Gewandtheith) Wachsamkeit\nc) Ehrlichkeit   f) Wissbegierdei) Uberzeugungskraft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Von einem Freund erwartet manEhrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0c32c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6c7738a8-6bdf-11ee-9731-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man _____:\na) Ausdauerd) Geschicklichkeit g) Gewissenhaftigkeit j)Gerechtigkeit\nb) Disziplin    e) Gewandtheith) Wachsamkeit\nc) Ehrlichkeit   f) Wissbegierdei) Uberzeugungskraft"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Von einem Studenten erwartet manWissbegierde。"
+	}
+]

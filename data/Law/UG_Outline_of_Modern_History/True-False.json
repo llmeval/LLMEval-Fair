@@ -1,0 +1,287 @@
+[
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564dd0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9604e8a2-7028-11ee-ab57-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。民族危机激发了中华民族的觉醒,增强了中华民族的凝聚力"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564de56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "96054671-7028-11ee-94a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。近代中国海关的行政权虽然掌握在外国人手里,但它仍是中国抵抗外国进行经济侵略的重要工具"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564deba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "96054672-7028-11ee-870a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。英国侵略中国的目的在于攫取经济利益,并有领土要求"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564df0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "96054673-7028-11ee-a781-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。外国人不仅仅在租界里享有领事裁判权"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564df5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "96054674-7028-11ee-ba54-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据有关不平等条约,帝国主义有权在中国领土上驻兵"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564dfaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "96054675-7028-11ee-8b66-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。近代战争赔款直接破坏和阻碍中国的经济开展"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564dff0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "96054676-7028-11ee-b4a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。近代外国在中国的投资相当局部是利用战争赔款等方式掠自中国"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564e040-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "96054677-7028-11ee-9536-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。帝国主义列强通过对中国铁路的控制来确立和扩大自己在中国的势力范围"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564e090-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "96054678-7028-11ee-95e1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 帝国主义列强对中国进行文化渗透的目的是加速中国文明进程"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564e0e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "96054679-7028-11ee-97e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 资本——帝国主义列强在中国的统治方式“是以华制华〞"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564e126-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9605467a-7028-11ee-8500-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。太平天国运动是中国近代史上中国人民第一次大规模的反侵略武装斗争"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564e176-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9605467b-7028-11ee-b7cc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。魏源提出了“师夷长技以制夷〞的思想,所以是近代中国睁眼看世界的第一人"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564e1c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9605467c-7028-11ee-8fb3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 帝国主义列强之间的矛盾和妥协,是瓜分中国的阴谋破产的根本原因"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564e216-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9605467d-7028-11ee-8315-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。 帝国主义列强不能灭亡和瓜分中国,最根本的原因,是中华民族进行的不屈不饶的反侵略斗争"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564e25c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "9605467e-7028-11ee-b861-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。义和团运动貌似爱国,实那么祸国、害国"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	}
+]

@@ -1,0 +1,1731 @@
+[
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc6bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d2c99-716f-11ee-ba96-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会计是通过专门的方法收集、加工和利用以一定货币单位计量标准来描述经济活动的经济信息，对经济活动进行组织、控制、调节和指导，促使人们比较得失、权衡利弊、讲求经济效益以及协调、维系委托经济责任顺利进行的一种管理活动。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc7b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ab6-716f-11ee-a0fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计职能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指会计作为经济管理工作所具有的功能或能够发挥的作用，基本职能为核算和监督职能，还具有控制经济过程、分析经济效果等职能。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc7f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ab7-716f-11ee-8e31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计核算"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通过确认、计量、记录、报告，反映企业和行政事业单位已经发生或完成的经济活动，为经营管理提供信息的功能。是会计的首要职能，全部会计管理工作的基础。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc824-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ab8-716f-11ee-b35a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计监督"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "利用会计信息对企业经济活动进行预测、决策、控制、分析和考评，使其达到预期目标。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc856-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ab9-716f-11ee-9de2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计目标"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会计系统运行的出发点和归宿，基本目标是制定经济决策，总体目标是提高经济效益，具体目标是提供决策信息，反映受托责任。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc87e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7aba-716f-11ee-b770-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计对象"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特定主体能够用货币表现的经济活动，即会计核算和监督的内容。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc8b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7abb-716f-11ee-8006-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计要素"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是根据交易或事项的经济特征对会计对象进行的最基本的分类，包括资产、负债、所有者权益、收入、费用、利润六大要素。构成会计报表的骨架。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc8d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7abc-716f-11ee-8d24-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：资产"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指过去的交易或者事项形成的、由企业拥有或者控制的、预期会给企业带来经济利益的资源。按其流动性可分为流动资产和非流动资产。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc90a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7abd-716f-11ee-b0f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：负债"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业过去的交易或事项形成的、预期会导致经济利益流出企业的现时义务。可分为流动负债和长期负债。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc932-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7abe-716f-11ee-8276-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：所有者权益"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所有者权益是企业资产扣除负债后由所有者享有的剩余权益，股东价值的账面体现，表面企业归谁所有。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc95a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7abf-716f-11ee-92cf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：收入"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业在日常活动中形成的、会导致所有者权益增加的、与所有者投入资本无关的经济利益的总流入。增加股东价值的源泉。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc98c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac0-716f-11ee-aa00-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：费用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "费用是企业在日常活动中发生的、会导致所有者权益减少的、与向所有者分配利润无关的经济利益的总流出。增加股东价值的代价。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc9b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac1-716f-11ee-adc4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：利润"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业在一定会计期间的经营成果，全部收入减去全部费用的结果就是利润\n（负数为亏损）。企业经营的会计成果。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bc9dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac2-716f-11ee-88a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计恒等式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "表明各会计要素之间基本关系的恒等式，也称会计平衡公式。资产＝负债+所有者权益，扩展的恒等式为资产＝负债＋所有者权益＋（收入－费用）。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bca0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac3-716f-11ee-8730-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计确认"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会计确认是指把一个事项作为资产、负债、收入和费用等加以记录并列入财务报表的过程。包括初次确认和再确认。信息变换的关键环节。基本标准有可定义性，可计量性，可靠性，相关性。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bca36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac4-716f-11ee-bdfa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：初次确认"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对输入会计核算系统的原始经济信息进行的确认。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bca5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac5-716f-11ee-9e90-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：再次确认"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对会计核算系统输入的经过加工的会计信息进行的确认。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bca90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac6-716f-11ee-82bd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计计量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对交易或事项引起的会计要素变动金额加以认定的过程。包括计量单位和计量属性。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcab8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac7-716f-11ee-ad4d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计假设"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会计核算的基本前提，组织会计核算工作，需要具备一定的前提条件，包括会计主体，持续经营，会计分期，货币计量。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcae0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac8-716f-11ee-a078-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计主体"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "或称会计实体，是指会计工作为其服务的特定单位或组织。对会计核算空间范围的界定。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcb08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ac9-716f-11ee-897e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：持续经营"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会计主体的生产经营活动将无限期地持续下去，在可以预见的未来，会计主体不会因清算、解散、倒闭而不复存在。明确了会计核算的时间范围和内容。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcb3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7aca-716f-11ee-8fc2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计分期"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指将会计主体持续不断的经营活动人为地划分为若干连续、长短相同的期间。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcb62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7acb-716f-11ee-87e2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：货币计量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会计主体在会计核算过程中采用货币作为主要计量单位（辅之以实物量、劳动工时等计量单位），反映会计主体的生产经营活动。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcb8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7acc-716f-11ee-b85a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：权责发生制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "收入和费用的确认按照交易或事项是否影响各会计期间的经营成果和受益情况，确定其归属期。又称应计制或应收应付制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcbbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7acd-716f-11ee-b422-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：收付实现制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "收入和费用按照收付时间确定其归属期。又称现金制或实收实付制。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcbe4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ace-716f-11ee-a29d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计信息质量特征"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "为使财务报告中所提供的会计信息对投资者等信息使用者决策有用应具备的基本特征。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcc16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7acf-716f-11ee-9f7d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：可靠性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业应当以实际发生的交易或事项为依据进行会计处理，如实反映符合确认和计量要求的各项会计要素及其他相关信息，保证会计信息真实可靠、内容完整。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcc3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad0-716f-11ee-92a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：相关性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业提供的会计信息应当与财务会计报告使用者的经济决策需要相关，有助于财务会计报告使用者对企业过去、现在或将来的情况做出评价或预测。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcc66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad1-716f-11ee-86ea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：可理解性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业提供的会计信息应清晰明了，便于财务会计报告使用者理解和使用。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcc98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad2-716f-11ee-b233-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：可比性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业提供的会计信息应能进行不同期间的纵向可比和同一期间的横向可比。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bccc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad3-716f-11ee-9e68-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：实质重于形式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业应当按照交易或者事项的经济实质进行会计处理，不应仅以交易或事项的法律形式为依据。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bccf2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad4-716f-11ee-a25c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：重要性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业提供的会计信息应当反映与企业财务状况、经营成果和现金流量等有关的所有重要交易或者事项。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcd1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad5-716f-11ee-a081-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：谨慎性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称稳健性，企业对交易或者事项进行会计处理时应当保持应有的谨慎，不应高估资产或收益、不应低估负债或费用。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcd42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad6-716f-11ee-a07e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：及时性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业对已发生的交易或者事项，应当及时进行会计处理，不得提前或延后。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcd6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad7-716f-11ee-a324-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计科目"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对各个会计要素的具体内容进行分类核算的标志或项目。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcd9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad8-716f-11ee-9573-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计账户"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据会计科目设置的，具有一定格式和结构，用于分类反映会计要素增减变动情况及其结果的载体"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcdc4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ad9-716f-11ee-a780-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：经济交易"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "实际发生在机构单位之间或机构单位内部的各种经济活动。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcdec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ada-716f-11ee-b582-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：事项"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指在单位内部发生的具有经济影响的各类事项。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bce1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7adb-716f-11ee-8ee7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：本期发生额"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一定时期内账户所登记增加或减少金额的合计。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bce46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7adc-716f-11ee-b146-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：期初余额"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "期初已存在的账户余额，将本期的期末余额转入下期，就是下期的期初余额。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bce78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7add-716f-11ee-a06b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：期末余额"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "期初余额与本期增加发生额和本期减少发生额相抵后的差额的和。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcea0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ade-716f-11ee-a8a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：复式记账"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在每一项经济业务发生后需要记录时，同时在相互联系的两个或两个以上账户，以相等金额进行登记的一种记账方法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bced2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7adf-716f-11ee-b2f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：借贷记账法"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以“借”、“贷”二字作为记账符号，记录会计要素增减变动情况的一种复式记账法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcefa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ae0-716f-11ee-8a1e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计分录"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "按照借贷记账法记账规则的要求，对交易或事项列示应借、应贷的账户和金额的一种记录。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcf2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ae1-716f-11ee-a680-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：试算平衡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在期末对所有账户的发生额或余额进行汇总，以确定借贷是否相等，检查记账过程中是否存在差错的方法。有会计分录试算平衡，发生额试算平衡，余额试算平衡三种公式。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcf54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ae2-716f-11ee-ae50-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：投入资本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指所有者在企业注册资本的范围内实际投入的资本，在股份有限公司称为股本，在非股份公司称为实收资本。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcf7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ae3-716f-11ee-9608-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：资本溢价"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "投资者的出资额大于其在企业注册资本中所占份额的差额"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcfa4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138d7ae4-716f-11ee-aafc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：资本公积"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业在经营过程中由于接受捐赠、股本溢价以及法定财产重估增值等原因所形成的公积金。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcfd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1cd-716f-11ee-866f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：实收资本"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反映企业实际收到的投资者投入的资本"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bcffe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1ce-716f-11ee-9bc7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：银行借款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反映各项借款的取得、偿还及结欠的情况，按借款的种类（短期借款、长期借款）设置明细账。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd026-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1cf-716f-11ee-a241-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：银行存款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反映企业存放在金融机构货币资金的增减及结存。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd058-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d0-716f-11ee-8759-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：材料采购"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "核算企业购入各种材料的价格和采购费用"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd080-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d1-716f-11ee-a2f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：预付账款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "核算企业因采购材料和接受劳务而预付给供应商的款项"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd0a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d2-716f-11ee-8849-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：应付账款"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "核算企业因采购材料和接受劳务而应付给供应商的款项（债务）"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd0da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d3-716f-11ee-9a1f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：存货"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业在日常活动中持有以备出售的产成品或商品、处在生产过程中的在产品、在生产过程或提供劳务过程中耗用的材料或物料等。包括原材料，在产品，产成品，\n低值易耗品等。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd102-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d4-716f-11ee-8b58-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计凭证"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "记录经济业务，明确经济责任的书面证明；登记账簿的依据。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd134-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d5-716f-11ee-aeed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：原始凭证"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在经济业务发生或完成时取得或填制的、用以记录和证明经济业务的发生或完成情况的原始依据。进行会计核算的原始资料。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd15c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d6-716f-11ee-b16a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：外来原始凭证"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同外部单位发生经济往来关系时，从外部单位取得的原始凭证。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd184-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d7-716f-11ee-957d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：自制原始凭证"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由本单位内部经办经济业务的部门或人员，在办理经济业务时所填制的凭证。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd1b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d8-716f-11ee-a5b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：一次凭证"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一次填制完成，只记录一笔经济业务的原始凭证。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd1de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1d9-716f-11ee-afec-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：累计凭证"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在一定时期内多次记录发生的同类型经济业务的原始凭证"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd210-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1da-716f-11ee-a93d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：汇总原始凭证"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对一定时期内反映经济业务内容相同的若干张原始凭证，按照一定标准综合填制的原始凭证"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd238-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1db-716f-11ee-9b1a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：记账编制凭证"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据账簿记录填制的原始凭证"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd26a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1dc-716f-11ee-8ccd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：记账凭证"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "会计人员根据审核无误的原始凭证或汇总原始凭证，按照经济业务的内容加以归类，并确定会计分录而填制的，直接作为登记账簿依据的凭证。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd292-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1dd-716f-11ee-bff6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：会计账簿"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是由具有一定格式、相互连接的账页组成，以会计凭证为依据，全面、连续、系统地记录经济业务的簿籍。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd2ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1de-716f-11ee-87ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：日记账"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是按照经济业务发生的时间先后顺序，逐日逐笔登记经济业务的账簿，一般采用订本式"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd2e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1df-716f-11ee-a470-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：总分类账"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据总分类科目设置，总括反映会计主体经济业务情况的账簿"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd314-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e0-716f-11ee-9aa2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：明细分类账"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据明细科目设置，详细记录某一类经济业务情况的账簿。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd346-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e1-716f-11ee-9c09-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：备查账"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是对某些不能在日记账和分类账中记录的经济事项或记录不全的经济业务进行补充登记的账簿。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd36e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e2-716f-11ee-b6a9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：平行登记"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济业务发生后，根据会计凭证，一方面要登记有关的总分类账户，另一方面要同时登记该总分类账户所属的各有关明细分类账户。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd396-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e3-716f-11ee-b6f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：划线更正"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对记账凭证正确，但登账时数字抄写错误采用划红线将错误数字全部划掉，改正，盖章，又称划线更正。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd3c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e4-716f-11ee-8c93-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：红字更正"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对已经根据记账凭证登记账簿，但是发现记账凭证中的会计科目有错误，第一步用红字填制一张科目相同的记账凭证，冲销错账，第二步再填写一张正确的记账凭证并据以入账；已经根据记账凭证登记账簿，但是发现记账凭证中的会计科目无\n错误，但金额多记了。用红字填制一张科目相同的记账凭证，冲销多记的金额。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd3f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e5-716f-11ee-b3a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：补充登记"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "已经根据记账凭证登记账簿，记账凭证中的会计科目无错误，但是金额少记了。用篮黑墨水笔填制一张记账凭证，如同正常情形。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd422-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e6-716f-11ee-a495-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：对账"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "账簿与实物、凭证、报表之间，账簿与账簿之间的相互控制、稽核和自动平衡的保护机制"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd44a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e7-716f-11ee-a12e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：期末账项调整"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "期末结账前，按照权责发生制原则，确定本期的应得收入和应负担的费用，并据以对账簿记录的有关账项作出必要调整的会计处理方法"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd47c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e8-716f-11ee-b1f1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：财产清查"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通过对各项财产物资进行盘点和核对，确定实存数，查明实存数与其账存数是否相符的一种专门方法"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd4a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1e9-716f-11ee-99f4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：永续盘存制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通过设置存货明细账，逐笔登记存货的收入数、发出数，并能随时计算出存货结存数量的方法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd4d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1ea-716f-11ee-8096-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：实地盘存制"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在期末时，通过盘点实物确定存货的结存数量，并据以确认发出存货数量，借以计算期末结存存货成本和本期发出存货成本的一种存货盘存方法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd4fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1eb-716f-11ee-8f86-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：未达账项"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业单位与银行之间，对同一项经济业务由于凭证传递上的时间差所形成的一方已登记入账，而另一方因未收到相关凭证，尚未登记入账的事项。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd526-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1ec-716f-11ee-918b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：余额调节表\n7.结账"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在把一定时期(月份、季度、年度)内所发生的经济业务全部登记入账的基础上，\n结算各账簿的本期发生额和期末余额的工作。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd558-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1ed-716f-11ee-a5b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：财务会计报告"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "企业对外提供的反映企业某一特定日期财务状况和某一会计期间经营成果、现金流量的文件，会计核算工作的结果。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd580-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1ee-716f-11ee-a3b7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：资产负债表"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反映企业在某一特定日期的财务状况的报表。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd5a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1ef-716f-11ee-ae6f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：利润表"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反映企业在一定会计期间的经营成果的报表。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd5da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1f0-716f-11ee-8d40-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：现金流量表"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反映企业一定会计期间现金及现金等价物流入和流出的报表"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd602-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1f1-716f-11ee-b569-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：所有者权益变动表"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "反映构成所有者权益各组成部分当期增减变动情况的报表。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd62a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1f2-716f-11ee-87f5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：财务报表附注"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "报表附注是财务报表不可或缺的组成部分，是对在资产负债表、利润表、现金流量表和所有者权益变动表等报表中列示项目的文字描述或明细资料，以及对未能在这些报表中列示项目的说明等"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd65c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1f3-716f-11ee-8b49-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：流动比率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "流动资产÷流动负债，衡量企业流动资产在短期债务到期以前可以变为现金用于偿还流动负债的能力。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd684-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1f4-716f-11ee-b171-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：速动比率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（流动资产－存货－预付账款－待摊费用）÷流动负债，衡量企业某一时点运用随时可变现流动资产偿付到期流动负债的能力"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd6ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1f5-716f-11ee-9665-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：资产负债率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "负债总额÷资产总额，企业利用债权人提供的资金进行经营活动的能力，反映债权人债务的安全程度。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd6de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1f6-716f-11ee-921a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：复式记帐法"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是在每一项经济业务发生后需要记录时，同时在相互联系的两个或两个以上的账户中，以相等的金额进行登记的一种记账方法。"
+	},
+	{
+		"category": "管理学",
+		"sub_category": "工商管理类",
+		"raw_uuid": "351bd706-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "138da1f7-716f-11ee-b152-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：账户的对应关系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "采用借贷记账法，在某项经济业务发生时，会在有关帐户之间形成应借应贷的关系。我们把帐户之间应借应贷的关系，叫做账户的对应关系。"
+	}
+]

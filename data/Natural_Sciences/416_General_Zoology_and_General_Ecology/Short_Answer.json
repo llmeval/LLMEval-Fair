@@ -1,0 +1,382 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a550-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bece88-7086-11ee-81a6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 生境"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生境的英文名称是habitat。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a636-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1cf7-7086-11ee-86e7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 种群"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "种群的英文名称是population。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a672-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1cf8-7086-11ee-989e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 群落"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "群落的英文名称是community。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a6a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1cf9-7086-11ee-9413-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 个体"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个体的英文名称是individual。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a6cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1cfa-7086-11ee-80f5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 食物网"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "食物网的英文名称是food web。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a6f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1cfb-7086-11ee-ab43-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 演替"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "演替的英文名称是succession。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a726-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1cfc-7086-11ee-bcf6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 生态位"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态位的英文名称是Niche。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a74e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1cfd-7086-11ee-818f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 生态系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态系统的英文名称是ecosystem。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1cfe-7086-11ee-bf81-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 生产者"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生产者的英文名称是producer。1"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a7a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1cff-7086-11ee-be98-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 消费者"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "消费者的英文名称是consumer。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a7d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d00-7086-11ee-885d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 生态学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态学的英文名称是ecology。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a7f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d01-7086-11ee-88e1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 个体"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个体的英文名称是individual。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a82a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d02-7086-11ee-9624-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 种群"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "种群的英文名称是population。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a852-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d03-7086-11ee-8001-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 群落"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "群落的英文名称是community。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a87a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d04-7086-11ee-9e85-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 环境"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "环境的英文名称是environment。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a8ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d05-7086-11ee-ac80-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 生活史"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生活史的英文名称是life history。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a8d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d06-7086-11ee-8b4d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 演替"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "演替的英文名称是succession。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a8fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d07-7086-11ee-9c1b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 限制因子"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "限制因子的英文名称是limiting factor。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a92e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d08-7086-11ee-b37d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 生态系统"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生态系统的英文名称是ecosystem。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "3526a956-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "58bf1d09-7086-11ee-b879-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将名词翻译成英文： 生长率"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生长率的英文名称是growth rate。"
+	}
+]

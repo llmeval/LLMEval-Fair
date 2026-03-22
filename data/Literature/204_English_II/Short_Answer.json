@@ -1,0 +1,268 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3ff24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c10e2-6cdc-11ee-a531-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nIn this section there is a text in English. Translate it into Chinese. Write your translation on ANSWER SHEET 2. “Sustainability” has become a popular word these days, but to Ted Ning, the concept will always have personal meaning. Having endured a painful period of unsustainability in his own life made it clear to him that sustainability-oriented values must be expressed through everyday action and choice.\nNing recalls spending a confusing year in the late 1990s selling insurance. He’d been through the dot-com boom and burst and, desperate for a job, signed on with a Boulder agency.\nIt didn’t go well. “It was a really bad move because that’s not my passion,” says Ning, whose dilemma about the job translated, predictably, into a lack of sales. “I was miserable. I had so much anxiety that I would wake up in the middle of the night and stare at the ceiling. I had no money and needed the job. Everyone said, ‘Just wait, you’ll turn the corner, give it some time.’”"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "最近，“承受力”成了一个流行词汇，但对泰德·宁来说，他对这个词的涵义有自己的切身体会。在经历了一段难以承受的痛苦生活后，他清楚地认识到，以承受力为导向的价值观必须透过日常行动和抉择才能得以体现。\n宁回忆起20世纪90年代后期他卖保险时那困窘的一年。在经历了互联网泡沫的繁荣与破灭后，他急需找到一份工作，因此与一家博尔德代理公司签了约。\n但情况并不顺利。“那真是糟糕的一步，因为它根本激不起我的工作热情，”宁说。不出所料，工作上的进退维谷造成他销售业绩不佳。“我很痛苦，异常焦虑，以至于经常半夜醒来盯着天花板发呆。我没有钱，需要这份工作。大家都说，‘等等看，情况会有好转的，给它点时间。”"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f40064-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c5dfb-6cdc-11ee-a432-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nIn this section there is a text in English. Translate it into Chinese. Write your translation on ANSWER SHEET 2. Who would have thought that, globally, the IT industry produces  about  the same volume of greenhouse gases as the world’s airlines  do – roughly 2 percent of  all CO2 emissions?\nMany everyday tasks take a surprising toll on the environment. A Google search can leak between 0.2 and 7.0 grams of CO2, depending on how many  attempts are needed to get the “right” answer. To deliver results to its users  quickly, then, Google has to maintain vast data centres around the world, packed  with powerful computers. While producing large quantities of CO2, these  computers emit a great deal of heat, so the centres need to be well air-conditioned, which uses even more energy.\nHowever, Google and other big  tech  providers  monitor  their  efficiency closely and make improvements. Monitoring is the first step on the road  to  reduction, but there is much more to be done, and not just by big companies."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "谁会想到信息技术行业产生的温室气体总量会与航空业不相上下，约占全球二氧化碳排放量的2%?\n信息技术行业的许多日常工作对环境造成了意想不到的危害。每用谷歌搜索一次就会释放出0.2克至7.0克的二氧化碳，释放量的多少取决于使用者需要搜索多少次才能得到“正确”答案。为了把搜索结果迅速传输给用户，谷歌不得不在全世界范围内建立大型数据中心，并配备大功率计算机。除了排放大量二氧化碳，这些计算机还释放许多热量，因此数据中心还需要良好的空调环境，而这又会消耗更多的能量。\n不过，谷歌和其他大型技术供应商已在密切监控其数据中心的工作效率并做出改进。监控只是减排的第一步，需要做的还有很多，而且这不单单是大公司的事情。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f400c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c850b-6cdc-11ee-8972-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text from English into Chinese. Write your translation on ANSWER SHEET 2. When people in developing countries worry about migration, they are usually concerned at the prospect of their best and brightest departure to Silicon Valley  or     to hospitals and universities in the developed world. These are the kind of workers that countries like Britain, Canada and Australia  try  to  attract  by  using  immigration rules that privilege college graduates.\nLots of studies have found that  well-educated  people  from  developing countries are particularly likely to emigrate. A big survey of Indian households in 2004 found that nearly 40% of emigrants had more than a high-school education, compared with around 3.3% of  all  Indians  over  the  age  25.  This  “brain  drain” has long bothered policymakers in poor countries. They fear that it hurts their economies, depriving them of much-needed  skilled  workers  who  could  have  taught at their universities, worked in their hospitals and come up with clever new products for their factories to make."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "发展中国家的人考虑移民时，通常关心的是到硅谷或发达国家的医院和大学里工作这样最美好最光明的前景。这些人正是英国、加拿大和澳大利亚等国家想要通过对大学毕业生提供优惠的移民条例来吸引的人才。\n\n许多研究表明，发展中国家受过良好教育的人尤其可能移民。2004年对印度家庭的一项大规模调查表明，将近40：《移居国外的人受过高中以上教育，而与之形成对比的是：全印度25岁以上受过高中以上教育的人约为3.3%。这种“人才流失”现象长期困扰着贫困国家的决策者。他们担心这会损害本国经济，使他们失去急需的熟练的劳动者，这些人本可以留在国内在大学任教、在医院工作或设计新奇产品供工厂生产。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f40136-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c850c-6cdc-11ee-a849-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET. I can pick a date from the past 53 years and know instantly where I was, what happened in the news and even the day of the week. I’ve been able to do this since I was four.\nI never feel overwhelmed with the amount of information my brain absorbs. My mind seems to be able to cope and the information is stored away neatly. When I think of a sad memory, I do what everybody does – try to put it to one side. I don’t think it’s harder for me just because my memory is clearer. Powerful memory doesn’t make my emotions any more acute or vivid. I can recall the day my grandfather died and the sadness I felt when we went to the hospital the day before. I also remember that the musical play Hair opened on Broadway on the same day – they both just pop into my mind in the same way."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在过去的53年中任意挑一天，我马上就能知道那天我在什么地方，新闻报道了什么，甚至那天是星期几。我从四岁开始就有这本事了。\n我从来不会因为脑子吸收大量信息而受不了。我的脑子似乎能够应付，而且这些信息也储存得有条有理。当我回想起一件悲伤的事情时，我所做的和大家一样——尽量把它放到一边。我不觉得就因为我的记忆更清晰，我就会更难受。强大的记忆力并没有使我的情感更为强烈或更为鲜明。我能回想起我祖父去世的那一天，以及我们前一天去医院时我伤心的感觉。我同样记得，百老汇在同一天首演音乐剧《发》——这两件事在我脑海里突然出现的方式没什么两样。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f4017c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c850d-6cdc-11ee-b491-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET.Most people would define optimism as being endlessly happy, with a glass that’s perpetually half full. But that’s exactly the kind of false cheerfulness that positive psychologists wouldn’t recommend. “Healthy optimism means being in touch with reality,” says Tal Ben-Shahar, a Harvard professor. According to Ben-Shahar, realistic optimists are those who make the best of things that happen, but not those who believe everything happens for the best.\nBen-Shahar uses three optimistic exercises. When he feels down – say, after giving a bad lecture – he grants himself permission to be human. He reminds  himself that not every lecture can be a Nobel winner; some will be less effective than others. Next is reconstruction. He analyzes the weak lecture, learning lessons for the future about what works and what doesn’t. Finally, there is perspective, which involves acknowledging that in the grand scheme of life, one lecture really doesn’t matter."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大多数人都会把乐观定义为永远快乐，觉得杯子里总有半杯水。但这恰恰不是真正的快乐，积极心理学家们并不提倡。哈佛大学教授Tal Ben-Shahar说：“健康的乐观意味着不脱离现实。”按照Ben-Shahar的说法，现实的乐观主义者是那些不管发生什么事情都力求从中得到最大收获的人，而不是那些指望凡事都有最好结局的人。\n\nBen-Shahar运用三种方法保持乐观。当他情绪低落时——比如说一次课没讲好——他宽容自己，承认自己是凡人。他提醒自己，不是每堂课都有获诺贝尔奖的水准；总会有一些课的效果不如别的课。第二种方法时回顾。他分析讲得不好的课，为以后汲取有用的经验和失败的教训。最后，还有视角问题，要认识到在宏大的生命长卷里，一堂课真的不算什么。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f401c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c850e-6cdc-11ee-a34b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET. Think about driving a route that’s very familiar. It could be your commute to work, a trip into town or the way home. Whichever it is, you know every twist and turn like the back of your hand. On these sorts of trips it’s easy to lose concentration on the driving and pay little attention to the passing scenery. The consequence is that you perceive that the trip has taken less time than it actually has.\nThis is the well-travelled road effect: People tend to underestimate the time it takes to travel a familiar route.\nThe effect is caused by the way we allocate our attention. When we travel down a well-known route, because we don’t have to concentrate much, time seems to flow more quickly. And afterwards, when we come to think back on it, we can’t remember the journey well because we didn’t pay much attention to it. So we assume it was shorter."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "试想开车走一条非常熟悉的路。可以是上下班、进城或是回家的路。不管是哪条路，你对每一处曲曲弯弯都了如指掌。在这种路上，很容易不专注于驾驶，很少注意沿途的景色。结果你就觉得旅途所花的时间比实际的要短。\n\n这就是熟路效应：人们走熟路时往往会低估所需的时间。\n\n这种效应是由于我们分配注意力的方式造成的。我们走很熟的路时，由于不必非常专注，时间似乎就过得快些。之后，我们回想起这段旅程时，由于当时没怎么注意，所以记得不很清楚。这样，我们就觉得时间短了。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f40208-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c850f-6cdc-11ee-8ae4-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET. The supermarket is designed to lure customers into spending as much time as possible within its doors. The reason for this is simple: The longer you stay in the store, the more stuff you’ll see, and the more stuff you see, the more you’ll buy. And supermarkets contain a lot of stuff. The average supermarket, according to the Food Marketing Institute, carries some 44,000 different items, and many carry tens of thousands more. The sheer volume of available choice is enough to send shoppers into a state of information overload. According to brain-scan experiments, the demands of so much decision-making quickly become too much for us. After about 40 minutes of shopping, most people stop struggling to be rationally selective, and instead begin shopping emotionally – which is  the point at which we accumulate the 50 percent of stuff in our cart that we never intended buying."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "超市的设计就是要诱使顾客尽可能久地待在店内。其理由很简单：你在店里逗留越久，看到的东西就越多，看到的东西越多，买的就越多。而超市里的东西多得很。按食品营销研究院所说，普通超市售卖约44，000种各式货品，而且许多超市的货品还要多出成千上万种。单是可供选择的货品数量就足以让购物者陷入信息超负荷的状态。根据大脑扫描实验，如此之大的决策量带来的负担会很快令我们无法承受。购物约40分钟后，大多数人就不再费心去理性选购，而是开始冲动购物了——就是从这一刻起，我们把本来根本没打算买的那一半东西堆进了购物车。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f4024e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c8510-6cdc-11ee-a888-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET. My dream has always been to work somewhere in an area between fashion and publishing. Two years before graduating from secondary school, I took a sewing and design course thinking that I would move on to a fashion design course. However, during that course I realized I was not good enough in this area to compete with other creative personalities in the future, so I decided that it was not the right path for me. Before applying for university I told everyone that I would study journalism, because writing was, and still is, one of my favourite activities. But, to be honest, I said it, because I thought that fashion and me together was just a dream – I knew that no one could imagine me in the fashion industry at all! So I decided to look for some fashion-related courses that included writing. This is when I noticed the course “Fashion Media & Promotion.”"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "我的梦想一直是在时尚和出版之间的领域工作。中学毕业前两年，我选了一门缝纫与设计课，心想以后会接着修一门时装设计课。然而，在学习那门课程期间，我意识到自己在这个领域不够出色，日后不足以与其他有创造力的人士竞争，因此我认定，这条路不适合我。申请上大学之前，我跟所有人说我要学新闻，因为写作曾经是——现在依然是——我最喜欢的活动之一。可是，说实话，当时我那么说是因为我觉得时尚和我结缘仅仅是个梦——我知道，别人根本无法想象我能进入时尚行业！于是，我决定找些含有写作的与时尚相关的课程。就在这个时候，我注意到了“时尚传媒与推广”这门课。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f40294-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c8511-6cdc-11ee-9bc1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation neatly on the ANSWER SHEET. A fifth grader gets a homework assignment to select his future career path from a list of occupations. He ticks “astronaut” but quickly adds “scientist” to the list and selects it as well. The boy is convinced that if he reads enough, he can explore as many career paths as he likes. And so he reads – everything from encyclopedias to science fiction novels. He reads so passionately that his parents have to institute a “no reading policy” at the dinner table.\nThat boy was Bill Gates, and he hasn’t stopped reading yet – not even after becoming one of the most successful people on the planet. Nowadays, his reading material has changed from science fiction and reference books: recently, he revealed that he reads at least 50 nonfiction books a year. Gates chooses nonfiction titles because they explain how the world works. “Each book opens up new avenues of knowledge to explore”, Gates says."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一个五年级的学生收到一份家庭作业：即从一系列职业中选择自己未来的职业道路。他勾划了“宇航员”，但很快由将“科学家”添加到列表中，并也将其选中。这个男孩相信，如果他读得足够多，他就可以探索尽可能多的他喜欢的职业道路。所以他读书广泛——从百科全书到科幻小说。他读得如此投入，以至于他的父母不得不制定一个：在餐桌上的“不读书政策”。\n那个男孩就是比尔盖茨，他没有停止阅读，甚至在他成为这个星球上最成功的人士之一后，仍旧没有停下来。现在，他的阅读材料已经不再是科幻小说和工具书了：最近据他所说，他一年内至少读了50本非科幻小说。比尔盖茨选择非科幻小说类书籍，是因为这类书籍解释了世界是如何运作的。“每本书都开辟了新的知识探索渠道。”盖茨说。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f402da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c8512-6cdc-11ee-abdb-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET. It is easy to underestimate English writer James Herriot. He had such a pleasant, readable style that one might think that anyone could imitate it. How many  times have I heard people say, “I could write a book. I just haven’t the time.” Easily said. Not so easily done. James Herriot, contrary to popular opinion, did not find it easy in his early days of, as he put it, “having a go at the writing game”. While he obviously had an abundance of natural talent, the final, polished work that he gave to the world was the result of years of practicing, re-writing and reading. Like the majority of authors, he had to suffer many disappointments and rejections along the way,  but these made him all the more determined to succeed. Everything he achieved in life was earned the hard way and his success in the literary field was no exception."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "我们很容易低估英国作家吉米·哈利。他有着一种令人愉快的、可读的风格，有人认为这种风格任何人都可以模仿得来。很多次我听到人们说：“我能写一本书，我只是没时间。”说起来容易，做起来难。然而与大家通常所想的不同， 正如吉米·哈利所言，他在早年觉得“尝试写作游戏”并非易事。显然，即便他极具写作天赋，哈利呈现给这个世界的作品也是经过多年的练习、重写、阅读并且经过润色之后才得以形成的。与大多数作家一样，一路走来，吉米·哈利不得不经受多次的失望与拒绝，但是这一切更坚定了他获取成功的决心。他生命中所取得的一切，都是依靠自己艰苦的努力所获得的。他在文学领域的成功也不例外。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f40334-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c8513-6cdc-11ee-9823-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET. It's almost impossible to go through life without experiencing some kind of failure. But, the wonderful thing about failure is that it's entirely up to us to decide how to look at it.\nWe can choose to see failure as “the end of the world”. Or, we can look at failure as the incredible learning experience that it often is. Every time we fail at something, we can choose to look for the lesson we’re meant to learn. These lessons are very important; they’re how we grow, and how we keep from making that same mistake again. Failures stop us only if we let them.\nFailure can also teach us things about ourselves that we would never have learned otherwise. For instance, failure can help you discover how strong a person you are. Failing at something can help you discover your truest friends, or help you find unexpected motivation to succeed."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人活一生几乎不可能经历某种失败。但失败的美妙之处在于，如何看待失败完全取决于我们自己。\n我们可以选择将失败看作“世界末日”。或者，我们可以把它视为绝佳的学习经历，事实上失败往往就是如此。每次失败时，我们都可以选择从中寻找应当吸取的教训。这些教训非常重要;它们让我们成长，让我们避免再犯同样的错误。失败不击垮我们，除非我们自己放弃。\n\n    失败也可以让我们了解自己，若非经历失败，可能永远都了解不到。例如，失败可以帮助你发现自己有多强大。失败可以帮你发现最真诚的朋友，或者帮你找到意想不到的成功动力。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f40370-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c8514-6cdc-11ee-bd05-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation on  the ANSWER SHEET. We tend to think that friends and family members are our biggest sources of connection,laughter, and warmth. While that may well be true, researchers have also recently found that interacting with strangers actually brings a boost in mood and feelings of belonging that we didn’t expect.\nIn one series of studies, researchers instructed Chicago-area commuters using public transportation to strike up a conversation with someone near them. On average, participants who followed this instruction felt better than those who had been told to stand or sit in silence. The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us. Much of the time,however, this belief is false.As it turns out, many people are actually perfectly willing to talk — and may even be flattered to receive your attention."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "我们往往认为，朋友和家人是我们获得情感归属、欢乐和温暖的最主要来源。虽然这很有可能正确，但是，研究人员最近也发现，与陌生人交流实际上会给我们带来意想不到的好心情以及归属感。\n在一系列的研究中，研究人员让芝加哥地区乘坐公共交通的通勤者与身旁的人搭讪。平均而言，遵照这一指示的参与者比那些被要求安静地站着或坐着的参与者感觉更好。研究人员还认为，我们之所以避而不与陌生人闲聊，通常是由不必要的忧虑，担心他们可能不想和我们说话。但是，在大多数时候，这种想法是错误的。正如研究结果所示，许多人其实非常愿意交谈——甚至可能会因为受到你的关注而格外高兴。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f403b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c8515-6cdc-11ee-9e94-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nIn this section there is a text in English. Translate it into Chinese. Write your translation on ANSWER SHEET 2. Although we try out best, sometimes our paintings rarely turn out as originally planned. Changes in the light, the limitations of your painting materials, and the lack of experience and technique mean that what you start out trying to achieve may not come to life the way that you expected.\nAlthough this can be frustrating and disappointing, it turns out that this can actually be good for you. Unexpected results have two benefits: you pretty quickly learn to deal with disappointment and realize that when one door closes, another opens. You also quickly learn to adapt and come up with creative solutions to the problems the painting presents and thinking outside the box will become your second nature.\nIn fact, creative problem-solving skills are incredibly useful in daily life, with which you are more likely to be able to find a solution when a problem arises."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尽管全力以赴，但我们的画作有时候仍然很难呈现出最初构想的效果。光线的变化、绘画材料的限制、经验和技法的不足意味着你最初想要达到的效果可能并不能如你所期望的那样实现。\n虽然这会令人沮丧和失望，但事实证明，它其实也会对你有益。意想不到的结果有两大好处：你能快速学会处理失望情绪，并认识到当一扇门关闭时，另一扇门会敞开。你也能快速学会适应，并想出创新性解决办法来应对绘画中出现的问题，进而创造性思维会成为你的第二天性。\n事实上，创造性解决问题的能力在日常生活中极为有用，在问题出现的时候，你更有可能凭借这一能力找到解决办法。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f403fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "022c8516-6cdc-11ee-99f7-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的英语翻译成中文：\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET. In the late 18th century, William Wordsworth became famous for his poems about nature. And he was one of the founders of a movement called Romanticism, which celebrated the wonders of the natural world.\nPoetry is powerful. Its energy and rhythm can capture a reader, transport them to another world and make them see things differently. Through carefully selected words and phrases, poems can be dramatic, funny, beautiful, moving and inspiring.\nNo one knows for sure when poetry began but it has been around for thousands of years, even before people could write. It was a way to tell stories and pass down history. It is closely related to song and even when written it is usually created to be performed out loud. Poems really come to life when they are recited. This can also help with understanding them too, because the rhythm and sounds of the words become clearer."
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "18世纪末，威廉·华兹华斯因其关千自然的诗歌而广为人知。同时，他还是浪漫主义运动的创始人之一，这一运动歌颂了自然界的奇妙之处。\n诗歌是富有力最的。诗歌的能量和节奏能够吸引读者，将读者带入另一个世界，并让他们以不同的方式看待事物。通过精心选择的词和短语，诗歌可以是戏剧性的、诙谐有趣的、意境优美的、动人心弦的和鼓舞人心的。\n没有入确切地知道诗歌出现的时间，但它已经存在数千年了，甚至在人们会书写之前就已经出现了。诗歌是人们讲述故事和传承历史的一种方式。诗歌与歌曲是密切相关的，甚至被写下时，就通常是为了出声表演而创作的。当诗歌被朗诵出来时，它们才真正地生动鲜活了起来。这也能帮助人们理解诗歌，原因是在朗诵时词的节奏和发音变得更加清晰了。"
+	}
+]

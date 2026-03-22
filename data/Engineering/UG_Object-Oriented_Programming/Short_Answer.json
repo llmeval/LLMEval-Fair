@@ -1,0 +1,1218 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5388c-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行的结果：\n#include<iostream > \nusing namespace std;\nvoid fun(int &a, int &b)\n{ int p;\np=a; a=b; b=p;\n}\nvoid exchange(int &a, int &b, int &c)\n{ if( a<b ) fun(a, b);\nif( a<c ) fun(a, c);\nif( b<c ) fun(b, c);\n}\nint main()\n{ int a=12,b=89,c=56;\nexchange(a, b, c);\ncout<<\"a=\"<<a<<\",b=\"<<b<<\",c=\"<<c<<endl;\nreturn 0;\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "a=89,b=56,c=12\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7dde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae53a62-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行的结果：\n#include <iostream>\nusing namespace std;\nclass A {\npublic:\nA( ) { cout <<\"A\"; }\n};\nclass B {\npublic:\nB( ) { cout <<\"B\"; }\n};\nclass C: public A {\npublic:\nC( ) { cout <<\"C\"; }\nprivate:\nB b;\n};\nint main ( ) {\nC obj;\nreturn 0;\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "ABC\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7e1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae53bde-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行的结果：\n#include <iostream> \nusing namespace std;\nclass A\n{public:\nA(){cout<<\"A: :A() called.\n\";}\nvirtual ~A(){cout<<\"A: :~A() called.\n\";}\n};\nclass B: public A\n{public:\nB(int i)\n{ cout<<\"B: :B() called.\n\";\n}\nbuf=new char[i];\nvirtual ~B()\n{ delete []buf;\ncout<<\"B: :~B() called.\n\";\n}\nprivate:\nchar *buf;\n};\nint main()\n{ A *a=new B(15);\ndelete a;\nreturn 0;\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A::A() called.\nB::B() called.\nB::~B() called.\nA::~A() called.\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7e4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae53d28-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行的结果：\n#include <iostream>\nusing namespace std;\nclass A\n{public:\n     void f(){cout<<\"Call A's function f()\"<<endl;}\n};\nclass B\n{public:\n    void f() {cout<<\"Call B's function f()\"<<endl;}\n    void g() {cout<<\"Call B's function g()\"<<endl;}\n};\nclass C: public A, public B\n{public:\nvoid g(){cout<<\"Call C's function g()\"<<endl;}\n};\nint main()\n{ C cc;\ncc.B::f();\ncc.B::g();\ncc.g();\nreturn 0;\n}\n\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Call B's function f()\nCall B's function g()\nCall C's function g()\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7e7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae53e68-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知复数类Complex的声明如下：\nclass Complex\n{public:\nComplex(); //无参构造函数\nComplex(double ); //转换构造函数\nComplex(double, double); //有两个形参的构造函数\nfriend Complex operator+(Complex&, Complex&); //对“+”运算符进行重载\nfriend ostream& operator<<(ostream&, Complex&); //对“<<”运算符进行重载\nfriend istream& operator>>(istream&, Complex&); //对“>>”运算符进行重载\nprivate:\ndouble real,imag;\n};\n要求：\n（1）写出该类的所有构造函数的类外定义代码。\n（2）写出对运算符“+”、“<<”、“>>”进行重载的运算符重载函数的定义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Complex::Complex(){real=0;imag=0;}\nComplex::Complex(double r){real=r;}\nComplex::Complex(double r,double i){real=r;imag=i;}\nComplex operator+(Complex &c1,Complex &c2)\n{ Complex c;\nc.real=c1.real+c2.real; c.imag=c1.imag+c2.imag;\nreturn c;\n}\nostream& operator << (ostream& output,Complex& c)\n{ output<<\"(\"<<c.real<<\"+\"<<c.imag<<\"i)\"<<endl;\nreturn output;\n}\nistream& operator >> (istream& input,Complex& c)\n{ cout<<\"input real and imaginary part of complex number: \";\ninput>>c.real>>c.imag;\nreturn input;\n}\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7eb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae53fbc-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "列Shape类是一个表示形状的抽象类，area( )为求图形面积的函数，total( )则是一个通用的用以求不同形状的图形面积总和的函数。\nclass Shape\n{public:\n virtual double area()=0;\n};\ndouble total(Shape *s[ ], int n)\n{ double sum=0.0;\nfor(int i=0; i<n; i++) sum+=s[i]->area( );\nreturn sum;\n}\n要求：（1）从Shape 类派生圆类(Circle)、正方形类（Square），圆类新增数据成员半径（radius），正方形类新增数据成员边长（a），圆类和正方形类都有构造函数，修改、显示数据成员值的函数，求面积函数。\n（2）写出 main()函数，计算半径为 5.5 的圆和边长为 9.9 的正方形的面积和（必须通过调用 total 函数计算）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "class Circle:public Shape\n{public:\nCircle(double r){radius=r;}\nvoid set()\n{ cout<<\"Please input the value of the circle: \"<<endl;\ncin>>radius;\n}\nvoid show()\n{ cout<<\"the radius of the circle=\"<<radius<<endl;}\ndouble area() {return 3.14159*radius*radius;}\nprivate:\ndouble radius;\n};\nclass Square:public Shape\n{public:\nSquare(double a){this->a=a;}\nvoid set()\n{ cout<<\"Please input the value of a: \"<<endl;\ncin>>a;\n}\nvoid show()\n{ cout<<\"a=\"<<a<<endl; }\ndouble area(){return a*a;}\nprivate:\ndouble a;\n};\nint main()\n{\nCircle C(5.5);\nC.show();\nSquare S(9.9);\nS.show();\nShape *s[]={&C,&S};\ncout<<\"total=\"<<total(s,2)<<endl;\nreturn 0;\n}\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7ed8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae540f2-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写出程序运行的结果：#include <iostream.h>\nclass M { public:\nM() { x=y=0; }\nM(int i, int j)\n{ x=i; y=j; }\nvoid copy(M *m);\nvoid setxy(int i, int j)\n{ x=i; y=j; }\nvoid print() { cout<<x<<\",\"<<y<<endl; }\nprivate:\nint x, y;};\nvoid M::copy(M *m)\n{ x=m->x; y=m->y;}\nvoid fun(M m1, M *m2)\n{ m1.setxy(12, 15);\nm2->setxy(22,25);\n}\nvoid main()\n{ M p(5, 7), q;\nq.copy(&p);\nfun(p, &q);\np.print();\nq.print();\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "5,7\n22,25\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7f00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae54296-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行的结果：#include <iostream.h>\nclass M\n{public:\nM(){a=b=0;}\nM(int i,int j){a=i;b=j;}\nvoid print() {cout<<a<<\",\"<<b<<\"\t\";}\nprivate:\nint a,b;\n};\nvoid main()\n{ M m[2][4]; int x=10,y=10;\nfor(int i=0;i<2;i++)\n{ for(int j=0;j<4;j++)\n{ m[i][j]=M(x+=2,y+=10);}\n}\nM (*pm)[4](m);\nfor(i=0;i<2;i++)\n{ cout<<endl;\nfor(int j=0;j<4;j++)\n(*(*(pm+i)+j)).print();//用指针的方式存取数组的第 ij 个元素\n} cout<<endl;\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "12,20 14,30 16,40 18,50\n20,60 22,70 24,80 26,90\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7f32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae543e0-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行的结果：#include <iostream.h>\n#include <string.h>\nclass B\n{ public:\nB(char *s, double n)\n{ strcpy(name,s);\nb=n;\ncout<<\"Constructor. \n\";\n}\nB(){cout<<\"Default\n\";}\n~B(){cout<<\"Destructor \"<<name<<endl;}\nvoid getb(char *s, double& n)\n{ strcpy(s,name); n=b; }\nprivate:\nchar name[80];\ndouble b;\n};\nvoid main()\n{ B* p;\ndouble n;\nchar s[80];\np=new B[3];\np[0]=B(\"Ma\",4.8);\np[1]=B(\"Wang\",3.6);\np[2]=B(\"Li\",3.1);\nfor(int i=0;i<3;i++)\n{ p[i].getb(s,n);\ncout<<s<<\",\"<<n<<endl;\n}\ndelete[] p;\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Default\nDefault\nDefault\nConstructor.\nDestructor Ma\nConstructor.\nDestructor Wang\nConstructor.\nDestructor Li\nMa,4.8\nWang,3.6\nLi,3.1\nDestructor Li\nDestructor Wang\nDestructor Ma\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7f5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae546b0-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行的结果：#include <iostream.h>\nclass A\n{ public:\nA(int i){a=i;cout<<\"con. A\n\";}\nvoid print(){cout<<a<<endl;}\n~A(){cout<<\"des. A\n\";}\nprivate:\nint a;\n};\nclass B1 : virtual public A\n{ public:\nB1(int i, int j) : A(i){b1=j;cout<<\"con. B1\n\";}\nvoid print(){A::print(); cout<<b1<<endl;}\n~B1(){cout<<\"des. B1\n\";}\nprivate:\nint b1;\n};\nclass B2 : virtual public A\n{ public:\nB2(int i, int j) : A(i){b2=j;cout<<\"con. B2\n\";}\nvoid print(){A::print(); cout<<b2<<endl;}\n~B2(){cout<<\"des. B2\n\";}\nprivate:\nint b2;\n};\nclass C : public B1, public B2\n{ public:\nC(int i, int j, int k, int l) : B1(i,j), B2(i,k), A(i)\n{ c=l; cout<<\"con. C\"<<endl; }\nvoid print()\n{ B1::print(); B2::print();cout<<c<<endl; }\n~C(){cout<<\"des. C\"<<endl;}\nprivate:\nint c;\n};\nvoid main()\n{\nC c1(5,7,3,6);\nc1.print();\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "con. A\ncon. B1\ncon. B2\ncon. C\n5\n7\n5\n3\n6\ndes. C\ndes. B2\ndes. B1\ndes. A\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7f8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae54840-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "编写一个程序，设计一个产品类Product，其定义如下：\nClass Product\n{\nchar *name; //产品名称\nint price; //产品单价\nint quantity; //剩余产品数量\npublic:\nProduct(char *n,int p,int q); //构造函数\n~Product(); //析构函数\nvoid buy(int money); //购买产品\nvoid get() const; //显示剩余产品数量\n};\n并用数据进行测试。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "#include <iostream.h>\n#include <string.h>\nclass Product\n{\nchar *name;\nint price;\nint quantity;\npublic:\nProduct(char *n,int p,int q)\n{\nname =new char[strlen(n)+1];\nstrcpy(name,n);\nprice=p;\nquantity=q;\n}\n~Product()\n{\nif(name)\n{\ndelete [] name;\nname=0;\n}\n}\nvoid buy(int money)\n{\nint n,r;\nn=money/price;\nif(n>quantity)\ncout<<\"数量不够\"<<endl;\nelse\n{\nquantity-=n;\nr=money%price;\ncout<<\"产品：\"<<name<<\"单价：\"<<price<<\"元 顾客\";\ncout<<money<<\"元，买了\"<<n<<\"台，剩余\"<<r<<\"元\"<<endl;\n}\n}\nvoid get() const\n{\ncout<<\"产品：\"<<name<<\"单价：\"<<price<<\"元 剩余\"<<quantity<<\"台\"<<endl;\n}\n};\nvoid main()\n{\nProduct p1(\"电视机\",2000,15);\np1.buy(7000);\np1.get();\np1.buy(4500);\np1.get();\n}\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7fb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae54994-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以面向对象的方法设计一个类，此类包含 3 个私有数据：unlead，lead（无铅汽油和有铅汽油）以及 total（当天总收入，无铅汽油的价格是 17 元/公升，有铅汽油的价格是 16 元/公升），请以构造函数方式建立此值。试输入某天所加的汽油量，本程序将列出加油站当天的总收入。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "#include <iostream.h>\nclass Tc\n{\nprivate:\ndouble unlead,lead,total;\nint unprice,price;\npublic:\nTc(){unprice=17;price=16;}\nvoid getdata()\n{\ncout<<\"无铅汽油总量；\";\ncin>>unlead;\ncout<<\"有铅汽油总量；\";\ncin>>lead;\ntotal=unprice*unlead+price*lead;\n}\nvoid disp()\n{\ncout<<\"总收入：\"<<total<<endl;\n}\n};\nvoid main()\n{\nTc A;\nA.getdata();\nA.disp();\n}\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b7fe6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae54aca-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "编写一个程序计算两个给定长方形的面积，其中在设计类成员函数 addarea()（用于计算两个长方形的总面积）时使用对象作为参数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "#include <iostream.h>\n#include <iomanip.h>\nclass rectangle\n{\nprivate:\nfloat ledge,sedge;\npublic:\nrectangle(){};\nrectangle(float a,float b)\n{\nledge=a;\nsedge=b;\n};\nfloat area()\n{\nreturn ledge*sedge;\n};\nvoid addarea(rectangle r1,rectangle r2)\n{\ncout<<\"总面积：\"<<r1.ledge*r1.sedge+ r2.ledge*r2.sedge<<endl;\n}\n};\nvoid main()\n{\nrectangle A(3.5,2.5),B(4.2,3.8),C;\nC.addarea(A,B);\n}\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b800e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae54c0a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "编一个程序计算正方体，球体和圆柱体的表面积和体积。要求：抽象出一个公共基类 container 为抽象类，在其中定义求表面积和体积的纯虚函数。抽象类中定义一个公共的数据成员 radius,此数值可以作为球体的半径、正方体的边长、圆柱体底面圆半径。由该抽象类派生出的三个类，都有求表面积和体积的实际定义。键盘输入 radius 的值后，可以输出这 3 种立方体的面积。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "#include <iostream.h>\nclass Circle\n{\npublic:\nCircle(double i) {r=i;}\ndouble Area(double r) {a=r*r*3.14159; return a;}\nvoid Show() {cout<<\"area=\"<<Area(r)<<endl;}\nprivate:\ndouble r,a;\n};\nclass Rectangle\n{\npublic:\nRectangle(double i,double j)\n{ l=i;w=j;}\ndouble Area(double i,double j) {a=i*j; return a;}\nvoid Show() {cout<<\"area=\"<<Area(l,w)<<endl;}\nprivate:\ndouble l,w,a;\n};\nclass Graph:public Circle, public Rectangle\n{public:\nGraph(double i, double j, double k):Circle(i),Rectangle(j,k)\n{r=i;l=j;w=k;}\ndouble Area(double r,double l,double h) {a=Circle::Area(r)+Rectangle::Area(l,h); return a;}\nvoid Show() {cout<<\"area=\"<<Area(r,l,w)<<endl;}\nprivate:\ndouble r,l,w,a;\n};\nvoid main()\n{\nCircle c(10);\nc.Show();\nRectangle rec(20,50);\nrec.Show();\nGraph g(10.0,20.0,50.0);\ng.Show( );\n}\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8040-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae54d36-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "抽象类和类模板都是提供抽象的机制，请分析它们的区别和应用场合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抽象类至少包含一个纯虚函数，纯虚函数抽象了类体系中一些类似操作的公共界面，它不依赖于数据，也没有操作定义。派生类必须定义实现版本。抽象类用于程序开发时对功能的统一策划，利用程序运行的多态性自动匹配实行不同版本的函数。\n类模板抽象了数据类型，称为类属参数。成员函数描述了类型不同，逻辑操作相同的功能集。编译器用建立对象的数据类型参数实例化为模板类，生成可运行的实体。类模板用于抽象数据对象类型不同，逻辑操作完全相同类定义。这种数据类型的推导必须在语言功能的范畴之内的。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8068-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae54e58-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类模板能够声明什么形式的友员？当类模板的友员是函数模板时，它们可以定义不同形式的类属参数吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "类模板可以声明的友员形式有：普通函数、函数模板、普通类成员函数、类模板成员函数以及普通类、类模板。\n当类模板的友员是函数模板时，它们可以定义不同形式的类属参数。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b809a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae55088-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类模板的静态数据成员可以是抽象类型吗？它们的存储空间是什么时候建立的？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "类模板的静态数据成员可以是抽象类型。它们的存储空间在生成具体模板类的时候建立，即每生成一个模板类同时建立静态储存空间并做一次文件范围的初始化。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b80c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae551c8-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在C++中，使用类体系依靠什么机制实现程序运行时的多态？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在C++中，基类指针可以指向派生类对象，以及基类中拥有虚函数，是支持多态性的前提。程序通过用同一个基类指针访问不同派生类的虚函数重载版本实现程序运行时的多态。C++的虚特性负责自动地在程序运行时把基类指针的关联类型转换成当前指向对象的派生类类型。\n另外，抽象类机制提供了软件抽象和可扩展性的手段，实现运行时的多态性。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b80ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae552e0-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "虚函数和纯虚函数的区别是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "虚函数定义时冠以关键字 virtual，本身有实现代码，作用是引导基类指针根据指向对象调用类体系中不同重载版本函数。\n纯虚函数是指在说明时代码“为0”的虚函数，即纯虚函数本身并没有实现代码，必须通过它的派生类定义实现版本。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8112-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae55402-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“虚基类”是通过什么方式定义的？如果类A有派生类B、C，类A是类B虚基类，那它也一定是类C的虚基类吗？为什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "虚基类是在声明派生类时，指定继承方式时声明的，声明虚基类的一般形式为：class 派生类名： virtual 继承方式 基类名\n若类A是类B和类C的虚基类，但不一定是类D的虚基类，原因在于“虚基类”中的“虚”不是基类本身的性质。而是派生类在继承过程中的特性。关键字 virtual 只是说明该派生类把基类当作虚基类继承，不能说明基类其他派生类继承基类的方式。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8144-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5551a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在具有虚继承的类体系中，建立派生类对象时以什么顺序调用构造函数？请用简单程序验证你的分析。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在具有虚继承的类体系中，建立派生类对象时先调用间接基类构造函数，再按照派生类定义时各个直接基类继承的顺序调用直接基类的构造函数，最后再对派生类对象自身构造函数。\n另外，C++为了保证虚基类构造函数只被建立对象的类执行一次，规定在创建对象的派生类构造\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b816c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5565a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：#include<iostream> using namespace std;\nclass A\n{\n    public:\n        A(const char *s)\n    {\n        cout << s << endl;\n    }\n    ~A() {}\n};\nclass B : virtual public A\n{\npublic:\n    B(const char *s1, const char *s2) : A(s1) { cout << s2 << end1; }\n};\nclass C : virtual public A\n{\npublic:\n    C(const char *s1, const char *s2) : A(s1) { cout << s2 << endl; }\n};\nclass D : public B, public C\n{\npublic:\n    D(const char *s1, const char *s2, const char *s3, const char *s4) : B(s1, s2), C(s1, s3), A(s1)\n    {\n        cout << s4 << endl;\n    }\n};\nint main()\n{\n    D *ptr = new D(\"class A\", \"class B\", \"class C\", \"class D\");\n    delete ptr;\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "class A \nclass B \nclass C \nclass D\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8194-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae55790-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：#include <iostream>\nusing namespace std;\nclass Base1\n{\npublic:\n    Base1(int i) { cout <<\"调用基类Base1的构造函数：\" << i << endl; }\n};\nclass Base2\n{\npublic:\n    Base2(int j) { cout <<\"调用基类Base2的构造函数：\" << j << endl; }\n};\nclass A : public Base1, public Base2\n{\npublic:\n    A(int a, int b, int c, int d) : Base2(b), Base1(c), b2(a), b1(d) { cout << a + b + c + d << endl; }\nprivate:\n    Base1 b1;\n    Base2 b2;\n};\nint main()\n{\n    A obj(1, 2, 3, 4);\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "调用基类BASE1的构造函数：3\n调用基类BASE2的构造函数：2\n调用基类BASE1的构造函数：4\n调用基类BASE2构造函数：1\n调用派生类A的构造函数：10\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b81c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae558e4-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：#include <iostream>\nusing namespace std;\nclass T\n{\npublic:\n    T()\n    {\n        a = 0;\n        b = 0;\n        c = 0;\n    }\n    T(int i, int j, int k)\n    {\n        a = i;\n        b = j;\n        c = k;\n    }\n    void get(int &i, int &j, int &k)\n    {\n        i = a;\n        j = b;\n        k = c;\n    }\n    T operator*(T obj);\nprivate:\n    int a, b, c;\n    ;\n};\nT T::operator*(T obj)\n{\n    T tempobj;\n    tempobj.a = a * obj.a;\n    tempobj.b = b * obj.b;\n    tempobj.c = c * obj.c;\n    return tempobj;\n}\nint main()\n{\n    T obj1(1, 2, 3), obj2(5, 5, 5), obj3;\n    int a, b, c;\n    obj3 = obj1 * obj2;\n    obj3.get(a, b, c);\n    cout <<\"(obj1*obj2): \"\n         <<\"a=\" << a << '\t' <<\"b=\" << b << '\t' <<\"e=\" << c << '\t' << endl;\n    (obj2 * obj3).get(a, b, c);\n    cout <<\"(obj2*obj3): \"\n         <<\"a=\" << a << '\t' <<\" b =\" << b << '\t' <<\"c=\" << c << '\t' << endl;\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(obj1*obj2):a=5 b=10 c=15\n(obj2*obj3):a=25 b=50 c=75\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b81ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae55a42-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：#include <iostream>\nusing namespace std;\nclass Vector\n{\npublic:\n    Vector() {}\n    Vector(int i, int j)\n    {\n        x = i;\n        y = j;\n    }\n    friend Vector operator+(Vector v1, Vector v2)\n    {\n        Vector tempVector;\n        tempVector.x = v1.x + v2.x;\n        tempVector.y = v1.y + v2.y;\n        return tempVector;\n    }\n    void display()\n    {\n        cout <<\"(\" << x <<\",\" << y <<\")\" << endl;\n    }\nprivate:\n    int x, y;\n};\nint main()\n{\n    Vector v1(1, 2),v2(3, 4), v3;\n    cout <<\"v1=\";\n    v1.display();\n    cout <<\"v2=\";\n    v2.display();\n    v3 = v1 + v2;\n    cout <<\"v3=v1+v2=\";\n    v3.display();\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "v1=(1,2)\nv2=(3,4)\nv3=v1+v2=(4,6)\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8216-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae55cb8-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：#include <iostream>\nusing namespace std;\ntemplate <typename T>\nvoid fun(T &x, T &y)\n{\n    T temp;\n    temp = x;\n    x = y;\n    y = temp;\n}\nint main()\n{\n    int i, j;\n    i = 10;\n    j = 20;\n    fun(i, j);\n    cout <<\"i=\" << i << '\t' <<\"j =\" << j << endl;\n    double a, b;\n    a = 1.1;\n    b = 2.2;\n    fun(a, b);\n    cout <<\"a=\" << a << '\t' <<\"b=\" << b << endl;\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "i=20 j=10\na=2.2 b=1.1\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b823e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae55e16-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：#include <iostream>\nusing namespace std;\ntemplate <typename T>\nclass Base\n{\npublic:\n    Base(T i, T j)\n    {\n        x = i;\n        y = j;\n    }\n    T sum() { return x + y; }\nprivate:\n    T x, y;\n};\nint main()\n{\n    Base<double> obj2(3.3, 5.5);\n    cout << obj2.sum() << endl;\n    Base<int> obj1(3, 5);\n    cout << obj1.sum() << endl;\n    return 0;\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "8.8\n8\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8270-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae55f4c-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写出程序运行结果：import java.io.*;\npublic class abc\n{\npublic static void main(String args [ ])\n{\nAB s = new AB(\"Hello!\",\"I love JAVA.\");\nSystem.out.println(s.toString( ));\n}\n}\nclass AB {\nString s1;\nString s2;\npublic AB(String str1, String str2)\n{\ns1 = str1;\ns2 = str2;\n}\npublic String toString( )\n{\nreturn s1+s2;\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Hello!I love JAVA.\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8298-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5606e-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写出程序运行结果：import java.io.* ;\npublic class abc\n{\npublic static void main(String args[ ])\n{ int i, s = 0 ;\nint a[ ] = { 10 , 20 , 30 , 40 , 50 , 60 , 70 , 80 , 90 };\nfor ( i = 0 ; i < a.length ; i ++ )\nif ( a[i]%3 = = 0 ) s += a[i] ;\nSystem.out.println(\"s=\"+s);\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "s=180\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b82ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae56212-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：import java.io.* ;\npublic class abc\n{\npublic static void main(String args[ ])\n{\nSystem.out.println(\"a=\"+a+\"\nb=\"+b);\n}\n}\nclass SubClass extends SuperClass\n{ int c;\nSubClass(int aa, int bb, int cc)\n{\nsuper(aa, bb);\nc=cc;\n}\n}\nclass SubSubClass extends SubClass\n{ int a;\nSubSubClass(int aa, int bb, int cc)\n{ super(aa, bb, cc);\nA = aa+bb+cc;\n}\nvoid show()\n{\nSystem.out.println(\"a=\"+a+\"\nb=\"+b+\"\nc=\"+c);\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "a=60\nb=20\nc=30\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b82f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae563a2-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Test {\npublic static void main(String[] args) {\nint x;\nint a[] = { 0, 0, 0, 0, 0, 0 };\ncalculate(a, a[5]);\nSystem.out.println(\"the value of a[0] is\" + a[0]);\nSystem.out.println(\"the value is a[5] is \" + a[5]);\n}\nstatic int calculate(int x[], int y) {\nfor (int i = 1; i < x.length; i++)\nif (y < x.length)\nx[i] = x[i - 1] + 1;\nreturn x[0];\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "the value of a[0] is 0\nthe value is a[5] is 5\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8324-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae564e2-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设计一个 Circle 类，该类包括的属性有：圆心坐标和圆的半径；包括的方法有：设置和获取圆的坐标的方法，设置和获取半径的方法，计算圆的面积的方法。\n另外编写一个 Test 类，测试 Circle 类。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "public class Text {\npublic static void main(String args[]) {\nCircle c = new Circle(2,5,6);\nc.setCoordinate(2, 3);\nc.getX();\nc.getY();\nc.getR();\nc.countV();\n}\n}\nclass Circle {\nprivate int x;\nprivate int y;\nprivate int r;\nprivate double v;\npublic Circle(int x, int y, int r) {\nthis.x = x;\nthis.y = y;\nthis.r = r;\n}\npublic int getX () {\nSystem.out.println(\"x 的值：\" + x);\nreturn x;\n}\npublic int getY() {\nSystem.out.println(\"y 的值：\" + y);\nreturn y;\n}\npublic int getR() {\nSystem.out.println(\"r 的值：\" + r);\nreturn r;\n}\npublic void setCoordinate(int x, int y) {\nthis.x = x;\nthis.y = y;\n}\npublic void setR(int r) {\nthis.r = r;\n}\npublic double countV() {\nv = 2*2.1415926*r*r;\nSystem.out.println(\"v 的值：\" + v);\nreturn v;\n}\n}\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b834c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae56622-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "编写一个 Applet 程序，创建一个空标签以及一个标识为“开始”的按钮，当鼠标按下“开始”按钮时，就在标签上显示出“你好，这是一个 Applet 程序”字样的标签。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "import java.awt.event.ActionEvent;\nimport java.awt.event.ActionListener;\nimport javax.swing.JButton;\nimport javax.swing.JFrame;\nimport javax.swing.JLabel;\npublic class Test3 extends JFrame implements ActionListener{\nJButton jbStart=new JButton(\"开始\");\nJButton jbStop=new JButton(\"停止\");\nJLabel jl=new JLabel(\"\",JLabel.CENTER);\nTest3(){\nsuper(\"测试\");\nsetLayout(null);\njbStart.setBounds(50, 20, 70, 20);\njbStop.setBounds(170, 20, 70, 20);\njl.setBounds(50,60,200,20);\nadd(jbStart);add(jbStop);add(jl);\njbStart.addActionListener(this);\njbStop.addActionListener(this);\nsetResizable(false);\nsetSize(300, 200);\nsetDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);\nsetVisible(true);\n}\npublic static void main(String[] args) {\nnew Test3();\n}\npublic void actionPerformed(ActionEvent ae) {\nif(ae.getSource()==jbStart){\njl.setText(\"你按的是开始按钮\");\n}else if(ae.getSource()==jbStop){\njl.setText(\"你按的是停止按钮\");\n}\n}\n}\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8374-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5676c-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在提示下从键盘上输入 10 个整数，并将其放入一个一维数组中，然后将其前5 个元素与后 5 个元素对换。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "public class TextA\n{ public void a1()\n{\nSystem.out.print(\"请输入 10 个数字：\");\nint a[]=new int[10];\nfor(int i=0;i<10;i++)\n{\nInputStreamReader ins=new InputStreamReader(System.in);\nBufferedReader inb=new BufferedReader(ins);\ns=inb.readLine();\nc=Integer.parseInt(s);\na[i]=c;\n}\nSystem.out.print(\"对换前：\");\nfor(int i=0;i<10;i++)\n{\nSystem.out.println(a[i]+\"\");\n}\nfor(int i=0;i<5;i++)\n{\nint m;\nm=a[i];\na[i]=a[9-i];\na[9-i]=m;\n}\nSystem.out.print(\"对换后：\");\nfor(int i=0;i<10;i++)\n{\nSystem.out.println(a[i]+\"\");\n}\n}\npublic static void main(String args[])\n{\nTextA n=new TextA();\nn.a1();\n}\n}\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b839c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae569b0-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Test1 {\npublic static void main(String[] agrs) {\nAB s = new AB(\"Hello!\", \"I love JAVA.\");\nSystem.out.println(s.toString());\n}\n}\nclass AB {\nString s1;\nString s2;\nAB(String str1, String str2) {\ns1 = str1;\ns2 = str2;\n}\npublic String toString() {\nreturn s1 + s2;\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Hello!I love JAVA.\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b83c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae56afa-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Test {\n    public static void main(String[] agrs) {\n    int i, s = 0;\n    int a[] = { 10, 20, 30, 40, 50, 60, 70, 80, 90 };\n    for (i = 0; i < a.length; i++)\n    if (a[i] % 3 == 0) {\n    s += a[i];\n    System.out.println(\"s=\" + s);\n    }\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "s=30\ns=90\ns=180\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b83f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae56c1c-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Test3 {\n    public static void main(String[] agrs) {\n    A a = new A(2);A b = new A(3);\n    System.out.println(a.isEqualTo(b));\n    }\n    }\n    class A {\n    private int privateVar;\n    public A(int _privateVar) {privateVar = _privateVar;}\n    boolean isEqualTo(A anotherA) {\n    if (this.privateVar == anotherA.privateVar)return true;\n    elsereturn false;\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b841e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae56d52-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Test {\n    public static void main(String[] args) {\n    int[][] num1 = new int[2][3];\n    num1[0][0] = 3;num1[0][1] = 9;num1[0][2] = 45;\n    num1[1][0] = 78;num1[1][1] = 79;\n    for (int i = 0; i <= 1; i++) {\n    for (int j = 0; j < num1[i].length; j++)\n    System.out.print(num1[i][j] + \"\t\");\n    System.out.println();\n    }\n    int[][] num2 = new int[][] { { 1, 2, 3 }, { 7, 8 } ,{ 9 } };\n    for (int i = 0; i <num2.length; i++) {\n    for (int j = 0; j < num2[i].length; j++)\n    System.out.print(num2[i][j] + \"\t\");\n    System.out.println();\n    }\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "3 9 45\n78 79\n1 2 3\n7 8\n9\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8446-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae56e74-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Test2 {\n    public static void main(String[] agrs) {\n    int i, s = 0;\n    int a[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };\n    for (i = 0; i < a.length; i++)\n    if (a[i] % 3 == 0) {\n    s += a[i];\n    System.out.println(\"s=\" + s);\n    }\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "s=3\ns=9\ns=18\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8478-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae57004-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Test4 {\n    public static void main(String[] agrs) {\n    try {\n    method();\n    } catch (Exception e) {\n    System.out.println(\"A\");\n    } finally {\n    System.out.println(\"B\");\n    }\n    }\n    static void method() {\n    try {\n    wrench();\n    System.out.println(\"C\");\n    } catch (ArithmeticException e) {\n    System.out.println(\"D\");\n    } finally {\n    System.out.println(\"E\");\n    }\n    System.out.println(\"F\");\n    }\n    static void wrench() {\n    throw new NullPointerException();\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "E\nA\nB\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b84a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae57194-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\nclass StringTest1\n{\npublic static void main(String[] args)\n{\nString s1=\"hello\";\nString s2=new String(\"hello\");\nif(s1.equals(s2)){\nSystem.out.println(\"相等\");\n}else{\nSystem.out.println(\"不相等\");\n}\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "相等\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b84d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae572b6-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class TestArray\n{\npublic static void main(String args[ ]){\nint i , j ;\nint a[ ] = { 5,9,6,8,7};\nfor ( i = 0 ; i < a.length-1; i ++ ) {\n    int k = i;\nfor ( j = i ; j < a.length ; j++ )\nif ( a[j]<a[k] ) k = j;\nint temp =a[i];\na[i] = a[k];\na[k] = temp;\n}\nfor ( i =0 ; i<a.length; i++ )\nSystem.out.print(a[i]+\"\");\nSystem.out.println( );\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "5 6 7 8 9\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b84fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae573ec-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序的功能：\nimport java.io.*;\npublic class TestFile\n{\npublic static void main(String args[]) throws Exception\n{\nBufferedReader br = new BufferedReader(\nnew InputStreamReader(System.in));\nBufferedWriter bw = new BufferedWriter(new FileWriter(\"input.txt\"));\nString s;\nwhile (true)\n{\nSystem.out.print(\"请输入一个字符串： \");\nSystem.out.flush();\ns=br.readLine();\nif (s.length()==0) break;\nbw.write(s);\nbw.newLine();\n}\nbw.close();\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从键盘输入字符串，将其写入文件input.txt中，直到输入空行为止。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8522-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5750e-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\nclass Animal {\n    Animal() {\n    System.out.print (\"Animal \"); }\n    }\n    public class Dog extends Animal {\n    Dog() {\n    System.out.print (\"Dog \"); }\n    public static void main(String[] args) {\n    Dog snoppy= new Dog(); }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Animal Dog\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8554-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae57626-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\nint x = 5, y = 6, z = 4;\nif (x + y > z && x + z > y && z + y > x)\nSystem.out.println(\"三角形\");\nelse\nSystem.out.println(\"不是三角形\");\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "三角形\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b857c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5773e-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\nint a[] = { 2, 3, 4, 5, 6 };\nfor (int i = a.length - 1; i >= 0; i--)\nSystem.out.print(a[i] + \"\");\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "65432\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b85ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5796e-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Person {\n    String name;\n    int age;\n    public Person(String name, int age) {\n    this.name = name;\n    this.age = age;\n    }\n    public static void main(String[] args) {\n    Person c = new Person(\"Peter\", 17);\n    System.out.println(c.name + \" is \" + c.age + \" years old!\");\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Peter is 17 years old!\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b85d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae57ac2-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Course {\n    private String cNumber;\n    private String cName;\n    private int cUnit;\n    public Course(String number, String name, int unit) {\n    cNumber = number;\n    cName = name;\n    cUnit = unit;\n    }\n    public void printCourseInfo() {\n    System.out.println(\"课程号: \" + cNumber + \" 课程名: \" + cName + \" 学\n    分: \" + cUnit);\n    }\n    }\n    class CourseTest {\n    public static void main(String[] args) {\n    Course c;\n    c = new Course(\"101\", \"ASP\", 3);\n    c.printCourseInfo();\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "课程号:101 课程名:ASP 学分:3\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b85fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae57bee-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Tom {\n    private float weight;\n    private static String name;\n    public void setWeight(float weight) {\n    this.weight = weight;\n    }\n    private void out() {\n    System.out.println(name + \"体重：\" + weight + \"斤\");\n    }\n    public static void main(String[] args) {\n    Tom.name = \"汤姆猫\";\n    Tom cat = new Tom();\n    cat.setWeight(20);\n    cat.out();\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "汤姆猫体重：20.0斤\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8630-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae57d92-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class Father {\n    String name, address, tel;\n    int age;\n    public Father(String name, int age) {\n    this.name = name;\n    this.age = age;\n    }\n    void out() {\n    System.out.print(\"姓名: \" + name);\n    System.out.print(\" 年龄:\" + age);\n}\nvoid outOther() {\nSystem.out.print(\" 家庭住址: \" + address);\nSystem.out.print(\" 电话: \" + tel);\n}\n}\nclass Son extends Father {\nString school;\npublic Son(String name, int age) {\nsuper(name, age);\n}\nvoid out() {\nsuper.out();\nsuper.outOther();\nSystem.out.println(\" 学校：\" + school);\n}\npublic static void main(String args[]) {\nSon son = new Son(\"Tom\", 15);\nson.address = \"金水区\";\nson.school = \"九中\";\nson.tel = \"66123456\";\nson.out();\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "姓名:Tom 年龄:15 家庭住址:金水区 电话:66123456 学校：九中\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8658-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae57eaa-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "写出程序运行结果：\npublic class MyClass {\n    int a[] = { 1, 2, 3, 4, 5 };\n    void out() {\n    for (int j = 0; j < a.length; j++)\n    System.out.print(a[j] + \"\");\n    }\n    public static void main(String[] args) {\n    MyClass my = new MyClass();\n    my.out();\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "12345\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8680-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae58030-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述 Java 中异常处理的机制？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "首先 Java 的异常是面向对象的。一个 Java 的 Exception 是一个描述异常情\n况的对象.当出现异常情况时，一个 Exception 对象就产生了,并放到异常的成员函\n数里。\nJava 的异常处理是通过5 个关键词来实现的：try,catch,throw,throws 和 finally。\n1.异常处理：在 Java 语言的错误处理结构由 try，catch，finally 三个块组成。\n其中 try 块存放将可能发生异常的 Java 语言，并管理相关的异常指针；catch 块\n紧跟在 try 块后面，用来激发被捕获的异常；finally 块包含清除程序没有释放的\n资源，句柄等。不管 try 块中的代码如何退出，都将执行 finally 块。\n2.抛出异常：Java 语言可以不在方法中直接捕获，而用 throw 语句将异常抛\n给上层的调用者。Throw 语句就是来明确地抛出一个异常；首先你必需得到一个\nThrowable 的实例句柄，通过参数传到 catch 中，或者采用 new 操作符来创建一\n个。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b86b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5815c-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "什么是继承？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "通过必要的说明能够实现某个类无需重新定义就拥有另一个类的某些属性和\n方法，并把这种关系称为继承，先定义的类称为父类，后定义的类称为子类，并\n且允许多层的继承关系。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b86da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae582a6-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请简述重载和重写的区别？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "方法的重写 Overriding 和重载 Overloading 是 Java 多态性的不同表现。\n重写 Overriding 是父类与子类之间多态性的一种表现，重载 Overloading\n是一个类中多态性的一种表现。\n如果在子类中定义某方法与其父类有相同的名称和参数，我们说该方法被重\n写 (Overriding)。子类的对象使用这个方法时，将调用子类中的定义，对它而\n言，父类中的定义如同被“屏蔽”了。\n如果在一个类中定义了多个同名的方法，它们或有不同的参数个数或有不同\n的参数类型，则称为方法的重载(Overloading)。Overloaded 的方法是可以改变\n返回值的类型。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8702-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae58404-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按以下要求编写程序\n(1) 创建一个 Rectangle 类，添加 width 和 height 两个成员变量\n(2) 在 Rectangle 中添加两种方法分别计算矩形的周长和面积\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "public class Rectangle {\n    float width, height;\n    public Rectangle(float width, float height) {\n    this.width = width;\n    this.height = height;\n    }\n    public float getLength(){\n    return (this.width + this.height) * 2;\n    }\n    public float getArea(){\n    return this.width * this.height;\n    }\n    public static void main(String [] args) {\n    Rectangle rect = new Rectangle(10, 20);\n    System.out.println(\"周长是：\" + rect.getLength());\n    System.out.println(\"面积是：\" + rect.getArea());\n    }\n    }\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b872a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae58670-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按以下要求编写程序\n(1) 编写 Animal 接口，接口中声明 run() 方法\n(2) 定义 Bird 类和 Fish 类实现 Animal 接口\n(3) 编写 Bird 类和 Fish 类的测试程序，并调用其中的 run()方法\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "interface Animal {\n    void run();\n    }\n    class Bird implements Animal {\n    public void run() {\n    System.out.println(\"鸟儿在飞翔\");\n    }\n    }\n    class Fish implements Animal {\n    public void run() {\n    System.out.println(\"鱼儿在游泳\");\n    }\n    }\n    public class Test {\n    public static void main(String[] args) {\n    Bird bird = new Bird();\n    Fish fish = new Fish();\n    bird.run();\n    fish.run();\n    }\n    }\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b875c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae587e2-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阅读下面的程序，并回答问题.\nimport java.io.*;\npublic class Test {\npublic static void main(String args[]) throws IOException {\nBufferedReader buf=new BufferedReader(\nnew InputStreamReader(System.in));\nwhile(true) {\nString str=buf.readLine();\nif(str.equals(\"quit\"))\nbreak;\nint x=Integer.parseInt(str);\nSystem.out.println(x*x);\n}\n}\n}\n编译运行上面的程序：\n1)从键盘输入 5，回车后输出的结果如何？\n2)从键盘输入 quit，回车后程序执行情况如何？\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1)25\n2)程序结束\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8784-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae58936-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阅读下面的程序，并回答问题.\nimport java.io.*;\npublic class Test {\npublic static void main(String args[]) throws IOException {\nBufferedReader buf=new BufferedReader(\nnew InputStreamReader(System.in));\nwhile(true) {\nString str = buf.readLine();\nif(str.equals(\"quit\"))\nbreak;\nint x=Integer.parseInt(str);\nSystem.out.println(x*x);\n}\n}\n}\n编译运行上面的程序：\n1)从键盘输入 10，回车后输出的结果如何？\n2)从键盘输入 exit，回车后程序能正确执行吗？为什么？\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1)100\n2)不能，因为方法 Integer.parseInt(str)不能将字符串“exit”转化为\n整数，抛出异常。\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b87ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae58a76-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面的程序运行结果是什么？\npublic class Sum{\n    public static void main(String [] args){\n    int j=10;\n    System.out.println(\"j is : \"+j);\n    calculate(j);\n    System.out.println(\"At last, j is : \"+j);\n    }\n    static void calculate (int j){\n    for (int i = 0;i<10;i++)\n    j++;\n    System.out.println(\"j in calculate() is: \"+j);\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "j is : 10\nj in calculate() is: 20\nAt last, j is : 10\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b87d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae58bca-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面的程序运行结果是什么？\n// AbstractClassDemo.java 源代码如下：\nabstract class Shape { //定义抽象类 Shape 和抽象方法 display\nabstract void display();\n}\nclass Circle extends Shape {\nvoid display() { //实现抽象类的方法\nSystem.out.println(\"Circle\");\n}\n}\nclass Rectangle extends Shape {\nvoid display() { //实现抽象类的方法\nSystem.out.println(\"Rectangle\");\n}\n}\nclass Triangle extends Shape {\nvoid display() { //实现抽象类的方法\nSystem.out.println(\"Triangle\");\n}\n}\npublic class AbstractClassDemo{\npublic static void main(String args[]){\n(new Circle()).display(); //定义无名对象来调用对应的 display 方法\n(new Rectangle()).display();\n(new Triangle()).display();\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "Circle\nRectangle\nTriangle\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8806-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae58dd2-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面的程序的功能是什么？\nimport java.io.*;\npublic class Test{\npublic static void main( String [] argv) {\ntry {\nBufferedReader is =\nnew BufferedReader( new InputStreamReader(System.in));\nString inputLine;\nWhile ((inputLine = is.readLine ())!= null) {\nSystem.out.println(inputLine);\n}\nis.close();\n}catch (IOException e) {\nSystem.out.println(\"IOException: \" + e);\n}\n}\n}\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从键盘输入一行字符串，然后输出到屏幕上，直到输入的字符串为空\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b882e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae58efe-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面的程序运行结果是什么？\nclass test {\n    public static void main (String [] args ){\n    int x=9, y;\n    if (x>=0)\n    if (x>0)\n    y=1;\n    else y=0;\n    else y=-1;\n    System.out.println(y);\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8860-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5902a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面的程序运行结果是什么？\npublic class Father{\n    int a=100;\n    public void miner(){\n    a--;\n    }\n    public static void main(String[] args){\n    Father x = new Father();\n    Son y = new Son();\n    System.out.println(y.a);\n    System.out.println( y.getA());\n    y.miner();\n    System.out.println(y.a);\n    System.out.println(y.getA());\n    }\n    }\n    class Son extends Father{\n    int a = 0;\n    public void plus(){\n    a++;\n    }\n    public int getA() {\n    return super.a;\n    }\n    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "0\n100\n0\n99\n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350b8888-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae5914c-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在 Java 中，怎样创建一个线程？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1.定义类来实现 Runnable 接口\nclass TestThread implements Runnable {\n    public void run() { …}\n    }\n    2.继承 Thread 类来实现\n    class TestThread extends Thread {\n    TestThread(String name) {\n    super(name);\n    start();\n    }\n    public void run() {…}\n    }\n    "
+	}
+]

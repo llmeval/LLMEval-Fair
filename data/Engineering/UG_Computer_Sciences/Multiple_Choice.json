@@ -1,0 +1,1826 @@
+[
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e6f0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e88dab9-7020-11ee-8804-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______在Python中是非法的\n“x = y = z = 1”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：x = (y = z + 1)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e6f0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928a2-7020-11ee-af0d-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______在Python中是非法的\n“x = (y = z + 1)”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：x = (y = z + 1)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e6f0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928a3-7020-11ee-ad6c-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______在Python中是非法的\n“x, y = y, x”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：x = (y = z + 1)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e6f0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928a4-7020-11ee-8960-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______在Python中是非法的\n“x  +=  y”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：x = (y = z + 1)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e830-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928a5-7020-11ee-9f25-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "关于Python内存管理，______说法错误\n“变量不必事先声明”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：变量无须先创建和赋值而直接使用。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e830-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928a6-7020-11ee-b9f9-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "关于Python内存管理，______说法错误\n“变量无须先创建和赋值而直接使用”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：变量无须先创建和赋值而直接使用。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e830-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928a7-7020-11ee-b2f9-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "关于Python内存管理，______说法错误\n“变量无须指定类型”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：变量无须先创建和赋值而直接使用。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e830-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928a8-7020-11ee-a8ff-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "关于Python内存管理，______说法错误\n“可以使用del释放资源”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：变量无须先创建和赋值而直接使用。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e894-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928a9-7020-11ee-be90-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "执行下列语句后的显示结果是______\nworld=“world” \nprint “hello”+ world\n“helloworld”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：helloworld。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e894-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928aa-7020-11ee-9f4f-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "执行下列语句后的显示结果是______\nworld=“world” \nprint “hello”+ world\n““hello”world”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：helloworld。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e894-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928ab-7020-11ee-a63a-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "执行下列语句后的显示结果是______\nworld=“world” \nprint “hello”+ world\n“hello world”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：helloworld。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e894-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928ac-7020-11ee-9be4-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "执行下列语句后的显示结果是______\nworld=“world” \nprint “hello”+ world\n“语法错误”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：helloworld。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e8da-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928ad-7020-11ee-8375-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______不是Python合法的标识符\n“int32”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：40XL。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e8da-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928ae-7020-11ee-aaa7-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______不是Python合法的标识符\n“40XL”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：40XL。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e8da-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928af-7020-11ee-8ee9-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______不是Python合法的标识符\n“self”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：40XL。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e8da-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928b0-7020-11ee-bcc8-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______不是Python合法的标识符\n“__name__”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：40XL。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e934-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928b1-7020-11ee-b4ac-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______说法是错误的\n“除字典类型外，所有标准对象均可以用于布尔测试”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：除字典类型外，所有标准对象均可以用于布尔测试。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e934-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928b2-7020-11ee-8998-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______说法是错误的\n“空字符串的布尔值是False”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：除字典类型外，所有标准对象均可以用于布尔测试。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e934-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928b3-7020-11ee-972f-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______说法是错误的\n“空列表对象的布尔值是False”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：除字典类型外，所有标准对象均可以用于布尔测试。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e934-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928b4-7020-11ee-98e1-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______说法是错误的\n“值为0的任何数字对象的布尔值是False”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：除字典类型外，所有标准对象均可以用于布尔测试。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e970-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928b5-7020-11ee-8db0-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "表达式______的值为True\n“5+4j > 2-3j”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：(3,2)< (‘a’,’b’)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e970-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928b6-7020-11ee-9401-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "表达式______的值为True\n“3>2>2”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：(3,2)< (‘a’,’b’)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e970-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928b7-7020-11ee-8f80-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "表达式______的值为True\n“(3,2)< (‘a’,’b’)”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：(3,2)< (‘a’,’b’)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e970-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8928b8-7020-11ee-b243-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "表达式______的值为True\n“’abc’ > ‘xyz’”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：(3,2)< (‘a’,’b’)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e9ca-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894faf-7020-11ee-849d-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python不支持的数据类型有______\n“char”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：char。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e9ca-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb0-7020-11ee-9083-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python不支持的数据类型有______\n“int”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：char。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e9ca-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb1-7020-11ee-a081-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python不支持的数据类型有______\n“float”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：char。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503e9ca-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb2-7020-11ee-8954-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python不支持的数据类型有______\n“list”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：char。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ea10-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb3-7020-11ee-882a-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "type(1+2*3.14)的结果是______\n“<type ‘int’>”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：<type ‘float’>。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ea10-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb4-7020-11ee-a461-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "type(1+2*3.14)的结果是______\n“<type ‘long’>”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：<type ‘float’>。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ea10-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb5-7020-11ee-9869-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "type(1+2*3.14)的结果是______\n“<type ‘float’>”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：<type ‘float’>。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ea10-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb6-7020-11ee-9356-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "type(1+2*3.14)的结果是______\n“<type ‘str’>”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：<type ‘float’>。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eab0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb7-7020-11ee-b6fe-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______不能创建一个字典\n“dict1 = {}”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：dict3 = dict( [2 , 5] ,[ 3 , 4 ] )。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eab0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb8-7020-11ee-a5cb-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______不能创建一个字典\n“dict2 = { 3 : 5 }”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：dict3 = dict( [2 , 5] ,[ 3 , 4 ] )。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eab0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fb9-7020-11ee-8514-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______不能创建一个字典\n“dict3 = dict( [2 , 5] ,[ 3 , 4 ] )”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：dict3 = dict( [2 , 5] ,[ 3 , 4 ] )。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eab0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fba-7020-11ee-84cd-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______不能创建一个字典\n“dict4 = dict( ( [1,2],[3,4] ) )”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：dict3 = dict( [2 , 5] ,[ 3 , 4 ] )。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb00-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fbb-7020-11ee-a402-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______不能创建一个集合\n“s1 = set ()”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：s3 = (1, 2, 3, 4)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb00-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fbc-7020-11ee-8224-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______不能创建一个集合\n“s2 = set (“abcd”)”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：s3 = (1, 2, 3, 4)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb00-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fbd-7020-11ee-abec-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______不能创建一个集合\n“s3 = (1, 2, 3, 4)”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：s3 = (1, 2, 3, 4)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb00-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fbe-7020-11ee-8f3c-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "语句______不能创建一个集合\n“s4 = frozenset( (3,2,1) )”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：s3 = (1, 2, 3, 4)。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb3c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fbf-7020-11ee-97db-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python语句______是正确\n“min = x  if  x < y  else  y”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中可填：min = x  if  x < y  else  y；while True : pass。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb3c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc0-7020-11ee-a283-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python语句______是正确\n“max = x > y ? x : y”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：min = x  if  x < y  else  y；while True : pass。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb3c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc1-7020-11ee-b15a-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python语句______是正确\n“if (x > y)\tprint x”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：min = x  if  x < y  else  y；while True : pass。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb3c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc2-7020-11ee-b49a-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python语句______是正确\n“while True : pass”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中可填：min = x  if  x < y  else  y；while True : pass。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb8c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc3-7020-11ee-8221-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______描述错误\n“若a=True,b=False则a or b为True”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：a && b为False。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb8c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc4-7020-11ee-8994-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______描述错误\n“若a=True,b=False则a and b为False”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：a && b为False。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb8c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc5-7020-11ee-834c-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______描述错误\n“若a=True,b=False则not a为False”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：a && b为False。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503eb8c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc6-7020-11ee-8573-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______描述错误\n“a && b为False”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：a && b为False。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ebf0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc7-7020-11ee-970f-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______描述错误\n“在python中逻辑与运算符不能写作&&，要写作and”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：3 & 3得结果为0 应该是3。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ebf0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc8-7020-11ee-98df-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______描述错误\n“&就是两个数字按二进制位作与运算得操作符”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：3 & 3得结果为0 应该是3。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ebf0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fc9-7020-11ee-b4c1-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______描述错误\n“3 & 2得结果为2”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：3 & 3得结果为0 应该是3。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ebf0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fca-7020-11ee-b026-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______描述错误\n“3 & 3得结果为0 应该是3”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：3 & 3得结果为0 应该是3。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ec2c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fcb-7020-11ee-a72c-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______表达式得值为True\n“True>2”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：('3','2')<('33','22')。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ec2c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fcc-7020-11ee-994f-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______表达式得值为True\n“3>2>2”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：('3','2')<('33','22')。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ec2c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fcd-7020-11ee-a95a-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______表达式得值为True\n“('3','2')<('33','22')”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：('3','2')<('33','22')。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ec2c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fce-7020-11ee-8ac2-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______表达式得值为True\n“'abc'>'xyz'”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：('3','2')<('33','22')。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ec72-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fcf-7020-11ee-b08b-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "6E－5表示数字______\n“9.6”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：0.000096。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ec72-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd0-7020-11ee-9f8d-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "6E－5表示数字______\n“0.96”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：0.000096。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ec72-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd1-7020-11ee-afe0-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "6E－5表示数字______\n“0.000096”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：0.000096。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ec72-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd2-7020-11ee-a7f9-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "6E－5表示数字______\n“96”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：0.000096。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ecc2-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd3-7020-11ee-a29e-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______是以添加（追加）模式打开文件做写入操作\n“f、open(\"f\",\"r\")”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：f、open(\"f\",\"a\")。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ecc2-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd4-7020-11ee-b02e-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______是以添加（追加）模式打开文件做写入操作\n“f、open(\"f\",\"w\")”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：f、open(\"f\",\"a\")。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ecc2-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd5-7020-11ee-934b-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______是以添加（追加）模式打开文件做写入操作\n“f、open(\"f\",\"a\")”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：f、open(\"f\",\"a\")。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ecc2-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd6-7020-11ee-8fc3-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______是以添加（追加）模式打开文件做写入操作\n“f、open(\"f\",\"w+\")”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：f、open(\"f\",\"a\")。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ecfe-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd7-7020-11ee-afe6-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______不属于浮点数类型得就是?\n“36.0”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：-77。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ecfe-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd8-7020-11ee-b559-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______不属于浮点数类型得就是?\n“96e4”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：-77。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ecfe-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fd9-7020-11ee-bdd6-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______不属于浮点数类型得就是?\n“-77”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：-77。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ecfe-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fda-7020-11ee-b973-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "______不属于浮点数类型得就是?\n“9.6E-5”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：-77。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ed44-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fdb-7020-11ee-ad67-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python得序列类型不包括______\n“字符串”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：字典。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ed44-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fdc-7020-11ee-837d-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python得序列类型不包括______\n“列表”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：字典。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ed44-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fdd-7020-11ee-b590-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python得序列类型不包括______\n“元组”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：字典。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ed44-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fde-7020-11ee-a044-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "Python得序列类型不包括______\n“字典”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：字典。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ea60-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fdf-7020-11ee-b461-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "关于字符串______说法错误\n“字符应该视为长度为1的字符串”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：字符串以\\0标志字符串的结束。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ea60-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fe0-7020-11ee-874a-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "关于字符串______说法错误\n“字符串\\0标志字符串的结束”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：字符串\\0标志字符串的结束。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ea60-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fe1-7020-11ee-8596-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "关于字符串______说法错误\n“既可以用单引号，也可以用双引号创建字符串”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：字符串\\0标志字符串的结束。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ea60-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fe2-7020-11ee-8c04-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "关于字符串______说法错误\n“在三引号字符串中可以包含换行回车等特殊字符”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：字符串\\0标志字符串的结束。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ed8a-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fe3-7020-11ee-8b44-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "以下程序输出______\"\"\"\nx=1\n\"\"\"\nwhile x:\n    print(x)\n“运行结果显示NameError: name 'x' is not defined”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：运行结果显示NameError: name 'x' is not defined。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ed8a-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fe4-7020-11ee-9e2e-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "以下程序输出______\"\"\"\nx=1\n\"\"\"\nwhile x:\n    print(x)\n“运行结果无限循环输出1”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：运行结果显示NameError: name 'x' is not defined。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ed8a-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fe5-7020-11ee-bdb3-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "以下程序输出______\"\"\"\nx=1\n\"\"\"\nwhile x:\n    print(x)\n“它等价于下面得程序\n        #x=1\n        while x:\n            print(x)”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：运行结果显示NameError: name 'x' is not defined。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ed8a-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fe6-7020-11ee-a1a6-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "以下程序输出______\"\"\"\nx=1\n\"\"\"\nwhile x:\n    print(x)\n“它等价于下面得程序\n        while x:\n            print(x)”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：运行结果显示NameError: name 'x' is not defined。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503edd0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fe7-7020-11ee-bb34-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "python单行注释与多行注释分别就是______\n“\"\"\"   \"\"\"与'''   '''”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：#与\"\"\"   \"\"\"。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503edd0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e894fe8-7020-11ee-9196-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "python单行注释与多行注释分别就是______\n“#与\"\"\"   \"\"\"”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：#与\"\"\"   \"\"\"。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503edd0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976be-7020-11ee-8178-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "python单行注释与多行注释分别就是______\n“//与'''   '''”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：#与\"\"\"   \"\"\"。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503edd0-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976bf-7020-11ee-873b-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "python单行注释与多行注释分别就是______\n“#与//”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：#与\"\"\"   \"\"\"。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee0c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c0-7020-11ee-ba75-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "表达式3**2得值为______\n“6”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：9。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee0c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c1-7020-11ee-8322-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "表达式3**2得值为______\n“18”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：9。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee0c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c2-7020-11ee-b8c6-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "表达式3**2得值为______\n“9”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：9。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee0c-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c3-7020-11ee-9ff8-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "表达式3**2得值为______\n“12”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：9。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee52-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c4-7020-11ee-8309-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "python my.py v1 v2 命令运行脚本，通过 from sys import argv如何获得v2得参数值______\n“argv[0]”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：argv[2]。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee52-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c5-7020-11ee-b6ca-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "python my.py v1 v2 命令运行脚本，通过 from sys import argv如何获得v2得参数值______\n“argv[1]”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：argv[2]。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee52-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c6-7020-11ee-8b09-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "python my.py v1 v2 命令运行脚本，通过 from sys import argv如何获得v2得参数值______\n“argv[2]”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：argv[2]。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee52-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c7-7020-11ee-831a-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "python my.py v1 v2 命令运行脚本，通过 from sys import argv如何获得v2得参数值______\n“argv[3]”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：argv[2]。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee98-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c8-7020-11ee-9923-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "a=round(3.49)，则a得值为______\n“4”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：4.0。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee98-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976c9-7020-11ee-aea8-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "a=round(3.49)，则a得值为______\n“3.49”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：4.0。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee98-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976ca-7020-11ee-be43-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "a=round(3.49)，则a得值为______\n“4.0”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "正确。空中应填：4.0。"
+  },
+  {
+    "category": "工学",
+    "sub_category": "计算机类",
+    "raw_uuid": "3503ee98-681a-11ee-9b62-b29c4ac30262",
+    "question_uuid": "8e8976cb-7020-11ee-b10e-bc2c62a85f7e",
+    "dialog_uuid": null,
+    "llm_name": null,
+    "dialog": [
+      {
+        "role": "user",
+        "content": "a=round(3.49)，则a得值为______\n“3”填入空中，是正确的吗？"
+      },
+      {
+        "role": "llm",
+        "content": null
+      }
+    ],
+    "hint": "错误。空中应填：4.0。"
+  }
+]

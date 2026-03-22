@@ -1,0 +1,5474 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501de78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39111f24-703f-11ee-97be-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若元素a，b，c，d，e，f依次进栈，允许进栈、退栈操作交替进行，但不允许连续三次进行退栈操作，则不可能得到的出栈序列是______。\n“d，c，e，b，f，a”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：a，f，e，d，c，b。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501de78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114635-703f-11ee-91c2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若元素a，b，c，d，e，f依次进栈，允许进栈、退栈操作交替进行，但不允许连续三次进行退栈操作，则不可能得到的出栈序列是______。\n“ c，b，d，a，e，f”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： a，f，e，d，c，b。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501de78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114636-703f-11ee-aab8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若元素a，b，c，d，e，f依次进栈，允许进栈、退栈操作交替进行，但不允许连续三次进行退栈操作，则不可能得到的出栈序列是______。\n“ b，c，a，e，f，d”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： a，f，e，d，c，b。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501de78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114637-703f-11ee-adb6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若元素a，b，c，d，e，f依次进栈，允许进栈、退栈操作交替进行，但不允许连续三次进行退栈操作，则不可能得到的出栈序列是______。\n“ a，f，e，d，c，b”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： a，f，e，d，c，b。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114638-703f-11ee-a7b4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若一棵二叉树的前序遍历序列为a，e，b，d，c，后序遍历序列为b，c，d，e，a，则根结点的孩子结点______。\n“ 只有e”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 只有e。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114639-703f-11ee-88ec-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若一棵二叉树的前序遍历序列为a，e，b，d，c，后序遍历序列为b，c，d，e，a，则根结点的孩子结点______。\n“ 有e、b”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 只有e。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911463a-703f-11ee-a757-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若一棵二叉树的前序遍历序列为a，e，b，d，c，后序遍历序列为b，c，d，e，a，则根结点的孩子结点______。\n“ 有e、c”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 只有e。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911463b-703f-11ee-b172-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若一棵二叉树的前序遍历序列为a，e，b，d，c，后序遍历序列为b，c，d，e，a，则根结点的孩子结点______。\n“ 无法确定”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 只有e。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911463c-703f-11ee-8e9b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "循环队列放在一维数组A中，end1指向队头元素，end2指向队尾元素的后一个位置。假设队列两端均可进行入队和出队操作，队列中最多能容纳M－1个元素。初始时为空，下列判断队空和队满的条件中，正确的是______。\n“ 队空：end1＝＝end2；队满：end1＝＝（end2＋1）mod M”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 队空：end1＝＝end2；队满：end1＝＝（end2＋1）mod M。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911463d-703f-11ee-877c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "循环队列放在一维数组A中，end1指向队头元素，end2指向队尾元素的后一个位置。假设队列两端均可进行入队和出队操作，队列中最多能容纳M－1个元素。初始时为空，下列判断队空和队满的条件中，正确的是______。\n“ 队空：end1＝＝end2；队满：end2＝＝（end1＋1）mod （M－1）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 队空：end1＝＝end2；队满：end1＝＝（end2＋1）mod M。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911463e-703f-11ee-bf04-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "循环队列放在一维数组A中，end1指向队头元素，end2指向队尾元素的后一个位置。假设队列两端均可进行入队和出队操作，队列中最多能容纳M－1个元素。初始时为空，下列判断队空和队满的条件中，正确的是______。\n“ 队空：end2＝＝（end1＋1）mod M；队满：end1＝＝（end2＋1） mod M”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 队空：end1＝＝end2；队满：end1＝＝（end2＋1）mod M。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911463f-703f-11ee-883b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "循环队列放在一维数组A中，end1指向队头元素，end2指向队尾元素的后一个位置。假设队列两端均可进行入队和出队操作，队列中最多能容纳M－1个元素。初始时为空，下列判断队空和队满的条件中，正确的是______。\n“ 队空：end1＝＝（end2＋1）mod M；队满：end2＝＝（end1＋1） mod （M－1）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 队空：end1＝＝end2；队满：end1＝＝（end2＋1）mod M。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114640-703f-11ee-a23a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知关键字序列5，8，12，19，28，20，15，22是小根堆（最小堆），插入关键字3，调整后的小根堆是______。\n“ 3，5，12，8，28，20，15，22，19”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 3，5，12，8，28，20，15，22，19。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114641-703f-11ee-a2ab-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知关键字序列5，8，12，19，28，20，15，22是小根堆（最小堆），插入关键字3，调整后的小根堆是______。\n“ 3，5，12，19，20，15，22，8，28”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 3，5，12，8，28，20，15，22，19。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114642-703f-11ee-8073-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知关键字序列5，8，12，19，28，20，15，22是小根堆（最小堆），插入关键字3，调整后的小根堆是______。\n“ 3，8，12，5，20，15，22，28，19”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 3，5，12，8，28，20，15，22，19。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501df90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114643-703f-11ee-b4e3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知关键字序列5，8，12，19，28，20，15，22是小根堆（最小堆），插入关键字3，调整后的小根堆是______。\n“ 3，12，5，8，28，20，15，22，19”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 3，5，12，8，28，20，15，22，19。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501dfb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114644-703f-11ee-ab77-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列选项中，不能构成折半查找中关键字比较序列的是______。\n“ 500，200，450，180”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 500，200，450，180。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501dfb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114645-703f-11ee-bf2e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列选项中，不能构成折半查找中关键字比较序列的是______。\n“ 500，450，200，180”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 500，200，450，180。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501dfb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114646-703f-11ee-97a0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列选项中，不能构成折半查找中关键字比较序列的是______。\n“ 180，500，200，450”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 500，200，450，180。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501dfb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114647-703f-11ee-90c9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列选项中，不能构成折半查找中关键字比较序列的是______。\n“ 180，200，500，450”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 500，200，450，180。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501dfea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114648-703f-11ee-bdd0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知字符串S为“abaabaabacacaabaabcc”，模式串t为“abaabc”，采用KMP算法进行匹配，第一次出现“失配”（s!＝t）时，i＝j＝5，则下次开始匹配时，i和j的值分别是______。\n“ i＝1，j＝0”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： i＝5，j＝2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501dfea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39114649-703f-11ee-b5f5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知字符串S为“abaabaabacacaabaabcc”，模式串t为“abaabc”，采用KMP算法进行匹配，第一次出现“失配”（s!＝t）时，i＝j＝5，则下次开始匹配时，i和j的值分别是______。\n“ i＝5，j＝0”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： i＝5，j＝2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501dfea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911464a-703f-11ee-bdc4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知字符串S为“abaabaabacacaabaabcc”，模式串t为“abaabc”，采用KMP算法进行匹配，第一次出现“失配”（s!＝t）时，i＝j＝5，则下次开始匹配时，i和j的值分别是______。\n“ i＝5，j＝2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： i＝5，j＝2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501dfea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d5e-703f-11ee-9892-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知字符串S为“abaabaabacacaabaabcc”，模式串t为“abaabc”，采用KMP算法进行匹配，第一次出现“失配”（s!＝t）时，i＝j＝5，则下次开始匹配时，i和j的值分别是______。\n“ i＝6，j＝2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： i＝5，j＝2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e012-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d5f-703f-11ee-a01d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于无向连通图特性的叙述中，正确的是______。Ⅰ．所有的顶点的度之和为偶数\nⅡ．边数大于顶点个数减1\nⅢ．至少有一个顶点的度为1\n“ 只有Ⅰ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 只有Ⅰ。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e012-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d60-703f-11ee-ba5a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于无向连通图特性的叙述中，正确的是______。Ⅰ．所有的顶点的度之和为偶数\nⅡ．边数大于顶点个数减1\nⅢ．至少有一个顶点的度为1\n“ 只有Ⅱ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 只有Ⅰ。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e012-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d61-703f-11ee-9f6c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于无向连通图特性的叙述中，正确的是______。Ⅰ．所有的顶点的度之和为偶数\nⅡ．边数大于顶点个数减1\nⅢ．至少有一个顶点的度为1\n“ Ⅰ和Ⅱ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 只有Ⅰ。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e012-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d62-703f-11ee-9358-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于无向连通图特性的叙述中，正确的是______。Ⅰ．所有的顶点的度之和为偶数\nⅡ．边数大于顶点个数减1\nⅢ．至少有一个顶点的度为1\n“ Ⅰ和Ⅲ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 只有Ⅰ。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e044-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d63-703f-11ee-aed2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列叙述中，不符合m阶B树定义要求的是______。\n“ 根结点最多有m棵子树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 叶结点之间通过指针链接。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e044-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d64-703f-11ee-a1c9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列叙述中，不符合m阶B树定义要求的是______。\n“ 所有叶结点都在同一层上”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 叶结点之间通过指针链接。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e044-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d65-703f-11ee-ae75-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列叙述中，不符合m阶B树定义要求的是______。\n“ 各结点内关键字均升序或降序排列”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 叶结点之间通过指针链接。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e044-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d66-703f-11ee-b7d8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列叙述中，不符合m阶B树定义要求的是______。\n“ 叶结点之间通过指针链接”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 叶结点之间通过指针链接。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e06c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d67-703f-11ee-a995-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "排序过程中，对尚未确定最终位置的所有元素进行一遍处理称为一趟排序。下列排序方法中，每一趟排序结束时都至少能够确定一个元素最终位置的方法是______。Ⅰ．简单选择排序\nⅡ．希尔排序\nⅢ．快速排序\nⅣ．堆排\nⅤ．二路归并排序\n“ 仅Ⅰ、Ⅲ、Ⅳ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 仅Ⅰ、Ⅲ、Ⅳ。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e06c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d68-703f-11ee-b92f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "排序过程中，对尚未确定最终位置的所有元素进行一遍处理称为一趟排序。下列排序方法中，每一趟排序结束时都至少能够确定一个元素最终位置的方法是______。Ⅰ．简单选择排序\nⅡ．希尔排序\nⅢ．快速排序\nⅣ．堆排\nⅤ．二路归并排序\n“ 仅Ⅰ、Ⅱ、Ⅲ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 仅Ⅰ、Ⅲ、Ⅳ。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e06c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d69-703f-11ee-b6b8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "排序过程中，对尚未确定最终位置的所有元素进行一遍处理称为一趟排序。下列排序方法中，每一趟排序结束时都至少能够确定一个元素最终位置的方法是______。Ⅰ．简单选择排序\nⅡ．希尔排序\nⅢ．快速排序\nⅣ．堆排\nⅤ．二路归并排序\n“ 仅Ⅱ、Ⅲ、Ⅳ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 仅Ⅰ、Ⅲ、Ⅳ。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e06c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d6a-703f-11ee-9ec2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "排序过程中，对尚未确定最终位置的所有元素进行一遍处理称为一趟排序。下列排序方法中，每一趟排序结束时都至少能够确定一个元素最终位置的方法是______。Ⅰ．简单选择排序\nⅡ．希尔排序\nⅢ．快速排序\nⅣ．堆排\nⅤ．二路归并排序\n“ 仅Ⅲ、Ⅳ、Ⅴ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 仅Ⅰ、Ⅲ、Ⅳ。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e094-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d6b-703f-11ee-b9bc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "算法的计算量的大小称为计算的______。\n“ 效率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 复杂性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e094-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d6c-703f-11ee-8a87-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "算法的计算量的大小称为计算的______。\n“ 复杂性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 复杂性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e094-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d6d-703f-11ee-8a70-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "算法的计算量的大小称为计算的______。\n“ 现实性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 复杂性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e094-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d6e-703f-11ee-8b13-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "算法的计算量的大小称为计算的______。\n“ 难度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 复杂性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e0c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d6f-703f-11ee-b9e1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "计算机算法指的是解决问题的步骤序列，它必须具备______三个特性。\n“ 可执行性、可移植性、可扩充性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 可执行性、确定性、有穷性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e0c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d70-703f-11ee-934d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "计算机算法指的是解决问题的步骤序列，它必须具备______三个特性。\n“ 可执行性、确定性、有穷性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 可执行性、确定性、有穷性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e0c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d71-703f-11ee-9c3e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "计算机算法指的是解决问题的步骤序列，它必须具备______三个特性。\n“ 确定性、有穷性、稳定性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 可执行性、确定性、有穷性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e0c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d72-703f-11ee-8475-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "计算机算法指的是解决问题的步骤序列，它必须具备______三个特性。\n“ 易读性、稳定性、安全性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 可执行性、确定性、有穷性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e0ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d73-703f-11ee-b25d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下与数据的存储结构无关的术语是______。\n“ 循环队列”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 栈。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e0ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d74-703f-11ee-8519-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下与数据的存储结构无关的术语是______。\n“ 链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 栈。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e0ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d75-703f-11ee-b266-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下与数据的存储结构无关的术语是______。\n“ 哈希表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 栈。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e0ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d76-703f-11ee-9a14-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下与数据的存储结构无关的术语是______。\n“ 栈”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 栈。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e120-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d77-703f-11ee-b550-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下数据结构中，______是非线性数据结构。\n“ 树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e120-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d78-703f-11ee-a185-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下数据结构中，______是非线性数据结构。\n“ 字符串”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e120-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d79-703f-11ee-89dd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下数据结构中，______是非线性数据结构。\n“ 队”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e120-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d7a-703f-11ee-9d14-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以下数据结构中，______是非线性数据结构。\n“ 栈”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e148-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39116d7b-703f-11ee-90f4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "连续存储设计时，存储单元的地址______。\n“ 一定连续”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 一定连续。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e148-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39119698-703f-11ee-92b1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "连续存储设计时，存储单元的地址______。\n“ 一定不连续”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 一定连续。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e148-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39119699-703f-11ee-b2ea-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "连续存储设计时，存储单元的地址______。\n“ 不一定连续”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 一定连续。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e148-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911969a-703f-11ee-b373-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "连续存储设计时，存储单元的地址______。\n“ 部分连续，部分不连续”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 一定连续。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e17a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911969b-703f-11ee-a0b0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若某线性表最常用的操作是存取任一指定序号的元素和在最后进行插入和删除运算，则利用______存储方式最节省时间。\n“ 顺序表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 顺序表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e17a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911969c-703f-11ee-9908-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若某线性表最常用的操作是存取任一指定序号的元素和在最后进行插入和删除运算，则利用______存储方式最节省时间。\n“ 双链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 顺序表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e17a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911969d-703f-11ee-94d4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若某线性表最常用的操作是存取任一指定序号的元素和在最后进行插入和删除运算，则利用______存储方式最节省时间。\n“ 带头结点的双循环链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 顺序表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e17a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911969e-703f-11ee-b154-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若某线性表最常用的操作是存取任一指定序号的元素和在最后进行插入和删除运算，则利用______存储方式最节省时间。\n“ 单循环链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 顺序表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e1a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911969f-703f-11ee-b428-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某线性表中最常用的操作是在最后一个元素之后插入一个元素和删除第一个元素，则采用______存储方式最节省运算时间。\n“ 单链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 仅有尾指针的单循环链表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e1a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a0-703f-11ee-8344-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某线性表中最常用的操作是在最后一个元素之后插入一个元素和删除第一个元素，则采用______存储方式最节省运算时间。\n“ 仅有头指针的单循环链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 仅有尾指针的单循环链表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e1a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a1-703f-11ee-933e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某线性表中最常用的操作是在最后一个元素之后插入一个元素和删除第一个元素，则采用______存储方式最节省运算时间。\n“ 双链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 仅有尾指针的单循环链表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e1a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a2-703f-11ee-841b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某线性表中最常用的操作是在最后一个元素之后插入一个元素和删除第一个元素，则采用______存储方式最节省运算时间。\n“ 仅有尾指针的单循环链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 仅有尾指针的单循环链表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e1d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a3-703f-11ee-b098-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若线性表最常用的操作是存取第i个元素及其前驱和后继元素的值，为节省时间应采用的存储方式______。\n“ 单链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 顺序表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e1d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a4-703f-11ee-bbe2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若线性表最常用的操作是存取第i个元素及其前驱和后继元素的值，为节省时间应采用的存储方式______。\n“ 双向链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 顺序表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e1d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a5-703f-11ee-ac25-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若线性表最常用的操作是存取第i个元素及其前驱和后继元素的值，为节省时间应采用的存储方式______。\n“ 单循环链表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 顺序表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e1d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a6-703f-11ee-9d83-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若线性表最常用的操作是存取第i个元素及其前驱和后继元素的值，为节省时间应采用的存储方式______。\n“ 顺序表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 顺序表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e206-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a7-703f-11ee-b2c7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "静态链表中指针表示的是______。\n“ 下一元素的地址”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 下一元素在数组中的位置。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e206-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a8-703f-11ee-9d72-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "静态链表中指针表示的是______。\n“ 内存储器的地址”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 下一元素在数组中的位置。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e206-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196a9-703f-11ee-9d5c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "静态链表中指针表示的是______。\n“ 下一元素在数组中的位置”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 下一元素在数组中的位置。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e206-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196aa-703f-11ee-b63b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "静态链表中指针表示的是______。\n“ 左链或右链指向的元素的地址”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 下一元素在数组中的位置。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e22e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196ab-703f-11ee-9179-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "链表不具有的特点是______。\n“ 插入、删除不需要移动元素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 可随机访问任一元素。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e22e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196ac-703f-11ee-b5db-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "链表不具有的特点是______。\n“ 可随机访问任一元素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 可随机访问任一元素。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e22e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196ad-703f-11ee-812b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "链表不具有的特点是______。\n“ 不必事先估计存储空间”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 可随机访问任一元素。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e22e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196ae-703f-11ee-ba65-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "链表不具有的特点是______。\n“ 所需空间与线性长度成正比”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 可随机访问任一元素。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e260-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196af-703f-11ee-9db2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "单链表中，增加一个头结点是为了______。\n“ 使单链表至少有一个结点”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 方便运算的实现。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e260-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b0-703f-11ee-ba6a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "单链表中，增加一个头结点是为了______。\n“ 标识表结点中首结点的位置”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 方便运算的实现。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e260-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b1-703f-11ee-89f7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "单链表中，增加一个头结点是为了______。\n“ 方便运算的实现”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 方便运算的实现。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e260-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b2-703f-11ee-b74e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "单链表中，增加一个头结点是为了______。\n“ 说明单链表是线性表的链式存储”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 方便运算的实现。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e288-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b3-703f-11ee-8cad-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "线性表的顺序存储结构是一种______。\n“ 随机存取的存储结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 随机存取的存储结构。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e288-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b4-703f-11ee-8377-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "线性表的顺序存储结构是一种______。\n“ 顺序存取的存储结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 随机存取的存储结构。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e288-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b5-703f-11ee-8f39-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "线性表的顺序存储结构是一种______。\n“ 索引存取的存储结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 随机存取的存储结构。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e288-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b6-703f-11ee-afb1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "线性表的顺序存储结构是一种______。\n“ Hash存取的存储结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 随机存取的存储结构。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e2ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b7-703f-11ee-9fa5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有六个元素6，5，4，3，2，1顺序入栈，下列不是合法的出栈序列的是______。\n“ 543612”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 346521。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e2ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b8-703f-11ee-bfb6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有六个元素6，5，4，3，2，1顺序入栈，下列不是合法的出栈序列的是______。\n“ 453126”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 346521。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e2ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196b9-703f-11ee-9e01-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有六个元素6，5，4，3，2，1顺序入栈，下列不是合法的出栈序列的是______。\n“ 346521”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 346521。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e2ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "391196ba-703f-11ee-96d7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有六个元素6，5，4，3，2，1顺序入栈，下列不是合法的出栈序列的是______。\n“ 234156”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 346521。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e2e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be87-703f-11ee-bb22-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "向一个栈顶指针为h的带头结点的链栈中插入指针s所指的结点时，应执行______。\n“ h->next＝s”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： s->next＝h->next;h->next＝s。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e2e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be88-703f-11ee-8d15-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "向一个栈顶指针为h的带头结点的链栈中插入指针s所指的结点时，应执行______。\n“ s->next＝h”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： s->next＝h->next;h->next＝s。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e2e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be89-703f-11ee-83d2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "向一个栈顶指针为h的带头结点的链栈中插入指针s所指的结点时，应执行______。\n“ s->next＝h;h->next＝s”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： s->next＝h->next;h->next＝s。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e2e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be8a-703f-11ee-8a7a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "向一个栈顶指针为h的带头结点的链栈中插入指针s所指的结点时，应执行______。\n“ s->next＝h->next;h->next＝s”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： s->next＝h->next;h->next＝s。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e314-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be8b-703f-11ee-8f82-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用不带头结点的单链表存储队列，其队头指针指向队头结点，队尾指针指向队尾结点，则在进行出队操作时______。\n“ 仅修改队头指针”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 队头、队尾指针都可能要修改。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e314-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be8c-703f-11ee-81ab-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用不带头结点的单链表存储队列，其队头指针指向队头结点，队尾指针指向队尾结点，则在进行出队操作时______。\n“ 仅修改队尾指针”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 队头、队尾指针都可能要修改。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e314-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be8d-703f-11ee-b240-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用不带头结点的单链表存储队列，其队头指针指向队头结点，队尾指针指向队尾结点，则在进行出队操作时______。\n“ 队头、队尾指针都可能要修改”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 队头、队尾指针都可能要修改。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e314-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be8e-703f-11ee-9db0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用不带头结点的单链表存储队列，其队头指针指向队头结点，队尾指针指向队尾结点，则在进行出队操作时______。\n“ 队头、队尾指针都要修改”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 队头、队尾指针都可能要修改。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e33c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be8f-703f-11ee-b258-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "循环队列A存放其元素值，用front和rear分别表示队头和队尾，则当前队列中的元素数是______。\n“ （rear－front＋m）%m”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： （rear－front＋m）%m。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e33c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be90-703f-11ee-a26b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "循环队列A存放其元素值，用front和rear分别表示队头和队尾，则当前队列中的元素数是______。\n“ rear－front＋1”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （rear－front＋m）%m。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e33c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be91-703f-11ee-9ad6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "循环队列A存放其元素值，用front和rear分别表示队头和队尾，则当前队列中的元素数是______。\n“ rear－front－1”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （rear－front＋m）%m。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e33c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be92-703f-11ee-8717-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "循环队列A存放其元素值，用front和rear分别表示队头和队尾，则当前队列中的元素数是______。\n“ rear－front”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （rear－front＋m）%m。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e364-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be93-703f-11ee-9311-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最大容量为n的循环队列，队尾指针是rear，队头：front，则队空的条件是______。\n“ （rear＋1）MOD n＝front”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： rear＝front。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e364-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be94-703f-11ee-aca0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最大容量为n的循环队列，队尾指针是rear，队头：front，则队空的条件是______。\n“ rear＝front”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： rear＝front。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e364-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be95-703f-11ee-b350-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最大容量为n的循环队列，队尾指针是rear，队头：front，则队空的条件是______。\n“ rear＋1＝front”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： rear＝front。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e364-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be96-703f-11ee-88fa-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最大容量为n的循环队列，队尾指针是rear，队头：front，则队空的条件是______。\n“ （rear－1）MOD n＝front”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： rear＝front。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e396-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be97-703f-11ee-a409-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于串的叙述中，不正确的是______。\n“ IOIIOIOO”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： IOOIOIIO。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e396-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be98-703f-11ee-ad73-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于串的叙述中，不正确的是______。\n“ IOOIOIIO”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： IOOIOIIO。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e396-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be99-703f-11ee-b038-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于串的叙述中，不正确的是______。\n“ IIIOIOIO”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： IOOIOIIO。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e396-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be9a-703f-11ee-8120-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于串的叙述中，不正确的是______。\n“ IIIOOIO”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： IOOIOIIO。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e396-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be9b-703f-11ee-9166-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于串的叙述中，不正确的是______。\n“ 串是字符的有限序列”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： IOOIOIIO。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e396-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be9c-703f-11ee-ad92-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于串的叙述中，不正确的是______。\n“ 空串是由空格构成的串”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： IOOIOIIO。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e396-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be9d-703f-11ee-822e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于串的叙述中，不正确的是______。\n“ 模式匹配是串的一种重要运算”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： IOOIOIIO。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e396-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be9e-703f-11ee-bc6a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于串的叙述中，不正确的是______。\n“ 串既可以采用顺序存储，也可以采用链式存储”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： IOOIOIIO。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e3be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911be9f-703f-11ee-b43c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知串S＝‘aaab’，其next数组值为______。\n“ 0123”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 0123。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e3be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea0-703f-11ee-994b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知串S＝‘aaab’，其next数组值为______。\n“ 1123”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 0123。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e3be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea1-703f-11ee-bd66-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知串S＝‘aaab’，其next数组值为______。\n“ 1231”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 0123。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e3be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea2-703f-11ee-bddb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知串S＝‘aaab’，其next数组值为______。\n“ 1211”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 0123。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e3e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea3-703f-11ee-b750-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有一个10阶的对称矩阵A，采用压缩存储方式，以行序为主存储，a11为第一元素，其存储地址为1，每个元素占一个地址空间，则a85的地址为______。\n“ 13”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 33。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e3e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea4-703f-11ee-8710-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有一个10阶的对称矩阵A，采用压缩存储方式，以行序为主存储，a11为第一元素，其存储地址为1，每个元素占一个地址空间，则a85的地址为______。\n“ 33”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 33。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e3e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea5-703f-11ee-aec0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有一个10阶的对称矩阵A，采用压缩存储方式，以行序为主存储，a11为第一元素，其存储地址为1，每个元素占一个地址空间，则a85的地址为______。\n“ 18”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 33。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e3e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea6-703f-11ee-aae5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有一个10阶的对称矩阵A，采用压缩存储方式，以行序为主存储，a11为第一元素，其存储地址为1，每个元素占一个地址空间，则a85的地址为______。\n“ 40”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 33。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e418-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea7-703f-11ee-8c46-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有一个100*90的稀疏矩阵，非0元素有10个，设每个整型数占2字节，则用三元组表示该矩阵时，所需的字节数是______。\n“ 60”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 66。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e418-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea8-703f-11ee-9b2e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有一个100*90的稀疏矩阵，非0元素有10个，设每个整型数占2字节，则用三元组表示该矩阵时，所需的字节数是______。\n“ 66”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 66。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e418-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911bea9-703f-11ee-a3a4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有一个100*90的稀疏矩阵，非0元素有10个，设每个整型数占2字节，则用三元组表示该矩阵时，所需的字节数是______。\n“ 18000”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 66。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e418-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4d1-703f-11ee-aad6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有一个100*90的稀疏矩阵，非0元素有10个，设每个整型数占2字节，则用三元组表示该矩阵时，所需的字节数是______。\n“ 33”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 66。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e440-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4d2-703f-11ee-be49-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用数组r存储静态链表，结点的next域指向后继，工作指针j指向链中结点，使j沿链移动的操作为______。\n“ j＝r[j].next”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： j＝r[j].next。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e440-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4d3-703f-11ee-9a4c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用数组r存储静态链表，结点的next域指向后继，工作指针j指向链中结点，使j沿链移动的操作为______。\n“ j＝j＋l”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： j＝r[j].next。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e440-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4d4-703f-11ee-993e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用数组r存储静态链表，结点的next域指向后继，工作指针j指向链中结点，使j沿链移动的操作为______。\n“ j＝j－>next”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： j＝r[j].next。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e440-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4d5-703f-11ee-a6c9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用数组r存储静态链表，结点的next域指向后继，工作指针j指向链中结点，使j沿链移动的操作为______。\n“ j＝r[j]－>next”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： j＝r[j].next。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e472-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4d6-703f-11ee-aafd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知广义表LS＝（（a，b，c），（d，e，f）），用head和tail数取出LS中原子e的运算是______。\n“ head（tail（LS））”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： head（tail（head（tail（LS））））。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e472-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4d7-703f-11ee-9e29-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知广义表LS＝（（a，b，c），（d，e，f）），用head和tail数取出LS中原子e的运算是______。\n“ tail（head（LS））”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： head（tail（head（tail（LS））））。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e472-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4d8-703f-11ee-b374-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知广义表LS＝（（a，b，c），（d，e，f）），用head和tail数取出LS中原子e的运算是______。\n“ head（tail（head（tail（LS））））”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： head（tail（head（tail（LS））））。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e472-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4d9-703f-11ee-939c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知广义表LS＝（（a，b，c），（d，e，f）），用head和tail数取出LS中原子e的运算是______。\n“ head（tail（tail（head（LS））））”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： head（tail（head（tail（LS））））。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4da-703f-11ee-856f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将线性表的数据元素进行扩充，允许带结构的线性表是______。\n“ 串”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 广义表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4db-703f-11ee-bfac-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将线性表的数据元素进行扩充，允许带结构的线性表是______。\n“ 树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 广义表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4dc-703f-11ee-8aa7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将线性表的数据元素进行扩充，允许带结构的线性表是______。\n“ 广义表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 广义表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4dd-703f-11ee-87ab-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将线性表的数据元素进行扩充，允许带结构的线性表是______。\n“ 栈”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 广义表。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4de-703f-11ee-bc80-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在下述结论中，正确的有______。\n①. 只有一个结点的二叉树的度为0。\n②. 二叉树的度为2。\n③. 二叉树的左右子树可任意交换。\n④. 深度为K的完全二叉树的结点个数小于或等于深度相同的满二叉树。\n“ ①②③”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： ①④。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4df-703f-11ee-b5ad-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在下述结论中，正确的有______。\n①. 只有一个结点的二叉树的度为0。\n②. 二叉树的度为2。\n③. 二叉树的左右子树可任意交换。\n④. 深度为K的完全二叉树的结点个数小于或等于深度相同的满二叉树。\n“ ⑦③④”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： ①④。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e0-703f-11ee-88b3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在下述结论中，正确的有______。\n①. 只有一个结点的二叉树的度为0。\n②. 二叉树的度为2。\n③. 二叉树的左右子树可任意交换。\n④. 深度为K的完全二叉树的结点个数小于或等于深度相同的满二叉树。\n“ ②④”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： ①④。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e1-703f-11ee-aa1c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在下述结论中，正确的有______。\n①. 只有一个结点的二叉树的度为0。\n②. 二叉树的度为2。\n③. 二叉树的左右子树可任意交换。\n④. 深度为K的完全二叉树的结点个数小于或等于深度相同的满二叉树。\n“ ①④”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： ①④。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e2-703f-11ee-a890-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有关二叉树下列说法正确的是______。\n“ 二叉树的度为2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 一棵二叉树的度可以小于2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e3-703f-11ee-b941-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有关二叉树下列说法正确的是______。\n“ 一棵二叉树的度可以小于2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 一棵二叉树的度可以小于2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e4-703f-11ee-a63c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有关二叉树下列说法正确的是______。\n“ 二叉树中至少有一个结点的度为2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 一棵二叉树的度可以小于2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e4fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e5-703f-11ee-9553-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有关二叉树下列说法正确的是______。\n“ 二叉树中任何一个结点的度都为2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 一棵二叉树的度可以小于2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e526-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e6-703f-11ee-a1ed-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个具有1025个结点的二叉树的高h为______。\n“ 11”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 11至1025之间。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e526-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e7-703f-11ee-980d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个具有1025个结点的二叉树的高h为______。\n“ 10”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 11至1025之间。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e526-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e8-703f-11ee-81a1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个具有1025个结点的二叉树的高h为______。\n“ 11至1025之间”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 11至1025之间。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e526-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4e9-703f-11ee-96a5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个具有1025个结点的二叉树的高h为______。\n“ 10至1024之间”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 11至1025之间。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e558-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4ea-703f-11ee-9b10-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有n（n>0）个分支结点的满二叉树的深度是______。\n“ n2－1”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： log2（n＋1）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e558-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4eb-703f-11ee-a5b6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有n（n>0）个分支结点的满二叉树的深度是______。\n“ log2（n＋1）＋1”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： log2（n＋1）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e558-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4ec-703f-11ee-9627-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有n（n>0）个分支结点的满二叉树的深度是______。\n“ log2（n＋1）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： log2（n＋1）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e558-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4ed-703f-11ee-8c38-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有n（n>0）个分支结点的满二叉树的深度是______。\n“ log2（n－l）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： log2（n＋1）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e580-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4ee-703f-11ee-894f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知一棵二叉树的前序遍历结果为ABCDEF，中序遍历结果为CBAEDF，则后序遍历结果为______。\n“ CBEFDA”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： CBEFDA。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e580-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4ef-703f-11ee-9f30-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知一棵二叉树的前序遍历结果为ABCDEF，中序遍历结果为CBAEDF，则后序遍历结果为______。\n“ FEDCBA”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： CBEFDA。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e580-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4f0-703f-11ee-b54e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知一棵二叉树的前序遍历结果为ABCDEF，中序遍历结果为CBAEDF，则后序遍历结果为______。\n“ CBEDFA”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： CBEFDA。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e580-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3911e4f1-703f-11ee-a593-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知一棵二叉树的前序遍历结果为ABCDEF，中序遍历结果为CBAEDF，则后序遍历结果为______。\n“ 不定”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： CBEFDA。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e5a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120bfa-703f-11ee-a518-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一棵非空的二叉树的前序序列和后序序列正好相反，则该二叉树一定满足______。\n“ 其中任意一个结点均无左孩子”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 其中只有一个叶结点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e5a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120bfb-703f-11ee-9a57-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一棵非空的二叉树的前序序列和后序序列正好相反，则该二叉树一定满足______。\n“ 其中任意一个结点均无右孩子”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 其中只有一个叶结点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e5a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120bfc-703f-11ee-9ffc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一棵非空的二叉树的前序序列和后序序列正好相反，则该二叉树一定满足______。\n“ 其中只有一个叶结点”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 其中只有一个叶结点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e5a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120bfd-703f-11ee-bb87-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一棵非空的二叉树的前序序列和后序序列正好相反，则该二叉树一定满足______。\n“ 其中度为2的结点最多为一个”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 其中只有一个叶结点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e5da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120bfe-703f-11ee-9adf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述二叉树中，哪一种满足性质：从任一结点出发到根的路径上所经过的结点序列按其关键字有序______。\n“ 二叉排序树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 堆。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e5da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120bff-703f-11ee-8431-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述二叉树中，哪一种满足性质：从任一结点出发到根的路径上所经过的结点序列按其关键字有序______。\n“ 哈夫曼树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 堆。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e5da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c00-703f-11ee-9a83-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述二叉树中，哪一种满足性质：从任一结点出发到根的路径上所经过的结点序列按其关键字有序______。\n“ AVL树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 堆。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e5da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c01-703f-11ee-bf44-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述二叉树中，哪一种满足性质：从任一结点出发到根的路径上所经过的结点序列按其关键字有序______。\n“ 堆”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 堆。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e602-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c02-703f-11ee-a2c1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一棵哈夫曼树共有215个结点，对其进行哈夫曼编码，共能得到______个不同的码字。\n“ 107”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 108。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e602-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c03-703f-11ee-bb44-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一棵哈夫曼树共有215个结点，对其进行哈夫曼编码，共能得到______个不同的码字。\n“ 108”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 108。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e602-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c04-703f-11ee-9311-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一棵哈夫曼树共有215个结点，对其进行哈夫曼编码，共能得到______个不同的码字。\n“ 214”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 108。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e602-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c05-703f-11ee-ba6d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一棵哈夫曼树共有215个结点，对其进行哈夫曼编码，共能得到______个不同的码字。\n“ 215”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 108。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e634-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c06-703f-11ee-892f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设X是树T中的一个非根结点，B是T所对应的二叉树。在B中，X是其双亲的右孩子，下列结论正确的是______。\n“ 在树T中，X是其双亲的第一个孩子”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 在树T中，X一定有左兄弟。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e634-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c07-703f-11ee-8d1b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设X是树T中的一个非根结点，B是T所对应的二叉树。在B中，X是其双亲的右孩子，下列结论正确的是______。\n“ 在树T中，X一定无右兄弟”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 在树T中，X一定有左兄弟。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e634-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c08-703f-11ee-b500-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设X是树T中的一个非根结点，B是T所对应的二叉树。在B中，X是其双亲的右孩子，下列结论正确的是______。\n“ 在树T中，X一定是叶结点”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 在树T中，X一定有左兄弟。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e634-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c09-703f-11ee-82e3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设X是树T中的一个非根结点，B是T所对应的二叉树。在B中，X是其双亲的右孩子，下列结论正确的是______。\n“ 在树T中，X一定有左兄弟”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 在树T中，X一定有左兄弟。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e65c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c0a-703f-11ee-aa75-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "n个结点的完全有向图含有边的数目______。\n“ n*n”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： n*（n－1）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e65c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c0b-703f-11ee-be63-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "n个结点的完全有向图含有边的数目______。\n“ n（n＋1）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： n*（n－1）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e65c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c0c-703f-11ee-bbd1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "n个结点的完全有向图含有边的数目______。\n“ n/2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： n*（n－1）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e65c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c0d-703f-11ee-bc57-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "n个结点的完全有向图含有边的数目______。\n“ n*（n－1）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： n*（n－1）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e68e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c0e-703f-11ee-a734-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用有向无环图描述表达式（A＋B）*（（A＋B）//A），至少需要顶点的数目为______。\n“ 5”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 5。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e68e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c0f-703f-11ee-9010-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用有向无环图描述表达式（A＋B）*（（A＋B）//A），至少需要顶点的数目为______。\n“ 6”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 5。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e68e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c10-703f-11ee-8452-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用有向无环图描述表达式（A＋B）*（（A＋B）//A），至少需要顶点的数目为______。\n“ 8”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 5。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e68e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c11-703f-11ee-8fab-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "用有向无环图描述表达式（A＋B）*（（A＋B）//A），至少需要顶点的数目为______。\n“ 9”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 5。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e6b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c12-703f-11ee-9cdd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列说法不正确的是______。\n“ 图的遍历是从给定的源点出发每个顶点仅被访问一次”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 图的深度遍历不适用于有向图。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e6b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c13-703f-11ee-9639-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列说法不正确的是______。\n“ 遍历的基本方法有两种：深度遍历和广度遍历”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 图的深度遍历不适用于有向图。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e6b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c14-703f-11ee-9671-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列说法不正确的是______。\n“ 图的深度遍历不适用于有向图”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 图的深度遍历不适用于有向图。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e6b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c15-703f-11ee-9458-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列说法不正确的是______。\n“ 图的深度遍历是一个递归过程”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 图的深度遍历不适用于有向图。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e6e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c16-703f-11ee-909e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "无向图G＝（V，E），其中：V＝{a，b，c，d，e，f}，E＝{（a，b），（a，e），（a，c），（b，e），（c，f），（f，d），（e，d）}，对该图进行深度优先遍历，得到的顶点序列正确的是______。\n“ a，b，e，c，d，f”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： a，e，d，f，c，b。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e6e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c17-703f-11ee-873f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "无向图G＝（V，E），其中：V＝{a，b，c，d，e，f}，E＝{（a，b），（a，e），（a，c），（b，e），（c，f），（f，d），（e，d）}，对该图进行深度优先遍历，得到的顶点序列正确的是______。\n“ a，c，f，e，b，d”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： a，e，d，f，c，b。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e6e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c18-703f-11ee-8aa4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "无向图G＝（V，E），其中：V＝{a，b，c，d，e，f}，E＝{（a，b），（a，e），（a，c），（b，e），（c，f），（f，d），（e，d）}，对该图进行深度优先遍历，得到的顶点序列正确的是______。\n“ a，e，b，c，f， d”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： a，e，d，f，c，b。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e6e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39120c19-703f-11ee-a2f3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "无向图G＝（V，E），其中：V＝{a，b，c，d，e，f}，E＝{（a，b），（a，e），（a，c），（b，e），（c，f），（f，d），（e，d）}，对该图进行深度优先遍历，得到的顶点序列正确的是______。\n“ a，e，d，f，c，b”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： a，e，d，f，c，b。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e710-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123322-703f-11ee-82ab-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知有向图G＝（V，E），其中V＝{V1，V2，V3，V4，V5，V6，V7}，E＝｛<V1，V2>，<V1，V3>，<V1，V4>，<V2，V5>，<V3，V5>，<V3，V6>，<V4，V6>，<V5，V7>，<V6，V7>｝，G的拓扑序列是______。\n“ V1，V3，V4，V6，V2，V5，V7”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： V1，V3，V4，V6，V2，V5，V7。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e710-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123323-703f-11ee-adb6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知有向图G＝（V，E），其中V＝{V1，V2，V3，V4，V5，V6，V7}，E＝｛<V1，V2>，<V1，V3>，<V1，V4>，<V2，V5>，<V3，V5>，<V3，V6>，<V4，V6>，<V5，V7>，<V6，V7>｝，G的拓扑序列是______。\n“ V1，V3，V2，V6，V4，V5，V7”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： V1，V3，V4，V6，V2，V5，V7。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e710-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123324-703f-11ee-83a7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知有向图G＝（V，E），其中V＝{V1，V2，V3，V4，V5，V6，V7}，E＝｛<V1，V2>，<V1，V3>，<V1，V4>，<V2，V5>，<V3，V5>，<V3，V6>，<V4，V6>，<V5，V7>，<V6，V7>｝，G的拓扑序列是______。\n“ V1，V3，V5，V2，V6，V7”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： V1，V3，V4，V6，V2，V5，V7。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e710-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123325-703f-11ee-be74-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知有向图G＝（V，E），其中V＝{V1，V2，V3，V4，V5，V6，V7}，E＝｛<V1，V2>，<V1，V3>，<V1，V4>，<V2，V5>，<V3，V5>，<V3，V6>，<V4，V6>，<V5，V7>，<V6，V7>｝，G的拓扑序列是______。\n“ V1、V2，V5，V3，V4，V6，V7”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： V1，V3，V4，V6，V2，V5，V7。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e742-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123326-703f-11ee-a1ae-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在用邻接表表示图时，拓扑排序算法时间复杂度为______。\n“ O（n）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： O（n＋e）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e742-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123327-703f-11ee-8e4f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在用邻接表表示图时，拓扑排序算法时间复杂度为______。\n“ O（n＋e）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： O（n＋e）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e742-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123328-703f-11ee-87d0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在用邻接表表示图时，拓扑排序算法时间复杂度为______。\n“ O（n*n）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： O（n＋e）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e742-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123329-703f-11ee-8802-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在用邻接表表示图时，拓扑排序算法时间复杂度为______。\n“ O（n*n*n）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： O（n＋e）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e76a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912332a-703f-11ee-b827-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于AOE网的叙述中，不正确的是______。\n“ 关键活动不按期完成就会影响整个工程的完成时间”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 任何一个关键活动提前完成，那么整个工程将会提前完成。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e76a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912332b-703f-11ee-a0b0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于AOE网的叙述中，不正确的是______。\n“ 任何一个关键活动提前完成，那么整个工程将会提前完成”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 任何一个关键活动提前完成，那么整个工程将会提前完成。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e76a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912332c-703f-11ee-8c36-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于AOE网的叙述中，不正确的是______。\n“ 所有的关键活动提前完成，那么整个工程将会提前完成”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 任何一个关键活动提前完成，那么整个工程将会提前完成。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e76a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912332d-703f-11ee-a04e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列关于AOE网的叙述中，不正确的是______。\n“ 某些关键活动若提前完成，那么整个工程将会提前完成”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 任何一个关键活动提前完成，那么整个工程将会提前完成。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e79c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912332e-703f-11ee-8930-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "动态存储管理系统中，通常可有______种不同的分配策略。\n\n\n\nD．4\nE．5\n“ 1”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 3。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e79c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912332f-703f-11ee-8a4d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "动态存储管理系统中，通常可有______种不同的分配策略。\n\n\n\nD．4\nE．5\n“ 2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 3。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e79c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123330-703f-11ee-9afb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "动态存储管理系统中，通常可有______种不同的分配策略。\n\n\n\nD．4\nE．5\n“ 3”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 3。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e79c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123331-703f-11ee-85e5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "动态存储管理系统中，通常可有______种不同的分配策略。\n\n\n\nD．4\nE．5\n“ 4”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 3。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e7c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123332-703f-11ee-aa74-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若查找每个记录的概率均等，则在具有n个记录的连续顺序文件中采用顺序查找法查找一个记录，其平均查找长度ASL为______。\n“ （n－1）/2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （n＋1）/2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e7c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123333-703f-11ee-8137-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若查找每个记录的概率均等，则在具有n个记录的连续顺序文件中采用顺序查找法查找一个记录，其平均查找长度ASL为______。\n“ n/2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （n＋1）/2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e7c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123334-703f-11ee-91f1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若查找每个记录的概率均等，则在具有n个记录的连续顺序文件中采用顺序查找法查找一个记录，其平均查找长度ASL为______。\n“ （n＋1）/2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： （n＋1）/2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e7c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123335-703f-11ee-8848-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若查找每个记录的概率均等，则在具有n个记录的连续顺序文件中采用顺序查找法查找一个记录，其平均查找长度ASL为______。\n“ n”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （n＋1）/2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e7f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123336-703f-11ee-aea3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列二叉排序树中查找效率最高的是______。\n“ 平衡二叉树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 平衡二叉树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e7f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123337-703f-11ee-b137-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列二叉排序树中查找效率最高的是______。\n“ 二叉查找树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 平衡二叉树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e7f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123338-703f-11ee-b839-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列二叉排序树中查找效率最高的是______。\n“ 没有左子树的二叉排序树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 平衡二叉树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e7f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123339-703f-11ee-8db2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列二叉排序树中查找效率最高的是______。\n“ 没有右子树的二叉排序树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 平衡二叉树。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e828-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912333a-703f-11ee-afd6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分别以下列序列构造二叉排序树，与用其他三个序列所构造的结果不同的是______。\n“ （100，80，90，60，120，110，130）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （100，60，80，90，20，110，130）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e828-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912333b-703f-11ee-b5e6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分别以下列序列构造二叉排序树，与用其他三个序列所构造的结果不同的是______。\n“ （100，120，110，130，80，60，90）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （100，60，80，90，20，110，130）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e828-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912333c-703f-11ee-b2d5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分别以下列序列构造二叉排序树，与用其他三个序列所构造的结果不同的是______。\n“ （100，60，80，90，20，110，130）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： （100，60，80，90，20，110，130）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e828-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912333d-703f-11ee-92fb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分别以下列序列构造二叉排序树，与用其他三个序列所构造的结果不同的是______。\n“ （100，80，60，90，120，130，110）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （100，60，80，90，20，110，130）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e850-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912333e-703f-11ee-9272-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在平衡二叉树中插入一个结点后造成了不平衡，设最低的不平衡结点为A，并已知A的左孩子的平衡因子为0，右孩子的平衡因子为l，则应作______型调整以使其平衡\n“ LL”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： RL。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e850-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912333f-703f-11ee-9d87-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在平衡二叉树中插入一个结点后造成了不平衡，设最低的不平衡结点为A，并已知A的左孩子的平衡因子为0，右孩子的平衡因子为l，则应作______型调整以使其平衡\n“ LR”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： RL。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e850-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123340-703f-11ee-943d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在平衡二叉树中插入一个结点后造成了不平衡，设最低的不平衡结点为A，并已知A的左孩子的平衡因子为0，右孩子的平衡因子为l，则应作______型调整以使其平衡\n“ RL”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： RL。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e850-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123341-703f-11ee-924a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在平衡二叉树中插入一个结点后造成了不平衡，设最低的不平衡结点为A，并已知A的左孩子的平衡因子为0，右孩子的平衡因子为l，则应作______型调整以使其平衡\n“ RR”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： RL。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e882-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123342-703f-11ee-ad08-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于B和B＋树的叙述中，不正确的是______\n“ B树和B＋树都是平衡的多叉树”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： B树和B＋树都能有效地支持顺序检索。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e882-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123343-703f-11ee-8ec1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于B和B＋树的叙述中，不正确的是______\n“ B树和B＋树都可用于文件的索引结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： B树和B＋树都能有效地支持顺序检索。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e882-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123344-703f-11ee-8c20-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于B和B＋树的叙述中，不正确的是______\n“ B树和B＋树都能有效地支持顺序检索”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： B树和B＋树都能有效地支持顺序检索。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e882-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39123345-703f-11ee-a3ca-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面关于B和B＋树的叙述中，不正确的是______\n“ B树和B＋树都能有效地支持随机检索”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： B树和B＋树都能有效地支持顺序检索。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e8b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a18-703f-11ee-9585-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面给出的四种排序方法中，排序过程中的比较次数与排序方法无关的是______。\n“ 选择排序法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 选择排序法。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e8b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a19-703f-11ee-8428-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面给出的四种排序方法中，排序过程中的比较次数与排序方法无关的是______。\n“ 插入排序法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 选择排序法。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e8b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a1a-703f-11ee-a545-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面给出的四种排序方法中，排序过程中的比较次数与排序方法无关的是______。\n“ 快速排序法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 选择排序法。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e8b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a1b-703f-11ee-bd8a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下面给出的四种排序方法中，排序过程中的比较次数与排序方法无关的是______。\n“ 堆排序法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 选择排序法。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e8dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a1c-703f-11ee-902d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据序列（8，9，10，4，5，6，20，1，2）只能是下列排序算法中的______的两趟排序后的结果。\n“ 选择排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 插入排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e8dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a1d-703f-11ee-8e72-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据序列（8，9，10，4，5，6，20，1，2）只能是下列排序算法中的______的两趟排序后的结果。\n“ 起泡排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 插入排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e8dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a1e-703f-11ee-ae9b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据序列（8，9，10，4，5，6，20，1，2）只能是下列排序算法中的______的两趟排序后的结果。\n“ 插入排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 插入排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e8dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a1f-703f-11ee-b376-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "数据序列（8，9，10，4，5，6，20，1，2）只能是下列排序算法中的______的两趟排序后的结果。\n“ 堆排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 插入排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e90e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a20-703f-11ee-a484-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一组记录的关键码为（46，79，56，38，40，84），则利用快速排序的方法，以第一个记录为基准得到的一次划分结果为______。\n“ （38，40，46，56，79，84）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （40，38，46，56，79，84）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e90e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a21-703f-11ee-a3b6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一组记录的关键码为（46，79，56，38，40，84），则利用快速排序的方法，以第一个记录为基准得到的一次划分结果为______。\n“ （40，38，46，79，56，84）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （40，38，46，56，79，84）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e90e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a22-703f-11ee-b671-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一组记录的关键码为（46，79，56，38，40，84），则利用快速排序的方法，以第一个记录为基准得到的一次划分结果为______。\n“ （40，38，46，56，79，84）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： （40，38，46，56，79，84）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e90e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a23-703f-11ee-9840-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一组记录的关键码为（46，79，56，38，40，84），则利用快速排序的方法，以第一个记录为基准得到的一次划分结果为______。\n“ （40，38，46，84，56，79）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （40，38，46，56，79，84）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e936-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a24-703f-11ee-a866-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "就平均性能而言，目前最好的内排序方法是______排序法。\n“ 起泡”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 快速。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e936-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a25-703f-11ee-af2b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "就平均性能而言，目前最好的内排序方法是______排序法。\n“ 希尔插入”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 快速。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e936-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a26-703f-11ee-8dd9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "就平均性能而言，目前最好的内排序方法是______排序法。\n“ 交换”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 快速。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e936-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a27-703f-11ee-8723-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "就平均性能而言，目前最好的内排序方法是______排序法。\n“ 快速”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 快速。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e95e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a28-703f-11ee-876e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在文件“局部有序”或文件长度较小的情况下，最佳内部排序的方法是______。\n“ 直接插入排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 直接插入排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e95e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a29-703f-11ee-83e1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在文件“局部有序”或文件长度较小的情况下，最佳内部排序的方法是______。\n“ 起泡排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 直接插入排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e95e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a2a-703f-11ee-8ccc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在文件“局部有序”或文件长度较小的情况下，最佳内部排序的方法是______。\n“ 简单选择排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 直接插入排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e95e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a2b-703f-11ee-bb16-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在文件“局部有序”或文件长度较小的情况下，最佳内部排序的方法是______。\n“ 快速排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 直接插入排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e990-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a2c-703f-11ee-87a8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对序列{15，9，7，8，20，－1，4}用希尔排序方法排序，经一趟后序列变为{15，－1，4，8，20，9，7}则该次采用的增量是______。\n“ 1”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 4。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e990-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a2d-703f-11ee-beba-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对序列{15，9，7，8，20，－1，4}用希尔排序方法排序，经一趟后序列变为{15，－1，4，8，20，9，7}则该次采用的增量是______。\n“ 4”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 4。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e990-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a2e-703f-11ee-ae2a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对序列{15，9，7，8，20，－1，4}用希尔排序方法排序，经一趟后序列变为{15，－1，4，8，20，9，7}则该次采用的增量是______。\n“ 3”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 4。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e990-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a2f-703f-11ee-a55d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对序列{15，9，7，8，20，－1，4}用希尔排序方法排序，经一趟后序列变为{15，－1，4，8，20，9，7}则该次采用的增量是______。\n“ 2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 4。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e9b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a30-703f-11ee-8af1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对关键码序列28，16，32，12，60，2，5，72快速排序，从小到大一次划分结果为______。\n“ （2，5，12，16）26（60，32，72）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （5，16，2，12）28（60，32，72）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e9b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a31-703f-11ee-bb74-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对关键码序列28，16，32，12，60，2，5，72快速排序，从小到大一次划分结果为______。\n“ （5，16，2，12）28（60，32，72）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： （5，16，2，12）28（60，32，72）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e9b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a32-703f-11ee-9abb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对关键码序列28，16，32，12，60，2，5，72快速排序，从小到大一次划分结果为______。\n“ （2，16，12，5）28（60，32，72）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （5，16，2，12）28（60，32，72）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e9b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a33-703f-11ee-ad40-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对关键码序列28，16，32，12，60，2，5，72快速排序，从小到大一次划分结果为______。\n“ （5，16，2，12）28（32，60，72）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： （5，16，2，12）28（60，32，72）。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e9ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a34-703f-11ee-b2fd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对n个记录的线性表进行快速排序为减少算法的递归深度，以下叙述正确的是______。\n“ 每次分区后，先处理较短的部分”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 每次分区后，先处理较短的部分。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e9ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a35-703f-11ee-8928-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对n个记录的线性表进行快速排序为减少算法的递归深度，以下叙述正确的是______。\n“ 每次分区后，先处理较长的部分”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 每次分区后，先处理较短的部分。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e9ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a36-703f-11ee-baa5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对n个记录的线性表进行快速排序为减少算法的递归深度，以下叙述正确的是______。\n“ 与算法每次分区后的处理顺序无关”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 每次分区后，先处理较短的部分。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501e9ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a37-703f-11ee-9227-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对n个记录的线性表进行快速排序为减少算法的递归深度，以下叙述正确的是______。\n“ 以上三者都不对”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 每次分区后，先处理较短的部分。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a38-703f-11ee-bd9e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在含有n个关键字的小根堆（堆顶元素最小）中，关键字最大的记录有可能存储在______位置上。\n“ ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39125a39-703f-11ee-8350-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在含有n个关键字的小根堆（堆顶元素最小）中，关键字最大的记录有可能存储在______位置上。\n“ ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128141-703f-11ee-b724-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在含有n个关键字的小根堆（堆顶元素最小）中，关键字最大的记录有可能存储在______位置上。\n“ 1”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128142-703f-11ee-81e0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在含有n个关键字的小根堆（堆顶元素最小）中，关键字最大的记录有可能存储在______位置上。\n“ ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128143-703f-11ee-93b5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对{05，46，13，55，94，17，42}进行基数排序，一趟排序的结果是______：\n“ 05，46，13，55，94，17，42”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 42，13，94，05，55，46，17。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128144-703f-11ee-bac0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对{05，46，13，55，94，17，42}进行基数排序，一趟排序的结果是______：\n“ 05，13，17，42，46，55.94”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 42，13，94，05，55，46，17。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128145-703f-11ee-b54e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对{05，46，13，55，94，17，42}进行基数排序，一趟排序的结果是______：\n“ 42，13，94，05，55，46，17”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 42，13，94，05，55，46，17。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128146-703f-11ee-9553-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对{05，46，13，55，94，17，42}进行基数排序，一趟排序的结果是______：\n“ 05，13，46，55，17，42，94”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 42，13，94，05，55，46，17。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128147-703f-11ee-9e1c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若需在O（nlog2n）的时间内完成对数组的排序，且要求排序是稳定的，则可选择的排序方法是______。\n“ 快速排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 归并排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128148-703f-11ee-bf9c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若需在O（nlog2n）的时间内完成对数组的排序，且要求排序是稳定的，则可选择的排序方法是______。\n“ 堆排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 归并排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128149-703f-11ee-aaba-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若需在O（nlog2n）的时间内完成对数组的排序，且要求排序是稳定的，则可选择的排序方法是______。\n“ 归并排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 归并排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912814a-703f-11ee-8bee-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若需在O（nlog2n）的时间内完成对数组的排序，且要求排序是稳定的，则可选择的排序方法是______。\n“ 直接插入排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 归并排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912814b-703f-11ee-9808-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列排序算法中，占用辅助空间最多的是______。\n“ 归并排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 归并排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912814c-703f-11ee-a7d8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列排序算法中，占用辅助空间最多的是______。\n“ 快速排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 归并排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912814d-703f-11ee-adc6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列排序算法中，占用辅助空间最多的是______。\n“ 希尔排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 归并排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501ea9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912814e-703f-11ee-9c05-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下列排序算法中，占用辅助空间最多的是______。\n“ 堆排序”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 归并排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912814f-703f-11ee-b51f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将两个各有N个元素的有序表归并成一个有序表，其最少的比较次数是______。\n“ N”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： N。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128150-703f-11ee-9c43-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将两个各有N个元素的有序表归并成一个有序表，其最少的比较次数是______。\n“ 2N－1”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： N。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128151-703f-11ee-9af1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将两个各有N个元素的有序表归并成一个有序表，其最少的比较次数是______。\n“ 2N”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： N。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128152-703f-11ee-94b4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "将两个各有N个元素的有序表归并成一个有序表，其最少的比较次数是______。\n“ N－1”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： N。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eaee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128153-703f-11ee-bd38-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从未排序序列中依次取出一个元素与已排序序列中的元素依次进行比较，然后将其放在已排序序列的合适位置，该排序方法称为______排序法。\n“ 插入”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 插入。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eaee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128154-703f-11ee-b19f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从未排序序列中依次取出一个元素与已排序序列中的元素依次进行比较，然后将其放在已排序序列的合适位置，该排序方法称为______排序法。\n“ 选择”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 插入。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eaee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128155-703f-11ee-ae94-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从未排序序列中依次取出一个元素与已排序序列中的元素依次进行比较，然后将其放在已排序序列的合适位置，该排序方法称为______排序法。\n“ 希尔”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 插入。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eaee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128156-703f-11ee-8a80-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从未排序序列中依次取出一个元素与已排序序列中的元素依次进行比较，然后将其放在已排序序列的合适位置，该排序方法称为______排序法。\n“ 二路归并”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 插入。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eb20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128157-703f-11ee-a838-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "哈希文件使用哈希函数将记录的关键字值计算转化为记录的存放地址，因为哈希函数是一对一的关系，则选择好的______方法是哈希文件的关键。\n“ 哈希函数”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 哈希函数和冲突处理。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eb20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128158-703f-11ee-aaae-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "哈希文件使用哈希函数将记录的关键字值计算转化为记录的存放地址，因为哈希函数是一对一的关系，则选择好的______方法是哈希文件的关键。\n“ 除余法中的质数”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 哈希函数和冲突处理。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eb20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "39128159-703f-11ee-b059-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "哈希文件使用哈希函数将记录的关键字值计算转化为记录的存放地址，因为哈希函数是一对一的关系，则选择好的______方法是哈希文件的关键。\n“ 冲突处理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 哈希函数和冲突处理。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eb20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912815a-703f-11ee-a3a3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "哈希文件使用哈希函数将记录的关键字值计算转化为记录的存放地址，因为哈希函数是一对一的关系，则选择好的______方法是哈希文件的关键。\n“ 哈希函数和冲突处理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 哈希函数和冲突处理。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eb48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912815b-703f-11ee-ba1f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述文件中适合于磁带存储的是______。\n“ 顺序文件”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 顺序文件。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eb48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912815c-703f-11ee-b7d5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述文件中适合于磁带存储的是______。\n“ 索引文件”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 顺序文件。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eb48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912815d-703f-11ee-8ef4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述文件中适合于磁带存储的是______。\n“ 哈希文件”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 顺序文件。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3501eb48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3912815e-703f-11ee-a869-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "下述文件中适合于磁带存储的是______。\n“ 多关键字文件”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 顺序文件。"
+	}
+]

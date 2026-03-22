@@ -1,0 +1,1332 @@
+[
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0da0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a60258a0-7170-11ee-a215-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从立法过程来看，税法属于习惯法；从法律性质来看，税法属于义务性法规。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0e54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a60293b1-7170-11ee-9b85-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。党的十八大提出要在改善民生中建设和谐社会，要千方百计增加居民收入，初次分配和再分配都要兼顾效率和公平，再分配更加注重效率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0e90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a60293b2-7170-11ee-b96d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中华人民共和国境外（以下称境外）的单位或者个人在境内提供应税服务，在境内未设有经营机构的，以其代理人为增值税扣缴义务人。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0eb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a60293b3-7170-11ee-a626-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。根据“营业税改征增值税”试点的有关规定，应税服务的年应征增值税销售额超过50万的纳税人为一般纳税人。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0eea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a60293b4-7170-11ee-900b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。将自产、委托加工或购买的货物作为投资，提供给其他单位或个体经营者，不构成销售行为，不征收增值税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0f12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a60293b5-7170-11ee-9ba9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。纳税人未按照规定使用税务登记证件，或者转借、涂改、损毁、买卖、伪造税务登记证件的，可以处2000元以下的罚款；情节严重的，处2000元以上30000元以下的罚款。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0f44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a60293b6-7170-11ee-a6b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。纳税人在任职单位取得董事费收入，应按照“劳务报酬所得”缴纳个人所得税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0f6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a60293b7-7170-11ee-98e9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。因国家建设需要而搬迁，由纳税人自行转让其房产的，应从签订房地产转让合同之日起7日内到房地产所在地主管税务机关备案。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0f94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a60293b8-7170-11ee-b9fe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。两国税务机关签订双边税收协定的主要目的是协助两国国内税款的征收。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0fc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602babe-7170-11ee-b2ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在中国境内有习惯性住所，以及虽然没有习惯性住所但是居住满1年的个人，构成中国个人所得税税法的居民。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab0fee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602babf-7170-11ee-939c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国现行增值税是价外税，营业税是价内税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1020-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac0-7170-11ee-bba3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。夏、商、周时代的贡、助、彻，是我国税收的雏形，具有租税不分的性质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1048-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac1-7170-11ee-a774-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。由于绝大多数国家实行全面税收管辖权，导致了对跨国经济行为的重复征税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1070-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac2-7170-11ee-a6b0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税务人员进行税务检查时，即使未出具检查证和检查通知书，纳税人也无权拒绝检查。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab10a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac3-7170-11ee-990b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。纳税人对税务机关的征税行为不服的，可以直接向人民法院提起诉讼。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab10ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac4-7170-11ee-8d5a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收管理体制是中央与地方政府以及地方各级政府之间划分税收管理权限与责任的一项制度，它实际上体现了中央与地方政府之间的税收分配关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab10f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac5-7170-11ee-8212-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。扣缴义务人可以直接到税务机关报送代扣代缴、代收代缴报告表，也可以按照规定采取邮寄、数据电文或者其他方式办理报送事项。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1124-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac6-7170-11ee-9e70-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税务行政复议的参加人是指依法参加税务行政复议活动、保护自己合法权益的申请人（行政相对人）、被申请人（税务机关）、第三人和复议代理人。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab114c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac7-7170-11ee-9ad5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收管理权限具体分为税收立法权、税收执法权和税收征收权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1174-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac8-7170-11ee-885b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。分税制是财政管理体制的重要组成部分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab11a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bac9-7170-11ee-be1f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在享受减免税优惠的情况下，纳税人的实际税率通常大于名义税率。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab11ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baca-7170-11ee-a991-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。纳税人对各级国家税务局的具体行政行为不服的，向其上一级国家税务局申请行政复议。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1200-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bacb-7170-11ee-af21-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。纳税期限是税法规定的纳税人缴纳税款的法定期限。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1228-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bacc-7170-11ee-bcf1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收的本质是一种分配关系，这一分配是基于生产要素进行的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1250-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bacd-7170-11ee-a002-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收法律关系是税法所确认和调整的国家与纳税人之间、国家与国家之间以及各级政府之间在税收分配过程中形成的权利与义务关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1282-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bace-7170-11ee-8e4f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。《税收征管法》规定，所有的纳税人和扣缴义务人都必须按照有关法律、行政法规和国务院财政、税务主管部门的规定设置账簿。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab12aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bacf-7170-11ee-86cb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。《税收征管法》规定，扣缴义务人未按照规定期限解缴税款的，税务机关除责令限期缴纳外，从滞纳税款之日起，按日加收滞纳税款万分之三的滞纳金。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab12dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad0-7170-11ee-90b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收保全措施是税务机关对可能由于纳税人的行为，致使以后的税款征收不能或难以保证的案件，采取限制纳税人处理或转移商品、货物或其他财产的措施。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1304-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad1-7170-11ee-a410-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收乘数是反映税收的变动对国民收入的影响程度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab132c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad2-7170-11ee-a8fe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收权限包括税收立法权和税收执法权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab135e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad3-7170-11ee-8382-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从理论上讲，税和费都属于财政范畴，因此，在本质上是相同的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1386-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad4-7170-11ee-8300-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。条件不同者缴纳不相同的税，这被称为税收的纵向公平。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab13ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad5-7170-11ee-a8a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果政府课税引起的反应与政府课征该税时所希望达到的目的一致，税收的这种效应就是正效应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab13e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad6-7170-11ee-bb19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。供给弹性较大、需求弹性较小的商品的税负不易转嫁。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1408-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad7-7170-11ee-a7d5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。全国人民代表大会及其常务委员会掌握全国性税种的立法权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab143a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad8-7170-11ee-854f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个国家既可以选择地域管辖权，也可以选择居民管辖权，但不可以选择双重管辖权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab146c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bad9-7170-11ee-9ed1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。造成纳税人与负税人不一致的原因是税负转嫁的存在。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1494-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bada-7170-11ee-ad8f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生产企业自营出口货物，应按“免、抵、退”方法计算应退的增值税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab14bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602badb-7170-11ee-947f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。私营企业不缴纳企业所得税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab14ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602badc-7170-11ee-ae87-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税务机关采取强制执行措施时，对纳税人、扣缴义务人、纳税担保人未缴纳的滞纳金同时强制执行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1516-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602badd-7170-11ee-9af5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。国家征税既可依据政治权力，也可以依据财产权力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab153e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bade-7170-11ee-8016-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税负转嫁指在纳税人通过提高售价或压低购价的方法，将税负转移给购买者或供应者的经济现象。税负归宿指税收负担的最终落脚点，税负归宿是税收负担的实际承受者。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1570-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602badf-7170-11ee-9b59-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。商品税较易转嫁，所得税难于转嫁；需求弹性较小的商品难于转嫁；课税范围宽广的商品易于转嫁。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1598-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae0-7170-11ee-8883-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税负的局部均衡分析忽略了政府对税收的使用即政府支出以及税制结构调整的影响，只考虑征税的影响，而不考虑政府支出和税制结构调整的影响，显然不全面，也不能真正说明税负的归宿问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab15c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae1-7170-11ee-a6d8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在我国，中央和地方共享税收入在中央和地方之间按一定标准分享，由中央立法，并由代表中央的国家税务局进行税收征收和管理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab15f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae2-7170-11ee-9228-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主体税是指在整个税制体系中处于主导地位，占有主要比重的税种，因此主体税的选择就成为确定税制结构目标模式的关键。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab161a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae3-7170-11ee-866d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。按课税对象性质特点对税收进行分类主要意义在于帮助分析税收负担及税负运动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab164c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae4-7170-11ee-bd29-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。凭发票抵扣进项税额的消费型增值税的税负总是会最终全落到消费者身上。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1674-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae5-7170-11ee-b2bb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从税收的稳定目标考虑，流转税由于比例税率而形成的刚性税制，比所得税由于累进税率而形成的弹性税制，对宏观经济稳定具有更大的调节作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab16a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae6-7170-11ee-a8b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。目前，多数国家包括我国，都是同时实行属人和属地两类税收管辖。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab16ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae7-7170-11ee-8692-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。完全的归属抵免制可以彻底消除公司所得税与个人所得税的经济性重复征税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab16f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae8-7170-11ee-a90b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。增值税纳税人兼营非增值税应税项目的，应分别核算货物或者应税劳务的销售额和非增值税应税项目的营业额；未分别核算的，由主管税务机关核定货物或者应税劳务的销售额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1728-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bae9-7170-11ee-98d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。单位和个人提供应税劳务、转让无形资产和销售不动产时，因受让方违约而从受让方取得的赔偿金收入，应并入营业额中征收营业税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1750-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baea-7170-11ee-840d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。纳税人直接出口的应税消费品办理免税后，发生退关或者国外退货，进口时应补缴消费税税款。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1778-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baeb-7170-11ee-ace3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。纳税人到外县（市）销售自产应税消费品的，应于应税消费品销售后，向销售地主管税务机关申报纳税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab17aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baec-7170-11ee-af72-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国个人所得税法规定，纳税人从中国境外取得的所得，准予其在应纳税额中据实扣除已在境外缴纳的个人所得税税额。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab17d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baed-7170-11ee-b2b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业在汇总计算缴纳企业所得税时，其境外营业机构的亏损可以抵减境内营业机构的盈利。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab17fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baee-7170-11ee-84fa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。同一凭证，由两方或者两方以上当事人签订并各执一份的，应当由各方就所执的一份各自全额贴花。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab182c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baef-7170-11ee-a2ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。因税务机关责任，致使纳税人、扣缴义务人未缴或者少缴税款的，税务机关5年内可以追征税款、滞纳金。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1854-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf0-7170-11ee-8dcd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税务机关对久缴税款的纳税人行使代位权或撤销权后，可以免除纳税人尚未履行的纳税义务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab187c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf1-7170-11ee-a4f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收的本质是公共权力主体对剩余产品价值的占有。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab18ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf2-7170-11ee-958b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一国行使居民税收管辖权，意味着该国只对居民来源于本国境内的所得行使征税权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab18d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf3-7170-11ee-a22c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收的纵向公平意味着同等纳税能力的人负担同等税负。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1908-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf4-7170-11ee-872b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。税收是一个历史范畴，是人类社会发展到一定历史阶段的产物，随着国家的产生、发展而产生、发展。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1930-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf5-7170-11ee-8c21-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果按大类划分，税收管理权限可以划分为税收立法权和税收执法权两类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1958-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf6-7170-11ee-8acd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。消除国际重复征税及外延扩大的基本原则是非居住国承认居住国优先行使居民管辖权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab198a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf7-7170-11ee-9e85-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。征税机关是税收法律关系中的权利主体，纳税义务人是权利客体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab19b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf8-7170-11ee-841b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。如果增值税一般纳税人以货易货，由于没有产生资金流动，不需要计算增值税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab19e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602baf9-7170-11ee-ad0f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。企业接受捐赠的资产，在经营使用中可以按税法的规定结转成本和计提折旧。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "财政学类",
+		"raw_uuid": "34ab1a0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a602bafa-7170-11ee-80dd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。从事机动车交通事故责任强制保险业务的保险机构为机动车车船税的扣缴义务人，应依法代收代缴车船税。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	}
+]

@@ -1,0 +1,1522 @@
+[
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3564ffc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16b695-702f-11ee-b27f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。习近平总书记在中国共产党第二十次全国代表大会上明确提出，“中国特色社会主义进入了新时代”。  "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565007a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd92-702f-11ee-9e0d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。新时代是全国各族人民团结奋斗、不断创造美好生活、迅速实现全体人民共同富裕的时代。  "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356500ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd93-702f-11ee-a613-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我们党作为百年大党，如何永葆先进性和纯洁性、永葆青春活力，如何永远得到人民拥护和支持，如何实现长期执政，是我们必须回答好、解决好的一个根本性问题。  "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356500de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd94-702f-11ee-bdfb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。三个重大时代课题，是站在新时代历史节点上向中国共产党人提出的“时代三问”，是理解习近平新时代中国特色社会主义思想的“理论之眼”。  "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650110-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd95-702f-11ee-b84d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。习近平新时代中国特色社会主义思想既讲是什么、为什么，又讲怎么看、怎么办，既部署“过河”的任务，又指导解决“桥或船”的问题，生动体现了马克思主义世界观和方法论的统一。  "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650138-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd96-702f-11ee-9487-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国人民是伟大的人民，具有伟大的梦想精神，人民是中国梦的主体，是中国梦的创造者和享有者。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650160-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd97-702f-11ee-9d09-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我们党要团结带领人民有效应对重大挑战、抵御重大风险、克服重大阻力、解决重大矛盾，必须进行具有许多新的历史特点的伟大事业。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650192-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd98-702f-11ee-97ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。走自己的路，是党的全部理论和实践的立足点，更是党百年奋斗得出的历史结论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356501ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd99-702f-11ee-a377-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。经过实践，我们党很快就觉察到苏联经验的局限，提出要“以苏为鉴”，充分借鉴资本主义国家经验模式探索适合中国国情的社会主义建设道路。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356501e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd9a-702f-11ee-882e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。不能用改革开放前的历史时期否定改革开放后的历史时期，但改革开放后的历史时期能够否定改革开放前的历史时期。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650214-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd9b-702f-11ee-801e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。看齐意识就是要求向党中央看齐，向党的理论和路线方针政策看齐，向党中央决策部署看齐，做到党中央提倡的坚决响应、党中央决定的坚决执行、党中央禁止的坚决不做。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565023c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd9c-702f-11ee-a0ff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。政治意识就是要求向党中央看齐，向党的理论和路线方针政策看齐，向党中央决策部署看齐，做到党中央提倡的坚决响应、党中央决定的坚决执行、党中央禁止的坚决不做。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565026e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd9d-702f-11ee-8bdd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个国家、一个政党，领导核心至关重要。坚决维护习近平总书记党中央的核心、全党的核心地位，保证全党令行禁止，形成思想和行动高度统一的整体，这是一个成熟的马克思主义执政党的必然要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650296-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd9e-702f-11ee-9f64-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。核心意识就是要始终坚持、切实加强党的领导，特别是党中央的集中统一领导，更加紧密地团结在以习近平同志为核心的党中央周围，更加坚定地维护党中央权威，更加自觉地在思想上政治上行动上同党中央保持高度一致。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356502be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dd9f-702f-11ee-bc1d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。党、政、军、民、学在党中央的集中统一领导下，既各司其职、各负其责又相互配合，这样治国理政才有方向、有章法、有力量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356502f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda0-702f-11ee-a956-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人民是历史的创造者，是决定党和国家前途命运的根本力量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650318-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda1-702f-11ee-bb6e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。群众路线始终是党的生命线和根本工作路线，是我们党永葆青春活力和战斗力的重要传家宝。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565034a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda2-702f-11ee-bf9c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国共产党的根本宗旨就是全心全意为人民服务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650372-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda3-702f-11ee-9545-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。共同富裕意味着消除贫富差距，实现平均分配。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356503a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda4-702f-11ee-bcdd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。让老百姓过上好日子是党一切工作的出发点和落脚点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356503cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda5-702f-11ee-a2aa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。党的二十大报告指出，高质量发展是全面建设社会主义现代化国家的首要任务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356503fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda6-702f-11ee-bf73-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。公有制主体地位、民营经济主导作用是我国各族人民共享发展成果的制度性保证，也是巩固党的执政地位、坚持我国社会主义制度的重要保证。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650426-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda7-702f-11ee-ba9a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。要坚持使市场在资源配置中起决定性作用，完善市场机制，打破行业垄断、进入壁垒、地方保护，增强企业对市场需求变化的反应和调整能力，提高企业资源要素配置效率和竞争力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565044e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda8-702f-11ee-bb19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当前和今后一个时期，我国经济发展面临的问题，供给和需求两侧都有，但矛盾的主要方面在供给侧。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650480-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16dda9-702f-11ee-b2dd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。现代化经济体系是由社会经济活动各个环节、各个层面、各个领域的相互关系和内在联系构成的一个有机整体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356504b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16ddaa-702f-11ee-a414-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。全面深化改革总目标是一个有机整体，推进国家治理体系和治理能力现代化规定了全面深化改革的根本方向。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356504da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16ddab-702f-11ee-936c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。加强党对全面深化改革的集中统一领导是全面深化改革取得成功的关键。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565050c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16ddac-702f-11ee-9af0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。党的十八届三中全会提出，紧紧围绕建设社会主义核心价值体系、社会主义文化强国深化文化体制改革。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565053e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16ddad-702f-11ee-aa78-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国坚持共商共建共享，推动共建“一带一路”高质量发展，推进一大批关系沿线国家经济发展、民生改善的合作项目，建设和平之路、繁荣之路、开放之路、绿色之路、创新之路、文明之路。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650566-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16ddae-702f-11ee-9e1f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在扩大对外开放的同时，要加快建构起我国海外利益保护机制和风险预警防范体系，特别是要提升防范国际金融风险的能力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650598-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e16ddaf-702f-11ee-8a70-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国的国体是工人阶级领导的、以工农联盟为基础的人民民主专政的社会主义国家；我国的政体是人民代表大会制度。      "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356505c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17124b-702f-11ee-9783-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义民主建立在生产资料公有制的经济基础之上。      "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356505f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17124c-702f-11ee-b516-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国民主的高质量，促进了国家治理的高效能，提升了国家治理体系和治理能力现代化水平。       "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565061a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17124d-702f-11ee-8fcf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国全过程人民民主实现了过程民主和成果民主、制度民主和实质民主、直接民主和间接民主、人民民主和国家意志相统一。     "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565064c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17124e-702f-11ee-a9d7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人民民主是社会主义的生命，没有民主就没有社会主义，就没有社会主义的现代化，就没有中华民族伟大复兴。       "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650674-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17124f-702f-11ee-b80c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。要深化行政执法体制改革，全面推进严格规范公正文明执法，加大关系群众切身利益的重点领域执法力度，完善行政执法程序，健全行政裁量基准。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565069c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171250-702f-11ee-809e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在中国，“党大还是法大”是一个伪命题，“权大还是法大”同样是一个伪命题。   "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356506ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171251-702f-11ee-939b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。建设中国特色社会主义法治体系，必须坚持守法先行，发挥全民守法的引领和推动作用。                                          "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356506f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171252-702f-11ee-aafd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。党的领导是实现全面推进依法治国总目标的最根本保证，必须始终坚持党总揽全局、协调各方的领导核心地位不动摇。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650728-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171253-702f-11ee-ac46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。全面推进依法治国，必须大力提高法治工作队伍思想政治素质、业务工作能力、职业道德水准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565075a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171254-702f-11ee-9600-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。要化解人与自然、人与人、人与社会的各种矛盾，必须依靠文化的熏陶、教化、激励作用，发挥先进文化的凝聚、润滑、整合作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650782-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171255-702f-11ee-903a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“自由、平等、公正、法治”是社会主义核心价值观在国家层面上的价值取向。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356507aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171256-702f-11ee-b145-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个政权的瓦解往往是从思想领域开始的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356507dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171257-702f-11ee-aad8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。必须坚持马克思主义在意识形态领域指导地位的根本制度，确保我国文化建设始终沿着正确方向前进。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650804-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171258-702f-11ee-8ccf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。体现一个国家综合实力最核心的、最高层的，还是经济硬实力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565082c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171259-702f-11ee-8de3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。就业是经济的“晴雨表”，是社会的“稳定器”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565085e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17125a-702f-11ee-aef1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。加强和创新社会治理，核心是人，只有人与人和谐相处，社会才会安定有序。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650890-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17125b-702f-11ee-b0cf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国已经历史性地解决绝对贫困问题、如期全面建成小康社会，“全部消灭贫穷”的历史任务已经完成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356508b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17125c-702f-11ee-a1d1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。党的二十大报告指出，为民造福是立党为公、执政为民的本质要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356508ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17125d-702f-11ee-87c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。基层治理是国家治理的基石。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650912-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17125e-702f-11ee-8826-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。保护生态环境已成为全球共识，但把生态文明建设作为一个执政党的行动纲领，中国共产党是第一个。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650944-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17125f-702f-11ee-8491-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。党的十八大以来，我国全面加强生态文明建设，决心之大、力度之大、成效之大前所未有。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565096c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171260-702f-11ee-aff8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。过去一段时期，我国生态退化比较严重，致使我国经济社会发展的环境承载力下降。要破解这一短板问题，必须加快构建生态功能保障基线，提升生态系统质量和稳定性。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "3565099e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171261-702f-11ee-b7ab-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我国积极参与全球环境与气候治理，作出力争2040年前实现碳达峰、2060年前实现碳中和的庄严承诺，体现了负责任大国的担当。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356509c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171262-702f-11ee-8005-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。加快发展方式绿色转型，要发展绿色低碳产业，健全资源环境要素市场化配置体系，加快节能降碳先进技术研发和推广应用。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "356509f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171263-702f-11ee-baac-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。世界新军事革命以信息化为核心，以军事战略、军事技术、作战思想、作战力量、组织体制和军事管理创新为基本内容，以重塑军事体系为主要目标，其速度之快、范围之广、程度之深、影响之大，为第二次世界大战结束以来所罕见。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650a20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171264-702f-11ee-ab84-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。扣牢建军一百年奋斗目标，确保国防和军队现代化进程同国家近代化进程相适应、军事能力同国家战略需求相适应，就能更好地以强军支撑强国。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650a52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171265-702f-11ee-825c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国特色军事变革取得重大进展，但机械化建设任务尚未完成，信息化水平亟待提高，军事安全面临技术突袭和技术代差被拉大的风险，军队现代化水平与国家安全需求相比差距还很大，与世界先进军事水平相比差距还很大。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650a7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171266-702f-11ee-9856-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当兵就是要打仗，这就像工人要做工、农民要种田一样，打仗和准备打仗是军人的天职，也是军队使命职责之所在。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650aa2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171267-702f-11ee-a354-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。建军一百年奋斗目标，体现了党的历史使命、国家战略需求和我军使命任务的有机统一，丰富拓展了党在新时代强军目标的时代内涵，标定了未来10年我军建设的中心任务，意义重大而深远。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650ad4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171268-702f-11ee-b536-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。现在大环境相对平稳，风险挑战比较容易看清楚。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650afc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171269-702f-11ee-b981-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。国家安全是指国家政权、主权、统一和领土完整、人民福祉、经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态，以及保障持续安全状态的能力。 "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650b24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17126a-702f-11ee-9559-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。走中国特色国家安全道路，努力开创国家安全工作新局面，是对总体国家安全观的贯彻落实，归根到底是为了确保中华民族伟大复兴进程不被迟滞甚至中断。    )"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650b56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17126b-702f-11ee-b288-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。核安全已经成为我国面临的最复杂、最现实、最严峻的非传统安全问题之一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650b7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17126c-702f-11ee-8d39-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。美国次贷危机属于黑天鹅事件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650bb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17126d-702f-11ee-970b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实现“一国两制”的前提和基础是港、澳、台享有高度自治权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650bd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17126e-702f-11ee-880e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“一国两制”是我国独创的，在过往的人类政治实践中还从未有过。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650c0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17126f-702f-11ee-b190-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“一国两制”构想的提出最初是为了解决历史遗留的香港、澳门问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650c32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171270-702f-11ee-93cb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“一国两制”的伟大构想同样完全适用于世界上其他国家解决本国类似问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650c64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171271-702f-11ee-9e6d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中华人民共和国香港特别行政区维护国家安全法》的公布施行，有效地维护了国家安全，有效地防范、制止和惩治了与香港特别行政区有关的危害国家安全的犯罪，堵塞了香港特别行政区在维护国家安全方面存在的制度漏洞。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650c8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171272-702f-11ee-b96d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当今世界正经历百年未有之大变局，这样的大变局不是一时一事、一域一国之变，是世界之变、时代之变、历史之变。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650cbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171273-702f-11ee-95a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当今世界，国际力量对比发生深刻变化，一批发达国家取得加速发展，国际影响力进一步增强，是近代以来国际力量对比中最具革命性的变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650cf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171274-702f-11ee-b3d2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。当今世界，逆全球化思潮正在发酵，保护主义的负面效应日益显现，收入分配不平等、发展空间不平衡已成为全球经济治理面临的最突出问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650d18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171275-702f-11ee-8c8b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。各国要相互尊重、平等协商，坚决摒弃冷战思维和强权政治。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650d4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171276-702f-11ee-afd2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。习近平主席在莫斯科国际关系学院发表《共同构建人类命运共同体》的主旨演讲，提出世界怎么了、我们怎么办？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650d72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171277-702f-11ee-a093-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。我们要落实新时代党的建设总要求，健全全面从严治党体系，全面推进党的自我净化、自我完善、自我革新、自我提高，使我们党坚守初心使命，始终成为中国特色社会主义事业的坚强领导核心。  "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650da4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171278-702f-11ee-84c5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。全面从严治党是实现中华民族伟大复兴的根本任务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650dcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e171279-702f-11ee-b905-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。党的二十大报告首次提出“健全全面从严治党体系”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650dfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17127a-702f-11ee-a43e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。经过百年奋斗特别是党的十八大以来新的实践，我们党给出了跳出历史周期率的第一个答案，这就是自我革命。  "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "政治学类",
+		"raw_uuid": "35650e26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "3e17127b-702f-11ee-ae50-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。严密的组织体系是党的优势所在、力量所在。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	}
+]

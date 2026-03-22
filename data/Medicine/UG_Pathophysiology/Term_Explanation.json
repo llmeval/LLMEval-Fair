@@ -1,0 +1,2263 @@
+[
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69ca8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbc3971-723e-11ee-a01b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：病理生理学（pathophysiology）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "研究疾病发生、发展、转归的规律和机制的科学。重点研究疾病中功能和代谢的变化。沟通临床和基础医学的“桥梁”性学科。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69d98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd344f-723e-11ee-ac22-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：病理过程(pathologicalprocess，基本病理过程)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "多种疾病中可能出现的、共同的、成套的功能、代谢和结构的变化。如低钾血症，水肿等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fd7-723e-11ee-821d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：综合征（syndrome,各论）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "体内几个主要系统的某些疾病在发生、发展过程中可能出现一些常见而共同的病理过程，临床上称其为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69dfc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fd8-723e-11ee-9e81-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：健康（health）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不仅没有疾病，而且躯体上、精神上和社会上处于完好状态。强壮体魄+健全的心理精神状态。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69e2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fd9-723e-11ee-9f58-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：疾病（disease）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "机体在一定条件下，由病因与机体相互作用而产生的一个损伤与抗损伤斗争的有规律过程，体内有一系列功能、代谢和形态的改变，临床出现许多不同的症状与体征，机体与外环境间的协调发生障碍。简言之，疾病时机体在一定条件下受病因损害作用后，因机体自稳调节紊乱而发生的异常生命活动。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69e60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fda-723e-11ee-9b27-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：死亡（death）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "机体作为一个整体的功能永久停止。以脑死亡（braindeath）为标准（枕骨大孔以上全脑死亡）。脑死亡标准：呼吸心跳停止（特别是自主呼吸停止）；不可逆性深昏迷；脑干神经反射消失（瞳孔对光、角膜、咳嗽、吞咽反射等）；瞳孔散大或固定；脑电波消失，成平直线；脑血液循环完全停止。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69e88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fdb-723e-11ee-88e9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：诱因(precipitatingfactor)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "能加强病因作用或促进疾病发生的因素称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69eba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fdc-723e-11ee-b813-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：分子病"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基因突变引起分子病。如血友病。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69ee2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fdd-723e-11ee-9730-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：染色体病"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "染色体引起~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69f0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fde-723e-11ee-a79a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：高渗性脱水（hypertonicdehydration）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称低容量性高钠血症（hypovolemichypernatremia），特点：失水＞失钠，血清Na+浓度＞150mmol/L，血浆渗透压＞310mmol/L,细胞内外液量均减少。原因：水摄入减少；水丢失过多。影响：口渴；有脱水症；细胞内液向外液转移；尿量减少、尿比重增高。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69f3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fdf-723e-11ee-9c88-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：低渗性脱水（hypotonicdehydration）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "也称低容量性低钠血症（hypovolemichypnatremia），特点：失钠＞失水，血清Na+浓度＜130mmol/L，血浆渗透压＜280mmol/L，伴有细胞外液量的减少。原因：肾内或肾外丢失大量的液体或液体积聚在第三间隙后处理措施不"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69f64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe0-723e-11ee-9a86-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：等渗性脱水（isotonicdehydration）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特点：失钠=失水，血容量减少，但血清Na+浓度和血浆渗透压仍在正常范围。呕吐、腹泻、大面积烧伤等等渗性液体的大量丢失所造成的血容量减少，均可致等渗性脱水。不处理-高渗性脱水（不感蒸发+呼吸等丢失水分）；补给过多低渗溶液-低渗性脱水。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69f96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe1-723e-11ee-bf25-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：水中毒（waterintoxication）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称高容量性低钠血症（hypervolemichyponatremia），特点：血钠下降，血清Na+浓度＜130mmol/L，血浆渗透压＜280mmol/L，但体钠总量正常或增多，有水潴留使体液量明显增多。原因：主要是多过的低渗性体液在体内潴留造成细胞内外液量都增多，引起重要器官功能严重障碍。影响：细胞外液量增加，血液稀释；细胞内水肿；CNS症状；尿量早期增加，尿比重（指在4℃条件下尿液与同体积纯水的重量之比，取决于尿中溶解物质的浓度，与固体总量成正比，常用来衡量肾脏浓缩稀释功能）下降；体重增加。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69fbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe2-723e-11ee-b360-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：低钾血症（hypokalemia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "血清钾浓度低于3.5mmol/L称为~但体内钾总量不一定少，但多数情况，低钾血症伴有缺钾。原因：钾摄取不足；钾丢失过多；细胞外钾转入细胞内；毒物中毒；低钾性周期性麻痹。影响：神经肌肉松弛-超极化阻滞状态腱反射减弱，呼吸肌麻痹，消化道运动降低；体外性低血压。心肌-3高1低：收缩性减弱，兴奋性、自律性、传导性增高。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d69ff0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe3-723e-11ee-91de-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：高钾血症（hyperkalemia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "血清钾浓度高于5.5mmol/L称为~极少伴有细胞内钾含量的增高，未必总是伴有体内钾过多。原因：钾摄入过多；钾排出减少；细胞内钾转运到细胞外；假性高钾血症。影响：神经肌肉-兴奋性先增高后降低，去极化阻滞状态，肌肉软弱无力至迟缓性麻痹；心肌-3低1高：兴奋性增高（严重时降低），收缩性、自律性、传导性降低。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a018-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe4-723e-11ee-8c5f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：反常性酸性尿（paradoxicalacidicurine）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "低钾血症合并代谢性碱中毒时，肾小管上皮细胞泌K+减少，泌H+增多，尿液呈酸性的现象。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a04a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe5-723e-11ee-8ad0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：反常性碱性尿（paradoxicalalkalineurine）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高血钾合并代谢性酸中毒时，肾小管上皮细胞泌K+增多，泌H+减少，尿液呈碱性的现象。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a072-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe6-723e-11ee-8497-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：水肿（edema）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "过多的液体在组织间隙或体腔内积聚称为~原因：血管内外液体交换平衡"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a0a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe7-723e-11ee-ad71-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：脱水热"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高渗性脱水严重患者，尤其小儿，由于从皮肤蒸发的水分减少，使散热收到影响，从而导致体温升高，即~心性水肿：通常指右心衰竭引起的全身性水肿。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a0cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe8-723e-11ee-8528-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：低镁血症"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "低镁血症（hypomagnesemia）：血浆镁浓度低于0.75mmol/L称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a0fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fe9-723e-11ee-ace8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：高镁血症（hypermagenesemia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "血浆镁浓度高于1.25mmol/L称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a126-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fea-723e-11ee-bd04-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：酸碱平衡紊乱（acid-basedisturbance）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "引起酸碱负荷过度或调节机制障碍导致体液酸碱度稳定性破坏，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a14e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6feb-723e-11ee-b515-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：挥发酸（volatileacid）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即碳酸。糖脂肪蛋白质在分解代谢中，氧化的最终产物是CO2，CO2与水结合生成碳酸，也是机体在代谢过程中产生最多的酸性物质。可释H+，也可形成气体CO2，从肺排出体外，故称之为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a180-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fec-723e-11ee-9e1a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：固定酸（fixedacid）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "这类酸性物质不能变成气体从肺呼出，只能通过肾由尿排出，又称非挥发酸（unvolatileacid）。固定酸主要来自蛋白质分解代谢。包括：硫酸、磷酸、尿酸、甘油酸、丙酮酸、乳酸、三羧酸、酮体等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a1a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fed-723e-11ee-8579-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：代谢性酸中毒（metabolicacidosis）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "细胞外液H+增加和（或）HCO3-丢失而引起的以血浆原发性HCO3-减少、pH呈降低趋势为特征的酸碱平衡紊乱。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a1da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fee-723e-11ee-859b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：呼吸性碱中毒（respiratoryalkalosis）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指肺通气过度引起的血浆H2CO3浓度原发性减少、pH呈升高趋势为特征的酸碱平衡紊乱类型。。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a202-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fef-723e-11ee-b857-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：呼吸性酸中毒（respiratoryacidosis）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指CO2排出障碍或吸入过多引起的以血浆H2CO3浓度升高、pH呈降低趋势为特征的酸碱平衡紊乱类型。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a234-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff0-723e-11ee-9549-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：代谢性碱中毒（metabolicalkalosis）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指细胞外液碱增多或Ｈ＋丢失而引起的以血浆HCO3－增多、ｐＨ呈上升趋势为特征的酸碱平衡紊乱类型。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a25c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff1-723e-11ee-8bc2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：混合性酸碱平衡紊乱"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同一患者体内同时存在2种或2种以上单纯型酸碱紊乱"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a28e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff2-723e-11ee-bd27-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：SB（standardbicarbonate）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标准碳酸氢盐。指全血在标准条件下，即PaCO2为40mmHg（5.32kPa），温度38℃，血红蛋白氧饱和度为100%测得的血浆中的HCO3-的量。标准22-27mmol/L,平均24mmol/L。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a2b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff3-723e-11ee-908f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：AB（actualbicarbonate）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "实际碳酸氢盐。在隔绝空气的条件下，在实际PaCO2、体温和血氧饱和度条件下测得的血浆HCO3-浓度。若AB＜SB，CO2排出过多，呼吸性碱中毒；AB＞SB，CO2潴留，可见于呼吸性酸中毒；若AB、SB同增/减，反应代谢因素。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a2e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff4-723e-11ee-a73c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：BB（bufferbase）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "缓冲碱。血液中一切具有缓冲作用的负离子碱的总和。通常以氧饱和的全血在标准状态下测定，正常45-52mmol/L，正常48mmol/L。代谢性酸中毒时BB减少，代谢性碱中毒时BB升高。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a310-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff5-723e-11ee-adef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：BE（baseexcess）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "碱剩余。在标准条件下，用酸或碱滴定全血标本至pH7.40时所需的酸或碱的量。范围-3.0~+3.0mmol/L.用酸滴定：说明被测血碱过多，B"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a338-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff6-723e-11ee-acd3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：用正值标示；反之，用碱滴定，BE用负值标示。代谢性酸中毒时BE负值增加；代谢性碱中毒时，BE正值增加。EAG（aniongap,AG）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阴离子间隙。指血浆中的未测定的阴离子（UA）与未测定的阳离子（UC）的差，波动范围１２±２mmol/L。AG=UA-UＣ。若ＡＧ＞１６mmol/L，可判断有代谢性酸中毒。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a36a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff7-723e-11ee-828e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：缺氧（hypoxia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因组织供氧减少或用氧障碍引起细胞代谢、功能和形态结构异常变化的病理过程。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a392-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff8-723e-11ee-a347-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：血氧分压（PO2）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物理溶解于血液中的氧产生的张力。正常人A血氧分压（arterialpartialpressureofoxygen,PaO2）约为100mmHg,取决于吸入气体的氧分压和外呼吸功能；V血氧分压（venouspartialpressureofoxygen,PvO2）约为40mmHg，主要取决于组织摄氧和用氧的能力。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a3c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ff9-723e-11ee-9b03-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：血氧容量（oxygenbindingcapacityinblood,CO2max）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "100ml血液中的血红蛋白被氧充分饱和时最大携氧量。取决于Hb的质（与氧结合能力）与量（每100ml血液所含Hb的数量）。血氧容量反应血液携带氧的能力强弱。正常值20ml/dl."
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a3ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ffa-723e-11ee-af41-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：血氧含量(oxygencontentinblood)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "100ml血液的实际携氧量。包括结合于Hb中的氧和溶解于血浆中的氧量。主要是Hb结合的氧量，取决于血氧分压和血氧容量。CaO2约为19ml/dl,CvO2约为14ml/dl。动静脉血氧含量差反应组织的摄氧能力。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a414-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ffb-723e-11ee-ab09-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：血氧饱和度（oxygensaturationofHb,SO2）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "即血红蛋白氧饱和度，是Hb与氧结合的百分数。主要取决于PaO2."
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a446-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ffc-723e-11ee-8b83-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：发绀（cyanosis）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "毛细血管血液中脱氧血红蛋白的平均浓度超过5g/dl时，皮肤和黏膜呈青紫色，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a46e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ffd-723e-11ee-b0ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：低张性缺氧（hypotonichypoxial）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以动脉血氧分压降低为基本特征的缺氧称为~即乏氧性缺氧（hypoxichypoxia），又称低张性低氧血症（hypotonichypoxemia）。原因：外环境PO2过低；外呼吸功能障碍；静脉血流入动脉血。CO2max不变，其余血氧指标下降。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a4a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6ffe-723e-11ee-b98c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：循环性缺氧（circulatoryhypoxia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因组织血流量减少引起的组织供氧不足，又称低动力性缺氧（hypokinetichypoxia）。原因：全身/局部性循环障碍。CvO2下降，其余不变。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a4c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd6fff-723e-11ee-b1a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：血液性缺氧（hemichypoxia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由于血红蛋白数量减少或性质改变，以致血液携氧能力降低或血红蛋白结合的氧不易释放出所引起的缺氧称为~。由于外呼吸功能正常，PaO2及血氧饱和度正常，又称等张性缺氧（isotonichypoxia）。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a4f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7000-723e-11ee-9b4b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：组织性缺氧（histogenoushypoxia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在组织供氧正常的情况下，因细胞不能有效地利用氧而导致的缺氧称为~，又称氧利用障碍性缺氧（dysoxidativehypoxia）。原因：组织中毒；维生素缺乏；线粒体损伤。CvO2升高，其余不变。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a522-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7001-723e-11ee-bc0c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肠源性紫绀（enterogenouscyanosis）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高铁血红蛋白呈棕褐色，故亚硝酸盐中毒患者的皮肤、黏膜呈咖啡色。若因进食导致大量血红蛋白氧化而引起的高铁血红蛋白血症称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a54a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7002-723e-11ee-b4c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：发热(fever)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由于致热原的作用使体温调定点（setpoint，SP）上移而引起调节性体温升高时，称之为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a57c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7003-723e-11ee-93ab-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：过热（hyperthermia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由于体温调节障碍（如体温调节中枢损伤），或散热障碍（皮肤鱼鳞病、中暑）及产热器官功能异常（甲亢）等，体温调节机构不能将体温控制在与调定点相应的水平上，是被动性体温升高（非调节性体温升高），称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a5a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7004-723e-11ee-9895-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：发热激活物（又称EP诱导物）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "能激活活体内产生致热源细胞，产生和释放内生致热源的物质。包括外致热原（exogenouspyrogen）和某些体内产物。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a5d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7005-723e-11ee-8e95-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：P物质在发热激活物的作用下，产生和释放的能引起体温升高的致热性细胞因子。称为~E急性期反应（acutephaseresponse）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "机体在细菌感染和组织损伤时出现的一系列形式的反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a5fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7006-723e-11ee-b0df-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：细胞凋亡（apoptosis）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由体内外因素触发细胞内预存的死亡程序而导致的细胞死亡程序，是程序性细胞死亡（programmedcelldeath,PCD）的形式之一。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a626-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7007-723e-11ee-b54a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：应激（stress）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称应激反应（stressresponse），机体收到内外环境因素及社会、心理因素刺激时所出现的全身性非特异性适应反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a658-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7008-723e-11ee-8e63-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：应激原（stressor）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "强度足够引起应激反应的任何刺激都可成为~分为内、外、心理/社会因素。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a680-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7009-723e-11ee-b7c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：热休克蛋白（HSP）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称应急蛋白（stressprotein，SP）。生物机体在热应激（或其他应激）时所表现的以基因变化为特征的防御适应反应称为热休克反应（heatshockresponse，HSR）。此时新合成或合成增多的一组蛋白质。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a6b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd700a-723e-11ee-a018-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：全身适应综合征（GAS）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "剧烈运动、毒物、寒冷、高温及严重创伤等多种有害因素可引起实验动物一系列神经内分泌变化，并导致机体多方面的紊乱与损害，称为~3期：警觉期、抵抗期、衰竭期。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a6da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd700b-723e-11ee-9eff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：应激相关疾病"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以应激作为条件或诱因，在应激状态下加重或加速发生发展的疾病称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a702-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd700c-723e-11ee-82af-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：应激性疾病（stressdisease）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由应激所直接引起的疾病称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a734-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd700d-723e-11ee-af82-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：应激性溃疡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在大面积烧伤、严重创伤、休克、败血症、脑血管意外等应激状态下出现的胃、十二指肠黏膜的急性损伤。主要表现为胃及十二指肠黏膜的糜烂、溃疡、出血。与黏膜缺血、糖皮质激素等有关。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a75c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd700e-723e-11ee-bc11-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：劣性应激（psychosomaticdiseases）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称病理性应激，是指应激原强烈且作用时间持久的应激（如休克、大面积烧伤等），除仍具有某些防御代偿意义外，可引起机体自稳态的严重失调，甚至导致应激性疾病。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a78e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd700f-723e-11ee-b78e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：缺血-再灌注损伤（ischemia-reperfusioninjury）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在缺血基础上回复血流后组织损伤反而加重，甚至发生不可逆性损伤的现象称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a7b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7010-723e-11ee-acb1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：钙反常（calciumparadox）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以无钙溶液灌流离体大鼠心脏2min后再以含钙溶液灌注时，心肌电信号异常，心脏功能、代谢及形态结构发生异常变化的现象，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a7e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7011-723e-11ee-91f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：氧反常（oxygenparadox）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "预先用低氧溶液灌注组织器官或在缺氧条件下培养细胞一定时间后，再恢复正常氧供应，组织及细胞的损伤不仅未能恢复，反而更趋严重。称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a810-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7012-723e-11ee-8103-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：pH反常（pHparadox）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "缺血引起的代谢性酸中毒是细胞功能及代谢紊乱的重要原因，但再灌注时迅速纠正缺血组织的酸中毒，反而加重细胞损伤，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a838-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7013-723e-11ee-a441-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：自由基（freeradical）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外层电子轨道上含有单个不配对电子的原子、原子团和分子的总称。化学性质极为活泼，易于失去电子（氧化）或夺取电子（还原），特别是其氧化作用强，故具有强烈的引发脂质过氧化作用。分为氧自由基、脂性自由基、其他等~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a86a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7014-723e-11ee-b60e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：氧自由基（oxygenfreeradical，OFR）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由氧诱发的自由基称为~如超氧阴离子（O，单电子还原）和羟自由基（OH·，三电子还原）等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a892-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7015-723e-11ee-b42b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：呼吸爆发（respiratoryburst）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称氧爆发（oxygenburst），再灌注期间组织重新获得O2，激活的中性粒细胞耗氧量显著增加，产生大量氧自由基，即~而进一步造成组织细胞损伤。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a8c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7016-723e-11ee-84e2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：钙超载（calciumoverload）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "各种原因引起的细胞内钙含量异常增多并导致细胞结构损伤和功能代谢障碍的现象。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a8ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7017-723e-11ee-8a90-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：无复流现象（no-reflowphenomenon）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "结扎犬的冠状动脉造成局部心肌缺血后，再打开结扎的动脉，使血流重新开放，缺血区并不能得到充分的血流灌注，称为~病生基础：中性粒细胞激活及其致炎细胞因子的释放。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a914-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7018-723e-11ee-b556-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：心肌顿抑（myocardialstunning）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "缺血心肌在恢复血液灌注后一段时间内出现可逆性收缩功能降低的现象，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a946-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7019-723e-11ee-b6e9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：黏附分子（adhesionmolecule）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由细胞合成，可促进细胞与细胞之间、细胞与细胞外基质之间黏附的一大类分子的总称，在维持细胞结构完整和细胞信号转导过程中起重要作用。如整合素、选择素、细胞间黏附分子等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a96e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd701a-723e-11ee-b54d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：再灌注性心律失常（reperfusionarrhythmia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "缺血心肌再灌注过程中出现的心律失常，称为~发生率极高，以室性心律失常居多。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a996-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd701b-723e-11ee-9e93-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：休克（shock）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "休憩室多病因、多发病环节、有多重体液因子参与，以机体循环系统，尤其是微循环功能紊乱、组织细胞灌注不足为主要特征，并可能导致多器官功能障碍甚至衰竭等严重后果的复杂的全身调节紊乱性病理过程。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a9c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd701c-723e-11ee-969f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：休克肺（shocklung）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "严重休克引起的急性呼吸晒节。临床治疗休克强调结合补液应用舒血管药改善微循环，但易因扩容不当，诱发或加重急性呼吸衰竭，导致~病理变化可见肺充血、肺水肿、肺不张、肺泡透明膜形成等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6a9f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd701d-723e-11ee-a313-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：休克肾（shockkidney）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "临床治疗休克若长时间大剂量应用缩血管药，病情可能恶化，甚至死亡，多死于急性肾衰竭。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6aa22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd701e-723e-11ee-938f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：多器官功能衰竭综合征（multipleorgandysfunctionsyndrome，MODE）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在严重创伤、感染和休克时，原无器官功能障碍的患者同时或在短时间内相继出现两个以上器官系统的功能障碍以致机体内环境的稳定必须靠临床干预才能维持的综合征。（那些原有某器官衰竭的慢性病患者以后继发引起另一器官衰竭，如肺性脑病等，不属于MODS。）"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6aa4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd701f-723e-11ee-8b3c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：心肌抑制因子（MDF）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主要由缺血的胰腺产生，引起使心肌收缩性减弱、肠系膜上动脉等内脏阻力血管收缩，进一步减少胰腺血流量，但又促进MDF形成。/系休克时胰腺严重缺血，外分泌腺细胞溶酶体膜破裂，释出的组织蛋白酶分解组织蛋白而生成的小分子多肽，具有抑制心肌收缩性、抑制单核吞噬系统功能和收缩腹腔内脏小血管的作用。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6aa7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7020-723e-11ee-94b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：DIC（disseminatedintravascularcoagulation）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "弥散性血管内凝血。由于某些致病因子的作用，凝血因子和血小板被激活，大量促凝物质入血，使凝血酶增加，进而微循环中形成惯犯的微血栓，大量微血栓的形成小号了大量凝血因子和血小板，同时引起继发性纤维蛋白溶解功能增强，导致出血、休克、器官功能障碍和溶血性贫血等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6aaa4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7021-723e-11ee-8fc6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：FDP"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在纤溶酶作用下，纤维蛋白和纤维蛋白原被水解后生成一些小分子多肽。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6aacc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7022-723e-11ee-92c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：微血管病性溶血性贫血（microangiopathichemolyticanemia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "DIC病人伴有的特殊类型贫血。外周血涂片可见特殊的形态各异的变形红细胞（裂体细胞）。外形呈盔形、星形、新月形等。统称红细胞碎片，脆性高，易发生溶血。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6aafe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7023-723e-11ee-b5c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：心力衰竭（heartfailure）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在各种致病因素作用下，心脏的舒缩功能发生障碍，使心排出量绝对或相对减少，即泵血功能降低，以致不能满足组织代谢需求的病理生理过程或综合征称为~指心功能不全的失代偿阶段。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ab26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7024-723e-11ee-bf83-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：心功能不全（cardiacinsufficiency）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "包括心脏泵血功能受损但处于完全代偿阶段直失代偿的全过程。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ab58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7025-723e-11ee-adc1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：心肌衰竭（myocardialfailure）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因心机本身的结构性或代谢性损害引起受累心肌舒缩性能降低，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ab80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7026-723e-11ee-8bca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：充血性心力衰竭（congestiveheartfailure,CHF）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心功能不全特别是慢性心功能不全时，由于纳、水潴留和血容量增加，患者出现心腔扩大，静脉淤血及组织水肿的表现，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6abb2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7027-723e-11ee-a121-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：向心性肥大（concentrichypertrophy）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心脏在长期过度的压力负荷作用下，收缩期室壁张力持续增加，心肌肌节呈并联性增生，心肌细胞增粗。特征：心室壁显著增厚，心腔容积正常甚或减小，使室壁厚度与心腔半径之比增大，常见于高血压性心脏病及主动脉瓣狭窄。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6abda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7028-723e-11ee-8b80-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：离心性肥大（eccentrichypertrophy）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心脏在长期过度的容量负荷作用下，舒张期室壁张力持续增加，心肌肌节呈串联性增生，心肌细胞增长，心腔容量增大；容量增大使收缩期室壁应力增大，刺激肌节并联性增生，使室壁增厚。特征：心腔容积增大与势必轻度增厚并存，室壁厚度与心腔半径基本保持正常，常见于二尖瓣或主动脉关闭不全。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ac02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7029-723e-11ee-8fbd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：端坐呼吸（orthopnea）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "患者在静息时已出现呼吸困难，平卧时加重，故需被迫采取端坐位或半卧位以减轻呼吸困难的程度，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ac34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd702a-723e-11ee-bb25-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：劳力性呼吸困难（dyspneaonexertion）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "轻度心力衰竭患者仅在体力活动时出现呼吸困难，休息后消失，称为~是左心衰竭的最早表现。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ac5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd702b-723e-11ee-8066-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：夜间阵发性呼吸困难（paroxysmalnocturnaldyspnea）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "左心衰患者夜间突然发作的呼吸困难，表现为患者夜间入睡后因突感气闷而被惊醒，坐起咳嗽和喘气后有所缓解。是左心衰竭造成严重肺淤血的典型表现。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ac84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd702c-723e-11ee-b634-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：前向衰竭（forwardfailure）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心排出量减少在临床上表现为低排出量综合症，称~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6acb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd702d-723e-11ee-b367-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：后向衰竭（backwardfailure）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由于心肌收缩力降低，神经-体液调节机制过度激活通过血容量增加和容量血管收缩导致的前负荷增加，使心充盈压显著升高而造成静脉淤血，表现为静脉淤血综合症。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6acde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd702e-723e-11ee-b54f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：呼吸衰竭（respiratoryfailure）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称呼吸功能不全。指外呼吸功能严重障碍，导致PaO2降低伴有或不伴有PaCO2增高的病理过程。诊断呼吸衰竭的主要血气标准是PaO2低于60mmHg(8kPa)，伴有或不伴有PaCO2高于50mmHg."
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ad10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd702f-723e-11ee-89e3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：低氧血症型呼吸衰竭（hypoxemicfailure,Ⅰ型呼吸衰竭，）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主要发病机制是通气/血流比值失调，或弥散障碍。又称换气障碍型呼衰。血气特点PaO2＜60mmHg,PaCO2≤50mmHg。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ad38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7030-723e-11ee-a692-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：高碳酸血症型呼吸衰竭(hypercapnicrespiratoryfailure，Ⅱ型呼吸衰竭)"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主要发病机制是肺泡通气不足，或通气/血流比值失调，又称通气障碍型呼衰。血气特点PaO2＜60mmHg,PaCO2＞50mmHg."
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ad6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7031-723e-11ee-bfc2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：限制性通气不足（restrictivehypoventilation）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吸气时肺泡的扩张受限引起的肺泡通气不足。原因：呼吸肌活动障碍；胸廓顺应性降低；肺顺应性降低；胸腔积液和气胸。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ad92-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7032-723e-11ee-a5c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：阻塞性通气不足（obstructivehypoventilation）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "气道狭窄或阻塞所致的通气障碍。影响气道阻力的因素有气道内径（最主要因素）、长度和形态、气流速度和形式。气道阻塞分为：中央性气道阻塞（吸气性呼吸困难-胸外阻塞，呼气性呼吸困难-胸内阻塞）和外周性气道阻塞。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6adc4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7033-723e-11ee-8522-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：功能性分流（functionalshunt）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称静脉血掺杂（venousadmixture），指病变重的部分肺泡通气明显减少，而血流未相应减少，甚至还可因炎性充血等使血流增多，使VA/Q显著降低，以致流经这部分肺泡的静脉血未经充分动脉化便掺入动脉血内，这种情况类似动-静脉短路，故称~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6adec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7034-723e-11ee-b7f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：解剖分流（anatomicshunt）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一部分静脉血经支气管静脉和极少的肺内动-静脉交通支直接流入肺静脉。占正常心排出量的2%-3%。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ae1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7035-723e-11ee-8454-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：真性分流（trueshunt）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "解剖分流的血液未完全经气体交换过程，称为~吸入纯氧可有效提高功能性分流的PaO2,而对真性分流的PaO2无明显作用！"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ae46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7036-723e-11ee-bd9d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：死腔样通气（deadspace-likeventilation）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肺动脉栓塞、弥散性血管内凝血、肺动脉炎、肺血管收缩等，都可使部分肺泡血流减少，VA/Q显著大于正常，患部肺泡血流少而通气多，肺泡通气不能充分被利用，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6ae6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7037-723e-11ee-a380-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：弥散障碍（diffusionimpairment）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由肺泡膜面积减少（肺实变、肺不张、肺叶切除等）或肺泡膜异常增厚（肺水肿、肺泡透明膜形成、肺纤维化、肺泡毛细血管扩张、吸血症所致）和弥散时间缩短引起的气体交换障碍。气体弥散速度取决于肺泡膜两侧的气体分压差、气体的分子量和溶解度、肺泡膜的面积和厚度；气体弥散量还取决于血液和肺泡接触的时间。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6aea0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7038-723e-11ee-a9c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：急性呼吸窘迫综合症（acuterespiratorydistresssyndrome，ARDS）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是由急性肺损伤（ALI）引起的急性呼吸衰竭。由于肺泡-毛细血管膜的损伤及炎症介质的作用使肺泡上皮细胞和毛细血管内皮通透性增高，引起渗透性肺水肿，致肺弥散性功能障碍。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6aec8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7039-723e-11ee-b334-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：慢性阻塞性肺部疾病（chronicobstructivepulmonarydisease,COPD）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由慢性支气管炎和肺气肿引起的慢性气道阻塞，简称“慢阻肺”，共同特征是管径小于2mm的小气道阻塞和阻力增高。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6aefa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd703a-723e-11ee-84f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：CO2麻醉（carbondioxidenarcosis）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "CO2潴留使PaCO2超过80mmHg（正常40mmHg）,可引起头痛、头晕、烦躁不安、言语不清、扑翼样震颤、精神错乱、嗜睡、抽搐、呼吸抑制等，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6af22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd703b-723e-11ee-8e85-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肺性脑病（pulmonaryencephalopathy）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由呼吸衰竭引起的脑功能障碍称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6af54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd703c-723e-11ee-8f0e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肝性脑病（hepaticencephalopathy，HE）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在排出其他已知脑疾病的前提下，继发于肝功能紊乱的一系列严重的神经精神综合征。早期特征（人格改变、质粒减退、意识障碍等）可逆，晚期发生不可逆性肝昏迷（hepaticcoma。）"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6af7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd703d-723e-11ee-8edf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：假性神经递质（falseneurotransmitter）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "苯乙醇胺和羟苯乙醇胺在化学结构上与正常神经递质（N"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6afae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd703e-723e-11ee-8117-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：、DA）相似，但不能完成振兴神经递质的功能，称为~当假性神经递质增多时，可取代正常神经递质，β肾上腺素神经元摄取，并贮存在突触小体的囊泡中，因其生理效应弱，因而脑干网状结构上行激动系统的唤醒功能不能维持，发生昏迷。E肝功能不全（hepaticinsufficiency）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "各种病因严重损害肝脏细胞，使其代谢、分泌、合成、解毒、免疫等功能严重障碍，机体可出现黄疸、出血、感染、肾功能障碍及肝性脑病等临床综合征，称为~肝功能不全晚期一般称为肝功能衰竭（hepaticfailure）。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6afd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd703f-723e-11ee-8dd7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肝肾综合征（hepatorenalsyndrome,HRS）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肝硬变代偿期或急性重症肝炎时，继发于肝功能衰竭基础上的功能性肾功能衰竭，又称肝性功能性肾衰竭。急性重症肝炎有时也可引起肾小管坏死，也属HRS。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6affe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7040-723e-11ee-a857-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：血浆氨基酸失调（aminoacidimbalance）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肝性脑病患者或门-体分流术后动物，常可见血浆氨基酸的失平衡，即芳香族氨基酸（AAA）增多，支链氨基酸（BCAA）减少。两者比值：BCAA/AAA可由正常的3-3.5下降至0.6-1.2。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b030-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7041-723e-11ee-a1ad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：急性肾功能衰竭（acuterenalfailure，ARF）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "各种原因在短期内引起肾脏泌尿功能急剧障碍（往往为可逆性降低），以致机体内环境出现严重紊乱的病理过程，临床表现：水中毒、氮质血症、高钾血症、代谢性酸中毒等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b058-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7042-723e-11ee-a8fa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：慢性肾功能衰竭（chronicrenalfailure，CRF）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "各种慢性肾脏疾病，随病情恶化，肾单位进行性破坏，以致残存肾单位不足以充分排出代谢废物和维持内环境恒定，进而发生泌尿功能障碍和内环境紊乱，包括代谢废物和毒物的潴留，水。电解质和酸碱平衡紊乱，并伴有一系列临床症状的病理过程，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b080-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7043-723e-11ee-b7e1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：氮质血症（azotemia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正常人的血清尿素氮为10-15mg%,血中尿素、肌酐、尿酸等非蛋白氮(norproteinnitrogen,NPN）含量显著升高，称为~主要因为肾脏排泄功能障碍和体内蛋白质分解增加（如感染、中毒、组织严重创伤等）所致。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b0b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7044-723e-11ee-aac6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：功能性急性肾功能衰竭（肾前性急性肾功能衰竭）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "见于休克早期。由于失血、脱水、创伤、感染、心衰及错用血管收缩药等原因，引起有效循环血量减少和肾血管强烈收缩，导致肾血管灌流量和GFR显著降低，出现尿量减少和氮质血症，但肾小管功能尚属正常，肾脏并未发生器质性病变，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b0da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7045-723e-11ee-94cc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：器质性急性肾功能衰竭（肾性急性肾功能衰竭）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由于急性肾小管坏死或肾脏本身疾患，导致肾实质器质性病变引起的ARF称为~。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b10c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbd7046-723e-11ee-a0cc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：尿毒症（uremia）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是急慢性肾功能衰竭的最严重阶段，即终末肾功能衰竭，除水、电解质、酸碱平衡紊乱和肾脏内分泌功能失调外，还出现内源性毒性物质蓄积而引起的一系列自身中毒症状，称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b134-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbe0d8f-723e-11ee-8495-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肾性高血压（renalhypertension）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因肾素分泌过多、钠水潴留、肾脏降解物质生成减少而导致肾实质病变引起的高血压称为~"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b15c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbe0d90-723e-11ee-a657-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：高输出量性心力衰竭"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心衰前CO即明显高于正常人，发展到心衰时其CO较心衰前降低，但仍高于正常人。见于：甲亢、严重贫血、妊娠、脚气病、动静脉瘘。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b18e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbe0d91-723e-11ee-9ede-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：高动力性循环"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "亦称为高动力性循环状态，它是指成人静息状态时心脏指数超过4L/(min·m2)正常2.2～3.9L/(min·m2)，心排血量增加是由于心率增快或心搏量增加（或两者同时存在）产生的，原因包括生理性和病理性两类。肾性骨病肾性骨营养不良：存在慢性肾功能不全时，由钙磷代谢障碍引起继发性甲状旁腺功能亢进、维生素D3活化障碍和酸中毒，而导致钙磷吸收、分布异常和骨重建障碍的骨骼并发症。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b1b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbe0d92-723e-11ee-af10-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：矫枉失衡"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "慢性肾功不全发病机制：指存在慢性肾功能不全时，机体对GFR降低的代偿过程引发新的失衡，这种失衡使机体进一步受到损害。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "基础医学类",
+		"raw_uuid": "35d6b1e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1dbe0d93-723e-11ee-8be2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：肾性贫血"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因肾疾患引发的贫血。是慢性肾功衰最常见的并发症。机制：1、促红素（"
+	}
+]

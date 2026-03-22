@@ -1,0 +1,420 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025768-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cb451-703c-11ee-b0f6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有两个算法在同一机器上运行，其执行时间分别为100n2和2n，要使前者快于后者，n至少为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "15\n当n≤14时，100n2>2n，而，n≥15时，100n2<2n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3502589e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdada-703c-11ee-afe9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "线性表L＝（a1，a2，…，an）用数组表示，假定删除表中任一元素的概率相同，则删除一个元素平均需要移动元素的个数是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（n－1）/2\n删除第一个元素需要移动n－1次，以此类推，删除最后一个元素需要移动0次。平均次数为（n－1）*n/n/2＝（n－1）/2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025902-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdadb-703c-11ee-b4ab-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于一个具有n个结点的单链表，在已知的结点半p后插入一个新结点的时间复杂度为______，在给定值为x的结点后插入一个新结点的时间复杂度为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "O（1）；O（n）\n第一种情况只需直接修改指针的指向。第二种情况必须从头结点遍历找到x的结点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025952-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdadc-703c-11ee-9531-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在单链表L中，指针P所指结点有后继结点的条件是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "P－>next!＝NULL\n指针所指节点的指针域所指向的元素非空，说明该指针所指节点有后继结点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350259a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdadd-703c-11ee-bbd8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当两个栈共享一存储区时，栈利用一维数组stack（1，n）表示，两栈顶指针为top与top，则当栈1空时，top为______，栈2空时，top为______，栈满时为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "0；n＋1；top[1]＋l＝top[2]\n共享栈的栈底在共享存储区的两端，当栈满时栈顶相邻。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350259fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdade-703c-11ee-a200-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知链队列的头尾指针分别是f和r，则将值x入队的操作序列是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "s＝（LinkedList*）malloc（sizeof（LNode））；s－>data＝x；s－>next＝r－>next；r－>next＝s；r＝s。\n队列采用链式存储结构，先分配一个节点的内存，然后在队尾添加该节点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025a4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdadf-703c-11ee-beaf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设数组a的基地址为2000，每个元素占2个存储单元，若以行序为主序顺序存储，则元素a的存储地址为______；若以列序为主序顺序存储，则元素a的存储地址为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "9174；8788\n设一个元素的行标为i，列标为j。若以行序为主存储顺序，则它的存储地址为2000＋（i－1）*80＋j－1*2。若以列序为主存储顺序，则它的存储地址为2000＋（（j－1）*50＋i－1）*2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025a9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae0-703c-11ee-9466-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设数组A，数组中任一元素A均占内存48个二进制位，从首地址2000开始连续存放在主内存里，主内存字长为16位，那么\n（1）存放该数组至少需要的单元数是______。\n（2）存放数组的第8列的所有元素至少需要的单元数______。\n（3）数组按列存储时，元素A的起始地址是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "270；27；2204\n数组的元素个数为9*10＝90，因为每个元素占内存48个二进制位，即6个字节。故总需要90*6＝540个字节，因为主内存字长为16位，即2个字节，所以至少需要540/2＝270个单元数。第8列有9个元素，共占9*6＝54个字节，因此至少需要54/2＝27个单元数。由题知，每个元素占3个单元。按列存储时，A[5，8]的起始地址为2000＋[（8－1）*9＋（5－0）]*3＝2204。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025aec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae1-703c-11ee-a91c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有一个10阶对称矩阵A采用压缩存储方式（以行为主序存储：a11＝1），则a85的地址为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "33\n设存储的元素的行标为i，列标为j。若i>＝j，则ai，j的地址为1＋2＋…＋i－1＋j＝i（i－1）/2＋j。若i<j。则ai，j的地址为j（j－1）/2＋i。将i＝8，j＝5代入得33。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025b3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae2-703c-11ee-b8cd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假设一个15阶的上三角矩阵A按行优先顺序压缩存储在一维数组B中，则非零元素A9.9在B中的存储位置k＝______。（注：矩阵元素下标从1开始）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "93\n对于上三角矩阵，k＝（i－1）（2n－i＋2）/2＋（j－i）＋1。将i＝j＝9，n＝15代入得93。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025b8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae3-703c-11ee-a28e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设广义表L＝（（），（）），则head（L）是______；tail（L）是______；L的长度是______；深度是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（）；（（））；2；2\n广义表的表头是表的第一个元素，表尾是除了第一个元素外其余的所有的元素构成的表；表的长度指表中元素的个数；表的深度指展开后括号的层数。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025bdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae4-703c-11ee-9a57-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中缀式a＋b*3＋4*（c－d）对应的前缀式为______，若a＝1，b＝2，c＝3，d＝4，则后缀式db/cc*a－b*＋的运算结果为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "＋＋a*b3*4－cd；18\n中缀式相当于中序遍历，前缀式相当于前序遍历，后缀式相当于后序遍历。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025c2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae5-703c-11ee-a800-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "每一棵树都能唯一地转换为它所对应的二叉树。若已知一棵二叉树的前序序列是BEFCGDH，中序序列是FEBGCHD，则它的后序序列是______。设上述二叉树是由某棵树转换而成，则该树的前序序列是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "FEGHDCB；BEF\n树的前序序列对应二叉树的前序序列，该二叉树转换成森林时含三棵树，其第一棵树的前序是BEF。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025c7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae6-703c-11ee-91b3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若用n表示图中顶点数目，则有______条边的无向图成为完全图。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "n（n－1）/2\n无向完全图中任意一个顶点都和其他n－1个顶点都有一条边，即为n（n－1）。又因为每条边重复出现两次，所有无向完全图的边数为n（n－1）/2。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025cd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae7-703c-11ee-adef-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在有n个顶点的有向图中，每个顶点的度最大可达______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2（n－1）\n当有向图为完全连通图时每个顶点的度达到最大，出度、入度均为n－1。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025d26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae8-703c-11ee-99bd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "N个顶点的连通图用邻接矩阵表示时，该矩阵至少有______个非零元素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2（N－1）\n所谓连通图一定指的是无向图，有向图会称作强连通图。连接N个顶点，至少需要N－1条边就可以了。由于无向图的每一条边同时关联了两个顶点。因此用邻接矩阵表示时，该矩阵至少有2（N－1）个非零元素。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025d6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdae9-703c-11ee-b0ac-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "n个顶点的有向图用邻接矩阵array表示，下面是其拓扑排序算法，试补充完整。\n注：（1）图的顶点号从0开始计。\n（2）indegree是有n个分量的一维数组，放顶点的入度，\n（3）函数crein用于计算顶点入度。\n（4）有三个函数push（data），pop（），check（）其含义为数据data入栈，出栈和测试栈是否空（不空返回l，否则0）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "0；j；i；0；indegree[i]＝0；[vex][i]；k＝＝l；indegree[i]＝0\n有向图用邻接矩阵表示时，顶点i的入度等于第i列的所有元素之和。拓扑排序过程：首先将入度为0的顶点全部进栈。然后弹出栈顶结点，并将与弹出的顶点相连的其他顶点的入度减一，然后判断这些顶点的入度是否为零，如果为零，继续进栈，重复这些操作，完成拓扑排序。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025de4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdaea-703c-11ee-b738-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "起始地址为480，大小为8的块，其伙伴块的起始地址是______；若块大小为32，则其伙伴块的起始地址为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "480＋8＝488；480－32＝448\n起始地址为P，大小为2k的内存块，其伙伴块的起始地址计算公式如下："
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025e34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdaeb-703c-11ee-9671-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "顺序查找n个元素的顺序表，若查找成功，则比较关键字的次数最多为______次；当使用监视哨时，若查找失败，则比较关键字的次数为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "n；n＋1\n最多的情况就是把整个表遍历了一遍。使用监视哨时，需要多一个存储空间来存监视哨。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025e84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdaec-703c-11ee-961d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "已知有序表为（12，18，24，35，47，50，62，83，90，115，134）当用二分法查找90时，需______次查找成功，查找47时需______次查找成功，查找100时，需______次才能确定不成功。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2；4；3\n二分法查找元素次数列表如下："
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025ed4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdaed-703c-11ee-be2f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在哈希函数H（key）＝key%p中，p值最好取______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "小于等于表长的最大素数或不包含小于20的质因子的合数\n在使用除留余数法时，对除数p的选择很重要。若p选得不好，容易产生同义词。一般情况下，可以选p为质数或不包含小于20的质因素的合数。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35025f2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "162cdaee-703c-11ee-81fd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果按关键码值递增的顺序依次将关键码值插入到二叉排序树中，则对这样的二叉排序树检索时，平均比较次数为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（n＋1）/2\n如果关键码是排好序的，构建二叉排序树就会形成一个单支树，它的查找效率和顺序查找效率一样为（n＋1）/2。"
+	}
+]
