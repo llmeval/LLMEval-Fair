@@ -1,0 +1,287 @@
+[
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34bc6b-7e35-11ee-b43b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：职业道德"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指从事一定职业的人们在特定的工作环境中或劳动中的行为规范总和。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34bc6c-7e35-11ee-88a2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：伦理学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是以道德现象为研究客体的科学，即研究道德的起源、本质、作用及其发展规律的科学。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d0-7e35-11ee-96bf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：公益论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "就是一种强调以社会公众利益为原则，是社会公益与个人健康利益相统一的医学伦理理论。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d1-7e35-11ee-8622-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：生命神圣论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是强调人的生命价值至高无上、人的生命神圣不可侵犯的医学道德观。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d2-7e35-11ee-ac0e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：公正原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指在同样的医疗需求的病人，应得到同样的医疗待遇。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d3-7e35-11ee-9309-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：医学道德范畴"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是反映医学道德实践普遍本质的概括和反映，是医学道德及其特征、现象和关系等普遍本质的基本概念。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d4-7e35-11ee-a0e3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：医学道德情感"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指医务人员在医疗活动中，对自己和他人行为之间关系的内心体验和自然流露。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d5-7e35-11ee-8143-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：医德难题"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指在实现新的道德观念和实施新的技术中产生的难以解决的伦理问题。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d6-7e35-11ee-8af7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：医学模式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是人们对健康和疾病的总看法，是医学科学研究的指导思想和医学实践活动的理论框架。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d7-7e35-11ee-a536-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：人工受精"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指用人工的方法将男性的精子注入女性的子宫内，促使卵子与精子的结合以达到受孕目的的生殖技术。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d8-7e35-11ee-9772-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：器官移植"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是用健康的器官置换已经无可救药的衰竭器官，以挽救病人生命的一项高新医学技术。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3d9-7e35-11ee-bfea-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：医学道德良心"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是医务人员在履行医德义务过程中所形成的一种道德意识、道德观念、情感、意志和信念的有机统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3da-7e35-11ee-86c7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：医德认知"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指医务人员对医德的理论、原则、规范、范畴和准则的感知、理解和接受。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3db-7e35-11ee-905b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：慎独"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指医务人员在个人独处时，仍能坚持医德信念，按照医德的要求行事。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f34e3dc-7e35-11ee-8618-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请对以下名词做出解释：医德评价"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是依据一定的医学道德标准对医疗行为所作的道德评价。"
+	}
+]

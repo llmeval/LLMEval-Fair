@@ -1,0 +1,3935 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507770c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5adce-703b-11ee-9c1f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国古代营居喜用木构，这与______观念不无关系，也是______结构不发达的一个原因。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阴阳五行；砖石"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350777a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5adcf-703b-11ee-8f64-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国的古代佛塔一般可分为______、______、______三种基本类型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "楼阁式；密檐式；单层塔"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350777e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add0-703b-11ee-b35a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国古代城市有三个基本要素：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "统治机构；居民区；手工商业区"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077810-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add1-703b-11ee-98ca-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "地方城市的基础设施一般有：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "防御工程；水利工程；道路与下水道；邮驿设施"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077842-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add2-703b-11ee-8845-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "窑洞主要的三种开式：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "开敞式靠崖窑；下沉式窑院（地坑窑)；砖砌锢窑"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507786a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add3-703b-11ee-8c0d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试举出我国民居的四种具体实际类型______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "碉楼；土楼；窑洞；云南一颗印；北京四合院；阿以旺"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507789c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add4-703b-11ee-807c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国的佛寺的组合形式，大体上可分为______和______的两大类型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "塔院式；以殿堂为主的佛寺"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350778c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add5-703b-11ee-ba58-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国的佛教石窟主要有：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "甘肃敦煌莫高窟；山西云冈石窟；洛阳龙门石窟；甘肃麦积山石窟"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350778f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add6-703b-11ee-89bf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国摩崖造像的代表建筑有：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "孔望山摩崖造像；乐山凌云寺弥勒大佛"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507791e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add7-703b-11ee-b32b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“阿以旺”是______族的一种典型住宅形式，特指住宅的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维吾尔；带天窗的大厅"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077946-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add8-703b-11ee-a1e3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国古代木构建筑可分为______,______,______三种类型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抬梁；穿斗；井千"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077978-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5add9-703b-11ee-a4e0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "招工过的容洞民居按其建造方法可分为______，______，______三种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "崖窑；地坑院；锢窑"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350779a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3d3-703b-11ee-af95-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国古代城市布置中，所谓”______，造郭以守民”，城郭的功能区分很明确，城是保护国君的，而郭是______人民的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "筑城以卫君；看管"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350779d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3d4-703b-11ee-b234-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在构造上，檩条搁置在梁头上，梁再搁置在柱头上，这种木构架形式成为______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抬梁"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350779fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3d5-703b-11ee-ab23-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "斗栱的早期作用主要是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "承托屋檐"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077a22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3d6-703b-11ee-b5b7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国常见的古代木构架建筑的结构形式有______三种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抬梁式；穿斗式；井干式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077a54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3d7-703b-11ee-80d7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国常见的古代木门的门板形式有______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "板门；福门"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077a7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3d8-703b-11ee-b2b6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______式木构架具有用料小，适应性广，整体性强的特点，适宜建造造价低的住宅屋舍一类建筑，而抬梁式木构架则常用于宫殿佛寺等大型重要建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "穿斗"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077aae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3d9-703b-11ee-a962-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国迄今发现最早的四合院是______的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "西周；陕西岐山凤雏存遗址"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077ad6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3da-703b-11ee-adc5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国一直最早由绑扎转为榫卯连接的木构建筑遗址为______，最能体现多组团向心布置的聚落遗址为陕西临潼遗址。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "浙江余姚河姆渡遗址；姜寨仰韶文化村落"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077b08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3db-703b-11ee-9231-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______和合院式为我国传统院落空间布局的两种基本形式，遗址最早的合院式布局实例为陕西岐山______遗址。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "庭院式；凤维村（西周建筑）"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077b30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3dc-703b-11ee-be02-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《周礼•考工记》 云”上欲尊而宇欲卑，上尊而宇卑，则______”，使屋顶似乎可以排水快而远，是屋顶形成圜和曲线的原因之一，如翼轻展的曲线美也随之形成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吐水疾而溜远"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077b58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3dd-703b-11ee-a6c3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国氏族社会具有代表性的建筑遗址主要有两种，一种是在______流域的流域多水地区的千阑式建筑（由巢居发展而来），另一种是在黄河______房屋（由穴居发展而来）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "长江；木骨泥墙"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077b8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3de-703b-11ee-baa1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于古建筑有些通假字，例如商周陵墓，常常四向有斜坡墓道向椁室，称为“______”，汉代随葬品冥器也称为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "木椁室；明器"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077bb2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3df-703b-11ee-91fd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前己知的我国最早用瓦历史可以追索到______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "西周"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077be4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e0-703b-11ee-b58c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国高台宫室的处理始手______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "春秋战国"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077c16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e1-703b-11ee-b6c0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "春秋时期建筑上的重要发展是______的普遍使用和作为诸候宫室用的______的出现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "瓦；高台"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077c3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e2-703b-11ee-9e7a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "西安半坡原址属于______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "仰韶文化"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077c66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e3-703b-11ee-bb0a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "世界上最长的建筑是我国的______，最早兴建于______时代。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "长城；战国"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077c98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e4-703b-11ee-832d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "先泰老子《道德经》书中“凿户牖以为室，当其无有室之用，故______”的精彩论述堪称我国最早的建筑空间论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有之以为利，无之以为用"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077cc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e5-703b-11ee-99a9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "秦始皇陵的巨大斗形封士称为______，明清两代帝王陵的穹窿形封士称为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "方上；宝顶"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077cf2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e6-703b-11ee-b449-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "汉代木构建筑渐趋成熟，根据当时的画像砖、画像石、明器等间接资料来看，后世常见的______和______两种主要木结构已经形成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抬梁式；穿斗式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077d1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e7-703b-11ee-bfa3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是汉代的一种住宅形式,即平地建坞，四角建楼，略如城制，坞主多为豪强地主，以加强防卫，现存福建______民居既是其影响的余音。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "坞堡；永定客家土楼"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077d4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e8-703b-11ee-989c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "斗拱是我国古代建筑中的重要构件，它早期的作用主要是______，它至迟在______已经出现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "结构作用-承托屋檐；汉代"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077d7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3e9-703b-11ee-b991-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "魏晋南北朝时期的宫室主要殿堂采用了______制度，隋唐时期宫室则在纵深方向上重新比附周礼中三朝制度，即大朝、日朝、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "东西堂；长朝"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077da6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3ea-703b-11ee-a410-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一般认为建于公元523年的______是我国现存唯一的十二边形塔，同在嵩山的______是我国现存最早的八边形塔。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "河南登封嵩岳寺塔；净藏禅师塔"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077dce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3eb-703b-11ee-a333-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北魏年间建造的嵩岳寺塔的形式为______塔，它的二层以上部分为______层密檐，卷杀曲线优美。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "密檐式砖；15"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077e00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3ec-703b-11ee-9921-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "南北朝时期的佛教石窟寺可以分为塔院型、______和______三种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "僧院型；佛殿型"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077e28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3ed-703b-11ee-a265-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国使用琉璃瓦的历史可以追溯到______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "南北朝"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077e5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3ee-703b-11ee-9a3d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "甘肃敦煌石窟创始于______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "魏晋南北朝"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077e8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5d3ef-703b-11ee-9bc1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国现存最早的木构厅堂是______，现存最早的砖建筑是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "南禅寺大殿；嵩岳寺塔"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077eb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb0d-703b-11ee-8705-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "佛教石窟著名的有敦煌石窟、______石窟、麦积山石窟、______石窟、天龙山石窟等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "河南洛阳龙门；山西大同"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077ee6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb0e-703b-11ee-9726-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国现存最古老的木构殿堂为建于公元______年的佛光寺大殿，最古老的木构厅堂是建于公元782年的______大殿。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "857；南禅寺"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077f0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb0f-703b-11ee-8c5b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "唐代佛光寺大股外檐斗拱外跳华拱第一、三跳头-上不置横拱称为偷心造，第二、四跳头上置横拱，称为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "华拱"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077f36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb10-703b-11ee-be52-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现存最早的单体木构建筑为唐代的______大殿和______大殿。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "佛光寺；南禅寺"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077f68-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb11-703b-11ee-bbec-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国著名的安济桥是______(朝代名）的建筑，它的设计人是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "隋朝；李春"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077f90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb12-703b-11ee-8466-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "面积规模最大的中国古代城市是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "唐长安城"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077fc2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb13-703b-11ee-9fbb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "西安大雁塔形式属于______。西安小雁塔属于______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "楼阁式塔；密檐塔"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35077fea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb14-703b-11ee-b325-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "梭柱大约出现于______朝，琉璃瓦大量用于屋顶始自______朝。古代最高等级的建筑基座称______,是从______传入的，由______演变而来。琉璃瓦正式用于屋面是南北朝，但为数不多，宋代使用渐广，到明代成为高潮。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "南北；宋；须弥座；印度；佛座"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507801c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb15-703b-11ee-8855-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "宋代木构建筑最小的模数化单位是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078044-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb16-703b-11ee-b19b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清代的斗口分为______个等级。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "11"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507806c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb17-703b-11ee-a2bb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "宋代名匠喻浩写过一部______，还设计了著名的开封______塔。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《木经》；佑国寺"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507809e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb18-703b-11ee-a6b3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北宋汴梁的在城市上的一个最主要特征是______，张择端画了一幅 《清明上河图》就是描述当时的情景。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "开放的街市"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350780c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb19-703b-11ee-ab6a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国现存唯一的木塔：______ ，建于辽代。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "山西应县佛宫寺释迦塔（应县木塔）"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350780f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb1a-703b-11ee-9d06-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "瓜柱宋朝叫______，明间宋朝叫______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "侏儒柱；蜀柱"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078120-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb1b-703b-11ee-a8d3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国古代城市面貌在______代发生了根本性变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "宋"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078148-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb1c-703b-11ee-afe5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "楼阁建筑结构方式常采用______的做法。（河北蓟县独乐寺观音阁）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "平坐暗层"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507817a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb1d-703b-11ee-8448-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "宋代名匠喻浩写过一部______，还设计了著名的开封开宝寺木塔。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《木经》"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350781a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb1e-703b-11ee-ad56-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "宋辽金时期的木楼阁上下层结构连接方式多用______造，结构抗震的关键部位是______(补充：缠柱造：下层柱端增加的一斜梁，将上层柱立于此梁上。结构外观稳妥，但要加梁，角部各面还要增加一组斗棋。）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "缠柱；柱间斜向支撑"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350781d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb1f-703b-11ee-ac32-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国现存最高的塔是______代的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "宋；河北定县开元寺料敌塔。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350781fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb20-703b-11ee-b9b7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "世界上最高的古代木构是我国______代的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "辽；佛宫寺释迦塔"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507822e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb21-703b-11ee-aedb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "世界上最早的建筑规范是我国______代的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "宋；《营造法式》"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078256-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb22-703b-11ee-89c6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北宋汴梁是我国第一座有里坊制向______转化的君主专制时代的都城，中国古代城市化最高峰时期的都城是南宋的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "厢坊治；临安"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078288-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb23-703b-11ee-b4c3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北宋画家______的______描绘的是北宋都城沐梁沿汴河两岸生机勃勃的城市景象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "张择端；《清明上河图》"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350782b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb24-703b-11ee-9a6b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北宋文学家李格非的______是记录北宋园林面貌的重要文献。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《洛阳名园记》"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350782e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb25-703b-11ee-a70a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北宋初年浙东木匠______著有______一书，可惜已经失传，现存沈括 《梦溪笔谈》摘录了原书若干片段。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "喻皓；《木经》"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507830a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb26-703b-11ee-b793-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出三跳斗拱宋代称为______铺作，在清代则成为七踩斗拱。唐代建筑光寺大殿外檐斗拱外出跳，成为七铺作。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "六"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507833c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb27-703b-11ee-a2a1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《营造法式》的著述者为北宋时期将作监______，汇集______之法，对技术的总结与传播起了很重大的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "李诚；历来工匠经久可行"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078364-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb28-703b-11ee-95e0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "应县木塔外观______层，内部结构层为九层。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "五"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507838c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb29-703b-11ee-8801-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "斗拱在宋代称为______，因为是层层相叠铺设而成，清代称为斗科或斗拱，江南称为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "铺作；牌料"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350783be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb2a-703b-11ee-a699-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北宋末年政府领布的《营造法式》中规定，把______作为造屋的尺度标准，即将木构架建筑的用料尺寸分成______等，按照屋宇的大小主次量屋用材。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "材；八"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350783f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb2b-703b-11ee-acf6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北京四合院入口朝南，区分内外院的是：______，联系正厢房的是：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "垂花门；抄手游廊"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078418-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb2c-703b-11ee-8152-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "承德避暑山庄建于清______时期，主要景点：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "乾隆；沙堤、万壑松风"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507844a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb2d-703b-11ee-bebf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清代彩画主要有：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "和玺彩画，旋子彩画，苏式彩画"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078472-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c5fb2e-703b-11ee-806b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "明清北京紫禁城的正门是______，属于______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "午门；承天"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507849a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62278-703b-11ee-a5ce-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国现存最大的两座古代木构殿堂是：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "太和殿，祾恩殿"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350784cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62279-703b-11ee-ae9b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国现存最大的古代木构殿堂是______代的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "明；故宫太和殿"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350784f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6227a-703b-11ee-a0f5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国现存规模最大的园林是______代的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "清；承德避暑山庄"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078526-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6227b-703b-11ee-8b62-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国现存规模最大的宫殿是______代的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "明清两；故宫"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507854e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6227c-703b-11ee-a679-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "明初官至工部左侍郎的苏州匠人______为北京故宫乃至整座北京城的建造做出了巨大贡献，清末民初苏州匠人______著有 《营造法原》，从中可以看出苏州工匠的技术水平。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蒯祥；姚承祖"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078580-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6227d-703b-11ee-9871-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "四川雅安的______是现存最雄壮优美的汉阙实例，后世唐代大明宫含元殿左右的翔弯阁和栖凤阁，以及明清故宫南部的______门都还存留着这一建筑形式的余绪。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高颐墓石阙；午"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350785a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6227e-703b-11ee-adfe-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "无锡______园较多地保存着明末的布局面貌，集中而典型地体现了大造园家的______主义的造园思想。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "寄畅；回归现实"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350785da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6227f-703b-11ee-8859-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清故宫建筑有琉璃屋顶的剪边形式，如文渊阁是琉璃绿剪______边，而御花园的浮碧亭等则是琉璃瓦黄剪______边。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "黑；绿"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078602-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62280-703b-11ee-926b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______代末年私家园林有了很大发展，计成在总结实践经验的基础上，著成《园治》一书，是我国古代最系统的园林艺术著作。此书层传道日本，被称为______。明代造园工人技术也提高了，有专门叠山种花的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "明；《夺天工》；山子、花园子"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078634-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62281-703b-11ee-953c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清代宫廷建筑设计和预算分别由样房和算房承担，样房是由雷姓世袭，称为______,建筑设计模型称为______，图纸称为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "样式雷；烫样；画样"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507865c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62282-703b-11ee-9ce1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清式大木做法分为大木大式和______，大木大式建筑使用______，有时又称为殿式建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大木小式；斗拱结构"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507868e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62283-703b-11ee-bea5-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北京故宫从大清门到太和殿，中轴线上依次布置通过______座门、______个封闭空间，总长1700余米，形成三处空间高潮：天安门、午门、太和殿。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "5；5"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350786b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62284-703b-11ee-b572-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "天安门的屋顶形式称为______，太和殿的屋顶形式称为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "重檐歇山顶；重檐庑殿顶"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350786e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62285-703b-11ee-bcda-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "明清时期佛寺布局逐渐规整化，沿中轴线对称布置建筑，如山门、钟鼓楼、______、大雄宝殿、法堂、______僧人用房等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "天王殿；藏经楼"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078710-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62286-703b-11ee-9189-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北京故宫前三殿中的主殿奉天殿，明代原为重檐庑殿______间殿，属于最高级殿宇，清代改建为______间，但总尺度没有大的变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "九；十一"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078742-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62287-703b-11ee-b016-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "上海真如寺大殿是江南保存最好的______代木结构建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "元"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507876a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62288-703b-11ee-b650-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清官式建筑屋面举高，其中飞檐为______举，脊步为______举，其余按照檩数不同，分别为五举、六五举、七举、七五举等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "二五；九"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507879c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62289-703b-11ee-b103-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清承德外八庙建筑群中的普陀宗乘庙模仿藏地的______形式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "布达拉宫"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350787c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6228a-703b-11ee-b6cd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "倒座和抄手游廊常见于______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "北京四合院"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350787ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6228b-703b-11ee-8a20-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国近代首批建筑师多毕业于美国的______大学，那里曾是______派的大本营。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "宾夕法尼亚；学院"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507881e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6228c-703b-11ee-9d55-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "近代中国建筑史上传统复兴的三种形式是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "宫殿式，混合式，现代式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078846-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6228d-703b-11ee-b0d4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国近代城市的转型，既有新城的崛起，也有老城的更新，从近代城市化和城市近代化的角度来看，新转型的城市大体可以归纳为四种类型主体开埠城市，如：______；局部开埠城市，如______，______,如______，______，如______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "上海；济南；交通枢纽城市；郑州；工矿专业城市；南通"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078878-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6228e-703b-11ee-93bd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "梁思成研究中国古塔，把塔分为楼阁式塔、______、______、单层塔、喇嘛塔。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "密檐塔；金刚宝座塔"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350788a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6228f-703b-11ee-a5c9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国近代建筑教育最早的创办人是______，东北大学大学建筑系创办人是______，上海圣约翰大学建筑系创办人是______，北平大学艺术学院建筑系创办人是______清华大学建筑系创办人是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "柳世英；黄作藥；梁思成；梁思成；杨仲子"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350788d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62290-703b-11ee-a8ae-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在1925年南京中山陵设计竞赛中，______、______、______三人分别获头、二、三等奖。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吕彦直；范文照；杨锡宗"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350788fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62291-703b-11ee-bf36-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1863年建造的英商上海自来水公司______，是中国近代第一座铁结构厂房建筑。近代中国最早一座钢框架结构多层厂房是建于1913年的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "炭化炉房；上海杨树浦电厂一号锅炉间"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507892c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62292-703b-11ee-acd3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国近代建筑的主体结构，大体经历了______、______、钢和钢筋混凝士框架结构三个发展阶段。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "砖木混合结构；砖钢筋混凝士混合结构；"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078954-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62293-703b-11ee-b816-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国近代建筑师事务所基泰工程司的建筑设计主要负责人是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "杨廷宝"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078986-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62294-703b-11ee-9807-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "18世纪将中国建筑介绍到欧洲的著名人物是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "钱伯斯"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350789ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62295-703b-11ee-b04c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "民族固有形式”的口号盛行于二十世纪的______ 年代，但当时上海盛行的摩登建筑却是______风格，代表作是外滩、______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "二三十；折衷主义；沙逊大厦；上海汇丰银行"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350789d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62296-703b-11ee-8d7b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国两个建筑团体______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国建筑师学会；上海市建筑学会"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078a08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62297-703b-11ee-89e8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《清式营造则例》是______根据______编著的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "梁思成；《工程做法则例》"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078a30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62298-703b-11ee-9802-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国营造学社诞生于______年，创始人是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1930；朱启钤"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078a62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c62299-703b-11ee-84cb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "历史上外来建筑文化移入中国都有一个适应过程，其英文表达可用______一词，而当代建筑的一大倾向是“趋同”，英文表达为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "acculturation； assimilation"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078a8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64aaa-703b-11ee-a85c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "CCTV央视新楼、鸟巢设计者分别为______、______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "库哈斯；赫尔佐格与德梅隆"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078abc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64aab-703b-11ee-80b9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "上海鲁迅纪念馆、香山饭店设计者分别为______、______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "陈植；贝聿铭"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078ae4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64aac-703b-11ee-870e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "上海环球金融中心、人民大会堂设计者分别为______、______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "KPF；赵冬日和沈其"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078b0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64aad-703b-11ee-b397-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "上海大厦______属于______风格，是______的端景"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "百老汇；折衷主义；北外滩"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078b3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64aae-703b-11ee-a17c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "埃及吉萨金字塔群其中以第四王朝第二代法老______的金宇塔为最大。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "胡夫"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078b66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64aaf-703b-11ee-af9f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "波斯帝国最重要的建筑是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "帕赛波利斯"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078b8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab0-703b-11ee-a12e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古王国时期的______是古埃及金字塔最成熟的代表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吉萨金字塔群"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078bc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab1-703b-11ee-b7ed-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "东方最大的矩形庙宇是叙利亚的______的大庙"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "巴尔贝克"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078be8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab2-703b-11ee-b375-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古代世界中宫殿结构最轻的建筑被称为“百柱殿”，它是两河流域______王国的______宫。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "波斯；帕塞玻里斯。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078c1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab3-703b-11ee-85fc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是古希腊圣地建筑群艺术的最高代表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "雅典卫城"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078c42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab4-703b-11ee-973d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是古希腊神庙艺术的最高代表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "帕提农神庙"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078c6a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab5-703b-11ee-983e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "希腊古典柱式有3种：______,______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "多立克柱式；爱奥尼柱式；科林斯柱式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078c9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab6-703b-11ee-8097-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______代表着古希腊多立克柱式建筑的最高成就。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "帕提农神庙"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078cc4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab7-703b-11ee-aa11-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "爱奥尼柱式的代表是______和______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "伊瑞克提翁神庙；胜利神庙"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078cf6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab8-703b-11ee-82b7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "科林斯柱式早期的代表是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "奖杯亭"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078d1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ab9-703b-11ee-80de-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是罗马建筑最伟大的特色、最大的成就，是它对欧洲建筑的最大贡献。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "券拱技术"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078d46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64aba-703b-11ee-85cf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "罗马五柱式：______、______、______、______、______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "罗马多立克柱式；罗马爱奥尼柱式；罗马科林斯柱式；塔斯干柱式；复合柱式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078d78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64abb-703b-11ee-a361-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古代罗马建筑的代表作之一是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "角斗场"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078da0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64abc-703b-11ee-8515-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "罗马城里的一批天主教堂是______的代表性建筑物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "巴洛克风格"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078dd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64abd-703b-11ee-905b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "晚期巴洛克式教堂的代表作是______设计的罗马四喷泉（圣卡罗教堂），另一个杰出代表是伯尼尼设计的______前面的广场，由教廷总建筑师，也曾主管圣彼得大教堂建筑，他被称为“巴洛克之父”，最重要的广场是______的伯尼尼设计。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "波洛米尼；圣安德烈教堂；圣彼得大教堂"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078dfa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64abe-703b-11ee-8569-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是古罗马集中式形体、单一空间以及穹顶技术成就的杰出代表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "万神庙"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078e22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64abf-703b-11ee-a45a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古罗马继承了古希腊柱式，井有很大的发展，在使用上分别出现了______、______、______、______等几种使用方式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "券柱式；叠柱式；巨柱式；混合柱式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078e54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac0-703b-11ee-91e9-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "五种古典柱式是______、______、______、______、______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "塔斯干；多立克；爱奥尼；科林斯；混合式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078e7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac1-703b-11ee-9579-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古希腊列雪格拉德音乐纪念亭是______的代表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "早期科林斯柱式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078eae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac2-703b-11ee-a8d1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古希腊的______，一般不设柱础，直接立于三级台基上，桂身上细下粗。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "多立克柱式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078ed6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac3-703b-11ee-84a1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "395年罗马正式分为东西两个部分，东罗马以______为首都，后人叫它______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "君士坦丁堡；拜占庭帝国"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078f08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac4-703b-11ee-892f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "拜占庭建筑的代表是______。它的主要成就是创造了把______支撑在4个或者更多的独立之柱上的结构方法和相应的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "东正教教堂；穹顶；集中式建形制"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078f30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac5-703b-11ee-a32d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是指中央的穹顶和它四面的桶形拱常等臂的十字。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "希腊十字式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078f62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac6-703b-11ee-b3a0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是指纵横两个中厅高出，就形成了一个十字形的平面，从上面俯视，重像一个平放的十字架，竖道比横道长得多，信徒们所在的大厅比圣坛、祭坛又长得多。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "拉丁十字式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078f8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac7-703b-11ee-9743-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "拜占庭建筑最光辉的代表是首都君士坦丁堡的______，是东正教的中心教堂，是皇帝举行重要仪典的场所，是拜占庭帝国计生时代的纪念碑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "圣索菲亚大教堂"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078fb2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac8-703b-11ee-9e82-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "圣索菲亚大教堂的成就：一是______，二是______，三是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "结构体系；内部空间；灿烂的色彩"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35078fe4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64ac9-703b-11ee-a118-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "西欧中世纪的文明史，包括建筑史在内，从西罗马帝国末年到10世纪，史称______，大致以12世纪为界，前后分为两大时期。12世纪之前史称______;下沿可到12世纪，之后称______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "早期基督教时期；罗曼时期；哥特时期"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507900c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64aca-703b-11ee-8137-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "天主教一直把______当作最正统的教堂形制，流行于整个中世纪的西欧。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "拉丁十字式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079034-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c64acb-703b-11ee-a1da-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "罗曼建筑的进一步发展，就是12~15世纪西欧主要以法国的城市主教堂为代表的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "哥特式建筑"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079066-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6705e-703b-11ee-a69a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "夏特尔主教堂、韩斯主教堂、德特拉斯堡主教堂、乌尔姆主教堂是______建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "哥特式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507908e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6705f-703b-11ee-9062-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "哥特式建筑的形制基本是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "拉丁十字式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350790c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67060-703b-11ee-b7a7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "西欧哥特教堂的平面多采用拉丁十字式或______式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "巴西利卡"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350790e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67061-703b-11ee-80f7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "盛期文艺复兴的纪念性风格的典型代表是______，它是西欧第一个成熟了的集中式纪念性建筑物，第一个成熟的穹顶的外形，标志着盛期文艺复兴的开始。其设计人是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "罗马的坦比哀多；伯拉孟特"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507911a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67062-703b-11ee-958d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的作品罗马卡比多山市政广场，其最伟大的代表作是罗马的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "米开朗琪罗；圣彼得大教堂"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079142-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67063-703b-11ee-b856-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______设计的佛罗伦萨的潘道非尼府邸。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "拉斐尔"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079174-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67064-703b-11ee-ad32-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "帕拉迪奥设计的庄园府邸中最著名的是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "圆厅别墅"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507919c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67065-703b-11ee-acd6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "宫廷的纪念性建筑物是______建筑最重要的代表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "古典主义"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350791ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67066-703b-11ee-9566-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是一个典型的古典主义建筑作品，完整地体现了古典主义的各项原则，它标志着法国古典主义建筑的成就，被称为路易十四古典主义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "卢佛尔宫"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350791f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67067-703b-11ee-891e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法国绝对君权最重要的纪念碑是巴黎西南23km的______，它不仅是君主的宫殿，而旦是国家的中心，是17~18世纪法国艺术和技术成就的集中体现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凡尔赛宫"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079228-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67068-703b-11ee-8311-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是17世纪最完整的古典主义纪念物之一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "恩瓦立德新教堂"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079250-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67069-703b-11ee-ae5f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "洛可可艺术的原则是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "逸乐"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079282-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6706a-703b-11ee-a0f8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "洛可可装饰的代表作是勃夫杭设计的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "巴黎苏俾士府邸的客厅"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350792aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6706b-703b-11ee-8edd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "荷兰：古达城的市政厅，最杰出的作品是______的市政厅。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "比利时安特卫普"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350792dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6706c-703b-11ee-ab32-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "西班牙出现了______风格，代表建筑是埃斯库里阿尔。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "银匠式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079304-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6706d-703b-11ee-a308-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "洛可可风格最娇艳地表现在柏林______中和______中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "夏洛登堡的金廊；波茨坦新宫的阿波罗大厅"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079336-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6706e-703b-11ee-9c74-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中世纪向文艺复兴过渡时期的风格，得名为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "都铎风格"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507935e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6706f-703b-11ee-a286-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "俄罗斯的______是世界建筑史中不朽的珍品之一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "华西里•伯拉仁内教堂"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079386-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67070-703b-11ee-92ac-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "被称为文艺复兴的第一朵报春花的佛罗伦萨主教堂穹顶是由______设计的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "伯鲁乃列斯基"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350793b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67071-703b-11ee-a0dd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "罗马圣彼得教堂的设计集中了文艺复兴盛期几乎所有著名建筑师的努力，其中穹顶是由______设计的，教堂前的广场是由______设计的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "米开朗琪罗；伯尼尼"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350793e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67072-703b-11ee-b22e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "文艺复兴的传统传播到法国以后，最终在17世纪形成了以卢浮宫东立面、凡尔赛宫为代表的______建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法国古典主义"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079412-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67073-703b-11ee-9f7f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "西班牙格兰纳达的阿尔罕布拉宫是伊斯兰世界中保存得比较好的一所宫殿，它以两个互相垂直的长方形院子为中心，南北向的是______，东西向的是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "石榴院；狮子院"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507943a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67074-703b-11ee-8253-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "哥特建筑起源于______。法国最辉煌的哥特作品是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "罗曼建筑；巴黎圣母院"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507946c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67075-703b-11ee-adff-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______和______是哥特建筑形成的结构技术基础。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尖券；骨拱顶"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079494-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67076-703b-11ee-afcd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法国最高君权的纪念碑是______，是法国古典主义风格式的建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凡尔赛宫；巴洛克"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350794c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67077-703b-11ee-9f44-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "不列颠博物馆正面、爱丁堡大学是______的建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "希腊复兴时期"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350794ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67078-703b-11ee-9e40-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______在建筑上的表现主要是在庄园府邸中复活中世纪的建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "先浪漫主义"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079520-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67079-703b-11ee-b17f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "先浪漫主义的又一种表现是向往______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "东方情调"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079548-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6707a-703b-11ee-9f97-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从19世纪30年代到70年代，是英国浪漫主义建筑的极盛时期，浪漫主义建筑又名“______”"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "哥特复兴"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507957a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6707b-703b-11ee-a9c6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "德国古典复兴的第一个比较成熟的作品是柏林的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "勃兰登堡大门"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350795a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6707c-703b-11ee-babf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "华盛顿，国会大厦是______建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "罗马复兴"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350795d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6707d-703b-11ee-b99f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中古伊斯兰建筑常有用以承托出挑构件的名称为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "牛腿"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350795fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6707e-703b-11ee-8ee3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早期兴建的最大的清真寺______是在古罗马晚期的基督教堂基址上建造的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大马士革的大清真寺"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507962e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6707f-703b-11ee-8188-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "圣石庙、帖木儿墓、库特伯塔、泰姬:马哈尔是______教的建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "伊斯兰"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079656-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c67080-703b-11ee-bec8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "伊朗和中亚中世纪时最重要的纪念性建筑物是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "清貞寺"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079688-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6974a-703b-11ee-ad8b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______主要是埋葬佛陀或圣徒骸骨和供奉信徒们苦修的僧院。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "窣堵波"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350796b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6974b-703b-11ee-9dc4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的半球体象征天宇，顶上相轮华盖的轴便是天宇的轴。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "窣堵波"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350796e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6974c-703b-11ee-9198-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早期伊斯兰教建筑最重要的遗物是德里的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "库特伯塔"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507970a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6974d-703b-11ee-bb9e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "莫卧儿王朝最杰出的建筑物是______，它是世界建筑史中最美丽的作品之一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "泰姬•马哈尔"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507973c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6974e-703b-11ee-85eb-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "朝鲜和日本的建筑中保存比较浓厚的中国建筑特色是______的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "唐朝"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507976e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6974f-703b-11ee-b0c8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______很典型地表现了日本建筑的特点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "神社建筑"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079796-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69750-703b-11ee-8fac-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "率堵波、法隆寺五重塔是______建筑。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "佛教"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350797c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69751-703b-11ee-a99d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______代表着中国唐代纪念性建筑风格。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "唐招提寺金堂"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350797f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69752-703b-11ee-8010-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "日本的写意庭院，在很大程度上就是盆景式园林，它集中代表是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "枯山水"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079822-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69753-703b-11ee-a5e7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "枯山水用石块象征______，用白沙象征______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "山峦；湖海"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507984a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69754-703b-11ee-898d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "供人在其中漫步游赏的园林叫______园林。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "回游式"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507987c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69755-703b-11ee-960a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国两个建筑团体______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国建筑师学会；上海市建筑学会"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350798a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69756-703b-11ee-830a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阿尔罕布拉宫的艺术风格：______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "精致而柔靡；绚丽而忧郁；亲切而惝恍"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350798cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69757-703b-11ee-aac3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是单一空间集中式构国的建筑物代表，也是罗马穹顶技术的最高代表。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "新万神庙"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350798fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69758-703b-11ee-aada-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早的大型公共浴场是罗马城里的______ "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阿格里巴浴场"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079926-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69759-703b-11ee-b5e1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《建筑十书》的作者是______。三原则是：______ "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维特鲁威；坚固；适用；美观"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079958-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6975a-703b-11ee-9307-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是皇帝祀庙特有的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "奥西里斯柱"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "3507998a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6975b-703b-11ee-9cdc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的体制同天体崇拜的宗教观念相结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "山岳台"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350799b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6975c-703b-11ee-88cc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "亚述帝国最重要的建筑是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "萨艮二世王宫"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "350799da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6975d-703b-11ee-b42b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "上海世博会中国馆、威海甲午海战纪念馆设计者______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "何境堂；彭一刚。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079a0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6975e-703b-11ee-a6f2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《中国建筑类型及结构》的作者是______《苏州古典园林》的主编是______ "
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "刘致平；刘敦桢"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079a34-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c6975f-703b-11ee-ab38-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "金茂大厦、中国国家大剧院设计者______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "SOM；保罗•安德鲁"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079a66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69760-703b-11ee-89e3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1928年成立的中国营造学社，是近代建筑领域研究中国古建筑的学术机构，在学社创办人朱启钤和主要研究人员______和______的带领下，进行了大量工作，出版了学术刊物______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "梁思成；刘敦桢；《中国营造学社会刊》"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079a8e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69761-703b-11ee-bcfe-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国近代华盖建筑事务所是由______、______、______三人合办的，他们都是毕业于______大学。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "赵深；陈植；童駕；宾夕法尼亚大学"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079afc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69762-703b-11ee-9686-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "苏州工专建筑科是由______发起，与______共同创办。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "柳世英；刘敦桢；朱士圭；黄祖淼"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079b2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69763-703b-11ee-a5b2-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1929年，民国政府曾经有一个”______”，想与租借争辉，以现江湾一带为中心共七干余亩土地进行规划建设，但未完成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "上海新市区规划"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079b56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69764-703b-11ee-84dd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国自办最早的建筑教育始于______年，最早的建筑系成立于______年。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1923；1927"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079b7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69765-703b-11ee-903f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "北京仁立地毯公司的设计者是______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "梁思成和林徽因"
+	},
+	{
+		"category": "工学",
+		"sub_category": "建筑学类",
+		"raw_uuid": "35079bb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d9c69766-703b-11ee-8f9f-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《说园》的作者______,他还设计了美国大都会博物馆中的明轩。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "陈从周"
+	}
+]

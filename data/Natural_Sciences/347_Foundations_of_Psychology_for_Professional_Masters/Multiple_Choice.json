@@ -1,0 +1,686 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f196-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed84491c-6f1f-11ee-a5b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假如我们现在在头脑里呈现一个孙悟空形象，那么这个想象是______\n“再造想象”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：再造想象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f196-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed8518a3-6f1f-11ee-844c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假如我们现在在头脑里呈现一个孙悟空形象，那么这个想象是______\n“创造想象”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：再造想象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f196-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed8518a4-6f1f-11ee-b4af-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假如我们现在在头脑里呈现一个孙悟空形象，那么这个想象是______\n“幻想”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：再造想象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f196-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed8518a5-6f1f-11ee-bc60-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假如我们现在在头脑里呈现一个孙悟空形象，那么这个想象是______\n“记忆表象”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：再造想象。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f286-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854006-6f1f-11ee-969a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "格赛尔的婴儿爬梯实验研究，其结果证明了______\n“遗传的作用”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：成熟的作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f286-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854007-6f1f-11ee-ac8a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "格赛尔的婴儿爬梯实验研究，其结果证明了______\n“成熟的作用”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：成熟的作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f286-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854008-6f1f-11ee-b1ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "格赛尔的婴儿爬梯实验研究，其结果证明了______\n“后天训练的作用”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：成熟的作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f286-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854009-6f1f-11ee-855f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "格赛尔的婴儿爬梯实验研究，其结果证明了______\n“环境作用”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：成熟的作用。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f2c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85400a-6f1f-11ee-b076-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "研究表明，一个人的知识水平越高，其智力水平往往也越高，那么知识和智力水平的关系更可能是______\n“相关关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：相关关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f2c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85400b-6f1f-11ee-9d3e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "研究表明，一个人的知识水平越高，其智力水平往往也越高，那么知识和智力水平的关系更可能是______\n“共变关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：相关关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f2c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85400c-6f1f-11ee-90aa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "研究表明，一个人的知识水平越高，其智力水平往往也越高，那么知识和智力水平的关系更可能是______\n“因果关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：相关关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f2c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85400d-6f1f-11ee-b78c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "研究表明，一个人的知识水平越高，其智力水平往往也越高，那么知识和智力水平的关系更可能是______\n“随机关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：相关关系。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f2ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85400e-6f1f-11ee-912c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个比较热情的人，往往被认为是聪明的、能干的。那这种社会认知偏见是______\n“首因效应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：晕轮效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f2ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85400f-6f1f-11ee-8e10-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个比较热情的人，往往被认为是聪明的、能干的。那这种社会认知偏见是______\n“晕轮效应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：晕轮效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f2ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854010-6f1f-11ee-8da9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个比较热情的人，往往被认为是聪明的、能干的。那这种社会认知偏见是______\n“投射效应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：晕轮效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f2ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854011-6f1f-11ee-8b06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个比较热情的人，往往被认为是聪明的、能干的。那这种社会认知偏见是______\n“刻板印象”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：晕轮效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f31c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854012-6f1f-11ee-a8a2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "White 和 Epston(1990)的叙事治疗擅长运用外化问句，来使当事人和问题分离开来，______不属于外化问句\n“探问当事人出现问题症状的原因及其主观知觉”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：探问哪些时候当事人并未受到问题的控制或阻挠。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f31c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854013-6f1f-11ee-b116-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "White 和 Epston(1990)的叙事治疗擅长运用外化问句，来使当事人和问题分离开来，______不属于外化问句\n“将问题拟人化，找出它压迫当事人的意图和策略”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：探问哪些时候当事人并未受到问题的控制或阻挠。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f31c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854014-6f1f-11ee-966a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "White 和 Epston(1990)的叙事治疗擅长运用外化问句，来使当事人和问题分离开来，______不属于外化问句\n“探问问题用什么方式干扰、控制或阻挠当事人”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：探问哪些时候当事人并未受到问题的控制或阻挠。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f31c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854015-6f1f-11ee-b32d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "White 和 Epston(1990)的叙事治疗擅长运用外化问句，来使当事人和问题分离开来，______不属于外化问句\n“探问哪些时候当事人并未受到问题的控制或阻挠”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：探问哪些时候当事人并未受到问题的控制或阻挠。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f344-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854016-6f1f-11ee-b023-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "DSM-5 将年轻人反复出现严重的情绪爆发，其强度与持续时间和情境都极不相称，与发育水平也不相等，在爆发的间歇，他们常是明显地发怒与易激惹，发作时间平均每周至少3次，持续超过12个月的障碍归类为______\n“破坏性心境失调障碍”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：破坏性心境失调障碍。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f344-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854017-6f1f-11ee-b6a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "DSM-5 将年轻人反复出现严重的情绪爆发，其强度与持续时间和情境都极不相称，与发育水平也不相等，在爆发的间歇，他们常是明显地发怒与易激惹，发作时间平均每周至少3次，持续超过12个月的障碍归类为______\n“环形情感障碍”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：破坏性心境失调障碍。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f344-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854018-6f1f-11ee-bc04-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "DSM-5 将年轻人反复出现严重的情绪爆发，其强度与持续时间和情境都极不相称，与发育水平也不相等，在爆发的间歇，他们常是明显地发怒与易激惹，发作时间平均每周至少3次，持续超过12个月的障碍归类为______\n“双相情感障碍”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：破坏性心境失调障碍。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f344-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854019-6f1f-11ee-889d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "DSM-5 将年轻人反复出现严重的情绪爆发，其强度与持续时间和情境都极不相称，与发育水平也不相等，在爆发的间歇，他们常是明显地发怒与易激惹，发作时间平均每周至少3次，持续超过12个月的障碍归类为______\n“间歇性暴怒障碍”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：破坏性心境失调障碍。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f376-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85401a-6f1f-11ee-bb6b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于面对考试没有获得理想成绩的结果，______属于“不稳定”归因\n“这是特殊的情况，以后不会发生”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：这是特殊的情况，以后不会发生。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f376-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85401b-6f1f-11ee-91a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于面对考试没有获得理想成绩的结果，______属于“不稳定”归因\n“这样的结果都是我的错”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：这是特殊的情况，以后不会发生。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f376-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85401c-6f1f-11ee-9a20-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于面对考试没有获得理想成绩的结果，______属于“不稳定”归因\n“这次考坏了所有人都会对我失望”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：这是特殊的情况，以后不会发生。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f376-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85401d-6f1f-11ee-81b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对于面对考试没有获得理想成绩的结果，______属于“不稳定”归因\n“这结果都是老师出的题不好”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：这是特殊的情况，以后不会发生。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f39e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85401e-6f1f-11ee-94f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在心理测评中，关于“信度”，______是不正确的\n“信度就是测量工具的稳定性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：信度就是测量工具的稳定性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f39e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85401f-6f1f-11ee-a4f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在心理测评中，关于“信度”，______是不正确的\n“信度是指使用同样性质的工具获得结果的相似程度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：信度就是测量工具的稳定性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f39e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854020-6f1f-11ee-ad28-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在心理测评中，关于“信度”，______是不正确的\n“信度是测验工具在测量其本应测量的对象时所表现的一致性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：信度就是测量工具的稳定性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f39e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed854021-6f1f-11ee-88b9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在心理测评中，关于“信度”，______是不正确的\n“内部一致性系数是一种信度系数”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：信度就是测量工具的稳定性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f3c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed857477-6f1f-11ee-b8c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "电视广告中出现个人或权威代言商品，企图说服消费者相信该商品的说服策略属于______\n“说服中央途径”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：说服边缘途径。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f3c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed857478-6f1f-11ee-aec1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "电视广告中出现个人或权威代言商品，企图说服消费者相信该商品的说服策略属于______\n“门面技术”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：说服边缘途径。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f3c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed857479-6f1f-11ee-80a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "电视广告中出现个人或权威代言商品，企图说服消费者相信该商品的说服策略属于______\n“进门技术”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：说服边缘途径。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "3539f3c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "ed85747a-6f1f-11ee-a4e3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "电视广告中出现个人或权威代言商品，企图说服消费者相信该商品的说服策略属于______\n“说服边缘途径”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：说服边缘途径。"
+	}
+]

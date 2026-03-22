@@ -1,0 +1,2415 @@
+[
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a5e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bd6f0d-7031-11ee-9913-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "哲学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "世界观的理论形态，或者说是系统化、理论化的世界观；世界观和方法论的统一。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a6e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bdbd24-7031-11ee-861b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "世界观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对人与世界关系的根本看法、根本观点。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a724-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde424-7031-11ee-a0a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "方法论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "认识世界和改造世界的根本方法。方法论与世界观是统一的，有什么样的世界观就有什么样的方法论。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a756-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde425-7031-11ee-9303-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "哲学基本问题"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "存在和思维、物质和意识的关系问题。哲学基本问题有两个方面，第一个方面是思维和存在谁是第一性的问题， 这是划分唯物主义和唯心主义哲学派别的依据； 第二方面是思维和存在有无同一性的问题，是划分可知论和不可知论的依据。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a788-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde426-7031-11ee-8543-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "唯物主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在哲学基本问题上，主张物质第一性、意识第二性的哲学派别。唯物主义有三种历史形态：古代朴素唯物主义、近代机械唯物主义、现代辩证唯物主义。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a7b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde427-7031-11ee-8fc7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "唯心主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在哲学基本问题上，主张意识第一性、物质第二性的哲学派别。唯心主义有主观唯心主义和客观唯心主义两种形式。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a7d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde428-7031-11ee-8efb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马克思主义哲学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "辩证唯物主义和历史唯物主义， 关于自然。社会和思维发展的普遍规律的学说， 无产阶级世界观的理论体系。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a80a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde429-7031-11ee-8d70-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一元论与二元论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对世界本原问题的不同回答而形成的哲学派别。认为世界本原是一个的是一元论哲学， 唯物主义和唯心主义都是一元论哲学。认为世界有物质和意识两个独立自存的本原的是二元论哲学。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a832-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde42a-7031-11ee-b06c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "可知论与不可知论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对哲学基本问题第二个方面的不同回答而形成的哲学派别。凡认为思维和存在有同一性的哲学派别都属于可知论哲学，认为思维和存在没有同一性的哲学是不可知论哲学。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a85a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde42b-7031-11ee-8cf9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "物质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标志客观实在的哲学范畴。物质的根本特征是客观实在性。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a882-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde42c-7031-11ee-af1f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "运动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物质的存在方式，是标志物质世界一切事物和过程的变化的哲学范畴。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a8b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde42d-7031-11ee-a477-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "时间"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物质运动过程的持续性， 它的特点是一维性或不可逆性， 即时间只能沿着过去、现在、将来的方向进行。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a8dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde42e-7031-11ee-8be1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "空间"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "运动着的物质的广延性， 指事物的体积、形态、位置、距离和排列次序等。空间的特点是三维性，即任何物体都有长、宽、高三个方向。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a90e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde42f-7031-11ee-a39e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "意识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自然界和社会长期发展的产物，是人脑的机能，物质世界的主观映象。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a936-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde430-7031-11ee-917f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人工智能"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称机器思维，本质上是对人的思维的模拟。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a968-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde431-7031-11ee-9abf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "唯物主义一元论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凡是把世界万物的本原归于物质的，都是唯物主义一元论。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a990-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde432-7031-11ee-9cfc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "唯心主义一元论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以不同形式把世界的本质归结为精神、意识的，是唯心主义一元论。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a9b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde433-7031-11ee-af6e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主观能动性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称自觉能动性， 人们认识世界和改造世界中有目的、有计划、积极主动的活动能力。主观能动性是人类特有的行为特征。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550a9ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde434-7031-11ee-a521-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实事求是"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "本义是指严谨好学、务求真谛的一种认真的治学态度。毛泽东对之作出马克思主义解   释，并用之来概括辩证唯物主义和历史唯物主义的思想路线， 即“实事”就是客观存在着的一切事物，“是” 就是客观事物的内部联系、规律，“求”就是去研究。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550aa12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde435-7031-11ee-ba68-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实践"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人能动地改造世界的对象性活动。实践是人与世界关系的中介， 是自在世界向人类世界转化的基础。实践是人的存在方式。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550aa44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde436-7031-11ee-a77c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主体"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从事实践活动和认识活动的人。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550aa6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde437-7031-11ee-a21d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "客体"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "实践活动和认识活动所指向的客观事物。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550aa9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde438-7031-11ee-ab56-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自在世界"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人产生前的自然界和人类实践活动尚未深入到的自然界。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550aac6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde439-7031-11ee-889a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人类世界"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称属人世界，在人类实践基础上形成的人化自然和人类社会的统一体。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550aaf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde43a-7031-11ee-945a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "辩证法"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "关于普遍联系和永恒发展的学说， 是用联系的、发展的、全面的、矛盾的观点来考察世界的世界观和方法论。辩证法有三大规律， 即对立统一规律、量变质变规律、肯定否定规律。对立统一规律是辩证法的实质和核心。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ab20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde43b-7031-11ee-ab74-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "形而上学"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "用孤立的、静止的、片面的、非矛盾的观点来考察世界的世界观和方法论。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ab48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde43c-7031-11ee-8d2f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "联系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物或现象之间以及事物内部各个要素之间的相互作用、相互影响和相互制约。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ab7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde43d-7031-11ee-bcee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "发展"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物从低级向高级、从量变到质变的运动变化过程。发展的最本质含义是新事物的产生和旧事物的灭亡。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550aba2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde43e-7031-11ee-a85e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "肯定"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物内部维持其存在的方面，即确定这一事物是它自身而不是别的事物的方面。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550abd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde43f-7031-11ee-b5d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "否定"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可以在三重意义上使用否定， 一是否定的方面， 即事物中促使其灭亡的方面或因素； 二是否定的环节， 即把事物的发展和联系统一起来的环节； 三是否定的阶段， 即否定之否定规律发展的第二阶段──从肯定到否定的阶段。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550abfc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde440-7031-11ee-896f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "辩证否定"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称“扬弃”，事物自身的否定， 是事物本身发展环节和联系环节的统一，是新事物对旧事物既克服又保留。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ac2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde441-7031-11ee-b116-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "量变"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物数量的增减和场所的变更， 表现为事物不显著的变化， 体现了事物发展的连续性。量变是事物在度范围内的变化。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ac56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde442-7031-11ee-ac19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "质变"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物由一种质态向另一种质态的飞跃。质变是事物根本性质的变化，表现为显著的变化，是事物连续性的中断。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ac88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde443-7031-11ee-9e97-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "度"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物保持其质的稳定性的量的幅度， 是事物质与量相统一的哲学范畴。区分事物质变和量变的标准，就是看事物的变化是否超出了度。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550acb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde444-7031-11ee-ba0a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "规律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物发展中本身固有的本质的、必然的、稳定的联系。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ace2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde445-7031-11ee-98b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必然性和偶然性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "揭示事物发生、发展和灭亡过程中两种不同趋势的哲学范畴。必然性是事物发展中合乎规律的、确定不移的趋势， 是在一定条件下一定要发生的、不可避免的。偶然性是事物发展中可以这样出现也可以那样出现的、不确定的趋势。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ad0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde446-7031-11ee-830c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现象和本质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "揭示事物内在实质和外在表现之间关系的哲学范畴。现象是事物的外部联系和表面特征，是事物外在的表现。本质是事物的根本性质，是组成事物基本要素的内在联系。本质是与必然性、 规律性同等程度的哲学范畴。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ad32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde447-7031-11ee-8cde-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "矛盾"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物内部或事物之间两个方面的对立和统一及其相互关系。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ad64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde448-7031-11ee-b498-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "矛盾的同一性和斗争性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "同一性和斗争性是矛盾的两个基本属性。矛盾的同一性或统一性是指双方依存、相互贯通的联系和趋势， 包括两个基本含义， 第一，矛盾双方相互依存， 在一定条件下共处于一个统一体中； 第二， 矛盾双方相互贯通， 即矛盾双方相互渗透、相互包含以及相互转化的趋势。矛盾的斗争性是指矛盾双方相互排斥的属性， 体现着双方相互分离的倾向和趋势。斗争性作为哲学范畴包括自然界、 社会、思维领域中的一切形式的差异、对立和斗争。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ad8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde449-7031-11ee-9062-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "矛盾的普遍性和特殊性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾的普遍性又称矛盾的共性， 有两层含义， 其—，矛盾存在于一切事物的发展过程之中； 其二， 每一事物的发展过程中存在着自始至终的矛盾运动。简言之， 处处有矛盾， 时时有矛盾。矛盾的特殊性， 又称矛盾的个性， 是指具体事物所包含的矛盾以及每一矛盾的各个方面都有其特点。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550adbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde44a-7031-11ee-ba1b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "基本矛盾"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "贯穿于事物发展过程之始终并规定事物及其过程的本质的矛盾。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ade6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde44b-7031-11ee-8e19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "主要矛盾"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在许多矛盾构成的矛盾体系中处于支配地位、对事物的发展过程起决定作用的矛盾。 非主要矛盾即次要矛盾则是处于从属地位，对事物发展过程不起决定作用的矛盾。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ae18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde44c-7031-11ee-82e5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "矛盾的主要方面"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾双方中处于支配地位、起主导作用的方面。处于被支配地位的另一方面则是矛盾的非主要方面。事物的性质主要是由取得支配地位的矛盾的主要方面决定的。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ae40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde44d-7031-11ee-b172-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "内因"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事物内部的矛盾性。事物的内部矛盾是推动事物发展的根本动力和原因。坚持内因论也就把事物的运动发展看做是事物自我运动、自我发展。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ae72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde44e-7031-11ee-8af2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外因"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一事物与他事物的对立统一，即外部矛盾。外因是事物存在和发展的必要条件， 外因通过内因起作用。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ae9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde44f-7031-11ee-abc3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "反映论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "唯物主义认识论的根本观点。它从物质第一性、意识第二性的根本前提出发， 明确指出客观世界是认识的源泉， 认识是人脑对客观世界的主观映象， 人的认识内容是客观的， 形式是主观的。反映论坚持“从物到感觉和思想的路线”。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550aecc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde450-7031-11ee-ae5b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "能动的反映论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "马克思主义反映论的根本特点。马克思主义认识论之所以是能动的， 是因为它把实践引入了认识论，把辩证法贯穿于认识过程。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550aef4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde451-7031-11ee-919b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "先验论"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "唯心主义认识论的根本特点。它从意识第一性， 物质第二性的前提出发， 把人的意识说成先天就有的东西， 是先于物质、先于实践的东西， 物质世界反而是这种意识的产物。先验论坚持“从思想和感觉到物的路线”。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550af26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde452-7031-11ee-ab21-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "感性认识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "认识的初级阶段。客观事物直接作用于人的感觉器官而产生的一种关于事物现象、事物外部联系、事物各个片面的认识。形象性和直接性是感性认识的特点。感性认识有三种形式，即感觉、 知觉、表象。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550af4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde453-7031-11ee-a42c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "理性认识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "认识发展的高级阶段。人们对感性认识材料进行抽象和概括而产生的一种关于事物的本质、事物的全体、事物的内部联系的认识。抽象性、间接性是理性认识的特点。理性认识有三种形式， 即概念、判断、推理。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550af80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde454-7031-11ee-b98e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "真理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标志主观与客观相符合的哲学范畴，是人们对客观事物及其规律的正确反映。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550afa8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde455-7031-11ee-a623-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "客观真理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真理的客观性。有两重含义， 一是真理的内容是客观的， 不以人的意志为转移； 二是检验真理的标准实践也是客观的。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550afd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde456-7031-11ee-9e81-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "绝对真理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真理的绝对性。有两方面的含义： 一是任何真理都是客观的， 这一点是绝对的、无条件的； 二是人类的认识按其本性能够认识发展的物质世界， 认识每前进一步就是对无限发展的物质世界的一次接近，这一点也是绝对的、无条件的。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b002-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde457-7031-11ee-ad33-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "相对真理"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真理的相对性指人的认识总是在一定条件下对客观世界的认识， 因而总是有局限性的、 不完全的。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b02a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde458-7031-11ee-8bbe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "价值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "客体以自身的属性满足主体需要的效用关系。价值是主体性和客观性的统一。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b05c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde459-7031-11ee-aeeb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会存在"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称社会物质生活条件， 指构成社会生活的物质因素的总和， 包括地理环境、人口因素和物质资料的生产方式， 其中， 地理环境和人口因素是社会得以存在和发展的必要条件， 生产方式则是社会发展的决定力量，是社会存在的根本内容。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b084-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde45a-7031-11ee-8581-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会意识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指社会生活中的精神现象及其过程， 包括社会意识的各种形式， 也包括社会心理与自发形成的风俗、习惯。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b0b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde45b-7031-11ee-9d55-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "神学历史观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指对社会历史进行了神化， 认为“上帝”是主宰国家兴亡、民族兴衰的力量， 否定社会的客观性，也否定了人的主体性，对社会的本质作神学目的论歪曲的社会历史观。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b0de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde45c-7031-11ee-bc42-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "唯心主义历史观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "把社会精神化了， 认为社会本质上是人的意志、意识活动的产物。唯心主义历史观看到了社会是有目的、有意志的人进行的活动这一特殊性， 但它们夸大了这一特殊性， 认为人的意志、 意识决定社会的发展。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b106-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde45d-7031-11ee-8c51-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自然主义历史观"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指把社会的本质归结为自然条件， 归结为社会所处的地理环境。没有看到自然条件既不能决定社会的本质，也不能成为决定社会制度及其变更的原因。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b138-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde45e-7031-11ee-9114-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生产方式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会生活所必需的物质资料的谋取方式， 即物质生产具体的、历史的表现形式， 它是生产力与生产关系的统一体。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b16a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde45f-7031-11ee-bf49-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生产力"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "标志人类改造自然的实际程度和实际能力的哲学范畴， 是人类改造自然使其适应社会需要的物质力量。生产力由劳动者、劳动对象和劳动资料三大要素构成， 其中劳动资料中的生产工具是生产力发展程度的测量器和指示器， 是生产力发展程度的主要标志和集中体现。生产力是社会发展的最终决定力量。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b192-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde460-7031-11ee-9c13-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生产关系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人们在生产过程中发生的一定的、必然的、不以人的意志为转移的经济关系。从静态上看， 生产关系由生产资料所有制关系， 生产中人与人的关系和产品分配关系所构成， 其中生产资料所有制关系是生产关系的基础， 从动态上看， 生产、分配、交换和消费四个环节构成了生产关系， 其中， 生产这一环节居于主导地位。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b1c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde461-7031-11ee-b08d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会经济结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称经济基础， 与生产力发展的一定阶段相适应的生产关系的总和， 其中， 占统治地位的生产关系决定经济结构的性质。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b1f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde462-7031-11ee-abdf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阶级"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指特定经济结构中的人群共同体。阶级的划分是由人们在特定的社会经济结构中所处的不同地位和结成的不同关系决定的，区分阶级的根本标志，是看其同生产资料的关系，是否占有生产资料， 是否占有其集团的劳动。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b21e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde463-7031-11ee-96c2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会政治结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "建立在经济结构之上的政治法律设施、政治法律制度及其相互关联的方式， 包括政党、政权机构、军队、警察、法庭、监狱和关于政权的组织形式、立法、司法、宪法和规程等，其中， 国家政权是核心。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b246-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78bde464-7031-11ee-beb7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国家"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阶级统治和阶级压迫的工具，是一个阶级镇压另一个阶级的暴力工具。尽管国家也管理一些公共的社会事物，但其目的是维护统治阶级的根本利益。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b278-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b33-7031-11ee-b209-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "上层建筑"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "建立在一定社会经济基础之上的社会的政治、法律、宗教、艺术、道德、哲学等观点， 以及同这些观点相适应的政治法律等制度和军队、警察、法庭、监狱、政府部门等设施。前者叫思想或观念上层建筑，后者叫政治上层建筑。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b2a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b34-7031-11ee-858b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会文化结构"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "又称观念结构， 指哲学、政治法律思想、道德观念、宗教、艺术等意识形式的联结方式。在阶级社会中，文化往往具有意识形态性。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b2d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b35-7031-11ee-b486-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会基本矛盾"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由生产力与生产关系、经济基础与上层建筑两对矛盾共同组成， 社会基本矛盾决定着社会发展的形式、内容和方向。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b2fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b36-7031-11ee-b4bb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生产关系一定要适合生产力状况的规律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生产力决定生产关系的性质及其变革的方向； 生产关系反作用于生产力， 同时这种反作用归根到底取决于生产力发展的要求； 这一规律通过生产力和生产关系的相互作用的矛盾运动表现出来。生产关系一定要适合生产力状况的规律是人类社会发展的根本规律。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b32c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b37-7031-11ee-8547-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "上层建筑一定要适合经济基础状况的规律"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济基础决定上层建筑， 上层建筑对经济基础有巨大的反作用， 在二者的矛盾运动中， 经济基础始终是决定的力量， 上层建筑的反作用取决于并服从于经济基础的性质、水平和要求。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b354-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b38-7031-11ee-bccb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会形态"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是同生产力发展的一定阶段相适应的经济基础和上层建筑的统一体。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b386-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b39-7031-11ee-907f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "阶级斗争"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "利益根本对立的阶级之间的对立、冲突和斗争。阶级斗争是社会基本矛盾运动的结果和特殊表现，是阶级社会发展的直接动力。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b3ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b3a-7031-11ee-bde2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民群众"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在量上指大多数， 在质上指对社会历史起推动作用的人们。人民群众是以劳动者为主体的大多数人。人民群众是历史的创造者。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b3e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b3b-7031-11ee-8e3e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "生产力标准"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "指把是否有利于解放和发展生产力， 作为判断我们路线、方针、政策正确与否的根本标准，作为判断我们工作是非得失的根本标准，作为判断社会制度是否优越和进步的根本标准。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b408-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b3c-7031-11ee-ae20-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "群众观点"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "无产阶级政党的根本观点， 其基本内容是， 坚信人民群众自己解放自己的观点， 全心全意为人民服务的观点， 一切向人民群众负责的观点，以及虚心向群众学习的观点。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b43a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b3d-7031-11ee-9f19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会形态"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一定生产力基础上的经济基础和上层建筑的统一体， 是社会经济结构、政治结构、文化结构的统一体。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b462-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b3e-7031-11ee-8ee5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指人所具有的特性和属性。归纳起来， 人的本性主要有三个方面， 即自然属性、社会属性、精神属性。精神属性本质上属于人的社会属性， 因此， 可以把人性分为两个方面： 自然属性和社会属性。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b494-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b3f-7031-11ee-bd05-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人的本质"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在其现实性上是一切社会关系的总和。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b4bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b40-7031-11ee-bd67-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人的价值"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人对自身的意义，即人能够创造价值以满足人自身的需要。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b4ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b41-7031-11ee-9279-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自由"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "就人的活动而言， 自由表现为人的一种自主力、判断力和选择力， 这种自由是相对制约人类行为的必然性而言的，在这个意义上，对必然的认识和世界的改造。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b516-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b42-7031-11ee-b284-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必然王国与自由王国"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必然王国是指人被物化的社会关系支配即受物支配的社会状态； 自由王国指人支配自己的社会关系即人支配物的社会状态。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b548-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b43-7031-11ee-8faa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何理解马克思主义的物质观及其现代意义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "辩证唯物主义认为， 物质范畴是对一切客观存在的共同本质的抽象和概括， 是标志着客观实在的哲学范畴。它的唯一特性是客观实在性， 它不依赖于人类的意识而存在， 并能为人类的意识所反映的客观存在。意义：\n坚持了唯物主义一元论，同唯心主义一元论和二元论划清了界限。\n坚持了能动的反映论和可知论，批判了不可知论。\n体现了唯物论和辩证法的统一，克服了形而上学唯物主义的缺陷。\n体现了唯物主义自然观与唯物主义历史观的统一，为彻底的唯物主义奠定了理论基础论述： 我们通过实践改造客观物质世界， 就要充分认识是物质是世界的本原， 人的实践活动依赖于客观物质世界， 而客观世界的规律性更制约着人的实践活动， 我们要在马克思主义物质观指导下， 正确认识和利用客观实际的发展规律， 一切从实际出发， 以取得社会主义实践的胜利。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b570-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b44-7031-11ee-a311-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谈谈在人工智能飞速发展的条件下，如何认识物质与意识的关系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物质决定意识，意思依赖于物质并反作用于物质。意识是特殊的物质，是人脑的机能和属性， 是客观世界的主观印象。人工智能， 它的“意识 ”就基于他所处的躯壳以及其中的代码，这决定了它的“意识 ”。\n意识对物质具有反作用。这种反作用是意识的能动作用。人工智能的“意识 ”发展到一定的程度便有可能突破人类的限制而产生积极认识世界和改造世界的能力和活动。\n要想正确认识和把握物质的决定作用和意识的反作用，必须处理好主观能动性和客观规律性的关系"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b598-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b45-7031-11ee-8a75-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "运用矛盾的普遍性和特殊性辩证关系原理，说明把马克思主义普遍真理与中国具体实际相结合的重要性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "矛盾的普遍性是指矛盾存在于一切事物的发展过程中，存在于一切事物发展过程的始终。矛盾的特殊性是指具体事物的矛盾及每一矛盾的各个方面都有其特点。\n矛盾的普遍性和特殊性是辩证的统一。第一，矛盾的普遍性和特殊性是相互联结的。 普遍性存在于特殊性之中， 特殊性中包含着普遍性。第二， 矛盾的普遍性和特殊性在一定条件下可以相互转化。\n矛盾的普遍性和特殊性辩证统一的原理， 是把马克思主义普遍真理与中国的具体实际相结合，走建设有中国特色社会主义道路的重要理论依据。\n我们既要坚持社会主义的根本制度和基本原则，又必须注意中国的特点，从中国正处于并将长期处于社会主义初级阶段这一实际出发， 走自己的路。只有这样， 才能把建设有中国特色的社会主义道路推向前进。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b5ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b46-7031-11ee-816e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "依据思维方法与思维能力的关系，谈谈如何培养和提高思维能力"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学习和掌握唯物辨法的科学思维方法， 就是要我们在实践中不断增强思维能力， 特别是不断增强辨证思维能力，历史思维能力，战略思维能力，底线思维能力和创新思维能力。\n辨证思维能力； 培养和提高辨证思维能力， 就要认真学习辩证唯物主义， 全面、系统、 准确的掌握联系和发展中的基本观点， 基本环节和基本规律， 将其自觉地体现和运用于思维当中。\n历史思维能力；提高历史思维能力，就要加强对中国历史，党史国史，社会主义发展史和世界历史的学习， 深刻总结历史经验， 把握历史规律， 认清历史趋势， 坚定中国特色社会主义方向，在对历史的深入思考中，不断提高我们的认识能力，精神境界和实践水平。\n战略思维能力；要求我们不断开阔视野， 培养博大胸襟，紧跟时代前进步伐，学会站在战略和全局的高度观察和处理问题， 通过纷繁复杂的表面现象把握事物的本质和发展的规律， 做到既抓住重点又统筹兼顾， 既立足当前又放眼长远， 既熟悉国情又把握世情， 在原则上坚定立场不动摇，在整体性方向性抉择面前冷静观察，谨慎从事，谋定而后动\n底线思维能力； 一方面，严守原则，不仅要画清底线，更要坚守底线，不能踩红线、 越底线， 踩雷区， 比如说不能突破主权的底线， 法律的底线等， 总之要守住做人， 处事， 用权，交友的底线“受警惕，明底线，知敬畏， 主动在思想上画出红线，在行为上明确界限， 真正敬法畏纪， 遵守规矩。另一方面， 要以积极的态度研判风险， 防患未然， 牢牢掌握战略主动权， 坚定信心， 以实际行动化解风险， 变挑战为机遇， 追求最佳结果， 另外， 坚持底线思维要做到居安思危， 增强忧患意识， 要做好应付最坏局面的思想准备， 见微知著， 未雨绸缪，增强前瞻意识\n创新思维能力；要求我们有敢为人先的锐气，打破迷信经验，迷信本本，迷信权威的惯性思维， 摒弃不合时宜的旧观念， 以思想认识的新飞跃打开工作的新局面。在不断提高创新思维能力的基础上， 坚定不移贯彻包括创新发展理念在内的新发展理念， 我们党就一定能够领导和团结全国各族人民，实现两个一百年奋斗目标，实现中华名族的伟大复兴。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b5f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b47-7031-11ee-ae47-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结合毛泽东的《实践论》，谈谈如何理解实践与认识的辩证关系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《实践论》的主题是实践与认识的统一，马克思主义哲学强调实践是认识的基础， 实践对认识具有决定作用。\n实践是人类生存和发展的最基本的活动， 是认识产生和发展的基础。人们的实践活动， 是以改造客观世界为目的、主体和客体之间通过一定的中介发生相互作用的客观过程。\n实践的主体和客体相互作用的关系中，实践关系是最根本的关系。\n实践在认识中的决定作用：实践产生了认识的需要； 实践为认识提供了可能；实践是认识得以产生和发展；实践是检验认识的真理性的唯一标准。\n我们应该将《实践论》和马克思主义哲学结合起来正确认识实践与认识的辩证关系"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b61a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b48-7031-11ee-b65f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么说真理既是绝对的又是相对的"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "把握这一观点对于坚持和发展马克思主义有什么重要意义？\n真理是绝对的,是针对它的客观性而言.真理有客观的特性,它的追求完全符合事实,这就是真理绝对的一面。\n人的认识是有限的,难以确保自己的认识完全符合客观事实,由此会产生真理的相对性。 \n对有限数量的人在有限的时空里,认识的真理是有一定相对性的,但是放到无限的时空有无限智慧的凝结,又可以使人类不断接近绝对的真理。\n认识到真理有绝对性,是我们要坚持马克思主义的根本,因为我们需要真理,正是源自它的客观性造成的绝对性.认识到真理的相对性,说明我们还必须发展马克思主义,因为我们的认识具有局限性,马克思主义也只是相对真理,需要不断补充新的认识来加强它,更重要的是要符合新时代的呼唤。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b64c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b49-7031-11ee-a199-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "习近平指出：\"世界上没有纯而又纯的哲学社会科学。世界上伟大的哲学社会科学成果都是在回答和解决人与社会面临的重大问题中创造出来的。研究者生活在现实社会中， 研究什么，   主张什么，都会打下社会烙印。 \"谈谈这段论述对于理解真理与价值的辩证统一关系有什么帮助和启示"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "真理,是人们在实践中所必须遵循的反映了实践对象的客观规律的真理。价值,是指人们在实践中所必须遵循的以满足人们需要和要求为内容的特点的实践目标。\n价值和真理的关系在实践基础上是辩证统一的。①成功的实践必然是以真理和价值的辩证统一为前提的；②价值的实现是以把握相关真理为前提的；③正确的价值认识的形成是以相关的真理为依据的；④真理必然具有价值；⑤真理和价值在实践和认识活动中相互制约、相互引导、相互促进。\n启示： 真理和价值在实践和认识活动中是相互制约，互相引导，互相促进的。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b674-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b4a-7031-11ee-9e0e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么说物质资料的生产方式是社会发展的决定性力量"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物质生产活动及方式是人类社会赖以生存和发展的基础。\n它决定着社会的结构、性质和面貌，制约着人类全部的社会生活。\n它的发展变化决定整个社会历史的变化，决定社会形态从低级向高级的更替和发展。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b6a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b4b-7031-11ee-b605-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "运用社会基本矛盾运动的原理分析深化改革的客观依据与重要意义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会基本矛盾，即生产力和生产关系的矛盾、经济基础和上层建筑的矛盾，这两对基本矛盾存在于一切社会形态之中， 决定社会的性质和基本结构， 贯穿于人类社会的始终， 推动着人类社会由低级向高级发展。\n改革是社会主义的自我完善和发展,根本目的是使生产关系适应生产力的发展,使上层建筑适应经济基础的发展."
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b6ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b4c-7031-11ee-a0c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "结合我国科学技术的重大成就，   如高铁、大飞机以及 \" 天宫 \"\"蛟龙\"\" 天眼 \"\" 悟空 \"\" 墨子 \"等，谈谈对科学技术在社会发展中的作用的认识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "科学技术推动现代生产力发展和社会变革中重要因素和重要力量。因为科学技术的不断进步才使得社会有如此大的变革。\n科学技术是现代生产力发展和经济增长的第一要素。过去,生产力发展和经济增长主要靠劳动力、资本和自然资源的投入,现代社会随着知识经济时代的到来,科学技术、智力资源日益成为生产力发展和经济增长的决定性要素,生产力发展和经济增长主要靠的是科学的力量、技术的力量。\n科学技术促进精神文明建设科学技术的发展， 使人类文明不断向前，持续发展\n科学技术协调人与自然界的关系科学技术的发展，加强了人类与自然的关系，协调了人与自然界的关系"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b700-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b4d-7031-11ee-92bd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请结合人民群众是历史创造者的原理，谈谈对坚持以人民为中心重要性的认识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "坚持以人民为中心,就是要始终坚持人民在中国特色社会主义事业中的主体地位, 尊重人民首创精神,发挥人民的积极性、主动性、创造性； 就是要坚持从人民的根本利益出发谋发展、促发展,不断满足人民日益增长的物质文化需要,不断实现好、维护好、发展好最广大人民的根本利益； 就是要切实保障人民依法享有各项权益,维护社会公平正义,满足人们的发展愿望和多样性需求,关心人的价值、权益和自由,关注人们的生活质量、发展潜能和幸福指数,体现社会主义的人道主义和人文关怀,促进人的全面发展。我们今天强调的以人民为中心,坚持了历史唯物主义的基本立场和基本观点,体现了我们党立党为公、执政为民的本质要求； 而中国古代的民本思想和西方人本主义,则站在唯心史观的立场上,体现了剥削阶级维护自身统治地位的需要.这是它们的根本区别。\n马克思主义认为,人是生产力中最活跃的因素；人民群众是历史的创造者,是推动社会发展的根本力量.相信谁、依靠谁、为了谁,是否始终站在最广大人民的立场上,是区分唯物史观和唯心史观的分水岭,也是判断马克思主义政党的试金石.对于马克思主义执政党来说,坚持全心全意为人民服务,立党为公、执政为民,充分发挥全体人民的积极性来发展先进生产力和先进文化,始终是最紧要的。中国特色社会主义事业是全国各族人民实现自己利益、创造美好生活的共同事业,是亿万人民广泛参与的创造性事业.广大人民是中国特色社会主义事业的主体,人民的积极性、主动性、创造性的充分发挥,是我们事业兴旺发达的根本保证.我们推动科学发展,根本目的就是要坚持尊重社会发展规律与尊重人民历史主体地位的一致性,坚持为崇高理想奋斗与为最广大人民谋利益的一致性,坚持完成党的各项工作与实现人民利益的一致性,坚持保障人民权益与促进人的全面发展的一致性,做到发展为了人民、 发展依靠人民、发展成果由人民共享。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b728-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b4e-7031-11ee-9f9f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "习近平指出： \" 我们既要绿水青山，也要金山银山。宁要绿水青山， 不要金山银山， 而且绿水青山就是金山银山。 \"请结合自然地理环境在社会生存和发展中的作用，  谈谈应怎样认识和处理经济发展与环境保护的关系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济建设与环境保护相协调发展，保护和改善环境就是保护和发展生产力， 但不能只保护环境，不发展经济，加快经济建设，绝不能以破坏环境为代价换取经济的一时繁荣。\n在推进现代化建设的进程中， 我们在保持国民经济， 持续较快增长的同时， 必须把保护环境放在突出位置。\n我们必须认识到保护环境和改善环境，也是保护和发展生产力。\n实践证明，保护好环境就能增加投资吸引力和经济竞争力。\n加快经济建设，绝不能以破坏环境为代价，绝不能把环境保护同经济建设对立起来或割裂开来，决不能走先污染后治理的老路。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b75a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b4f-7031-11ee-ac5e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么说 \" 资本来到世间，   从头到脚，每个毛孔都滴着血和肮脏的东西 \""
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "资本关系是以劳动者和劳动条件的所有权之间的分离为前提， 即少数人拥有大量的货币财富和生产资料， 多数人成为一无所有的自由劳动者。这两个条件的产生是资本主义原始积累的结果，而资本主义的原始积累过程就是征服、奴役、 掠夺、杀戮过程。\n资本主义萌芽于 14 世纪末 15 世纪初在地中海沿岸的一些城市，途径有两个： 一是从小商品经济中出来， 而是从商人和高利贷者转化而成。资本主义是资本剥削劳动、列强掠夺弱国的代名词。利用暴力手段剥夺农民的土地， 利用国家政权的力量进行残酷的殖民掠夺以积累资本。在自由竞争时代， 西方列强用坚船利炮在世界范围开辟殖民地， 贩卖奴隶， 贩卖鸦片， 依靠殖民战争和殖民地贸易进行资本积累和扩张。发展到垄断阶段后，统一的、 无所不包的世界市场和世界资本主义经济体系逐步形成， 资本家垄断同盟为瓜分世界而引发了两次世界大战， 给人类带来巨大浩劫。二战后， 由于社会主义的胜利和民族解放运动的兴起，西方列强被迫放弃了旧的殖民主义政策， 转而利用赢得独立和解放的广大发展中国家大规模工业化的机会， 扩大资本的世界市场， 深化资本的国际大循环， 通过不平等交换、资本输出、技术垄断以及债务盘剥等， 更加巧妙地剥削和掠夺发展中国家的资源和财富。在当今经济全球化进程中， 西方发达国家通过它们控制的国际经济、金融等组织， 通过它们制定的国际“游戏规则 ”，推行以所谓新自由主义为旗号的经济全球化战略， 继续主导国际经济秩序， 保持和发展它们在经济结构和贸易、科技、金融等领域的全球优势地位， 攫取着经济全球化的最大好处。\n从资本主义种种发展过程来看，可以说资本主义的发展史，就是资本剥削劳动、 列强掠夺弱国的历史， 这种剥夺的历史是用血和火的文字载入人类编年史的。随着资本主义的无限扩大，资源、环境问题日益严重，威胁着人类的可持续生存和发展。资产阶级利用暴力手段为资本主义的发展创造条件， 资本的原始积累主要通过暴力手段剥夺农民的土地， 用暴力手段抢夺货币财富。用暴力剥夺农民的土地， 是资本的原始积累过程的基础， 资本家和贵族通过掠夺教会地产， 欺骗性的出让国有土地， 盗窃共有地， 用剥夺的方法，用残暴的恐怖的手段把封建财产和克兰财产转化为现代私有财产， 建立了资本主义土地私有制。利用国家政权的力量进行残酷的殖民掠夺是资本原始积累的又一个重要方式， 从 15 世纪起， 资本主义国家通过武力征服海外殖民地， 屠杀当地居民， 抢掠金银珠宝， 大批贩卖黑人， 实行关税保护制度， 进行商业战争， 资产阶级在国外进行疯狂掠夺的同时， 还通过国债制度，课税制度和保护关税制度，加强对国人的剥削， 积累巨额资产。资本的额原始积累的事实表明，资产阶级的发家史就是一部罪恶的掠夺史。所以说，资本来到世间，从头到脚，每个毛孔都滴着血和肮脏的东西。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b782-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b50-7031-11ee-ba45-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何理解商品二因素的矛盾来自劳动二重性的矛盾，归根结底来源于私人劳动和社会劳动之间的矛盾"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "商品经济存在着一系列的矛盾，包括使用价值和价值的矛盾（即商品二因素的矛盾）、  具体劳动和抽象劳动的矛盾（即劳动二重性从矛盾）、私人劳动和社会劳动的矛盾，其中私人劳动和社会劳动的矛盾是商品经济的基本矛盾， 它决定着劳动二重性的矛盾和商品二因素的矛盾。  在私有制商品经济条件下，商品二因素的矛盾来源于生产商品的劳动二重性的矛盾。在商品交换过程中， 生产商品使用价值的具体劳动是不能直接进行量的比较的， 只有将具体劳动还原为抽象劳动， 也就是从具体劳动中抽象出无差别的人类劳动， 才能进行量的比较。 然而， 具体劳动能否还原为抽象劳动，在根本上取决于私人劳动和社会劳动能否实现统一。商品生产者的私人劳动生产的产品如果与社会的需求不相适应， 这个私人劳动就不被承认为社会劳动， 它作为具体劳动的有用性质也就不被社会所承认， 因而不能还原为抽象劳动， 这意味着商品的价值不能实现， 商品的使用价值和价值之间的矛盾没有得到解决。反过来，如果私人劳动生产的产品为社会所接受， 则这种私人劳动就被承认并转化为社会劳动， 它作为具体劳动的有用性质就被社会所承认， 因而可以还原为抽象劳动， 这意味着商品的价值得到了实现，商品的使用价值和价值之间的矛盾得到了解决。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b7aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b51-7031-11ee-9364-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何理解 \" 资本是带来剩余价值的价值 \""
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "资本是自行增值的价值， 是能够带来剩余价值的价值。在现实生活中， 资本总是表现为一定的物， 例如货币、机器设备、商品等， 但这些物本身并不是资本， 只有在一定的社会关系下， 这些物被用来从事以获得剩余价值为目的的生产活动， 也就是成为带来剩余价值的手段时， 它才成为资本。所以马克思强调指出， 资本的本质不是物， 而是在物的外壳掩盖下的一种社会生产关系，即资本主义剥削关系。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b7dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b52-7031-11ee-aed6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "运用历史和现实的事实说明经济危机是资本主义基本矛盾的集中体现"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "资本主义生产资料私有制同生产社会化大生产之间的矛盾体现在 1929——1933 年经济大萧条中。这次危机爆发前,美国社会生产处于无计划的混乱状态下。各生产厂家为了促销, 发明出“分期付款 ”的销售办法,与银行等金融机构联合,造成经济上出现“虚假繁荣”,而广大人民的消费能力越来越低,从而使“产销矛盾 ”异常尖锐。这个事件说明了生产的社会化与生产资料私有制之间的矛盾。假如发生在社会主义国家, 生产资料公有制为主体,运用计划和市场共同调节的作用,就可以避免此类事情发生."
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b804-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b53-7031-11ee-a5d8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有人认为，资本主义民主是囿于 \"钱主 \" 的民主，迷于 \" 游戏 \" 的民主，止于 \"选举 \" 的民主。你如何看待这种说法，为什么"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "首先， 资本主义民主是建立在生产资料私人占有基础上的， 受资本的多少和财产的多寡所支配。其次， 国家权利掌握在少数资产阶级手中， 他们通过某种途径干预政治， 其资本主义民主就成为了资产阶级富人的政治游戏。最后， 因为政治受到这些富人所干预， 政治选举权和被选举权自然大量地被资产阶级富人们所掌握， 而民主只是相对于资产阶级而言的， 对于穷人只能是明面上的一个普通词语。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b836-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b54-7031-11ee-bb54-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "垄断是怎么产生的，为什么垄断并没有消除竞争"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从本质上说,是资本主义生产力发展的结果,一方面,随着科学发展技术进步,高效率的设备涌现出来,为大生产提出了可能,同时也要求企业规模较大。另一方面, 自由竞争使得企业合并增多,使得资本越来越多的集中于有限的几个企业。所以说,当生产跟资本集中发展到一定时侯,垄断就自然而然产生了。垄断不能消除竞争。原因：\n任何垄断企业都是局部范围内的或者说某一行业的垄断很难垄断世界范围内生产销售。\n 技术革命使得一个垄断企业难于在长时间内保持垄断的地位。\n国家的宏观调控政策不可能使得一个企业在长时间内保持垄断地位。也就是说,垄断使竞争在更大范围和更深的深度上展开。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b85e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b55-7031-11ee-a87d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么国家垄断资本主义体现了资本主义生产关系的部分质变"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国家垄断资本主义是国家政权和垄断资本融合在一起的垄断资本主义。国家垄断资本有  别于私人垄断资本,资产阶级国家通过其直接掌握的国有垄断资本和国家经济机构,参与私  人垄断资本的活动,调节社会的再生产过程,履行国家组织经济的职能。所以,国家垄断资本  的产生是垄断资本主义生产关系在自身范围内的部分质变,是一种新的垄断资本主义的生产  关系。国家垄断资本的产生,标志着资本主义发展进入新的阶段。国家垄断资本主义是垄断  资本主义的新发展,它对资本主义经济的发展的作用是双重的： 一方面,国家垄断资本主义的  出现在一定程度上促进了社会生产力的迅速发展,而且随着科学技术的发展还会有新的发展。 另一方面,国家垄断资本主义的出现没有根本改变垄断资本主义的性质。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b886-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b56-7031-11ee-aa3e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何认识和把握经济全球化及其影响"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济全球化是指在生产不断发展、科技加速进步、社会分工和国际分工不断深化、生产的社会化和国际化不断提高的情况下， 世界各国、各地区的经济活动越来越超出某一国家和地区的范围而相互联系、相互依赖的过程。经济全球化是世界经济发展的必然趋势,任何国家都回避不了。我国正处于社会主义发展的初级阶段， 并将在这一阶段停留很长的一段时间，所以在全球化的发展趋势面前， 我国要坚定不移地实行对外开放的政策,适应经济全球化的趋势,积极参与国际经济合作与竞争, 充分利用经济全球化带来的各种有利条件和机遇； 同时又要对经济全球化带来的风险保持清醒认识,坚持独立自主的原则,加强防范工作,增强抵御和化解能力,切实维护我国经济安全, 更好地发展和壮大自己。经济全球化的影响：经济全球化使各国经济的相互依存度和渗透性越来越强,任何国家要想置身于这一潮流之外而求得较快发展是不可能的。就整个世界经济而言,经济全球化要求各国间加强经济协调与合作,从而能缓解经济发展中的重重困难,能完成一国力量所难以承担的重大发展项目； 经济全球化也意味着有可能实现资源在全球范围内的合理、有效的配置,有利于各国经济实现优势互补,实现全球范围的专业化协作。总之.在经济全球化的大环境中,世界经济和各国经济都有可能获得更大的发展。当然,经济全球化带来的机遇和风险是并存的。由于经济发展水平不同,各国并没有能够平等地、均衡地分享经济全球化的利益,面临的机遇和挑战的具体内容也有不同。一般来说,发达资本主义国家经济实力强大,在经济全球化进程中占据主导地位,有可能从中获取更大利益。而发展中国家由于经济力量较弱,在世界经济中处于不利地位,在经济全球化的大潮中面临的风险也更大些。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b8b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b57-7031-11ee-9aae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "近年来资本主义社会发生了那些新变化"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "试分析其原因及影响？当代资本主义新变化：\n生产资料所有制的变化：国家资本所有制形成并发挥重要作用，法人资本所有制崛起并成为居主导地位的资本所有制形式；\n劳资关系和分配关系的变化：随着工人阶级反抗力量的不断壮大，资本家及其代理人开始采取一些缓和劳资关系的激励制度；职工持股计划； 社会福利制度；\n社会阶级，阶层结构的变化：传统的资本家的地位和作用已经发生了很大变化：高级职业经理成为大公司经营活动的实际控制者；知识型和服务型劳动者的数量不断增加，实现了从传统劳动方式向现代劳动方式的转变；\n经济调节机制和经济危机形态的变化：资产阶级国家对经济的干预不断加强，它与市场机制相辅相成，共同推动着资本主义的运行和发展。在经济调节机制变化的同时，经  济危机形态也发生了变化，金融危机对整个经济危机的影响加强；\n政治制度的变化：国家行政机构的权限不断加强；政治制度出现多元化的趋势，公民权利有所扩大；重视并加强法制建设；改良主义政党在政治舞台上的影响日益扩大，成  为战后西方资本主义国家政治生活中非常引人瞩目的现象。原因：\n科学技术革命和生产力的发展，是资本主义变化的根本推动力量 ;\n工人阶级争取自身权力和利益斗争的作用，是推动资本主义变化的重要力量 ; \n社会主义制度初步显示的优越性，对资本主义产生了一定影响 ;\n主张改良主义的政党对资本主义制度的改革， 也对资本主义的变化发挥了重要作用。 影响：当代资本主义发生的变化从根本上说是人类社会发展一般规律和资本主义经济规律作用的结果;当代资本主义发生的变化是在资本主义制度基本框架内的变化，并不意味着资本主义生产关系的根本性质发生了变化 ;把资本主义的部分变化夸大为资本主义的质的根本变化的认识是片面的，也是不科学的 ;完全否定当代资本主义新变化的意义，否认当代资本主义已经在许多方面不同于传统的资本主义的观点也是不可取的。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b8e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b58-7031-11ee-958b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何理解资本主义的历史地位及其为社会主义所代替的历史必然性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "资本主义发展进入国家垄断资本主义阶段,生产社会化、资本社会化和管理社会化都达  到了前所未有的高度,从而为全社会共同占有生产资料和共同组织社会化生产准备了必要的  物质条件和社会条件。第一,高度发达的社会生产力、社会化大生产,为社会主义取替资本主  义准备了必要的物质条件。第二,无产阶级力量的不断壮大,为社会主义取代资本主义准备了  社会条件。第三,资本主义生产方式的发展,还为社会主义建立后管理社会经济、发展社会生  产力提供了社会化大生产要求的组织形式和管理经验。社会主义取代资本主义是生产关系一  定要适合生产力发展要求规律作用的必然要求,是资本主义基本矛盾深化和发展的必然结果。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b912-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b59-7031-11ee-ad5c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何认识世界社会主义五百年的发展历程"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "世界社会主义 500 年的经验：\n科学社会主义理论必须在社会主义实践中不断丰富、发展、完善。实践永无止境， 创新也永无止境。\n必须以科学的态度对待社会主义的曲折发展，正确对待社会主义的曲折。\n必须把马克思主义的基本原理和本国国情相结合，走出自己的革命和建设的道路。 \n革命胜利后，必须大力发展生产力，提高和尽快改善人民的生活水平。\n建设社会主义必须进行体制改革和机制创新，同时把改革和坚持社会主义基本制度结合起来。\n必须坚持对外开放，借鉴和吸收人类包括资本主义的一切文明成果，武装自己，发展自己。\n建设富强、民主、文明、和谐的社会主义，消除封建主义和自然经济的遗毒。世界社会主义 500 年的启示：\n必须增强我们的社会主义信念、信心和信仰。\n必须厘清社会主义在价值、制度和体制三个范畴内的不同含义，找准中国特色社会主义的合理基点。\n必须坚持解放思想、实事求是、与时俱进，不断丰富和发展中国特色社会主义。\n“乌托邦 ”空想社会主义在历史上占有 330 多年的时间，我们要善于继承其中的科学成分，切不可重犯空想的错误。\n要不断推进社会主义民主政治建设。\n大力加强与改善与人民群众鱼水相连的党的建设。\n要通过不断总结实践经验，加深对社会主义的认识。\n政治体制改革相对滞后，严重制约经济的持续发展。(\n分配不公、贫富差距的情况还比较突出。(\n阳光财产与阳光财政制度尚未建立(\n唯经济主义的指导思想给社会发展和民生建设带来了极其严重的后果。 (\n在公民社会的建设方面进展迟缓，没有政策与法律的强力支持(\n社会主义的文明重建、信仰重建、价值观重建的路还十分漫长 (7)资源环保形势日趋严峻。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b93a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b5a-7031-11ee-8b64-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何正确认识和把握科学社会主义的一般原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人类社会发展规律和资本主义基本矛盾是“资本主义必然灭亡、社会主义必然胜利”的根本依据。\n无产阶级是最先进最革命的阶级，肩负着推翻资本主义旧世界、建设社会主义和共产主义新世界的历史使命。\n无产阶级革命是无产阶级进行斗争的最高形式，以建立无产阶级专政的国家为目的。\n社会主义社会要在生产资料公有制基础上组织生产，以满足全体社会成员的需求为生产的根本目的。\n社会主义社会要对社会生产进行有计划的指导和调节，实行按劳分配原则。\n社会主义社会要合乎自然规律地改造和利用自然，努力实现人与自然的和谐共生。 \n社会主义社会必须坚持科学的理论指导，大力发展社会主义先进文化。\n无产阶级政党是无产阶级的先锋队，社会主义事业必须始终坚持无产阶级政党的领导。\n社会主义社会要大力解放和发展生产力，逐步消灭剥削和消除两极分化，实现共同富裕和和社会全面进步，并最终向共产主义社会过渡。马克思、恩格斯创立了科学社会主义理论，并提出了正确对待科学社会主义一般原则的科学态度。他们一方面强调这些原则的正确性，另一反面又反对将这些原则当作一成不变的教条。\n必须坚持科学社会主义一般原则，反对任何背离科学社会主义一般原则的错误倾向。\n要善于把科学社会主义一般原则与本国实际相结合，创造性地回答和解决革命、建设、改革中的重大问题。\n紧跟时代和实践的发展，在不断总结新鲜经验中进一步丰富和发展科学社会主义一般原则。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b96c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b5b-7031-11ee-99d5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试结合科学社会主义的一般原则，谈谈为什么说中国特色社会主义是科学社会主义，而不是其他什么主义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国特色社会主义，是科学社会主义理论逻辑和中国社会发展历史逻辑的辩证统一。 中国特色社会主义既坚持了科学社会主义的基本原则，又根据时代条件赋予其鲜明的中国  特色，是一百多年来科学社会主义理论与实践发展的结晶，是当代中国的科学社会主义。  中国特色社会主义成为当代中国的科学社会主义，关键在于它的“中国特色”。我们党既坚持科学社会主义的基本原则，坚决反对和抵制偏离社会主义方向的错误思潮；又吸取不顾  历史条件生搬硬套本本的历史教训，破除对科学社会主义基本原则的教条式理解，而真正  将其与当代中国的具体实际结合起来，从而形成了鲜明的“中国特色”。当代中国最大的实际是处于社会主义初级阶段，搞社会主义的根本任务是发展社会生产力。这样，我们进行  的改革开放，包括发展社会主义市场经济，借鉴吸收西方资本主义国家有益的东西等等，都是围绕在社会主义条件下发展社会生产力这一根本任务的。而发展社会生产力，正是科学社会主义要义。因此，这种“中国特色”既是对科学社会主义的坚持，又是对科学社会主义的丰富和发展。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b994-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b5c-7031-11ee-a434-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请谈谈中国特色社会主义的成功实践对社会主义发展的贡献"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "开辟了经济欠发达国家摆脱贫困的新模式:中国是世界上最大的发展中国家， 在中国特色社会主义理论体系的指引下开创了一条中国特色的社会主义现代化道路， 为世界各国特别是欠发达国家现代化提供了一个崭新的模式。中国现代化的成功理论和实践，对那些与中国国情类似的国家和地区进行现代化建设， 提供了启示与借鉴， 尤其是为广大第三世界人民树立了榜样。可以使他们看到， 发展中走社会主义道路， 确实可以加快科技和生产力的发展， 可以加快增强综合国力， 可以改善人民生活， 最终达到共同富裕， 可以避免资本主义的两极分化和其他种种弊端， 从而吸促引、促进他们奋起走社会主义道路。\n有力地推动了世界和平与发展的历史进程:中国人民向爱好和平。争取和平， 维护和平， 是中国特色社会主义外交理论和我国外交工作的立足点， 也是我国对外政策的主要目标。中国不称霸， 要以平等态度对待别国， 同样尊重别国的平等地位。这些重要观点及其实践， 无疑对促进世界的和平和发展起到了重要的推动作用。中国还是全球和地区稳定的重要力量。中国政府和中国人民高举和平、发展、合作旗帜， 奉行独立自主的和平外交政策， 坚持走和平发展道路， 恪守维护世界和平、促进共同发展的外交政策宗旨。\n对世界社会主义运动产生了积极影响改革开放以来， 在建设中国特色社会主义的伟大实践中， 正是由于我们在实践中牢牢把握住“既坚持了科学社会主义的基本原则， 又根据我国实际赋了其鲜明的中国特色 ”这一关键，中国特色社会王义才成就斐然， 举世瞩目。这在世界社会主义运动低潮时期是一个伟大的奇迹。中国特色社会主义的成功实践和创新，展示出了社会主义的复兴之路和希望之光。\n丰富和发展了马克思主义的理论宝库:中国共产党在 80 多年革命、建设、改革的奋斗历程中，坚持把马克思主义的基本原理同中国的具体实践相结合， 实现了马克思主义中国化的两次历史性飞跃， 产生了两大理论成果。中国特色社会主义理论体系的重大意义就在于， 它首次比较系统地初步回答了像中国这样经济文化比较落后的国家， 在建立社会主义制度以后， 怎样建设、巩固和发展社会主义以及无产阶级执政党建设的系列重大问题，  从而在这个难题上取得了历史性的突破。  改革开放以来， 中国共产党人正是坚持以中国特色社会主义理论体系为指导， 才成功地并不断地制定出符合国情的路线方针政策， 才使中国特色社会主义的道路越走越宽广。从社会主义思想史的发展看， 这个理论体系揭示了社会主义的本质和发展规律， 成为马克思主义在中国发展的新阶段。这个理论体系， 在中国指导实践获得了巨大成功， 无疑对其他社会主义国家具有重要借鉴意义。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b9c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b5d-7031-11ee-b83a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请谈谈在未来理想社会的认识上， 马克思主义经典作家与空想社会主义者有何本质区别"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在展望未来社会的问题上， 马克思主义与空想社会主义的根本区别就在于：马克思和恩格斯站在科学的立场上， 提出并自觉运用了预见未来社会的科学方法。(一)在揭示人类社会发展一般规律基础上指明社会发展的方向空想社会主义者曾详尽地描绘过理想社会的图景。但在马克思主义产生以前，人们对未来社会的预见，往往带有浓厚的空想性质和幻想色彩，因为他们还没有掌握预见未来的科学方法论，也不懂得人类社会发展的客观规律。马克思、恩格斯站在无产阶级立场上，运用科学的方法，致力于研究人类社会特别是资本主义社会，第一次揭示了人类社会发展的一般规律和资本主义社会发展的特殊规律， 从而对共产主义社会做出了科学的展望。马克思、恩格斯认为，人类社会同自然界的发展一样，具有自己的发展规律，揭示这些规律，就能为正确理解过去、把握现在和展望未来提供向导。 可见，马克思、恩格斯关于未来社会理论是建立在对历史发展规律把握的基础上的。(二)在剖析资本主义社会旧世界中阐发未来新世界的特点马克思、恩格斯关于未来社会的理论主要是在运用辩证唯物主义和历史唯物主义分析资本主义现实的基础上提出的。道过探索整个人类社会和资本主义社会发展的规律预测历史未来前景，是马克思、恩格斯关于未来社会理论的一个重要特点。而掌握社会规律，离不开唯物主义特别是历史唯物主义理论和唯物辩证的方法的指导，这个理论与空想社会主义的根本区别在于，它不是从绝对真理、理性、正义这些抽象的观念描绘未来社会美景， 而是在批判旧世界中发现新世界，即通过深入剖析资本主义社会形态特别是经济形态来获得对未来社会的认识。他们以此法勾画出的社会主义，是资本主义的对立物、替代物。未来社会的基本特征是与资本主义社会特征相对立的，同时， 二者也有同一性，后者不仅是前者的对立物，而且也是继承者，应当吸收资本主义社会的文明成果。空想社会主义者揭露了资本主义社会中存在的剥削和压迫，但对资本主义的认识仅停留在现象上，并未揭示其实质和根源。马克思、恩格斯对资本主义批判的高明之处在于，他们不是只看到资本主义社会的弊端，而是揭示出弊端的根源，揭示出资本主义发展中自我否定的力量，发现资本主义发展中孕育着的新社会因素，并以此作出对未来社会特点的预见。(三)立足于揭示未来社会的一般特征，而不做详尽的细节描绘当马克思、恩格斯展望未来社会时，总是只限于指出未来社会发展的方向、原则和基本特征，简单说就是预测了未来社会的大体轮廓，而把具体情形留给后来的实践去回答。 因为“在将来某个特定的时刻应该做什么，应该马上做些什么，这当然完个取决于人们将不得不在其中活动的那个既定的历史环境。”马克思和恩格斯都不赞成对未来社会的特征作过于具体、全面地论述，更没有为未来社会规定具体方案。恩格斯认为，在新社会没有成为现实而缺乏实践经验的情况下详细地设计未来蓝图，其结果只能是越是制定得详细周密，就越是要陷入纯粹的幻想。经典作家们论述表明，我们不可能也不必要对遥远的未来作具体的设想和描绘，而应当把为共产主义而奋斗的最高纲领与每个阶段的现实纲领结合起来。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550b9ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b5e-7031-11ee-a311-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "既然共产主义理想的实现是历史的必然，   为什么又要人们去努力追求。既然共产主义的最终实现是一个漫长的过程，     为什么又说“ 共产  主义渺茫论” 是错误的。请用马克思主义的辩证观点予以解答"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第一问：社会发展规律是人们在实践活动中形成的它的发现和发挥作用离不开人们的社会活动  特别是离不开人们自觉能动的创造历史的活动。社会主义代替资本主义和最后实现共产主  义的历史进程离不开工人阶级及其政党的能动性离不开社会主义国家建设事业的推进离不  开世界社会主义运动的发展。可以说在共产主义实现的历史必然性中就包含着无产阶级和  人类对共产主义理想的追求。  社会制度的更替不是一蹴而就的都要经历一个漫长的过程。 社会主义的充分发展和向共产主义的过渡需要很长的历史时期当代资本主义的灭亡和向社  会主义、共产主义的转变也是一个长期的过程。  实现共产主义是历史发展规律的必然要求也是人类最伟大的事业。第二问：实现共产主义是历史发展规律的必然要求，“共产主义渺茫论”是错误的第一，他们不了解共产主义的含义。共产主义有两方面的含义：一方面指的是在共产  主义思想体系指导下的共产主义运动 ;另一方面指的是共产主义的社会制度。当然，共产主义社会制度彻底实现，是需要经过若干代人的不懈努力的，是一个远大的奋斗目标。但是，作为在共产主义思想体系指导下的共产主义运动，作为一种亿万人民在共产党领导下改造社会的革命实践，则是一点也不“渺茫 ”，而是实实在在地、 每日每时地存在于我们的现实生活中。一个多世纪以来，各国无产阶级及其政党为了实现共产主义制度这一伟大理想，进行了艰苦卓绝的斗争，诸如巴黎公社、十月社会主义革命以及我国的社会主义革命和社会主义建设，每向前发展一步都意味着向共产主义靠拢一步。今天，我们的一切革命都是伟大的共产主义运动的具体体现和组成部分。第二，他们割裂了共产主义与社会主义之间的联系，认为社会主义和共产主义制度互不相干。因此，忽视了一个很重要的事实，即共产主义运动不仅在全世界，在中国早已存在，而且，已经取得了显著成果，这就是共产主义社会的初级阶段——社会主义社会，已经在中国和世界一些国家建立起来并取得重大发展，从而使共产主义运动发生了质的飞跃。我国社会主义制度的建立，不仅使人民从被压迫和被剥削的旧制度下解放出来，而且，随着社会主义改革和建设的不断深入，人们生活的不断改善，社会主义制度的不断完善以及社会道德水准和文化教育科学事业的向前推进，共产主义理想逐渐在深入人心。第三，他们不能正确对待社会主义事业中的曲折和困难。马克思主义认识告诉我们， 事物的发展不是直线上升，而是在曲折中前进的。社会主义事业也是如此，它有成功，也有失误，有前进，也有暂时的困难。 中国的改革和经济建设取得了举世瞩目的伟大成就， 但也存在不少问题。只有坚持中国特色社会主义道路，集中精力把经济建设搞上去，人民生活得到了不断改善。人们才能看到社会主义的前途和希望。只要把社会主义建设好，就为将来的共产主义打下了坚实的基础。我们要继续坚定不移地沿着社会主义道路勇往直前， 坚信共产主义必胜的信念。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ba20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b5f-7031-11ee-b495-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有人说:“ 在社会主义初级阶段只能讲树立中国特色社会主义共同理想，而不应提树立共产主义远大理想，否则就是脱离实际。  ”请用共同理想和远大理想的关系来分析评论这一观点"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "这一观点割裂了共同理想与远大理想的联系，是错误的，共产主义理想是建立在科学基础上的社会理想，是人类历史上最崇高的社会理想，实现共产主义理想是共产党的远大理想和最高纲领。建设中国特色社会主义是全体中国人民现阶段的共同理想。实现共产主义的远大理想与建设中国特色社会主义的共同理想是统一的。首先，实现共产主义理想必须以建设中国特色社会主义共同理想为基础。因为，实现  共产主义理想必须要经历中国特色社会主义的发展阶段 ;中华民族走向共产主义必须走中国特色社会主义的道路；实现共产主义理想必须做好建设中国特色社会主义的每一项工作。其次，实现建设中国特色社会主义的共同理想必须树立共产主义远大理想。因为，实  现建设中国特色社会主义的共同理想必须以共产主义理想为导引 ;实现建设中国特色社会主义的共同理想必须以共产主义理想为精神支柱 ;实现建设中国特色社会主义的共同理想必须树立共产主义理想为其精神动力。忽视远大理想与共同理想的紧密联系和相互统一，就会导致共产主义“渺茫论 ”和“空想论 ”，在建设中国特色社会主义的过程中就会迷失方向，失去前进的动力。我们应该立足当前，把握未来，在实现中国特色社会主义的共同理想的实践中，进一步树立和坚定共产主义远大理想。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ba48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b60-7031-11ee-9294-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国特色社会主义进入了新时代。为了不辜负这个伟大的时代，当代大学生应该怎样确立和追求自己的人生理想"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "理想是指引人们奋斗方向的航标，也是推动人们前进的强大精神动力。 一个社会不能没有理想， 一个人也不能没有理想。共产主义远大理想在当代中国的具体体现就是中国特色社会主义共同理想。在建设中国特色社会主义的实践中，我们不但要坚定中国特色社会主义的共同理想，而且要进一步树立共产主义远大理想，在社会主义建设的现阶段，这是历史的使然。要用马克思主义理论武装自己的头脑，通晓社会主义代替资本主义的必然性，真正有效地抵制和克服各种错误思潮的影响从而在思想上牢固地树立起共产主义的理想和社会主义的信念。党和人民对大学生寄予了殷切的期望。我们既要树立共产主义的远大理想，坚定信念，以高尚的思想道德要求和鞭策自己，更要脚踏实地地为实现党在现阶段的基本纲领而不懈努力，扎扎实实地做好现阶段的每一项工作。忘记远大理想而只顾眼前，就会失去前进方向;  离开现实工作而空谈远大理想，就会脱离实际。千里之行，始于足下。个人理想必须同社会理想相一致。当代大学生是民族的希望、 祖国的未来，肩负着推进中国特色社会主义建设事业、实现中华民族的伟大复兴的历史重任。要把追求个人理想与追求社会理想结合起来，把追求共同理想与追求远大理想结合起来，从我做起，从现在做起，努力学习，践履笃行，奋发有为，甘于奉献，在建设中国特色社会主义的伟大实践中，实现自身的价值，为祖国、为人民创造更美好的明天。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550ba7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b61-7031-11ee-9678-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马克思主义物质观及其理论意义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物质是标志客观实在的哲学范畴，这种客观实在是人通过感觉感知的， 他不依赖于我们的感觉而存在，为我们的感觉所复写、摄影、反映。” 理论意义：第一，坚持了物质的客观实在性原则， 坚持了唯物主义一元论，同唯心主义一元论和二元论划清了界限。第二，坚持了能动的反映论和可知论，有力的批判了不可知论。第三，体现了唯物论和辩证法的统一。 第四，体现了唯物主义自然观和唯物主义历史观的统一，为彻底的唯物主义奠定了理论基础。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550baa2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b62-7031-11ee-9d17-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "矛盾的普遍性和特殊性及其相互关系，意义"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "普遍性：无处不在，无时不有。矛盾存在于一切事物中，存在于一切事物发展过程的始终， 旧的矛盾解决了，新的矛盾又产生， 事物始终在矛盾中运动。特殊性：一是不同事物的矛盾各有特点，二是同一事物的矛盾在不同发展过程和发展阶段各有不同特点，三是构成事物的诸多矛盾以及每一矛盾的不同方面各有不同的性质。关系： 矛盾的普遍性（共性） 与矛盾的特殊性（个性）是辩证统一的关系。矛盾的共性是无条件的、绝对的， 矛盾的个性是有条件的、相对的。任何现实存在的事物都是共性和个性的有机统一，共性寓于个性之中，没有离开个性的共性，也没有离开共性的个性。矛盾的共性和个性、绝对和相对的道理， 是关于事物矛盾问题的精髓， 是正确理解矛盾学说的的关键， 不懂得它， 就不能真正掌握唯物辩证法。 矛盾的共性和个性相统一的关系，既是客观事物固有的辩证法，也是科学的认识方法。意义\n矛盾的普遍性与特殊性辩证关系的原理是马克思主义的普遍真理同各国实际相结合的哲学基础，也是建设中国特色社会主义的哲学基础。\n掌握矛盾的普遍性与特殊性辩证关系的原理，把马克思主义同我国实际和时代发展相结合，与时俱进，不断开拓新境界，是我们面临的重大课题。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bad4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b63-7031-11ee-a746-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "事物发展过程中量变和质变的基本原理及其辩证关系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "量变：是事物数量的增减和次序的变动，是保持事物的质的相对稳定性的不显著变化，体现了事物渐进过程的连续性。质变：质变是事物性质的根本变化，是事物由一种质态向另一种质态的飞跃， 体现了事物渐进过程和连续性的中断。 关系：\n量变是质变的必要准备 \n质变是量变的必然结果 \n量变和质变是相互渗透的，一方面总的量变过程中有阶段性和局部性的部分质变；另一方面，在质变过程中也有旧质在量上的收缩和新质在量上的扩张。质量互变规律体现了事物发展的渐进性和飞跃性的统一。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bafc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b64-7031-11ee-8007-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "感性认识和理性认识的辩证关系"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "感性认识是人们在实践的基础上， 有感觉器官直接感受到的关于事物的现象、事物的外部联系、事物的各个方面的认识， 包括感觉， 知觉， 表象三种形式。 \n理性认识是人们借助抽象思维，在概括整理大量感性材料的基础上，达到关于事物的本质、全体、内部联系和事物自身规律性的认识。\n感性认识和理性认识有着密不可分的辩证联系 \n理性认识依赖于感性认识， 理性认识必须以感性认识为基础。\n感性认识有待于发展和深化为理性认识。\n 感性认识和理性认识相互渗透，相互包含，二者的区分是相对的，人们不应当也不可能把它们截然分开。\n感性认识和理性认识是辩证统一的， 统一的基础是实践。割裂二者的辩证统一关系，就会走向唯理论和经验论，在实践工作中就会犯教条主义和经验主义错误。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bb2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b65-7031-11ee-ae90-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "真理和价值中的辩证关系的表现, 科学精神和人文精神"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "成功的实践必然是以真理和价值的辩证统一为前提的。 \n价值的形成和实现以坚持真理为前提， 而真理又必然是具有价值的。 \n真理和价值在实践和认识活动中是相互制约的、相互引导、相互促进的。科学精神和人文精神：坚持真理尺度和价值尺度的辩证统一，要求我们在实践中必须坚持和弘扬科学精神和人文精神。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bb60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b66-7031-11ee-8982-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "科学技术在社会发展过程中的作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "积极作用：科学技术革命是推动经济和社会发展的强大杠杆  \n对生产方式产生了深刻影响。 \n对生活方式产生了巨大影响。 \n促进了思维方式的变革。总之，科学技术是社会发展的重要动力。 \n局限性：科学技术的社会作用具有两重性.一种情形是由于对自然规律和人与自然关系认识不够，或缺乏对科学技术消极后果的强有力的控制手段而产生的。还有一种情形是与社会制度有关。\n要用科学的自然观和发展观指导人们与自然和谐相处，要树立全球观念和危机意识，克服眼前利益和局部利益的狭隘视野，克服急功近利的行为。\n要正确对待自然和社会的关系， 要尊重自然， 善待自然， 合理利用自然资源。 \n要增强人们合理控制各种生产活动和消费活动的能力和手段， 为人类摆脱困境创造新的物质条件。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bb88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b67-7031-11ee-abd0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "['在社会历史发展过程中，人民群众起着决定性的作用。人民群众是历史的主体，是历史的创造者。 表现： ', '人民群众是社会物质财富的创造者。 ', '人民群众是社会精神财富的创造者。', '人民群众是社会变革的绝对力量。2.人民群众创造历史的活动要受到一定社会历史的制约。 ', '经济条件对人民群众的创造活动有着首要、决定性的影响。 ', '政治条件对人民群众的创造活动也具有直接的影响。 ', '精神文化条件也是制约人民群众创造活动的重要因素。3.唯物史观关于人民群众是社会历史创造者的原理，是无产阶级政党的群众观点和群众路线的理论基础。', '群众观点，就是坚信人民自己解放自己的观点， 全心全意为人民服务的观点， 一切向人民群众负责的观点， 以及虚心向群众学习的观点。', '群众路线在群众观点的指导下形成的，是群众观点在实际工作中的贯彻运用。 ', '在建设中国特色社会主义的伟大实践中， 我们要尊重人民的主体地位，发挥人民首创精神，保障人民各项权益，走共同富裕道路，促进人的全面发展，做到发展为了人民，发展依靠人民，发展成果由人民共享，始终坚持全心全意为人民服务的宗旨。8.价值规律的内容，作用表现，消极后果']"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内容：商品的价值量由生产商品的社会必要劳动时间决定， 商品交换以价值量为基础，按照等价交换的原则进行，形成价值规律。价值规律是贯穿整个商品经济的一般规律， 它既支配商品生产，有支配商品流通。价值规律的表现形式是商品价格围绕商品的价值自发波动。表现：\n 自发地调节生产资料和劳动力在社会各生产部门之间的分配比例。\n自发的刺激社会生产力的发展。\n自发调节社会收入的分配。后果：\n可能导致垄断的发生，阻碍技术的进步。\n可能引起商品生产者的两极分化， 一部分具有有利条件的生产者可能积累大量的财富，而一部分处于不利地位的生产者可能亏损甚至破产.\n价值规律自发调节社会资源在社会生产各个部门的配置，可能出现比例失调的状况，造成社会资源的浪费。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bbba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b68-7031-11ee-b5e5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "深化对马克思劳动价值论的认识"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "深化对创造价值的劳动的认识， 对生产性劳动做出新的界定。\n深化对科技人员、经济管理人员在社会生产和价值创造中所起作用的认识。 \n深化对科技、知识、信息等新的生产要素在财富和价值创造中作用的认识。 \n深化对价值创造与价值分配关系的认识。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bbec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b69-7031-11ee-9fee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "商品二因素和生产商品劳动的二重性及之间关系问题（次重点)商品具有使用价值和价值两个因素"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "商品是劳动产品，生产商品的劳动可区分为具体劳动和抽象劳动。具体劳动是指生产一定使用价值的具体形式的劳动，（马克思也称之为有用劳动）抽象劳动是指撇开一切具体形式的，无差别的一般人类劳动，即体力劳动和脑力消耗。生产商品的具体劳动形成商品的使用价值，抽象劳动形成商品的价值实体。具体劳动和抽象劳动是统一劳动的两种规定。任何一种劳动，一方面是特殊的具体劳动，另一方面是一般的抽象劳动， 这就是劳动的二重性。正是劳动的二重性， 决定了商品的二因素。    具体劳动和抽象劳动的关系。一方面，具体劳动和抽象劳动不是各自独立存在的两种劳动或两次劳动，它们在时间上和空间上是统一的，是商品生产者的同一劳动过程的不可分割的两个方面另一方面，具体劳动所反映的是人和自然的关系，它是劳动的自然属性，而抽象劳动所反映的是商品生产者的社会关系，它是劳动的社会属性。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bc14-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b6a-7031-11ee-825c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国家垄断资本主义的主要四种形式"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第一种是国家所有并直接经营的企业： 包括：满足国家机构自身需要的国有企业，提供公共产品的国有企业，高科技、高风险新兴工业部门中的国有企业和一般工业部门中的国有企业。第二种是国家与私人共有、合营企业。 包括：国有企业将一部分股份出售给私人，国家和私人共同投资开办合营企业，国有企业和私人企业合并，国有企业对私人企业进行参股和国有企业转由私人租赁或承包经营。 第三种是国家通过多种形式参与私人垄断资本的再生产过程。 包括：国家作为商品和劳务的采购者，向私人垄断企业大量订货，为私人垄断企业提供了有保证的国家市场；国家通过各种形式的津贴和补助，直接、间接地资助私人垄断企业；国家通过社会福利开支，提高社会购买力，扩大消费需求，为私人垄断企业创造市场条件。第四种是宏观调节和微观规制。宏观调节主要是国家运用财政政策、货币政策等经济手段，对社会总供给和总需求进行调节，以实现经济快速增长、充分就业、物价稳定和国际收支平衡的基本目标。微观规制则主要是国家运用法律手段规范市场秩序，限制垄断，保护竞争，维护社会公众的合法权益。微观规制主要有三种类型：其一，反托拉斯法。其二， 公共事业规制。其三， 社会经济规制。。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bc46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b6b-7031-11ee-bcdc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当代资本主义的新变化及其原因"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "(一）变化 \n生产资料所有制的变化。\n劳资关系和分配关系的变化。 \n社会阶层、阶级结构的变化。 4 经济调节机制和经济危机形态的变化。 \n政治制度的变化（二）原因 \n科学技术革命和生产力的发展， 是资本主义变化的根本推动力量。 \n工人阶级争取自身权利和利益斗争的作用， 是推动资本主义变化的重要力量。 \n社会主义制度初步显示的优越性对资本主义产生了一定影响。\n主张改良主义的政党对资本主义制度的改革也对资本主义的变化发生了重要作用。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bc6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b6c-7031-11ee-80c2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何理解资本主义的历史地位"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "进步性： 首先，资本主义将科学技术转变为强大的生产力。其次，资本追求剩余价值的内在劳动和竞争的外在压力推动了社会生产力的迅速发展。最后，资本主义的意识形态和政治制度作为上层建筑在战胜封建社会自给自足的小生产的生产方式， 保护、促进和完善资本主义生产方式方面起着重要作用， 从而推动社会生产力的迅速发展，促进了社会进步。局限性然而资本主义的历史进步性并不能掩盖其自身的局限性。同一切以私有制为基础的生产方式一样，资本主义生产资料私人占有对社会化的进一步发展造成了严重障碍，这一矛盾是资本主义生产方式固有的，正是这一矛盾决定了资本主义的经济、政治、文化和社会等各个领域以及全球范围内的冲突、动荡和危机。资本主义的这种局限性在资本主义生产方式范围内是不可能根本消除的，它决定了资本主义生产方式的历史过渡性。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bca0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b6d-7031-11ee-9e8e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会主义的基本特征"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "解放和发展生产力， 创造高度发达的生产力和比资本主义更高的劳动生产率。 \n建立和完善生产资料公有制， 逐步消灭剥削， 消除两极分化， 达到共同富裕。 \n对个人消费品实行“各尽其能， 按劳分配”制度。 \n在马克思主义政党领导下， 建立工人阶级和劳动人民的政权，即无产阶级专政和人民民主专政，发展社会主义民主政治，建设社会主义政治文明。 \n 以马克思主义为指导， 大力发展社会主义文化， 建设社会主义精神文明。 \n以人为本， 构建和谐社会。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "3550bcc8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "78be0b6e-7031-11ee-9710-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "必须充分认识经济文化相对落后的国家社会主义建设的艰巨性和长期性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第一，生产力发展状况的制约。第二，经济基础和上层建筑发展状况的制约。第三，国际环境的严峻挑战。第四，马克思主义执政党对社会主义发展道路的探索和对社会主义建设规律的认识，需要一个长期的艰苦的过程。"
+	}
+]

@@ -24,6 +24,8 @@ Question sources mainly include **undergraduate homework**, **undergraduate mid-
 
 Unlike other knowledge benchmarks that use a multiple-choice format, LLMEval-Fair treats all questions as **generative knowledge question-answering**. It includes a variety of formats such as short answer, calculation, true/false, analysis, and essay questions. Compared to standardized multiple-choice questions, the generative format used in LLMEval-Fair better reflects real-world user needs and the language capabilities of the models.
 
+The question bank dataset is available in  [data/](data/).
+
 ## 🔬 Methodology
 
 ### Evaluation Pipeline

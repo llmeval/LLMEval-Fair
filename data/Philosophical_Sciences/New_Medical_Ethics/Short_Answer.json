@@ -1,0 +1,1444 @@
+[
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f330ed4-7e35-11ee-9eac-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "案例：一组实习医生，其中有2位男生，跟随妇科老师出门诊。一位年轻的女病人前来就诊，待说完病史已满脸通红。当老师让一位男生去给病人检查时，病人坚决不同意，并恳请老师请男生回避。老师回答：“他们给你看病，就是我给你看病，他们不看，我也不看。”女病人无奈，扭头便走了。试对老师的行为进行伦理分析。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "医生应对此负道德责任。老师较好的做法是：向患者解释说明为学生示教对学生的意义，向患者保证治疗方案等的决定仍是有老师决定，以征的患者的知情同意。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f335d55-7e35-11ee-807c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "案情：患者宋某，男，56岁，农民。因左小腿丹毒复发到医院就诊，医生给他开了价格较贵的抗生素，患者要求改用过去有效而便宜的青霉素。因此，医生不耐烦地说：“是你说了算，还是我说了算？难道我还会害你！”患者无奈，只好百思不解地离去。请对上述案例中医患的言行进行伦理分析。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在治疗中，医生有处方权，病人也有知情同意或知情选择的权利。在本案例中医患双方的权利发生了冲突，但是患者的要求并不过分，医生应该尊重患者的选择；即使医生无意伤害患者，医生也应该向患者解释使用抗生素的理由。然而，医生既没有尊重患者的选择，有没有说出原因，反而带着权威心理让病人接受自己的方案，患者无奈而中断了医患关系。因此，医生违背了尊重的伦理原则。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f335d56-7e35-11ee-aaaf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "案情：患者张某，男，16岁。因慢性肾炎、肾功能不全准备进行肾移植，因肾源紧张，其父考虑动员其兄供肾。其兄，20岁，因幼年患脑炎留下智力障碍后遗症，未能参加正常学习而待业。当父亲提出上述想法后，母亲不同意，认为对长子的智力障碍已内疚，不忍心再将其肾供给次子，但经丈夫说服最后表示同意。此时，医务人员能否让患者之兄供肾呢？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "虽然父母均已同意让其兄供肾；但是医务人员应让父母征求其兄的意见。其兄为残疾人，更应尊重其自主权。如果其兄不同意供肾，其父母应放弃他们的考虑，对患者改用透析等治疗措施。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f335d57-7e35-11ee-8fa2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "案情：一对恋人到某医院进行婚前检查，医生在检查女方下腹时见有花纹，怀疑是“妊娠纹”。于是，医生问：“你生过孩子吗？”女方惊讶的回答：“没有！”医生又问：“那你腹部怎么会有妊娠纹？”女方解释说：“我以前较胖，现在瘦了会不会出现这种情况？请你进一步检查。”该医生又请另一医生检查，另一医生检查后说：“好像是妊娠纹。”但是，医生却在体检表上签写“正常”。女方的男友在屏风后面听到了医生的问话，就对女友产生了怀疑。他两原计划婚前检查后就去登记结婚，男方却借口忘带户口薄而回家。后来，男方通过介绍人解除了婚约。为此，女方痛不欲生，并到医院要求领导就“妊娠纹”进一步检查，于是该院请上级医院重新检查，结果是“外阴未婚型”。因而，女方向法院起诉该医院医生。请问：女方为什么起诉该医院医生？你认为该医院医生有责任吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因为该医院医生的语言不当伤害了女方的男友，使之解除婚约，进一步伤害了女方，这是女方上诉的原因。该医院医生虽然在体检表上签上“正常”，但是缺乏足够根据的怀疑，并且让其女方男友听见，这就侵犯了女方的名誉权，因此是有责任的。"
+	},	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f94a-7e35-11ee-bd82-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述医学道德的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维护作用、协调作用、约束作用、促进作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f94b-7e35-11ee-ba66-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述医学人道主义的重要性"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "最能体现医务人员的善性\n最能体现医务人员的奉献精神\n是医德最基本、最重要的内容要求。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f94c-7e35-11ee-b1c4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述《大医精诚》的主要内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《大医精诚》的主要内容：大医精诚,是我国唐代医学家孙思邈的重要医德经典著作。它从医家应有的学风,对病人的态度,医疗工作作风及医疗中的具体行为规范四个方面提出了对医务人员的道德要求,表述得全面,具体,深刻,成为祖国传统医德的代表。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f94d-7e35-11ee-92a3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述生命神圣观的历史意义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "从道德的角度强化了医学的宗旨\n它为医学道义理论的形成及发展定了思想基础。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f94e-7e35-11ee-a492-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论述医德在医院管理中的地位和作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "良好的医德是搞好医院管理的基础\n良好的医德是自觉执行医院规章制度的保障\n良好的医德是提高医疗质量的保证\n良好的医德是协调医际关系的纽带\n良好的医德是加强医院精神文明建设的重要内容。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f94f-7e35-11ee-b1a2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论述医学道德规范的作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "医学伦理学准则体系中的构成主体\n进行医学道德评价的直接尺度\n实施医院管理的主要机制\n进行医学道德修养的主要内容。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f950-7e35-11ee-a42e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论述学习医学伦理学的意义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "医德对社会主义优越性的发挥具有重要作用\n医德对建设社会主义精神文明有着重要意义\n医德对人才的成长有着重要作用。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f951-7e35-11ee-a69b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述我国医学伦理学基本原则的内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "防病治病\n救死扶伤\n实行社会主义人道主义\n全心全意为人民身心健康服务。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f952-7e35-11ee-870a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述医学道德规范的形式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“戒律”、“宣言”、“誓词”、“法典”、“守则”"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f953-7e35-11ee-bf57-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述医学道德规范的特点"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "现实性和理想性的统一\n普遍性和先进性的统一\n一般性和特殊性的统一\n稳定性和变动性的统一\n实践性和理论性的统一。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f954-7e35-11ee-aff8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述审慎的作用"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "能保障病人的身心健康和生命安全\n能保证及时做出正确的诊断\n能选择最优化的治疗方案\n有利于建立良好的医患关系。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f955-7e35-11ee-add8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论述医学道德规范的基本内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "救死扶伤忠于职守\n钻研医术精益求精\n平等交往一视同仁\n举止端庄语言文明\n廉洁行医遵纪守法\n诚实守信保守医密\n互尊互学团结协作。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f956-7e35-11ee-a460-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述古代医患关系的特点"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "医患关系的直接性\n医患关系的稳定性\n医患关系的主动性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f957-7e35-11ee-b1d9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述在医患关系中医生的权利"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "诊治患者的疾病权\n宣告患者的死亡权\n医生的干涉权。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f958-7e35-11ee-8411-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述医疗最优化原则的主要内容"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "疗效最佳，损伤最小，痛苦最轻，耗费最少。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f959-7e35-11ee-a3a2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "论述萨斯、荷伦德模式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主动-被动型、指导-合作型和共同参与型"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f95a-7e35-11ee-b861-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述预防医学工作的特点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "价值导向的超前性\n服务对象和研究对象的整体性\n研究方法的独特性\n工作范围的全球性和广泛性\n工作效率的紧迫性和时效性\n工作过程的长期性和艰巨性\n工作效果评价的滞后性和效益影响的深远性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f95b-7e35-11ee-8fe7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述询问病史的道德要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "举止端庄、态度热情\n全神贯注、语言得当\n耐心倾听、正确引导。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f95c-7e35-11ee-b362-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述医学道德的特点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "实践性和稳定性\n继承性和连续性\n全人类性。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f95d-7e35-11ee-9228-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述药物治疗的道德要求"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对症下药、计量安全\n合理配伍、细致观察。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f95e-7e35-11ee-8b2e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述人体实验的类型。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自体实验\n自愿实验\n欺骗实验\n强迫实验。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f95f-7e35-11ee-b2a9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述尊重原则的基本要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尊重患者的人格\n重患者的自主选择权\n尊重患者的隐私权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f960-7e35-11ee-b889-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国哈佛大学医学院提出的脑死亡的标准是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "没有感受性和反应性\n没有自主呼吸和自主运动\n诱导反射消失\n脑电波平直或等电位。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f33f961-7e35-11ee-9c7d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述道德的类型"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "原始社会道德\n奴隶社会道德\n封建社会道德\n资本主义社会道德\n共产主义社会道德。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f342038-7e35-11ee-beb7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述医学伦理教育过程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "提高医德认知\n培养医德情感\n锻炼医德意志\n树立医德信念\n培养良好的医德行为和习惯。"
+	},	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558b5-7e35-11ee-b657-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学道德具有实践性和稳定性的特点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558b6-7e35-11ee-b53a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学具有阶级性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558b7-7e35-11ee-80f4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学伦理学是研究医学领域中的非技术问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558b8-7e35-11ee-9d1e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学是一门艺术，而不是单纯的技术。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558b9-7e35-11ee-b302-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学科研既是求真，又是求善的实践活动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558ba-7e35-11ee-ac38-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学是自然科学与社会科学相结合的科学。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558bb-7e35-11ee-a8e0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国的文化是一种伦理文化，儒家思想是中国文化的主流。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558bc-7e35-11ee-a0e0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。《赫尔辛基宣言》于20世纪70年代走进中国。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558bd-7e35-11ee-bae7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哈佛标准是1967年提出来的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558be-7e35-11ee-8d8c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学伦理学研究医务人员相互之间的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558bf-7e35-11ee-9b03-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。道德的评价方式有社会舆论、内心信念和传统习俗，都是强制性的力量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558c0-7e35-11ee-81a4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在实践中，功利论强调效果在道德评价中的作用，以最大的善为追求目标。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558c1-7e35-11ee-a76d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医务人员的道德品质好坏主要是由他们所受的医德教育的多少来决定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558c2-7e35-11ee-ba0f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医德基本原则在医德规范体系中居于主导地位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558c3-7e35-11ee-b010-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。语言能治病，也能致病。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558c4-7e35-11ee-8393-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。行善原则的要求是善待生命、善待病人、善待社会。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558c5-7e35-11ee-9f5d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“胆欲大而心欲小”是清代名医雷丰在《时病论》中提出的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f3558c6-7e35-11ee-98f0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医务人员的权利必须服从患者的权利。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fde-7e35-11ee-9979-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学伦理学原则不包括生命价值原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fdf-7e35-11ee-a30a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。病人的自主性是绝对的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe0-7e35-11ee-8da6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。除非临床需要，不要打听患者的隐私。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe1-7e35-11ee-bf1b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。病人的义务就是指病人所应承担的道德上的责任。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe2-7e35-11ee-b876-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。病人有拒绝参加实验的权利，即使对病人没有任何危害的情况下，也不能强迫进行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe3-7e35-11ee-b10d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医疗保密通常指医务人员在医疗活动中不向他人泄露有关患者疾病的隐私。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe4-7e35-11ee-976c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在特殊情况下医务人员享有特殊干涉权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe5-7e35-11ee-8283-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学道德的意识现象和活动现象之间的关系是不可分割的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe6-7e35-11ee-8aa4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。规范伦理学的核心问题是我们应该做什么。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe7-7e35-11ee-9f55-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。伦理学是研究道德现象的科学。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe8-7e35-11ee-9e48-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。手术前，必须有病人"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fe9-7e35-11ee-96bc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。道德义务是一种自觉自愿的行为，而法律义务是强制性的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fea-7e35-11ee-9591-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。1999年我国国家药品监督局局务会审议通过了《药品临床实验管理规范》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357feb-7e35-11ee-abef-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。有利原则和无伤害原则是现代医学伦理学的重要原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f357fec-7e35-11ee-a097-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人体实验的无伤原则，就是要求对病人无一点伤害。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6dc-7e35-11ee-a515-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人体实验必须以动物实验为前提。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6dd-7e35-11ee-976d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医院伦理委员会是权力机构。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6de-7e35-11ee-9a17-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生育控制在我国通常称为计划生育。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6df-7e35-11ee-9696-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。最早安乐死立法的国家是荷兰。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e0-7e35-11ee-b3ff-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医生具有特殊干涉的权利。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e1-7e35-11ee-9cdf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人工授精主要解决男性不育症。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e2-7e35-11ee-9dc7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生育控制在我国通常成为计划生育。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e3-7e35-11ee-b358-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。开展死亡教育应把青少年作为受教育的重点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e4-7e35-11ee-9ddb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。生命伦理学的研究内容主要是医学伦理学难题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e5-7e35-11ee-9cb4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医务人员的高尚医德品质，不是先天的而是后天逐步培养起来的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e6-7e35-11ee-9fca-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。提高医务人员的医德认识水平是医德教育的次要环节。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e7-7e35-11ee-95df-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医德的基本实践包括医德教育、医德修养和医德评价。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e8-7e35-11ee-9524-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学道德教育的原则包括理论联系实际的原则、疏导原则和因人施教原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "0f35a6e9-7e35-11ee-8cf3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。医学道德修养要坚持实践性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	}
+]

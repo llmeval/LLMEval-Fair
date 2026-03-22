@@ -1,0 +1,6424 @@
+[
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad30c298-810a-11ee-922c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德的形成和发展可以分成三个时期，即萌芽与初创时期、形成与发展时期以及______时期。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "系统和完善"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31108e-810a-11ee-b69a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德对我国社会主义民主政治建设的促进作用包括：维护党和政府形象、促进______、维护公民合法权益。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治廉洁"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31108f-810a-11ee-84d8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察正确行使职权的能动因素是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德自律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311090-810a-11ee-b6c2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察职业的______性是人民警察职业活动的最突出、最主要特征。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311091-810a-11ee-bcce-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德规范体系的核心，是人民警察道德的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基本原则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311092-810a-11ee-963e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会主义道德建设要以为人民服务为核心，以______为原则，以“五爱”为基本要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集体主义"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311093-810a-11ee-9252-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察实行社会主义人道主义，有助于履行我国承诺的有关______的国际义务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维护人权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311094-810a-11ee-8ff7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察诸种道德情感中最重要的情感是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正义感"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311095-810a-11ee-8e70-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德评价的对象是人民警察的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德行为"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311096-810a-11ee-b623-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德教育内容的性质为警察道德______所制约。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "教育目标"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311097-810a-11ee-b9f6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "利是一种物质观念，属于______范畴。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会存在"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311098-810a-11ee-961b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会主义的人道主义是警察道德评价的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一般标准"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad311099-810a-11ee-b2d9-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会主义婚姻的本质表现和基本特征是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "婚姻自由"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31109a-810a-11ee-979b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "20世纪，美国伯利克市警察局长沃尔默提出的警察道德标准是：效率、诚实、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "科学"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31109b-810a-11ee-a336-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德是调节警察行为的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特殊规范"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31109c-810a-11ee-b7d4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“热情服务”的含义就是要求人民警察真诚地为人民服务，为______服务，为党和国家的中心工作服务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31109d-810a-11ee-a45c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "保持人民警察本色的基本要求是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "清正廉明"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31109e-810a-11ee-b80d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公安法律在最终的意义上体现着______的精神。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31109f-810a-11ee-9a01-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“五爱”即：爱祖国、爱人民、爱劳动、______、爱社会主义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "爱科学"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a0-810a-11ee-b029-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察纪律主要有如下基本特征：阶级性、规范性、强制性和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自觉性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a1-810a-11ee-8ab4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "2003年11月召开的全国第______次公安会议明确提出了推进公安队伍正规化建设的问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "二十"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a2-810a-11ee-9cb8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据所涉及的范围不同，可以把权力划分为一般权力、国家权力和______三个层次。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a3-810a-11ee-93b0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在美国最先决定推荐大学毕业生充实警察队伍的人是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "奥古斯特·沃尔默"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a4-810a-11ee-8033-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "依据《中华人民共和国人民警察法》的规定，警察权力包括：治安行政管理权、刑事执法权、______和紧急状态处置权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警械武器使用权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a5-810a-11ee-9754-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "确保公安机关和人民警察实现立警为公、执法为民的体制和制度保证是______工作。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安行政管理"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a6-810a-11ee-95db-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学把______作为其研究的出发点和归宿。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德实践"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a7-810a-11ee-b709-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "党的______报告第一次正式提出了要保护的尊重人权，标志着我国在人权保护问题上的一次历史性的飞跃。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "十五大"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a8-810a-11ee-9db0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体道德从他律阶段向自律阶段的升华，也就是从外在的道德义务向内在的______的转化过程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德良心"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110a9-810a-11ee-a689-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早把道德与伦理加以区别的著名哲学家是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "黑格尔"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110aa-810a-11ee-9be6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从表现形式上看，公正范畴有三种类型：人际公正、国际公正和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会公正"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110ab-810a-11ee-bca4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国伦理学家赖特在1924年发表的《伦理学概论》一书中首次提出了______这一概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职业伦理学"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110ac-810a-11ee-baf7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了对世界各国执法人员的执法行为进行有效的指导和规范，联合国大会制定并通过的规则是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《执法人员行为守则》"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110ad-810a-11ee-ae99-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国封建社会一部最严密、最系统的封建法典是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《唐律》"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110ae-810a-11ee-80f2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体的道德行为选择必须具备的主体前提是警察个人的______自由。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "意志"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110af-810a-11ee-8a29-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "良心是个人在履行对他人和社会的______的过程中所形成的一种深刻的责任感和自我评价能力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德义务"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110b0-810a-11ee-b3e0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "婚姻是建立在爱情基础上，履行一定手续并受法律保护的一种两性结合的______关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110b1-810a-11ee-a015-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "第一次明确提出集体主义这一科学概念的人是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "斯大林"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3110b2-810a-11ee-82fb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力观的内容主要包括：警察权力价值观、______和警察权力责任观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力代理观"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ab-810a-11ee-90c3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "2003年1月22日，公安部为严明纪律，树立公安队伍的良好形象，颁布实施了______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《五条禁令》"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ac-810a-11ee-aa3a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力的构成要素主要包括权力的执行者、权力设施与装备、权力规范和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "权力信息"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ad-810a-11ee-be10-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德是一种受______决定的社会意识。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会经济关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ae-810a-11ee-9ddc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个体道德的发展最初依赖于外在强制力，个体的责任处于被动服从阶段，著名社会心理学家科尔伯格称之为“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "前习俗阶段"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137af-810a-11ee-a542-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力的根本目标是实现______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国家意志"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b0-810a-11ee-a51b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在伦理思想史上，在道德行为选择的责任问题上存在两种对立的观点是绝对意志自由论和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "机械决定论"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b1-810a-11ee-9799-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德现象就其主要内容和表现形式而言，可以概括为警察道德意识现象、警察道德规范现象和______现象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德活动"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b2-810a-11ee-9cd6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体道德是警察道德的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内化"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b3-810a-11ee-ad81-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我们在强调公安机关专政职能的同时，不能忽视公安机关的______和人权保障的职能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "服务职能"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b4-810a-11ee-b43a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代人权体系的基础,同时也是其他人权内容前提的是______权利。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人身"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b5-810a-11ee-818e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《公民道德建设实施纲要》在全社会大力提倡“爱国守法、明礼诚信、团结友爱、勤俭自强、______”的基本道德规范。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "敬业奉献"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b6-810a-11ee-8616-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清正廉明是保持人民警察______的基本要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治本色"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b7-810a-11ee-856c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学是关于______问题的学说。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b8-810a-11ee-9f3f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国从20世纪50年代到90年代制定的警察道德文件有《执法道德规范》和《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察行为规范"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137b9-810a-11ee-a84f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德是一种受社会经济关系决定的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会意识"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ba-810a-11ee-99ca-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "2003年11月召开的全国第二十次公安会议明确提出了推进公安队伍______建设的问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正规化"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137bb-810a-11ee-8438-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力观中的核心观念是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力价值观"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137bc-810a-11ee-af9c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1986年联合国大会通过的《______》确认了发展权是一项不可剥夺的人权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "发展权利宣言"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137bd-810a-11ee-8ad1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“立警为公，执法为民”要求公安民警要牢固树立的四种意识包括：证据意识、程序意识、______和监督意识。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "权限意识"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137be-810a-11ee-bb98-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体道德发展的第一阶段，叫做______阶段。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "他律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137bf-810a-11ee-afa7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会主义道德必须坚持______的价值导向。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集体主义"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c0-810a-11ee-bf27-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "职业伦理学是以职业道德作为专门研究对象，使职业道德更加______和系统化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "理论化"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c1-810a-11ee-82be-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于警察的起源有两种不同看法，一种是“自然起源论”，一种是“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察福利论"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c2-810a-11ee-ab73-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国封建社会最早把“三纲五常”封建道德准则法律化的法典是《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "唐律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c3-810a-11ee-a087-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据马克思主义的观点，在人们的道德生活中，人们选择道德行为有两个先决条件：______与自身能力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "客观环境"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c4-810a-11ee-81e6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公安机关把______确立为公安机关执法思想的核心。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执法为民"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c5-810a-11ee-94e5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马克思和恩格斯对集体主义原则最早的表述是在《______》一书中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "德意志意识形态"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c6-810a-11ee-9e8c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以孔子和孟子为代表的儒家思想，倡导的是______的义利观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "重义轻利"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c7-810a-11ee-8fc1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察要建立一个好的家庭，首先要处理好______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "夫妻关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c8-810a-11ee-95b2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "促成警察道德形成和发展的重要而直接的因素是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137c9-810a-11ee-9298-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德修养是形成和提高警察______的必由之路。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德品质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ca-810a-11ee-9d76-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "职业道德的产生和发展与社会生产力和______的发展紧密联系在一起。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会职业分工"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137cb-810a-11ee-874e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学不仅是一门理论科学、规范科学，更是一门______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "实践科学"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137cc-810a-11ee-b473-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1985年，日本国民警察厅根据“防止渎职提高警察道德委员会”的报告，制定了较为具体的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《警察生活原则》"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137cd-810a-11ee-9573-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "制约警察权力的机制可分为______和他律机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自律机制"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ce-810a-11ee-8b71-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德的基本原则是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "立警为公，执法为民"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137cf-810a-11ee-b7e0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察严守纪律道德规范的主要内容包括：服从领导、听从命令、______、保守机密。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "遵守制度"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d0-810a-11ee-9e00-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公正范畴有三种类型，一是人际公正，二是社会公正，三是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国际公正"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d1-810a-11ee-9432-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "道德内化实际上就是表明个体道德与______之间的内在联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d2-810a-11ee-9138-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德的他律调控机制具有引导作用，它将道德建设与______相结合，引导警察作出正确的行为选择。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "制度建设"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d3-810a-11ee-9f10-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德评价的调节作用主要表现在三个方面：倡导善行，______，制止恶行。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "排除障碍"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d4-810a-11ee-aae6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "团结协作是______道德原则的本质要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集体主义"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d5-810a-11ee-8eea-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德对于警察公正执法的积极调控作用表现为：在执法活动中，执法者总有一定程度和范围的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自由裁量权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d6-810a-11ee-a786-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国法律、法规规定，警察权力只能由______和人民警察行使。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安机关"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d7-810a-11ee-a0cc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据所涉及的范围不同，可以把权力划分为一般权力、______和职权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国家权力"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d8-810a-11ee-b45b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人权观念最早起源于______世纪西方反封建，争取民主、平等、自由的斗争中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "17"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137d9-810a-11ee-ac3d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "良心最显著的特征就是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自律性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137da-810a-11ee-bd13-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓价值导向一元化，就是指在______领域内，从全社会来说，只允许有一种思想来作为全社会的指导思想。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "意识形态"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137db-810a-11ee-912d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德评价的依据是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "动机与效果"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137dc-810a-11ee-85b7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德评价的手段主要包括______、内心信念和传统习惯。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会舆论"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137dd-810a-11ee-b7b7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力观主要包括价值观、______和责任观。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "代理观"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137de-810a-11ee-a9ca-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国伦理学家赖特在1924年发表的《______》一书中首次提出职业伦理学这一概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "伦理学概论"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137df-810a-11ee-aedb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德自律性的最集中和最高的表现是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "良心"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e0-810a-11ee-8812-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察的职业______是警察做到严格公正文明执法的重要调控力量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德意志力"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e1-810a-11ee-926b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "党中央提出要建立一支“______、纪律严明、作风过硬、秉公执法、训练有素、业务精通”的公安队伍。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "忠诚可靠"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e2-810a-11ee-a30e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力的公共性是指它是实现______的一种手段。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会公共利益"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e3-810a-11ee-b4e7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "权利的集体性主要是指权利的民族性、阶级性和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国家性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e4-810a-11ee-86ac-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对党忠诚是公安机关的______和职能的客观要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "性质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e5-810a-11ee-9f82-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察文明执勤道德规范的主要内容包括：谦虚谨慎、不耍特权、礼貌待人、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警容严整"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e6-810a-11ee-9c0d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "被作为人民警察职业精神核心和道德精髓的职业道德范畴是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公正"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e7-810a-11ee-a673-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "婚姻的道德基础是______的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "爱情与义务"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e8-810a-11ee-9517-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德体系的性质是由______的性质决定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会经济关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137e9-810a-11ee-9870-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "改革开放后公安机关确立的公安队伍建设的基本方针是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "依法治警"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ea-810a-11ee-add4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自由裁量权是指在特定情况下依照______以适当和公平的方式作出行为的权力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137eb-810a-11ee-bcd3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察权力价值观与其他一切剥削阶级警察权力价值观的本质区别在于是否坚持______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "用权为民"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ec-810a-11ee-9b2c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力的______决定了必须加强对警察权力的制约。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "扩张性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ed-810a-11ee-a187-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1991年11月，国务院新闻办公室发布了新中国成立以来的第一份人权白皮书，即《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国的人权状况"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ee-810a-11ee-b36a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "勇于献身是______宗旨的必然要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全心全意为人民服务"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137ef-810a-11ee-babe-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "男女建立爱情的思想基础和人民警察择偶的首要条件是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "志同道合"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f0-810a-11ee-8540-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德教育的最终目的是______的养成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德行为习惯"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f1-810a-11ee-a58a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "构成公安队伍战斗力的核心因素是警察的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德素质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f2-810a-11ee-9e64-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国古代警察道德起源于实际执行警察职能的官吏、军人和司法人员的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职业实践"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f3-810a-11ee-9695-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "加强警察权力制约的重大现实意义在于反对______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察权力腐败"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f4-810a-11ee-a500-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力的执行者是公安机关和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f5-810a-11ee-b9d8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人类个体的精神性权利是指______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人格权利"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f6-810a-11ee-ab69-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "信念是人们所遵循的与理想相联系的生活和行为准则，因而具有历史性和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阶级性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f7-810a-11ee-9d2e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德范畴是警察道德原则和规范发挥作用的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "必要条件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f8-810a-11ee-9ca7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察爱情生活中的第一大课题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "事业与爱情的关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137f9-810a-11ee-9ca5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察舍小家为大家的行为，体现了解决道德冲突所遵循的道德准则的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "价值等级次序"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137fa-810a-11ee-a132-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "完善人民警察道德人格，是人民警察修身立德的途径和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "目标"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137fb-810a-11ee-9ccd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“道德价值导向”是社会道德价值体系的灵魂和“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "定向器"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137fc-810a-11ee-80c3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "把警察现象放在一定的社会历史范围之中加以考察和研究的方法叫做______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "历史分析法．"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137fd-810a-11ee-82b7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察遵守警察道德在社会上所起的表率作用叫做______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "示范性："
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad3137fe-810a-11ee-8b7d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国封建道德准则法律化的核心是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "三纲五常"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315eff-810a-11ee-9b74-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "标志着我国在人权保护问题上历史性飞跃的是党的十五大报告第一次正式提出要______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "保护和尊重人权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f00-810a-11ee-8232-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "立警为公、执法为民是人民警察道德的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基本原则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f01-810a-11ee-a948-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会公德是人类世世代代调整公共生活中最一般关系的经验的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "结晶"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f02-810a-11ee-8abd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体道德发展的最高阶段是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自律阶段"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f03-810a-11ee-aca6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察的道德原则和规范是警察道德评价的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "直接标准"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f04-810a-11ee-a63a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德修养是形成高尚的警德和达到更高的道德境界的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "活动过程名词解释（本大题共5小题，每小题3分，共15分）"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f05-810a-11ee-b836-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国最早的警察机构是清代主张维新变法的湖南按察使黄遵宪于1898年在长沙成立的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "湖南保卫局"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f06-810a-11ee-9720-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1991年10月，美国在第98届国际警长协会年会上通过决议，把《新执法道德规范》改名为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《警察行为规范》"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f07-810a-11ee-8393-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "文艺复兴时期意大利的马基雅弗利提出的一个著名的命题是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政洽无道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f08-810a-11ee-a6a7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力的扩张性决定了必须加强对警察权力的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "制约"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f09-810a-11ee-9cc6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "坚持立警为公、执法为民，是贯彻“三个代表”重要思想的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根本要求"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f0a-810a-11ee-a253-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个人主义价值观的理论基础是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人的本性是白私的"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f0b-810a-11ee-8ec6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清正廉明是人民警察道德的重要规范，是人民警察执法为民的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "重要条件"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f0c-810a-11ee-86ae-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在中华民族的发展过程中，诚信始终被看做是每个人做人立世的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根本道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f0d-810a-11ee-88fa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会公德是全体居民都必须遵守的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公共生活准则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f0e-810a-11ee-b893-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体的道德从认识层次上看，可以分为感性认识和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "理性认识"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f0f-810a-11ee-a655-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学理论研究和规范研究的基础，以及警察伦理学发挥、体现价值的重要依托是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德实践"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f10-810a-11ee-9944-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察作为国家的执法人员，法律是其职业活动的依据和标准，而其最基本的职业活动就是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执法"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f11-810a-11ee-bd8e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "道德和法律的关系表明，依法治警发挥作用的基础是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以德治警"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f12-810a-11ee-8621-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德是制约警察权力最重要的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自律机制"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f13-810a-11ee-a1a5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人权的本质特征是自由和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "平等"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f14-810a-11ee-8d14-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "集体主义道德原则是社会主义道德______的根本指导原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "调整个人与整体利益"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f15-810a-11ee-a637-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "坚忍不拔包含两方面的内涵，即信念坚定和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "意志顽强"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f16-810a-11ee-b3be-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德范畴是指那些能概括和反映警察道德关系的主要方面，体现警察道德的根本要求，并须成为______而对其行为发生影响的基本概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察的信念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f17-810a-11ee-9a01-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "道德内化实际上就是表明______之间的内在联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个体道德与社会道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f18-810a-11ee-ad8e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "慎独是指在独自一人而无人监督时，更加注意坚持自己的______，严格要求自己，不做不道德的事。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德信念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f19-810a-11ee-b33a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国古代社会没有专职警察和专门的警察道德，体制上的原因在于，中国古代社会的体制是政法合一、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "军警不分"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f1a-810a-11ee-af90-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1931年11月在中央苏区成立的人民公安保卫机关是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国家政治保卫局"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f1b-810a-11ee-9ff6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一般来说，胸怀远大政治理想和抱负的警察，更能深刻地认识到警察所肩负的历史使命和政治责任，更能认同并服膺警察道德的要求，并具备符合政治要求的警察道德品质和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "理解道德人格"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f1c-810a-11ee-8068-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "坚持依法治警与以德治警相结合，就需要完善的法律规范体系和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职业道德规范体系（或警察道德规范体系）"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f1d-810a-11ee-b767-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "尊重和保障______已经成为跨越不同文化的道德和法律标准，是人类精神文明的共同财富，反映着不同国家和民族的共同追求和愿景。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f1e-810a-11ee-910e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德的基本原则，是指人民警察在警务活动中处理各种______时应遵循的根本准则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职业道德关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f1f-810a-11ee-adf0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清正廉洁的主要内容是：艰苦朴素、______、克己奉公。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "情趣健康"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f20-810a-11ee-a8b6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察的苦乐观不仅包括物质生活和精神生活的统一，而且包括______的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个人幸福和集体幸福"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f21-810a-11ee-9a41-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从道德意义上讲，他律就是指人的道德动机和道德行为的______，表明人的道德自由和道德自我决定及选择能力是受制于外力的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外在源泉性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f22-810a-11ee-9b8a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "道德人格是个人在一定社会中做人的尊严、做人的资格以及______的总和，也是个人在社会中的地位和作用的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "价值和品质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f23-810a-11ee-9439-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "亚里士多德的伦理思想主要集中在他的著作中，它们是《尼可马克伦理学》和《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治学"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f24-810a-11ee-88af-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德对法律调整不足之处的警察执法活动具有______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "弥补作用"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f25-810a-11ee-b637-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公安队伍建设要坚持依法治警与______相结合。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以德治警"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f26-810a-11ee-bbaf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据所涉及的范围不同，可以把权力划分为三个层次，即一般权力、国家权力和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f27-810a-11ee-adac-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1991年11月，国务院新闻办公室发布了新中国成立以来的第一份人权白皮书，即______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中国的人权状况"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f28-810a-11ee-86b6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "集体主义是我国建国以来一贯坚持和倡导的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德原则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f29-810a-11ee-af17-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德基本原则在警察道德规范体系中，居于______的地位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "主导和核心"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f2a-810a-11ee-b45d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "执法为民，就是按照党的宗旨的本质要求，把实现好、维护好、发展好最广大人民群众的根本利益，作为执法工作的根本出发点和落脚点，在各项公安执法工作中切实做到以人为本、执法公正、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一心为民"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f2b-810a-11ee-a49b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "苦与乐是警察在物质生活和精神生活方面的______是否得到满足的体验和感受。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "欲望与追求"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f2c-810a-11ee-89f0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体道德发展的第二阶段是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自律阶段"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f2d-810a-11ee-adff-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学要全面地考察历史上不同类型警察道德的演变，揭示警察道德的本质及其______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "发展规律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f2e-810a-11ee-a3a7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德的阶级性质、警察道德规范的某些内容及调整变化都要受制于一定社会的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济关系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f2f-810a-11ee-acf4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德的主要功能有调节、教育、认识和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "激励"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f30-810a-11ee-9b21-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由人民通过法律所授予的警察权力并不是授予某个具体人的，而是授予人民警察职位的，它是一种______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f31-810a-11ee-b118-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代法治要求法律必须作为其根本出发点和归宿的是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尊重和保护人权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f32-810a-11ee-aabb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在我国社会主义道德规范体系中，社会生活三大领域的道德要求是：社会公德、职业道德和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "家庭美德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f33-810a-11ee-8e1e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "集体主义道德原则是社会主义道德调整个人与整体利益的根本指导原则，是社会主义道德衡量个人______的重要道德标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "行为和品质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f34-810a-11ee-9f76-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "执法为民的渊源之一，是对中国古代______的扬弃。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "民本思想"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f35-810a-11ee-92a5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一般来说，义，即应当、正当、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "合乎道义"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f36-810a-11ee-8e88-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德行为选择，是指警察在面临多种道德行为的可能时，在一定的道德意识支配下，根据某种道德标准在不同的价值准则或善恶冲突之间所做的______的抉择。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自觉自愿"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f37-810a-11ee-8b4b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德规范现象，是指一定社会条件下评价、指导警察职业行为的一系列______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德准则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f38-810a-11ee-bd54-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在2003年中共中央下发的《关于进一步加强和改进公安工作的决定》中，确立为公安机关执法思想核心的是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执法为民"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f39-810a-11ee-9763-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在批判继承传统警察道德和适应时代发展要求的基础上，英国内政部出台并于2008年12月1日正式实施了《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察职业行为标准"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f3a-810a-11ee-bf64-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代社会系统是构建在信用体系之上的，而信用体系的基石和核心则是政府的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公信力"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f3b-810a-11ee-b4e7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在改革开放的新时期公安机关确立的公安队伍建设的基本方略是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "依法治警"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f3c-810a-11ee-805a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会主义道德建设要以为人民服务为核心，以______为原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集体主义"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f3d-810a-11ee-bd43-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "英勇作战的主要内容是：坚忍不拔、机智果敢、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "崇尚荣誉"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f3e-810a-11ee-b786-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察自我情感体验的内容主要有：自尊心、羞耻感、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "责任感"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f3f-810a-11ee-8913-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在警察道德建没中建立法律强制机制，就是把警察道德的某些要求纳人法律体系中，使其变成民警的法律义务和责任，以法律武器来______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "惩恶扬普"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f40-810a-11ee-a0a1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德修养，主要是指警察个人在职业活动实践中依照警察道德的______。自觉进行的自我教育、自我锻炼、自我改造，以形成高尚的警德和达到更高的道德境界的活动过程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "原则和规范"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f41-810a-11ee-bbcb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "20世纪20年代末，首次提出“职业伦理学”概念的著作是美国伦理学家赖特的《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "伦理学概论"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f42-810a-11ee-a8bb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "新中国成立后，标志着人民警察道德规范初步形成的文件是《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公安人员八大纪律十项注意"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f43-810a-11ee-82ca-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公安机关依据中央政法委2011年的相应概括，确认了公安机关人民警察的核心价值观是“忠诚、为民、公正、______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "廉洁"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f44-810a-11ee-b4d3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了加强警察道德建设，日本国家警察厅于1985年制定了较为具体的《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察生活准则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f45-810a-11ee-ad94-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "加强警察道德建设，不仅有利于提升警察的形象，赢得公众对警察的尊重和信任，而且有利于提高公众对政府的满意度，提升政府的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公信力"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f46-810a-11ee-bd25-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "执法为民的渊源之一，是中国共产党______的执政思想和实践。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "为人民服务"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f47-810a-11ee-be2f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从主观方面讲，荣誉是指警察个人对自己思想和行为的社会价值的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肯定评价"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f48-810a-11ee-b41a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体的自我意识由三个子系统构成：自我认识、自我体验、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自我控制"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f49-810a-11ee-9312-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓良心，是个人在履行对他人和社会的道德义务过程中所形成的一种深刻的责任感和自我评价能力，是个人意识中各种道德心理因素的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "有机结合"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f4a-810a-11ee-b1db-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德人格的特征主要是：具有社会性、差异性和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可变性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f4b-810a-11ee-a1c6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "相较于伦理学，警察伦理学更贴近现实，具有更强的实践性、应用性和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职业性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f4c-810a-11ee-a119-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学是一门规范科学，这决定了警察伦理学必须着重概括和阐述警察道德区别于其他职业道德的原则和______问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "规范"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f4d-810a-11ee-a237-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马克思主义理论认为，警察是伴随着国家的产生而出现的，是维护和巩固统治阶级利益的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "专政工具"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f4e-810a-11ee-83ea-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德与法律的关系主要表现在两个方面：一是警察道德对警察执法的积极作用；二是法律能够提高警察道德的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "效力"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f4f-810a-11ee-9d33-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察拥有行政职权和刑事职权既具有范围上的广泛性，又具有手段上的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "强制性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f50-810a-11ee-876d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "道德规范体系大致包括这样几个层次的构成要素：一个道德原则、几个道德规范、若干道德范畴以及社会生活三大领域的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德要求"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad315f51-810a-11ee-b5a5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正当的个人利益，就是人们在发展和维护集体利益的过程中，通过诚实劳动和合法经营的途径和方式，所谋取的个人正常生活和工作的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物质和精神需要"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31860d-810a-11ee-96aa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "执法为民的渊源之一，是对马克思______的直接吸收。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公仆理论"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31860e-810a-11ee-93ae-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "英勇善战的基本依据是：警察职业具有危险性、警察面对的犯罪局势日益复杂和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "以警为本"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31860f-810a-11ee-b89a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "爱岗敬业的具体要求之一，是认真进行工作分析，优化警察______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人力资源配置"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318610-810a-11ee-97a3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与道德哲学混合的不只是政治哲学，而且还有政治本身。亚里士多德认为，政治学追求的最高目的是达到______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "至善"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318611-810a-11ee-b73c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国封建社会最严密、最系统的法典是《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "居律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318612-810a-11ee-b8ad-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在一定意义上说，警察自由裁量权行使的正确合理与否，关键取决于警察的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德素质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318613-810a-11ee-bfd3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力的根本强标是实现______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国家意志"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318614-810a-11ee-91a8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了做好保障人权的工作，摆在警察面前的首要任务就是要树立正确的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权观念（或人权观）"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318615-810a-11ee-9c55-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "甘于奉献的主要内容是：任劳任怨、顾全大局、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "献身使命"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318616-810a-11ee-88e7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "辩证唯物主义和历史唯物主义认为，生与死的含义应当包括______和社会属性两个方面的内涵。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自然属推"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318617-810a-11ee-9eaa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体的道德意识活动主要由警察个体的道德认识活动、道德情感活动和______活动组成。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德意志"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318618-810a-11ee-944c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德教育，就是依据警察______，有目的、有计划、有组织地对人民警察实施系统的道德影响的活动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德原则和规范"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318619-810a-11ee-982d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人民警察道德人格的诸内容中，______处于主导的地位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集体主义思想"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31861a-810a-11ee-861f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在阶级社会中，警察道德规范现象具有强烈和鲜明的______，是任何统治者培养符合本阶级利益要求的警察所必须倚重的力量。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阶级性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31861b-810a-11ee-9b5e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德的示范性，主要是指警察遵守警察道德在社会上所起的表率作用，以及对其他行业和群众的______作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "影响感染"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31861c-810a-11ee-8171-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在道德与法律关系这一问题上，我国历史上的儒家和法家基于不同的治国思想分别提出了“德治”和“______”两种基本主张。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法治"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31861d-810a-11ee-966e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察的权力价值观是______阶级权力价值观的具体体现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "无产"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31861e-810a-11ee-86ff-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察执法者的基本角色定位决定了警察必须依照国内法和______对人权作出的明确规定办事，履行尊重和保护人权的法律职责。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "国际法"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31861f-810a-11ee-8a43-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在社会主义道德规范体系结构中，道德原则居于主导地位，具有广泛的指导性和约束力，是整个道德规范体系的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "精髓"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318620-810a-11ee-aaf8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清正廉洁的主要内容是：艰苦朴素、情趣健康、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "克已本公"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318621-810a-11ee-8fa6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓的自我认识，是指主观的我对客观的我的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "认知与评价"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318622-810a-11ee-98ae-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德评价的手段，主要包括社会舆论、______和传统习惯。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内心信念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318623-810a-11ee-8efd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德认识是警察道德情感、道德意志、道德行为和道德品质形成的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "基础"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318624-810a-11ee-a54f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学是关于______的学问，是伦理学的一般伦理与警务工作实践相结合的产物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318625-810a-11ee-bb90-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在古希腊伦理思想发展中，______第一个把伦理学放在哲学之上，明确提出要把研究伦理道德作为哲学研究和哲学实践的目的，号召人们去“认识你自己”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "苏格拉底"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318626-810a-11ee-9022-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从马克思主义观点看，警察道德在本质上是一种受社会经济关系决定的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会意识"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318627-810a-11ee-991e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国家的法律要求公安机关和人民民警必须在法律允许的范围内，根据法定的程序和要求来行使警察权力。如果超越警察权力使用的范围，出现滥用警察权力，便构成______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "违法行为"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318628-810a-11ee-81d1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察拥有的行政职权和刑事职权具有范围上的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "广泛性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318629-810a-11ee-b738-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会生活三大领域的道德要求是：社会公德、______和家庭美德。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职业道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31862a-810a-11ee-8a44-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓苦，是指警察对物质和精神方面的欲望及追求遇到挫折和不幸所引起的烦恼、愁苦等消极的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心理反应"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31862b-810a-11ee-9bd7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓警察个体道德，是指警察个人在警务活动实践中，遵照一定警察组织提出的具有普遍约束力的______要求，所开展的道德活动以及所形成的用以自我约束的内化道德准则和道德品质。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德准则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31862c-810a-11ee-9b7d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "动机与效果是警察道德评价的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "依据"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31862d-810a-11ee-b9a7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓道德人格，就是指人与动物相区别的______，是个人在一定社会中做人的尊严、做人的资格以及价值和品质的总和，也是个人在社会中的地位和作用的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内在规定性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31862e-810a-11ee-8d40-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "历史唯物主义认为，道德是一种社会意识现象，是对一定社会______和政治制度的反映。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "经济基础"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31862f-810a-11ee-a91d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从警察道德的本质上看，警察道德是一种受社会经济关系决定的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会意识"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318630-810a-11ee-8263-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "制约警察权力的机制是多方面的，大体上可将其分为自律机制和______机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "他律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318631-810a-11ee-96df-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现代社会中的警察承担着两种基本职责：打击犯罪和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "保护人民"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318632-810a-11ee-ae65-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在现代法治社会中，要确保警察在执法活动中真正做到尊重和保障人权，一要靠______，二要靠警察道德。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318633-810a-11ee-977d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "秉公执法的主要内容是：事实为据，秉持公正______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "惩恶扬善"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318634-810a-11ee-9870-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从社会属性来说，生是指人认识和改造自然及社会实践的全部过程，它体现了人生的社会______以及对社会的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "目的和价值"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318635-810a-11ee-a60c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德的他律调控的直接对象是警察的道德______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "意识和行为"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318636-810a-11ee-8f2a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德信念，是指人民警察对于某种人生观、道德理想、道德原则和规范等的坚定不移和恒久性的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "笃信和信仰"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318637-810a-11ee-97ae-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德修养的基本矛盾之一是：警察道德要求与警察个人的道德选择能力、______之间的矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德践行能力"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318638-810a-11ee-9003-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "无论中国还是西方，“道徳”一词都包含了社会的道德原则和______两方面的内容。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个人的道德品质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318639-810a-11ee-b06c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当今我国确立的人民警察的核心价值观是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "忠诚、为民、公正、廉洁"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31863a-810a-11ee-9891-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公安机关及其人民警察的刑事执法权主要包括立案权、______、刑事强制权和刑罚执行权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "侦查权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31863b-810a-11ee-8e29-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "制约警察权力的机制大体上可分为______与他律机制两种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自律机制"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31863c-810a-11ee-87da-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人权是一个社会历史范畴，不同社会、不同阶级有不同的______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权观"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31863d-810a-11ee-bb4e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "2001年10月24日，中共中央颁发的______中，把公民道德规范集中概括为二十个字。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公民道德建设实施纲要"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31863e-810a-11ee-890f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "团结协作的主要内容是：精诚合作、勇于担当、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "积极向上"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31863f-810a-11ee-8360-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体道德从他律阶段向______的升华，也就是从外在的道德义务向内在的道德良心的转化过程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自律阶段"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318640-810a-11ee-a7e3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德认识，是指警察对警察道德现象、道德关系以及处理这种关系的道德原则______和道徳规范的认识、理解、体验和（）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "掌握"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318641-810a-11ee-ac1d-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德人格一经形成就会具有相对稳定性，不会随意改变，但这并不意味着警察______道德是（）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不可变化的"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318642-810a-11ee-8384-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学既是职业伦理学的一门分支学科，也是公安社会科学体系中的一门基础性学科，这是对警察伦理学的______定位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "学科"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318643-810a-11ee-b8fb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "封建社会司法道德得到了进一步的发展，比如宋代的包拯主张“用法无亲，______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执法如山"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318644-810a-11ee-b33e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "现实中警察道徳能够通过调节人民警察内外身心、个人之间、______之间利益关系，实现公安队伍内部及其与社会的良性互动、动态平衡。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个人与集体"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318645-810a-11ee-80db-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察角色的______决定了保障人权是警察的基本职责。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特殊性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318646-810a-11ee-aef7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "执法为民是“一切权力属于人民”的______的具体体现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "宪法原则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318647-810a-11ee-b755-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "甘于奉献的主要内容是任劳任怨、______、献身使命。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "顾全大局"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318648-810a-11ee-8191-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“在社会意义上只有生得有意义，才能死得有价值。”这段话表明生和死之间存在着______性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "统一"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318649-810a-11ee-bf23-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德认识是警察道徳______、道徳意志、道德行为和道德品质形成的基础。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "情感"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31864a-810a-11ee-bed7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "荣辱、义利、苦乐、忠诚、______等警察道德范畴作为一些基本的概念，具有普遍性,被各个时代、各个阶级的警察普遍使用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生死"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31864b-810a-11ee-bdfe-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道徳范畴是对警察特殊的职业道徳关系的概括，作为警察______的组成部分，也是从狭义上理解的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德规范体系"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31864c-810a-11ee-8bbd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从职业的角度来讲，警察道德就是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察职业道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31864d-810a-11ee-a35a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了对各国执法人员的执法行为进行有效指导和规范，联合国大会于1979年12月17日通过了______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《执法人员行为守则》"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31864e-810a-11ee-b064-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德主要有调节、______、认识和激励四种功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "教育"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31864f-810a-11ee-addb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "加强道德建设有利于提升政府的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "公信力"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318650-810a-11ee-aa3c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "既是我国刑事诉讼的一个独立过程，又是刑事诉讼的一个开始环节的法律程序是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "立案"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318651-810a-11ee-9520-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德的基本原则是指人民警察在警务活动中处理各种职业道德关系时应遵循的根本准则，是衡量人民警察______的最高标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德品质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318652-810a-11ee-8c1c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓乐是指警察对______方面的欲望和追求得到满足所引起的幸福、轻松、愉悦等积极的心理反应。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物质和精神"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318653-810a-11ee-8abf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "所谓警察道德内化，是指警察个体在警务活动中，通过对警察道德原则和规范的学习与认同，将其遂步转化为个人内心的______的过程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德信念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318654-810a-11ee-a576-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "传统习惯是指人们在长期社会生活过程中遂步形成和积累起来的，已被人们普遍承认和熟悉的，一些日常的稳定的______、道德常识、道德情感和道德行为方式等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德经验"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318655-810a-11ee-bb26-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德情感是警察道德品质形成的______，它能够加深警察的道德认识，坚定警察的道德意志，推动警察表现出某种道德行为。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "强化剂"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318656-810a-11ee-922a-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1983年7月，公安部把人民警察职业道德明确概括为四个方面，即：遵纪爱民，执法不阿，______，勇于献身。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "康洁奉公"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318657-810a-11ee-b1f5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德区别于其他社会现象的本质属性被称之为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察道德的本质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318658-810a-11ee-8c50-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "《唐律》是中国封建社会一部最严密、最系统的法典，其主要内容是把“______”的道德法律化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "三纲五常"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318659-810a-11ee-b842-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在我国警察伦理学的研究中，通常从狭义上来理解警察权力，主要是指国家法律法规赋予公安机关和______的职权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民警察"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31865a-810a-11ee-a4c2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察权力的______决定了保障人权是警察的基本职责。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特殊性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31865b-810a-11ee-8a0c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "爱岗敬业是公安民警实现______的基本方式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个人价值"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31865c-810a-11ee-a16f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体遵守警察道德规范和要求更多的是出于被动的服从，即处于______的境界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“让我做”"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31865d-810a-11ee-bf35-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德修养的内容包括警察道德认识修养、警察道德情感修养、警察道德______修养、警察道德关系修养和警察举止言谈修养。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "意志"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31865e-810a-11ee-95d5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德范畴是警察道德原则和______发挥作用的必要条件。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "规范"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31865f-810a-11ee-8ca7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人类认识发展过程中所形成的众多范畴里，道德范畴所反映的内容主要是人类______这一特殊领域的各种关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德现象"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318660-810a-11ee-91c8-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为警察伦理学研究对象的警察道德，是指警察在工作中应该遵守的，以社会舆论和______来维持的，调整警察各种职业关系的行为规范及警察个人在工作中表现出来的道德品质状况。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内心信念"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318661-810a-11ee-a4af-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "联合国《执法人员行为守则》第二条规定，执法人员在执行任务时，应尊重并保护人的尊严，并且维护个人的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人权"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318662-810a-11ee-bbf3-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一般社会道德一样，警察道德也有革命和反动、______与保守的区别。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "进步"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318663-810a-11ee-b94c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从获义上讲警察权力即警察职权，是指国家法律、______赋予警察在职责范围内可资运用的一定手段和采取的必要措施。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法规"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318664-810a-11ee-b209-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国从2013年开始实施的新修订的刑事诉讼法明确规定了非法证据排除的具体标准：采用刑讯逼供等非法方法收集的犯罪嫌疑人、被告人供诉和采用暴力、威胁等非法方法收集的______、被害人陈诉，应当予以排除。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "证人证言"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318665-810a-11ee-87cb-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在我国伦理学的研究中，对道德规范体系虽然有着不同的认识，但是，大致包括这样几个层次的构成要素：一个道德原则、几个道德规范、若干______以及社会生活三大领域的道德要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德范畴"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318666-810a-11ee-8990-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "党的执政理念是立党为公、______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执政为民"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318667-810a-11ee-af49-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "秉公执法是由公安机关和人民警察的______决定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "性质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318668-810a-11ee-a8cd-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "荣辱，作为一种______和理性认识，是社会存在的反映。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德意识"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad318669-810a-11ee-bacf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体道德是对警察道德的内化，它的成熟与完善取决于每位警察的______程度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "努力和坚持"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31866a-810a-11ee-8783-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“伦理”更多地表示道德理论，而“______”则一般用于表示实际生活中的道德现象和问题。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31866b-810a-11ee-8cc4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "清政府在中央设置巡警部和民政部以后，还制定了一些警察法规，主要有《内外城巡警区试办章程》、《______》等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "违警律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31866c-810a-11ee-b3f7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了对世界各国执法人员的执法行为进行有效的指导和规范，提高其执法水平，联合国大会于1979年12月17日通过了《______》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执法人员行为守则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31866d-810a-11ee-8d00-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德的提升有助于人民警察实现______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自我价值"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31866e-810a-11ee-957f-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "集体人权是个人人权得到维护和得以实现的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根本保障"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad1e-810a-11ee-bdd5-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在我国伦理学的研究中，对道德规范体系虽然有着不同的认识，但是，大致包括这样儿个层次的构成要素：一个道德原则、几个道德规范、若干道德范畴以及社会生活三大领域的道德要求，其中，道德______居于主导地位。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "原则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad1f-810a-11ee-9d93-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "公安机关和人民警察本身并不具备权力所有者的身份，它仅仅是权力的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "行使者"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad20-810a-11ee-bb11-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学所研究的警察道德，从主体来说既包括______，也包括警察个体。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察群体"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad21-810a-11ee-b880-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "随着警察道德社会化水平的提高和发展，警察个体道德的______发展阶段必定要向自律阶段迈进。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "他律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad22-810a-11ee-bb53-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察的道德原则和规范是警察道德评价的______标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "直接"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad23-810a-11ee-bf6c-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学的研究任务主要有三个方面，其中之一是探讨警察道德形成和发展的______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一般规律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad24-810a-11ee-8f94-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国民党统治时期，制定和颁布了多种警察章程，其中有《______》、《警察务实纲要》等。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察手册"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad25-810a-11ee-ba88-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国从20世纪50年代到90年代，共制定了两个警察道德的文件。一是《______》，二是《警察行为规范》。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "执法道德规范"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad26-810a-11ee-81a4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德的______特征表现得更为鲜明和突出，是因为警察作为国家公职人员，其职业活动和形象对社会成员的精神状况会产生更为重要的影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "示范性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad27-810a-11ee-9ae7-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "第三代人权概念是指包括民族自决权、发展权在内的______人权概念。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集体"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad28-810a-11ee-bf89-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在我国道德规范体系结构中，______居于主导地位，具有广泛的指导性和约束方，是整个道德规范体系的精髓，是不同道德类型相互区别的最根本和最显著的标志。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德原则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad29-810a-11ee-896b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "执法为民是“一切权力属于______”的宪法原则的具体体现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad2a-810a-11ee-b146-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体道德表现为警察个人的道德活动和所能达到的______境界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad2b-810a-11ee-9b40-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体道德在他律阶段最重要的就是对警察道德义务的认识和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "履行"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad2c-810a-11ee-8869-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察必须从人民的利益出发，对人民负贵，自觉贯彻执行______与产大群众相结合的公安工作根本路线。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "专门机关"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad2d-810a-11ee-acb1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "亚里士多德的伦理思想主要集中在《尼可马克伦理学》和______这两本著作中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "《政治学》"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad2e-810a-11ee-b836-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察伦理学既是一门理论科学，更是一门______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "实践科学"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad2f-810a-11ee-95ea-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人民警察道德是随着中国共产党领导的工作的______出现而产生的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "保卫工作"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad30-810a-11ee-8f56-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会主义道德调整个人与整体利益的根本指导原则是______原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "集体主义道德原则"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad31-810a-11ee-a2e6-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "执法为民理念鲜明地指出了我国公安机关和公安工作的社会主义性质，其生命力就在于______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人民性"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad32-810a-11ee-b52e-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "热诚服务是由人民警察的______决定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根本宗旨"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad33-810a-11ee-ac96-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "荣辱，作为一种道德意识和理性认识，是______的反映。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "社会存在"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad34-810a-11ee-accf-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察个体的自我认识活动是把分解为“主体的我”和“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "客体的我"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad35-810a-11ee-a132-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "道德评价具有突出的调节作用，是形成良好道德风尚，调节警察道德行为的“______”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "杠杆"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad36-810a-11ee-b8d4-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "全心全意为人民服务是人民警察______中最基本的内容和要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德人格"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad37-810a-11ee-a6a1-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1829年颁布的《______》是英国警察制度诞生后颁布的第一个专项警察法令。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "警察训令"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad38-810a-11ee-b8a2-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德的本质是指警察道德区别于其他社会现象的______属性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "本质"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad39-810a-11ee-8232-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在阶级社会中，最直接、最集中地反映社会的经济基础和阶级利益的是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "政治"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad3a-810a-11ee-bcef-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法律是在社会单靠道德的力量无法维持其正常的生产和生活秩序的情况下，由______制定出来的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "统治阶级"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad3b-810a-11ee-8baa-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在现代法治社会中，要确保警察在执法活动中真正做到尊重和保障人权，一是要靠______，二是要靠警察道德。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "法律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad3c-810a-11ee-a1fc-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "集体主义道德原则强调集体必须充分尊重个人的______，并要求个人应主动承担责任和履行义务。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正当利益"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad3d-810a-11ee-a958-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "忠诚可靠的主要内容是听党指挥、热爱人民和______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "忠于法律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad3e-810a-11ee-bdc0-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察的职业良心集中地体现了警察个体道德活动在______阶段的特点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "自律"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad3f-810a-11ee-8c8b-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德修养的基本矛盾是社会的发展、警察职业要求其所具有的道德品质与警察______之间的矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德现状"
+	},
+	{
+		"category": "哲学",
+		"sub_category": "伦理学",
+		"raw_uuid": "null",
+		"question_uuid": "ad31ad40-810a-11ee-b922-8cc681f05365",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "警察道德人格是指警察做人的尊严、价值和品质的总称，它是警察的______规定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "道德性"
+	}
+]

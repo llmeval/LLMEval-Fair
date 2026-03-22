@@ -1,0 +1,4790 @@
+[
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7136c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b21cd-7084-11ee-88e0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "病室最适宜的温度和湿度是多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "一般人最适宜室温在18一22℃；新生儿及老年人室温以22一24℃为佳；室内相对湿度为50％一60％。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71448-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fe4-7084-11ee-8e24-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "病室湿度过高或过低对人体有何影响？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "湿度过高或过低都会给患者带来不适感。湿度过高，蒸发作用弱，可抑制出汗，患者感到潮湿、气闷，尿液排出量增加，加重肾脏的负担；湿度过低，空气干燥，人体蒸发大量水分，引起口干舌燥、咽痛、烦渴等表现，对呼吸道疾患或气管切开患者尤其不利。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71484-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fe5-7084-11ee-b40f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何满足住院患者的身心需要？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "协助患者了解和熟悉环境，满足患者对疾病知识的需求，鼓励患者参与决策、满足患者交往的需要，做好健康教育及出院指导。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e714ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fe6-7084-11ee-8ac3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "治疗性沟通的目的是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "治疗性沟通的目的是为了更好地了解患者的情况，制订切实可行的护理计划和措施，评价护理效果等，为患者提供更有效的护理。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e714de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fe7-7084-11ee-b8f7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响患者安全的因素有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "影响患者安全的因素包括物理性(机械、温度、压力性、放射性)损伤、化学性损伤、生物性损伤、心理性损伤、医源性损伤。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71506-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fe8-7084-11ee-b25f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述舒适的定义和相关因素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "舒适是个体在其环境中保持一种平静安宁的精神状态，是一种自我满足的感觉，是身心健康、没有疼痛、没有焦虑的轻松自在的感觉。舒适是主观感觉，每个人根据自己的生理、心理、社会、精神、文化背景等特点和经历对舒适有不同的理解和解释。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71538-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fe9-7084-11ee-9616-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "心理健康的概念是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心理健康是指人们对于环境及相互间具有最高效率及快乐的适应情况。心理健康的人应能保持平静的情绪、敏锐的反应能力、适应于社会环境的行为和愉快的心情。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71560-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fea-7084-11ee-9f39-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓健康教育？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "健康教育是一种有计划、有目标、有评价的系统教育活动．通讨教育帮助患者形成正确的行为和观念，促进身心健康。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71588-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6feb-7084-11ee-8cc6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "患者需要的基本特点和主要内容有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "患者需要的基本特点：需要的错综复杂性、需要的不可预见性、需要的不稳定性等。患者需要的主要内容：健康的需要、安全的需要、适应的需要、归属的需要、安抚的需要、信息的需要、刺激的需要及尊重的需要等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e715b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fec-7084-11ee-9084-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "入院介绍包括哪些内容？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "认真介绍床位负责医生、负责护士、护士长、作息制度、探视制度、查房制度等，协助患者熟悉病区环境和生活设施。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e715e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fed-7084-11ee-89f3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何为出院患者进行健康指导？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "护士应根据患者病情及康复程度，对患者进行健康指导，包括出院后注意事项、服药、饮食、休息、功能锻炼及复诊时间等，并诚恳听取患者住院期间的意见，以便改进工作。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7160a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fee-7084-11ee-883a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "护理诊断的概念是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "护理诊断是对患者的生理、心理、社会文化、发展及精神方面所出现的健康问题反应的说明，这些健康问题的反应属于护理职责范畴，可以用护理的方法来解决。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6fef-7084-11ee-96a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓人体六大类营养素？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白质、脂肪、糖类、矿物质和微量元素、维生素及水。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71664-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff0-7084-11ee-8491-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "机体热量是怎么产生的？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "机体热量的提供是由蛋白质、脂肪、糖类经过氧化分解，由食物的化学能转变为热能而释放出来，供给人体能量，以维持人体生命、生长发育及从事劳动与各种活动的需要。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7168c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff1-7084-11ee-a585-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "营养是第二药房的含义是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "合理、良好的饮食与营养对于健康、疾病的治疗都有着重要的作用。良好的营养为人们正常生理活动提供了物质与热量的保证，合理的营养饮食有助于疾病的康复，是一种积极的治疗因素，所以人们常称“营养是第二药房”。护士必须掌握营养原则和食物成分的知识，为患者进行科学的饮食与营养指导。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e716be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff2-7084-11ee-bc5e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "三大营养素所产生的热量各是多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白质17kJ/g(4kcal/g)，脂肪38kJ/g(9kcal/g)，糖类17kJ/g(4kcal/g),但各种营养素的特殊动力作用不同，以蛋白质的动力作用最强，相当于其本身所供热量的20％左右，脂肪为4％一5%，糖类约为5％一6％。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e716e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff3-7084-11ee-8575-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述我国常用的标准体重计算公式。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "男性：标准体重(kg)=身高一105(cm)女性：标准体重(kg)=身高一105一2.5(cm)实际体重占标准体重的百分比＝((实际体重一标准体重)/标准体重)X100%百分比在士10％之内为正常体重，增加10％一20％为过重，超过20％为肥胖，减少10％一20％为消瘦，低于20％为明显消瘦。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71718-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff4-7084-11ee-b6d7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "医院饮食的种类有几种？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "医院膳食分为基本饮食(普通饮食、软食、半流质、流质)、治疗饮食(高热量、高蛋白质、低蛋白质、低脂肪、低胆固醇、低盐、无盐低钠、高纤维素、糖尿病饮食、溃疡病饮食等)和试验饮食(胆囊造影饮食、潜血饮食、肌醉试验饮食等)。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71740-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff5-7084-11ee-95aa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓治疗饮食？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "治疗饮食是在基本饮食的基础上，添加或减少某种营养素，以适应病情需要，从而达到促进疾病康复的作用。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71772-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff6-7084-11ee-9cc9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓要素饮食？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "要素饮食又称元素膳，是一种化学组成明确的精制食物，含有人体所必需的易于消化吸收的营养成分，包括氨基酸、单糖、必需脂肪酸、维生素、无机盐和微量元素，无需经过消化过程，可直接被肠道吸收和利用，为人体提供热量及营养。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e717a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff7-7084-11ee-b4f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓低盐膳食？适用范围有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "低盐膳食是指每日钠摄食＜150mg，每日食盐＜2g适用范围：心血管疾患、慢性肾炎、尿毒症、水肿、腹水、妊娠高血压综合征等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e717cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff8-7084-11ee-8586-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓少钠膳食？适用范围有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "少钠膳食是指每日钠摄食＜500mg。除限制低盐食物外还应限制咸馒头、面条、豆干、芹菜、筒篙、菠菜、大白菜等。适用范围：心力衰竭、肝硬化严重腹水、急性肾炎、急性及慢性肾衰竭少尿及无尿期。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e717f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ff9-7084-11ee-a92f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓低蛋白质膳食？适用范围有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "低蛋白质膳食是指每日蛋白摄人＜20g。适用范围：肝幽这隋前驱期、部分肾脏疾病，如尿毒症、氮质血症及慢性肾炎等。肝病以素食为主，仅供应少量荤菜或豆类。肾病以补充优质蛋白质为主，忌豆类及豆制品。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71826-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ffa-7084-11ee-bc3d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓低脂饮食？适用范围有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "低脂饮食是指每日脂肪摄食＜40g，每日烹调油摄食＜20g。限制奶、蛋黄、核桃、花生等，忌油炸食物。适用范围：心血管疾病，如冠心病、动脉粥样硬化、高脂血症；肝、胆、胰疾病，如肝硬化、肝炎、慢性胰腺炎、阻塞性黄疽、肝胆胰术后肥胖症。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7184e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ffb-7084-11ee-b1fd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓低胆固醇饮食？适用范围有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "低胆固醇饮食是指每日胆固醇摄食＜300mg。忌食动物内脏。适用范围：高血压、心血管疾病、高胆固醇血症。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71876-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b6ffc-7084-11ee-9ca2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓高蛋白质膳食？适用范围有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高蛋白质膳食是指蛋白质每日供应量：100~120g。忌油炸、肥肉、动物油脂等。适用范围：高代谢性疾病，如烧伤、肿瘤、甲亢等；肝硬化；低蛋白质血症；肾病综合征；孕妇、哺乳期等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e718a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96e1-7084-11ee-b14e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "蛋白质的主要功能有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "蛋白质是维持生命的重要物质基础，机体的每一个细胞和所有的重要组成部分都有蛋白质参与。其主要功能是：构成和修补人体组织；构成酶和激素的成分；构成抗体；调节渗透压；供给热量。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e718d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96e2-7084-11ee-99d0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "脂肪的主要功能有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "脂肪是组成人体组织细胞的一个重要组成成分。类脂为婴幼儿生长发育所必需，存在于细胞膜与脑、神经组织中，固醇可合成固醇类激素。中性脂肪可供给热量，构成组织脂肪与储存脂肪。其主要功能是：促进脂溶性维生素的吸收及利用；构成人体组织；供给必需脂肪酸；维持体温，保护脏器；改善食物感官性状。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71902-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96e3-7084-11ee-8d6b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述糖类组成及功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "糖类又称碳水化合物或酪，是由碳、氢和氧3种元素组成。在人体内经过消化转变为单糖而被吸收，是供给热量的主要营养素。其主要功能是：提供热量，构成神经细胞，保肝解毒，促进脂肪氧化。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7192a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96e4-7084-11ee-854b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓维生素？如何分类？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维生素是一种有柑勿质，是人类代谢不可或缺的有机化合物。大多数维生素是机体内酶系统中辅酶睡团戎部分，它对维护人体健康，促进生长发育和调节生理功能有重要作用。大部分维生素不能在体内合成或合成不足，必须从食物中摄取。维生素一般分为两类：脂溶性和水溶性。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71952-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96e5-7084-11ee-b4a1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "微量元素有什么作用？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "微量元素是构成机体某些有特殊生理功能物质的重要成分，如血红蛋白和细胞色素酶系统中的铁；甲状腺中的碘和谷胧甘肤过氧化物酶中的硒等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71984-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96e6-7084-11ee-ac22-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓水溶性维生素？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "此类维生素只溶于水，主要有B族维生素和维生素C，如维生素Bl、维生素B2、维生素B5、维生素B6、叶酸和维生素C。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e719ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96e7-7084-11ee-afd8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓脂溶性维生素？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "这类维生素只溶于脂肪或脂肪溶剂中，包括维生素"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e719de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96e8-7084-11ee-a9dd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "、维生素D、维生素E和维生素K。A维生素D的功能是什么？维生素D含量较高的食物有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维生素D是类固醇的衍生物，主要功能是促进钙、磷的吸收，使钙、磷最终成为骨骼组织的基本成分。缺少维生素D易引起拘楼病。维生素D以海鱼肝脏含量最高，其他如动物肝脏、蛋类、奶类中亦含少量维生素D。另外，经过日光中紫外线照射，皮肤中7一脱氢胆固醇亦可转化为维生素D。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71a06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96e9-7084-11ee-94a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓高热量饮食？适用范围有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高热量饮食是指每日总热量约为12.55MJ(3000kcal)。适用范围：甲状腺功能亢进、结核、大面积烧伤、肝炎、胆道疾患、体重不足患者及产妇等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71a2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96ea-7084-11ee-be3f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓试验饮食？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "试验饮食是指在特定的时间内，通过对饮食内容的调整来协助诊断疾病和确保实验室检查结果正确性的一种饮食。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71a56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96eb-7084-11ee-87d6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "临床上采用的试验饮食有哪几种？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "临床上采用的试验饮食有：胆管造影膳食；潜血试验饮食；内生肌配清除率试验饮食；尿浓缩功能试验饮食；甲状腺碘试验饮食；葡萄糖耐量试验饮食等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71a88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96ec-7084-11ee-9b7e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述潜血试验饮食的目的及注意事项。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "目的：检查大便潜血，协助诊断消化道有无出血性疾患。注意事项：须在试验前3日内禁食肉类、肝类、血类食物、绿色蔬菜及含铁剂药物和食物，以免影响检验结果判断。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71ab0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96ed-7084-11ee-af02-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "胆囊造影为什么要进高脂肪试验饮食？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在做胆囊造影时给患者进高脂肪饮食，因为脂肪类食物进人十二指肠后，刺激肠豁膜产生胆囊收缩素，引起胆囊收缩和排空，以协助检杳。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71ad8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96ee-7084-11ee-ab01-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述胃的活动形式和生理功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "胃的活动形式与其生理功能是相互对应的。主要包括：胃的容受性舒张运动及储存食物的功能；胃的紧张性收缩运动及形成食糜的功能；胃的蠕动及运送食糜的功能。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71b0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96ef-7084-11ee-b29a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述管饲饮食的管理。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "管饲饮食应现用现配，室温下不宜超过6h，未用完的宜保存于冰箱内，24h用完，以防变质。管饲液的温度应保持在38℃左右，过冷可引起腹泻、腹胀、腹痛，过热可引起灼伤。管饲液的量应从少量逐渐增加，浓度宜从低浓度开始，逐渐增加溶质的量以提高浓度。应注意观察患者有无腹水、发热、昏迷等症状，是否出现“管饲综合征”。并注意观察患者有无恶心、呕吐、腹胀、腹泻等消化不耐受症状，及时与医生取得联系，停用时应逐渐减量，以防发生低血糖反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71b32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f0-7084-11ee-9b4b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "胃管留置的深度是多少？插入时的观察要点有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "成人插人深度为45一55cm(小儿为18~24Cm)，相当于从患者鼻尖至耳垂，再到剑突的长度。插管过程中要注意观察，一旦患者出现咳嗽、呼吸困难、发给等情况，表示误人气管，应立即拔出。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71b5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f1-7084-11ee-8993-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述压疮的概念及发生的原因。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "压疮是身体局部组织长期受压，血液循环障碍，组织持续缺血、缺氧、营养缺乏，致使皮肤失去正常功能，而引起的组织破损和坏死。发生的原因：压力因素(垂直压力、摩擦力、剪切力)、营养状况、潮湿、年龄等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71b8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f2-7084-11ee-99c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述压疮的分期及临床表现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第一期：癖血红润期。局部皮肤出现红、肿、热、痛或麻木，短时间内不见消退。第二期：炎性浸润期。受压部位呈紫红色，皮下硬结，皮肤因水肿变薄，可出现水疤，极易破溃。第三期：浅度溃疡期。表皮水疤逐渐扩大、破溃，创面有黄色渗出液，浅层组织坏死形成溃疡。第四期：坏死溃疡期。坏死组织侵人真皮下层和肌肉层，脓性分泌物多，坏死组织发黑，可深达骨面，易引起全身感染。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71bb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f3-7084-11ee-a087-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "机体活动功能分哪5度？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "0度：完全能独立，可自由活动。I度：需要使用设备和器材(拐杖、轮椅等)。II度：需要他人的帮助、监护和教育。III度：既需要他人的帮助，也需要使用设备和器材。IV度：完全不能独立，不能参加活动。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71bdc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f4-7084-11ee-94c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓全范围关节运动？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "全范围关节运动(ROM)是指根据每一特定关节可活动的范围来对此关节进行屈曲和伸展的运动，是维持关节可动性的有效的锻炼方法。可分主动性全范围关节运动(ROM)和被动性全范围关节运动(ROM)。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71c0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f5-7084-11ee-b7b2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "四人搬运法适用范围及操作要点有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适用于病情危重及颈、腰椎骨折患者。操作要点：1．患者腰、臀下铺大单或拆松大单。2．平车与床平行紧靠床边。3．甲站在病床头端，托住患者头、肩，乙站在病床尾端，托住患者两腿，丙、丁分别站在病床和平车两侧，紧抓大单，四人合力抬起放在平车上。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71c36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f6-7084-11ee-9789-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "单人搬运法适用范围及操作要点有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适用于病情许可，体重较轻的患者。操作要点：1．移床边椅至对侧床尾，置平车头端和床尾成钝角。2．搬运者一臂自患者腋下伸至肩外侧，另一臂伸人患者股下，嘱患者双臂交叉附于搬运者的颈部，并用力握住，搬运者抱起患者，轻放于平车上。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71c5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f7-7084-11ee-a034-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "消毒灭菌基本程序有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "烈性传染病患者以及肝炎、结核、艾滋病、炭疽病等患者的排泄物、分泌物、血液等污染的器材和物品，应先消毒再清洗，而后消毒或灭菌。普通患者使用过的物品，可先清洗干燥，然后消毒或灭菌，清洗彻底是保证消毒灭菌成功的关键。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71c90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f8-7084-11ee-8d0a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓物理灭菌法？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物理灭菌法是利用热力或光照等物理作用，使微生物蛋白质及酶变性或凝固，以达到灭菌的目的。北学消毒灭菌的原理是什么？答：利用化学药物渗透到细菌体内，使菌体蛋白凝固变性，干扰细菌酶的活性，抑制细菌代谢和生长，或损害细菌膜的结构，从而起到消毒灭菌作用。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71cb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96f9-7084-11ee-ac06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何划分消毒剂的高效、中效和低效？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高效：可以杀灭一切微生物，包括细菌繁殖体、细菌芽抱、真菌、结核杆菌、病毒，可使物品达到灭菌要求，如环氧乙烷。中效：可杀灭细菌繁殖体、真菌、结核杆菌、病毒，但不能杀灭细菌芽抱，如乙醇等。低效：可杀灭细菌繁殖体、真菌，不能杀灭细菌芽抱、病毒，如苯扎嗅胺(新洁尔灭)、氯已定(洗必泰)等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71cea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96fa-7084-11ee-9105-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述进入人体组织或无菌器官的医疗用品的消毒要求。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "进人人体组织或无菌器官的医疗用品，必须达到灭菌，各种注射、穿刺、采血器具必须贯彻一人、一用、一灭菌的方针，凡接触皮肤、勃膜的器械和用品必须达到消毒或灭菌。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71d12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96fb-7084-11ee-a00b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "理想的化学消毒剂应具备哪些条件？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "杀菌谱广，毒性低，性能稳定，又有利于长期保存，对物品无腐蚀性，不易受有机物及温度等理化因素的影响，使用浓度低，而作用迅速，易溶于水，气味小，对人无刺激性，消毒后易除去残留，且价格低廉。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71d44-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96fc-7084-11ee-aa41-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓高度危险性物品？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高度危险性物品是指进人无菌组织或器官内部，或与破损组织、皮肤、勃膜密切接触的器材和用品。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71d6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96fd-7084-11ee-bb2f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓中、低度危险性物品？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "中度危险性物品是指仅与破损皮肤赫膜相接触，而不进人无菌组织内的器材和用品。低度危险性物品是指直接或间接与健康无损的皮肤茹膜相接触的器材和用品。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71d94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96fe-7084-11ee-aa2b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "手消毒的目的是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "手消毒的目的是：清除致病性微生物，预防感染与交叉感染，避免污染无菌物品和清洁物品。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71dc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b96ff-7084-11ee-a84c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "接触传染病员后手如何进行消毒？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "双手浸泡于消毒液中，用手刷刷手，按前臂、腕部、手掌、手背、指甲、指缝顺序刷洗，左右手均刷半分钟，用流动水冲洗后重复刷洗一次，前后共2min。双手经流动水冲洗干净后，擦干。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71dee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9700-7084-11ee-8b18-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "什么情况下进行床边隔离？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在没有隔离病房或单间病室的情况下可使用床边隔离的方法，适用于伤寒、细菌性痢疾、病毒性肝炎等消化道传染病患者的隔离。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71e16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9701-7084-11ee-a654-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "隔离有几类？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "严密隔离、接触隔离、呼吸道隔离、肠道隔离、血液、体液隔离、昆虫隔离、保护性隔离。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71e48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9702-7084-11ee-8bf3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "隔离技术的目的是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "任何一种传染病的流行都需具备三个环节：传染源、传播途径和易感人群。控制感染发生的主要手段是运用隔离技术阻断感染链的形成，所以隔离的主要目的是防止微生物在患者、工作人员和媒介物中扩散，最终控制和清除传染源。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71e70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9703-7084-11ee-bf31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述体温表消毒三步法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第一步：浸泡消毒5min，取出体温表清洗揩干，并将水银柱甩至35℃以下。第二步：浸泡消毒30min。第三步：冷开水冲洗揩干备用，或乙醇浸泡备用。消毒液每日更换，盛器、离心机每周总消毒至少一次。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71ea2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9704-7084-11ee-844f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "空气、物体表面、医务人员手消毒效果监测不得检出哪些细菌？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "空气中不得检出金葡菌、溶血性链球菌。物体表面不得检出致病菌，其中母婴室、婴儿室、儿科病房的物体表面不得检出沙门菌。医务人员手和皮肤戮膜不得检出金葡菌、大肠埃希菌，其中母婴室、婴儿室、新生儿室、儿科工作人员手、皮肤、粘膜不得检出沙门菌、溶血性链球菌。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71eca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9705-7084-11ee-97cb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述空气采样方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "房间经消毒处理后、在操作前进行采样，采样时用直径9cm普通营养琼脂平板放在采样点暴露5min后送检培养，平板放置于地面垂直高度150cm，室内面积<=30m2，设一条对角线取3点即中心1点、两端距墙lm处各取1点；室内面积＞30m2，设东、南、西、北、中5点，4个角的布点距墙lm。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71ef2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9706-7084-11ee-8869-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述物体表面采样方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "物体在消毒处理后进行采样，采样时用5Cmx5Cm的标准灭菌规格板，放在被检物体表面，当采样面积)100Cm2，连续采样4个，用浸有含相应中和剂的无菌洗脱液棉拭子1支，在规格板内横竖往返均匀擦拭5次，并随之转动棉拭子，剪去手接触部位后，将棉拭子投人10ml含相应中和剂的无菌洗脱液的试管内，立即送检。不规则的物体表面可用棉拭子直接涂擦采样。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71f24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9707-7084-11ee-ac1c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "手采样面积是多少？如何采样？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "被检人5指并拢，用浸有无菌生理盐水采样液的棉拭子1支，在双手指屈面从指根到指端来回涂擦各2次(一只手涂擦面积约为30Cm2)，并随之转动采样棉拭子，剪去手指接触部位，将棉拭子放人装有10ml采样液的试管内送验。采样面积按平方厘米计算。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71f4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9708-7084-11ee-b5d6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "I类环境空气、物体表面、医务人员手和皮肤细菌菌落的标准是多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "I类环境空气细菌菌落总数<=10Cfu/cm3，物体表面细菌菌落总数<=5cfu/cm2，手和皮肤粘膜细菌菌落总数<=5cfu/cm2(Cfu＝群体形成单位)。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71f74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9709-7084-11ee-a1d5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "特殊菌种包括哪些？其污染敷料应如何处理？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "特殊菌种一般指铜绿假单胞菌、厌氧菌、结核菌等，污染敷料应及时焚毁。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71f9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b970a-7084-11ee-ae04-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓病原微生物？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肉眼看不见，只有用显微镜或电子显微镜才一能看得见的一种极其微小的生物，称之为微生物。对人体有致病作用的微生物称为病原微生物。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71fce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b970b-7084-11ee-816f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "致热原是怎样产生的？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大部分微生物都可产生致热原。微生物在生长、繁殖时分泌的代谢物是一种致热原，通常称为外毒素；从微生物的细胞膜中分泌出的物质也是一种致热原，通常称为内毒素。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e71ff6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b970c-7084-11ee-8647-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "医院微生物监测包括哪些内容？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "医院微生物监测包括：1．对人的监测(工作人员和患者)。2．对环境的监测(空气、物体表面、设备及器械等)。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7201e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b970d-7084-11ee-99f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "什么叫层流空气？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "层流空气是指空气通过孔隙＜0.2um的高效过滤器，把微生物隔离在外的一种高度净化的空气。空气通过过滤形成一种细薄的气流，以均匀的速度向同一方向输送，使室内气流分布均匀，不产生涡流，并能捕集微粒尘埃通过回风口把它带出室外。空气持续向外流通，使室内维持正压，防止相邻房间的细菌侵人。层流分垂直层流和水平层流。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72050-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b970e-7084-11ee-bc26-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓医疗废物？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "医疗废物是指卫生医疗机构在医疗、预防、保健、护理中以及其他相关活动中产生的具有直接或者间接感染性、毒性以及其他危害性的废物。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72078-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b970f-7084-11ee-a030-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "院内感染有哪两种类型？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "内源性感染：又称自身感染，是指各种原因引起的患者在医院内遭受自身固有病原体侵袭而发生的医院感染。外源性感染：又称交叉感染，是指各种原因引起的患者在医院内遭受非自身固有病原体侵袭而发生的医院感染。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e720aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9710-7084-11ee-bda6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "医院感染发生的主要原因是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "个体抵抗力下降，免疫功能受损；侵人性诊疗机会增加；抗生素滥用；医院管理机制不完善。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e720d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9711-7084-11ee-9bd1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "毫米汞柱与千帕如何换算？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "7.5毫米汞柱(mmHg)=1千帕(kPa)。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e720fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9712-7084-11ee-894c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "脉搏是怎样产生的？试述细脉的定义、特点及测量方法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "当心脏收缩时，动脉管内压力增加，管壁扩张；心脏舒张时，管壁回缩。大动脉管壁的这种有节律的舒缩向外周血管传播，就产生了脉搏。在单位时间内脉率少于心率者称为细脉。其特点是心律完全不规则，心率快慢不一，心音强弱不等。细脉测量方法：两人同时测量1min，一人听心率，一人测脉率，然后加以对照。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72122-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9713-7084-11ee-bbeb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓间歇脉、洪脉？常见于哪些疾病？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "间歇脉：在正常均匀的脉搏中出现一次提前而较弱的脉搏，其后有一较正常延长的代偿间歇，称为间歇脉。多见于心脏病患者或洋地黄中毒者。洪脉：当心排血量增加，周围动脉阻力较小、动脉充盈度和脉压较大时，则脉搏强而大，称为洪脉。多见于高热、甲状腺功能亢进等患者。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72154-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9714-7084-11ee-898d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "异常血压有哪几种？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "高血压、临界高血压、低血压、脉压差的变化。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7217c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9715-7084-11ee-8d49-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述瞳孔的生理变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正常瞳孔与年龄、屈光、生理状态、外界环境等因素有关。1岁以内婴儿瞳孔最小，儿童和青少年期瞳孔较大，以后逐渐变小。近视眼瞳孔大于远视眼，交感神经兴奋时(如惊恐、疼痛等)瞳孔扩大；副交感神经兴奋时(如深呼吸、脑力劳动、睡眠等)瞳孔缩小。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e721a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9716-7084-11ee-bcea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述观察瞳孔的意义及观察要点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "多种疾病尤其是颅内疾病、药物中毒以及病情变化等均可引起瞳孔改变，所以观察瞳孔对疾病的诊断、治疗、抢救均有极重要的价值。瞳孔观察要点主要是对光反应和大小两个方面。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e721d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9717-7084-11ee-90ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓澹妄？其表现如何？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "澹妄是指以兴奋性增高为主的高级神经活动急性失调状态，表现为意识模糊，定向力消失，感觉错乱，乱语躁动。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e721fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9718-7084-11ee-9e87-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓眩晕？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "眩晕是指对空间定向的一种运动错觉，是迷路综合征中的主要症状，也是临床上常见症状。轻者自觉外物呈上下颠动，左右晃动或前后摇摆；重者则感觉自身或四周物体旋转并失去平衡，有倾倒感，不敢睁眼，睁眼则旋转加剧，但神志清楚。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72230-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9719-7084-11ee-a028-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "深浅昏迷如何区别？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "浅昏迷：意识大部分丧失，无自主运动，对周围事物及声光等刺激均无反应，对强刺激可出现痛苦表情，瞳孔对光反射、角膜反射及各种防御反射仍存在。深昏迷：意识全部丧失，对外界任何刺激均无反应，各种反射消失。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b971a-7084-11ee-8731-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "格拉斯哥(Glascow)昏迷指数临床意义是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "格拉斯哥昏迷指数简称昏迷指数，它将颅脑损伤后刺激患者的睁眼反应、语言行为反应及运动反应分别列表记录，以总分判断病情的严重性。格拉斯哥昏迷指数15分为正常，8分以下为昏迷；在首次测得分数基础上，每2分之差提示患者有精神神经症状的改变，每降低3分提示颅内高压或颅内血肿形成的可能。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7228a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b971b-7084-11ee-9ad1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述正常呼吸运动的调节功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "呼吸是由呼吸中枢进行调节。呼吸中枢是指中枢神经系统内产生和调节呼吸运动的神经细胞群。它们分布于脊髓、延髓、脑桥、间脑、大脑皮质等神经。各部位调节作用不同，延髓和脑桥产生基本正常的节律性呼吸，大脑皮质可随意控制呼吸，如屏气、加快呼吸。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e722b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b971c-7084-11ee-ba7f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓外呼吸？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外呼吸是指外界环境与血液之间在肺部进行的气体交换，包括肺通气和肺换气两个过程。肺通气是指肺与外界环境之间的气体交换，肺换气是指肺泡与肺毛细血管之间的气体交换。其交换的方式是通过气体的分压差由高处向低处扩散完成。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e722da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b971d-7084-11ee-8994-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓肺牵张反射？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由肺的扩张和缩小所引起的反射性呼吸变化称为肺牵张反射，又叫黑一白反应。其生理意义是使吸气不致过长、过深，促使吸气转为呼气。它与脑桥呼吸调节中枢共同调节呼吸频率和深度。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7230c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b971e-7084-11ee-a77f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓呼吸运动的化学性调节？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "呼吸运动的化学性调节是指动脉血氧分压(PaO2)、二氧化碳分压(PaCO2)和氢离子浓度〔H十〕的改变对呼吸运动的影响。当血液中PaC02升高，H＋升高，PaO2降低时，刺激化学感受器，从而作用于呼吸中枢，引起呼吸运动的加深加快，维持血液中PaO2、PaCO2、〔H＋〕相对稳定。其中PaC02在呼吸运动调节过程中有很大作用。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72334-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b971f-7084-11ee-bbd4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓氧气疗法？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "氧气疗法简称氧疗，是指通过给氧提高机体动脉血氧分压和动脉血氧饱和度，增加动脉血氧含量，纠正各种原因造成的缺氧状态，促进组织的新陈代谢，维持机体生命活动的一种常用的治疗方法。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7235c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9720-7084-11ee-83f8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "什么情况下氧疗易发生不良反应？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "当吸氧浓度高于60%，持续时间超过24h，即可出现氧疗不良反应。因此高浓度氧疗时应经常进行血气分析，动态观察氧疗的治疗效果。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7238e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9721-7084-11ee-a4e1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述潮式呼吸的发生机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由于呼吸中枢兴奋性减弱或高度缺氧时，血中正常浓度的二氧化碳不能通过化学感受器引起呼吸中枢兴奋，以致呼吸逐渐减弱至暂停。由于呼吸暂停血中二氧化碳分压增高至一定程度后，通过颈动脉窦和主动脉弓的化学感受器反射性刺激呼吸中枢引起呼吸。随着呼吸的进行，二氧化碳排除，使二氧化碳分压降低，呼吸再次减慢，以致暂停。从而形成周期性呼吸，称为潮式呼吸。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e723b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9722-7084-11ee-a73e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "吸气性呼吸困难的临床表现有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "其特点是吸气显著困难，吸气时间延长，有明显三凹征(吸气时胸骨上窝、锁骨上窝、肋间隙出现凹陷)。由于上呼吸道部分梗阻，气流不能顺利进人肺，吸气时呼吸肌收缩，肺内负压极度增高所致。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e723e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9723-7084-11ee-ba7e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述呼吸困难临床上分型及常见疾病。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吸气性呼吸困难：常见于气管阻塞、气管异物、喉头水肿。呼气性呼吸困难：常见于支气管哮喘、阻塞性肺气肿。混合性呼吸困难：常见于重症肺炎、广泛性肺纤维化、大片肺不张、大量胸腔积液等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72410-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9724-7084-11ee-a389-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓气胸？分哪几类？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "任何原因引起的肺或胸壁穿孔，破坏了胸膜腔的密闭性，导致气体进人胸膜腔内而形成气胸。气胸分为闭合性气胸、开放性气胸和高压性气胸。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72438-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9725-7084-11ee-a438-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "常用的氧疗法有几种？何谓“四防”?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "常用的氧疗法主要有：鼻导管法、鼻塞法、漏斗法、面罩法、氧气枕法、氧帐法。使用氧疗法时要做好“四防”，即防火、防油、防热、防震。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7246a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9726-7084-11ee-83be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何评价氧疗的效果？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吸氧后患者由烦躁不安变为安静、心率变慢、血压上升、呼吸平稳、皮肤红润温暖、发给消失，说明缺氧症状改善。实验室检查指标可作为氧疗监护的客观指标。主要观察氧疗后PaO2(正常值12.6一13.3kPa或95一100mmHg)、PaCO2(正常值4.7一6.OkPa或35~45mmHg)、Sa02(正常值95%)、PvO2等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72492-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9727-7084-11ee-9124-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何应用血气分析来判断缺氧程度？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "轻度缺氧：PaO26.7一9.3kPa(50一70mmHg)。中度缺氧：PaO24.0一6.7kPa(30一50mmHg)。重度缺氧：PaO24.0kPa(30mmHg)以下。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e724ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9728-7084-11ee-97aa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何计算吸氧浓度？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吸氧浓度(%)=21+4x氧流量(L/min)。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e724ec-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9729-7084-11ee-b88b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么深而慢的呼吸比浅而快的呼吸效率高？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "呼吸频率和潮气量都是直接影响肺泡通气量的因素，如呼吸浅而快，一次吸人气量小，再除去停留在腔内的无效气体，实际进人肺泡的气体量就更小，即便呼吸增快，每次进人肺泡气量并不增加。慢而深的呼吸，一次吸人量大，进人肺泡气量也大，虽然呼吸频率不快，但肺泡通气量因吸人气量大而增大。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72514-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b972a-7084-11ee-8061-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述发热过程及主要表现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "体温上升期：皮肤苍白、畏寒、寒颤、皮肤干燥。高热持续期：心率加快、皮肤潮红、灼热；口唇、皮肤干燥；呼吸深而快；头痛、头晕、食欲不振、全身不适、软弱无力。退热期：皮肤潮湿、大量出汗。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7253c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b972b-7084-11ee-9a19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述常见热型及特点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "稽留热：体温持续在39~40℃，达数天或数周，24h波动范围不超过1℃。见于肺炎球菌肺炎、伤寒等。弛张热：体温在39℃以上，24h内温差达1℃以上，体温最低时仍高于正常水平。见于败血症、风湿热、化脓性疾病等。间歇热：体温骤然升高至39℃以上，持续数小时或更长，然后下降至正常或正常以下，经过一个间歇，又反复发作。即高热期和无热期交替出现，见于疟疾等。不规则热：发热无一定规律，且荞撇时间不定。见于流行性感冒、癌胜发热等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7256e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b972c-7084-11ee-be1b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述人体散热的过程。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "人体是通过物理方式进行散热。人体最主要散热器官是皮肤。当外界温度低于人体皮肤温度时，机体大部分热量可通过皮肤的辐射、传导、对流、部分蒸发等方式散发热量，还有一小部分则随着呼吸、排尿、排粪等散发于体外。当外界温度等于或高于人体皮肤温度时，蒸发就成为人体唯一的散热方式。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72596-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b972d-7084-11ee-91b0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述大量不保留灌肠常使用的溶液、液量和温度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "常用溶液：0.5％一1％肥皂水和生理盐水。液量：成人每次用量为500一1000ml，小儿为200一500ml。温度：39一41℃，降温时用28~32℃，中暑者用4℃的生理盐水。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e725be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b972e-7084-11ee-890e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓1:2:3溶液？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "l:2:3溶液：50％硫酸镁30ml，甘油60ml，温开水90ml。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e725f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b972f-7084-11ee-84f3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述保留灌肠常使用的溶液、药量及温度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "常用溶液为10％水合氯醛，剂量遵照医嘱；2％黄连素或0.5％一1％新霉素或其他抗生素等，药量不超过200ml，温度39一41℃。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72618-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9730-7084-11ee-858b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简易通便法的目的及操作注意事项有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "目的：用于清洁肠道与解除便秘。操作注意事项：1．严重心力衰竭患者遵医嘱使用。2．肠道穿孔、恶心呕吐剧烈、腹痛者禁用。3．新生儿、婴儿慎用。4．冬天宜用40℃温水预热后使用。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7264a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9731-7084-11ee-bec4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "灌肠的禁忌证有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "妊娠、急腹症、消化道出血、严重心血管疾病等患者禁忌灌肠。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72672-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9732-7084-11ee-88d5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么肝性脑病昏迷患者禁用肥皂水灌肠？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "肥皂水可增加氨的产生和吸收，加重肝性脑病。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7269a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9733-7084-11ee-ba98-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述保留灌肠药量及温度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "药液量＜200ml，药液温度39~41℃。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e726cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9734-7084-11ee-82de-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述小肠的组成和功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "小肠是缠绕在腹腔内细薄的管道，分三部分，即十二指肠、空肠和回肠。当食糜在小肠内时，它与来自小肠、胰腺、胆囊及肝脏的消化酶混合搅拌在一起，消化酶作用于淀粉、糖、蛋白质和脂肪。消化后大部分产物由小肠血液循环吸收，剩余产物再随蠕动波由小肠推到大肠。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e726f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9735-7084-11ee-89cb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述大肠的组成和功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大肠分盲肠、升结肠、横结肠、降结肠、乙状结肠。大肠的主要功能是吸收水分与营养，制造维生素，形成粪便及排泄废物。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7271c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9736-7084-11ee-83e4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "患者呕吐物量与色可提供什么信息？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "成人胃容量大约为300ml，呕吐物超过胃容量应考虑有无幽门梗阻及其他异常。呕吐物一般为胃内容物，即消化液与食物。呕吐物呈鲜红色提示急性大出血；呈咖啡色提示出血相对缓慢；呈黄绿色提示有胆汁反流；呈暗灰色提示有腐败性改变而又长期储留在胃内。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7274e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9737-7084-11ee-a5ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "患者呕吐物气味可提供什么信息？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "呈酸味者为普通呕吐物；呈碱味者为胃内出血；呈苦味者为胆汁反流；呈腐败味者为幽门梗阻；呈粪臭味者为肠梗阻。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72776-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9738-7084-11ee-a1c5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述泌尿系统的结构。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "泌尿系统由肾、输尿管、膀胧和尿道组成。肾脏和输尿管为上泌尿道；膀胧和尿道为下泌尿道。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7279e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b9739-7084-11ee-a764-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正常人24h尿量是多少？日夜尿量的比例是多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正常成人每昼夜尿量为1000一2000ml，平均为1500ml左右，日夜尿量之比是3:l。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e727d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b973a-7084-11ee-98fe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓多尿？少尿？无尿？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "多尿：24h尿量长期在2500ml以上。少尿：24h尿量＜400ml或每小时尿量＜17ml。无尿：24h尿量＜100ml，或12h内完全无尿。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e727f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808b973b-7084-11ee-9d07-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓尿失禁？何谓尿储留？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尿失禁：排尿失去控制，尿液不自主地流出或排出。尿储留：膀胧内储存大量尿液而不能自行排出。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72820-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbded-7084-11ee-bc05-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "什么是尿液比重？正常成人的尿液比重为多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尿液比重是指尿液与纯水的重量之比，常用比重计测量。正常成人在普通膳食情况下，尿比重波动于1.015一1.025。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72852-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdee-7084-11ee-80c0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述留置导尿的目的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1．抢救危重、休克患者时正确记录每小时尿量、测尿比重，密切观察患者的病情变化。2．为盆腔手术排空膀肤，使膀胧持续保持空虚状态，避免术中误伤。3．某些泌尿系统疾病手术后留置导尿管，便于引流和冲洗，并减轻手术切口的张力，促进切口的愈合。4．为尿失禁或会阴部有伤口的患者引流尿液，保持会阴部的清洁干燥。5．为尿失禁患者行膀胧功能训练。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7287a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdef-7084-11ee-8292-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "男女患者导尿管插入的深度各为多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "导尿管插人的深度：男性20一22Cm，女性4一6Cm，见尿后再插人1~2cm。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e728a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf0-7084-11ee-9d24-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "尿储留的常见原因有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尿漪留是由于尿道机械性梗阻(如产后、前列腺肥大等)、大手术后膀胧过胀、回缩无力；饮水过少，膀胧的输人或输出减少；情绪焦虑和肌肉紧张等因素造成。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e728d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf1-7084-11ee-a7fa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "压力性尿失禁的护理要点有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "压力性尿失禁是由于尿道括约肌松弛，当腹压骤然增加时，少量尿液外溢，多见于女性。护理要点：1．膀胧功能的训练：帮助患者树立信心，增加腹肌、月扁肌等肌肉运动，培养定时排尿，维持每日的液体摄人量。2．皮肤护理：保持皮肤清洁干燥，局部可外涂油膏等。3．外部引流：对不能控制的尿失禁患者，采取外部引流的方法，防止漏尿。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e728fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf2-7084-11ee-979b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述标本采集意义及遵循原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "意义：标本检验在一定程度上反映机体正常的生理现象和病理改变，配合临床检查，对明确诊断、观察病情、制定防治措施起着重要作用。原则：遵照医嘱，充分准备，严格查对，正确采集，及时送检。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72924-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf3-7084-11ee-b783-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述临床痰标本种类及作用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "临床上收集的痰标本分3种：常规标本、培养标本和24h标本。常规标本用作涂片查细胞、细菌、虫卵；培养标本用于查痰中的致病菌；24h标本用于观察一日的痰量和性状。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72956-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf4-7084-11ee-b2d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "怎样采集痰培养标本？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "痰培养标本采集方法是清晨醒来未进食前漱口，先用漱口溶液漱口，再用清水漱口，深呼吸数次后用力咳出气管深处的痰液于无菌集痰器内，盖好瓶盖。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7297e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf5-7084-11ee-bdde-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "血清标本采集注意事项有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "采集血清标本须用干燥注射器、针头和干燥试管。采血后立即取下针头，将血液沿管壁缓慢注人试管，勿将泡沫注人并避免振荡以免红细胞破裂溶血。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e729a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf6-7084-11ee-9974-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述同时采集多种血标本的顺序。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "若同时需抽取不同检验目的的血标本，应先注人血培养瓶，再注人抗凝管，最后注入干燥试管，动作应迅速准确。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e729d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf7-7084-11ee-b904-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么要在清晨留取尿标本？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因清晨排出的尿，尿量及各种成分的含量比较稳定，且未受到饮食的影响，pH值最低，有利于保持有形成分如细胞、管型等的完整。药物疗法及护理"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72a00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf8-7084-11ee-aa40-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓“三查，，、“七对，，、“一注意，,?"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "“三查”：指操作前、操作中、操作后均进行查对。“七对”：核对床号、姓名、药名、药物浓度、剂量、用法和给药时间。“一注意”：用药、操作及治疗后注意观察药物或治疗效果及不良反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72a32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdf9-7084-11ee-adee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "给药的目的是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "给药是药物治疗的具体过程，其目的包括治疗疾病、预防疾病、协助诊断以及维持正常生理功能。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72a5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdfa-7084-11ee-924c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述常用药品类型的标签。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所有药品必须有清晰的标签：内服药标签为蓝色边；外用药标签为红色边；毒性药品的标签为黑色边。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72a82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdfb-7084-11ee-b166-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "药物过敏反应的临床表现有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "药物过敏反应的临床表现可有发热、皮疹、血管神经性水肿、血清病综合征、红细胞增多等，严重者可导致造血系统抑制，肝肾功能损害、休克等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72ab4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdfc-7084-11ee-b7bb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "发生药物过敏反应的基本原因是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "发生药物过敏反应的基本原因在于抗原抗体的相互作用。药物作为一种抗原，进人机体后，有些个体体内会产生特异性抗体(IgE、IgG和IgM)，使T淋巴细胞致敏，当再次遇有同类药物时，抗原抗体在致敏淋巴细胞上相互作用，引起过敏反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72adc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdfd-7084-11ee-9446-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述肌内注射的目的、选择注射部位的原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "目的：不宜或不能作静脉注射，要求比皮下注射更迅速发生疗效时采用。选择部位原则：肌内注射应选用肌肉较厚，离大神经、大血管较远部位。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdfe-7084-11ee-872b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "臀部肌内注射的体位有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "侧卧位：上腿伸直，放松，下腿稍弯曲。俯卧位：足尖相对，足跟分开，头偏向一侧。仰卧位：常用于危重患者及不能翻身患者，采用臀中肌、臀小肌注射法较为方便。坐位：嘱患者坐正，放松局部肌肉。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72b36-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbdff-7084-11ee-aac5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "青霉素注射液为什么要现配现用？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "青霉素呈液状后，其效价在室温下迅速降解，其次随着时间的推延，溶液中的青霉烯酸、高分子聚合体等致敏物质浓度也随之升高，注射后易引起过敏反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe00-7084-11ee-8d72-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述青霉素皮试液的配制法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "80万U的青霉素瓶内注入4ml等渗盐水，每毫升含20万U。1．取药液0.lml，加等渗盐水至lml，每毫升含2万U;2．弃去0.9ml，加等渗盐水至lml，每毫升含2000U;3．弃去0.9ml，加等渗盐水至lml，每毫升含200u,即配成皮试溶液(青霉素皮内试验的标准剂量为20U/0.1ml)。注意每次配置时均须将溶液混合均匀。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72b86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe01-7084-11ee-b606-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "青霉素、链霉素、破伤风抗毒素、细胞色素C皮试液的浓度各是多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "青霉素皮试液：每ml含200一500U。链霉素皮试液：每ml含2500U。破伤风抗毒素皮试液：每ml含150IU。细胞色素c皮试液：每ml含0.75mg。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72bb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe02-7084-11ee-93c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何判断青霉素皮试结果？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "阴性：皮丘无改变，周围不红肿，无红晕，无自觉症状。阳性：局部皮丘隆起增大，并出现红晕，直径＞1Cm，周围有伪足，局部发痒，严重时可有头晕、心悸、恶心，甚至发生过敏性休克。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72be0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe03-7084-11ee-8143-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述TAT脱敏注射法。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "每隔20min注射1次，至完成总剂量的注射(T"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72c08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe04-7084-11ee-9321-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "T1500U),在脱敏注射过程中应密切观察全身反应。A何谓青霉素过敏迟缓反应？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所谓迟缓反应是指有些患者过敏试验虽阴性，但在注射药物数小时或数日后，出现发热、皮疹，甚至出现过敏性休克等症状，应立即停药及处理。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72c3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe05-7084-11ee-88f7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么抢救链霉素过敏患者需应用钙剂？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "链霉素过敏抢救时常使用10％葡萄糖酸钙静脉推注，因链霉素可与钙离子结合，使毒性症状减轻。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72c62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe06-7084-11ee-86b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓抗原与抗体？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凡能刺激机体产生抗体或致敏淋巴细胞，并能与相应的抗体或致敏淋巴细胞结合，发生免疫反应的物质称为抗原。机体在抗原物质刺激下，由B细胞分化成的浆细胞所产生的可与相应抗原发生特异性结合反应的免疫球蛋白称为抗体。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72c8a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe07-7084-11ee-bc57-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "免疫的基本概念是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "免疫是机体识别和排除抗原性异物，维护自身生理平衡与稳定的功能。免疫在正常情况下对机体有利，但在一定条件下，也会对机体造成损害。静脉用药与输血"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72cbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe08-7084-11ee-8863-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据哪些因素来调节输液速度？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据患者年龄、病情、用药性质来调节滴速，一般成年人40一60滴／min，儿童20一40滴／min。老年体弱、婴幼儿、心肺疾病患者速度宜慢；脱水严重、心肺功能良好者速度可快；一般溶液滴速可稍快，而高渗盐水、含钾药物、升压药等滴速宜慢。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72ce4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe09-7084-11ee-9d04-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么临床补液要先胶后晶，先盐后糖？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由于胶体溶液相对分子质量大，不易透过血管壁，比普通电解质溶液扩容作用持久；糖溶液中的糖经体内代谢后成为低渗液，扩容作用相对较小，为此一般补液按先胶后晶，先盐后糖的顺序来进行。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72d16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe0a-7084-11ee-8e3a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓输液微粒？何谓输液微粒污染？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "输液微粒是指输人液体中的非代谢性颗粒杂质，其直径一般在1~15um，少数可在50~300um。输液微粒污染是指在输液过程中，将输液微粒带人人体，对人体造成严重危害。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72d3e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe0b-7084-11ee-a080-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "微粒污染对人体的危害程度主要取决于哪些因素？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "其危害程度主要取决于微粒的大小、形状、化学性质以及堵塞人体血管部位、血运阻断的程度和人体对微粒的反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72d66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe0c-7084-11ee-9605-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "颈外静脉穿刺留置输液法适用范围有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "用于长期输液而周围静脉不易穿刺者；长期静脉内滴注高浓度或有刺激性的药物或行静脉内高营养疗法者；周围循环衰竭的危重患者；亦可用来测量中心静脉压等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72d98-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe0d-7084-11ee-b0a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓晶体渗透压与胶体渗透压？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "血浆的渗透压是由两部分组成的，一部分是由低分子化合物，主要是无机盐等，如钠、钾所引起的，称为晶体渗透压。另一部分是由高分子化合物，如血浆蛋白所引起的，称为胶体渗透压。血浆的渗透压主要是晶体渗透压决定的，约占99％以上，胶体渗透压仅为1％左右。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72dc0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe0e-7084-11ee-b0a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓电解质？体液中主要的电解质有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在人体的体液中含有无机盐和一些有机物(如蛋白质)，它们多以离子状态存在，带有正电荷(阳离子)或负离子(阴离子)，这些物质均称为电解质。在体液中的主要电解质有ca2＋、Na＋、K＋、Mg2＋和HcO3一(碳酸氢根离子)、Cl一、HPO4一(磷酸氢根离子)、S042一(硫酸根离子)和蛋白质等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72de8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe0f-7084-11ee-b1e5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓pH值？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "pH值是血液中氢离子浓度的指标，正常值7.35~7.45，平均为7.4。血液中pH值低于7.35为酸中毒，高于7.45为碱中毒。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72e1a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe10-7084-11ee-9317-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正常人体液总量占体重的多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正常人体液总量占体重的60%，细胞内液占体重的40%，细胞外液(包括血浆、组织液、脑脊液、淋巴液)占体重的20％。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72e42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe11-7084-11ee-9a9c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人体红细胞与血清中分别含有哪些凝集原和凝集素？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "红细胞表面主要含有A和B两种凝集原，血清中则含有与凝集原对抗的两种凝集素，分别叫做抗A凝集素和抗B凝集素。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72e74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe12-7084-11ee-8976-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "输同型血为什么也要做交叉配血试验？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因血液除按"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72e9c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe13-7084-11ee-8174-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述血液的成分及其功能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "血液由血浆、血细胞和血小板组成，有运输物质、维持代谢、调节体液及防御功能。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72ec4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe14-7084-11ee-bc1b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓成分输血？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "成分输血是将血液中各种成分进行分离、加工、提纯成各类血液制品，然后根据患者的不同需要，针对性地输人血液的相关成分。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72ef6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe15-7084-11ee-b1d1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么大量输血后要补充钙？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大量快速输血或肝肾功能障碍者可造成体内拘椽酸钠积聚，同时与血液中的钙离子结合，形成可溶性结合物，使血中游离钙离子减少，患者出现低血钙，因此要注意钙的补充。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72f1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe16-7084-11ee-8d26-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "输血浆时是否要做交叉配血？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "输血浆时不需要做交叉配血，因为血浆中不含红细胞，无凝集原，因此不会发生凝集反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72f46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe17-7084-11ee-91a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓溶血反应？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由于异型输血等原因，使血液中红细胞大量溶解、破坏，释放出游离血红蛋白到血浆中，导致机体发生一系列反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72f78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe18-7084-11ee-930b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "发生溶血反应为什么会出现黄疽和血红蛋白尿？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "发生溶血反应时，由于红细胞发生溶解，大量血红蛋白散布到血浆中，肝脏来不及将大量的间接胆红素代谢，致使血液中间接胆红素储留而出现黄疽；同时大量血红蛋白自肾脏排出形成血红蛋白尿(尿呈酱油色)。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72fa0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe19-7084-11ee-a7e3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "发生溶血反应的原因是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "输人异型血"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72fc8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe1a-7084-11ee-a8b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "BO血型系统和Rh血型系统)。2．输血前红细胞已变质溶解，如血液储存时间过长，输血前将血加热或震荡，细菌感染等。3．血液中加人高渗或低渗溶液，影响血液pH值变化，致使红细胞大量破坏。A大量快速输入库存血为什么会引起出血倾向？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因库存血中的血小板、凝血因子V、VII减少，或因大量输血输人过多的构椽酸钠溶液引起凝血障碍，所以易引起手术区域异常渗血、静脉穿刺点出血、皮肤出血点、牙跟出血，严重者可出现血尿。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e72ffa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe1b-7084-11ee-9118-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "直接输血如何使用抗凝剂？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "直接输血时抗凝剂使用方法：50ml血中加4％构椽酸钠溶液5ml。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73022-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe1c-7084-11ee-aadd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "大量输入库血应警惕什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "应警惕酸中毒与高钾血症。因为库存血随着保留时间的延长，血液中的某些成分损失也增多，因此酸性增高，钾离子浓度上升。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7304a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe1d-7084-11ee-b272-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何评估库存血的质量？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "库存血应分两层：上层为血浆，呈淡黄色、半透明；下层为红细胞，呈均匀暗红色。两者界线清楚，且无凝块。如血浆变红或浑浊，有泡沫，血细胞呈紫玫瑰色，两者界线不清，或有血凝块等均说明血液可能变质，不能输人。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7307c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe1e-7084-11ee-a22a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "成人全身血液大约占体重的多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "成人全身血液约占体重的6％一8%，男性约占体重8%，女性约占体重的7.5％。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e730a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe1f-7084-11ee-9b68-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓微循环？其生理意义有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "微循环是指在组织脏器内微动脉与微静脉之间的血液循环。它是血液和组织以及细胞之间真正进行物质交换的场所，即向各组织细胞运送氧气和营养，带走组织细胞代谢所产生的废物，并可局部地进行自我血液量的调节，以稳定血流和血压。冷、热、吸入疗法与护理"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e730cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe20-7084-11ee-a117-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "热水坐浴的目的是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "热水坐浴具有消炎、消肿、止痛的作用，常用于会阴部、肛门疾患及手术后。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e730f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe21-7084-11ee-937d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "使用冰帽的目的是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "使用冰帽可为患者实施头部降温，预防脑水肿，并可降低脑细胞的代谢，减少需氧量，提高脑细胞对缺氧的耐受性。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73126-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe22-7084-11ee-8822-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "酒精擦浴前为什么头部置冰袋、足底置热水袋？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酒精擦浴前先置冰袋于头部以助降温，可防止由于擦浴时全身皮肤血管收缩而致脑血流量突然增多，引起头痛。置热水袋于足底，可促使局部血管扩张，有利散热。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7314e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe23-7084-11ee-8dcc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "气管切开后为什么要进行雾化吸入？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "气管切开后由于缺少了上呼吸道湿化的生理过程，导致呼吸道豁膜干燥、发炎、纤毛运动障碍，因而痰液储留，呼吸功能降低。因此，雾化吸人作为气管切开后一种常规治疗手段。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73176-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe24-7084-11ee-af00-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "超声雾化的原理是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "利用超声波发生器输出的高频电能，通过换能器产生超声波声能，作用于雾化罐内的液体，经轻度加温，使之成为细微的气雾，再由呼吸道吸人，达到治疗的目的。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e731a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe25-7084-11ee-94a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓吸入法给药？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吸人法给药是指用雾化装置将药液分散成细小的雾滴，使其悬浮于气体中，自鼻或口吸人，通过呼吸道、肺吸收以达到治疗目的。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e731d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe26-7084-11ee-a844-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "吸入法给药治疗目的是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "吸人法给药治疗目的是：湿化气道、洁净气道、减轻支气管痉挛，减轻和控制呼吸道炎症。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e731f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe27-7084-11ee-8ba9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述瘫痪的定义及分类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "任何原因压迫了脊髓或马尾，使之发生不同程度的损伤，受伤脊髓横切面以下肢体感觉运动反射完全消失，膀胧、肛门括约肌松弛，称为完全性截瘫；有部分功能存在，称为不完全性截瘫；颈段脊髓损伤，双上肢神经活动障碍，称为四肢瘫。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7322a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe28-7084-11ee-b15d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述抽搐的定义及临床表现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抽搐是多种原因引起的突然、短暂、反复发作的脑功能紊乱，临床表现为突然意识丧失，呼吸暂停，瞳孔散大，对光反应消失，四肢强直，双手握拳。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73252-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe29-7084-11ee-8f61-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓休克？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "休克是指人体受到各种有害因素侵袭后，迅速出现以循环系统为主的功能急剧降低的临床综合征。表现为有效循环血量骤降，组织器官血液灌注不足，病情复杂，变化快。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7327a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe2a-7084-11ee-89a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓水肿？临床常见类型有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "水肿是指过多的液体在组织间隙或体腔中积聚。水肿按原因分类有肾性水肿、肝性水肿、心源性水肿、营养不良险水肿、特发性水肿、阻塞性水肿、淋巴性水肿和炎症性水肿等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e732ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe2b-7084-11ee-a087-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓疼痛？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "疼痛是指伴随着现存的或潜在的组织损伤而产生的一种令人不快的感觉和情绪上的感受，是机体对有害刺激的一种保护性防御反应。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e732d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe2c-7084-11ee-8dbc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "疼痛常见的原因有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "导致疼痛的原因很多，常见的有：温度刺激、化学刺激、物理损伤、病理改变、心理因素等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e732fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe2d-7084-11ee-850c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "三阶段止痛的含义是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "三阶梯止痛法是世界卫生组织(WHO)推荐的止痛方法，其目的是逐渐升级、合理应用镇痛剂来缓解疼痛，其原则为：按药效的强弱依阶梯顺序使用。第一阶段：适应于轻度疼痛的患者，一般使用非阿片类药物、解热镇痛药和抗炎药，常用的有阿司匹林、布洛芬、对乙酞类氨基酚等。第二阶段：适应于中度疼痛的患者，使用弱阿片类药物，如可待因、布桂嗓(强痛定)、曲马多、泰勒宁等。第三阶段：适用于重度疼痛患者，使用强阿片类药物，如吗啡、呱替陡、美沙酮、二氢埃托啡等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7332e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe2e-7084-11ee-a7b9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓睡眠性呼吸暂停综合征？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "睡眠性呼吸暂停综合征是一种在睡眠间发生呼吸自我抑制，出现短暂的呼吸暂停的综合征，可导致动脉血氧饱和度降低、低氧血症、全身及肺部高血压。可分为中枢性和阻塞性呼吸暂停两种类型。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73356-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe2f-7084-11ee-abbd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述带状疤疹的定义及治疗原则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "带状疤疹是由病毒所引起的急性疤疹性皮肤病，常突然发生，表现为成群的密集性小水疤，沿一侧周围神经作带状分布，伴有神经痛和局部淋巴肿痛，愈后极少复发，神经痛为本病特征之一。其治疗原则：止痛、抗病毒、消炎、局部对症治疗和防止继发感染。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73388-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe30-7084-11ee-b5c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述接触性皮炎及临床表现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "接触性皮炎是因接触某些外界物质后所引起的皮肤炎症反应，以急性为常见。表现为接触部位及易暴露部位：如手指、手背、手腕、前臂、面部、颈部等出现红斑、丘疹、水疤、大疤甚至坏死，伴疹痒或烧灼感。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e733b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe31-7084-11ee-a675-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "湿疹临床特点有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "湿疹是一种常见的皮肤病，病因复杂，一般认为和变态反应有关。湿疹的临床特点是多形性、对称性、渗出性、疹痒性和反复性。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e733d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe32-7084-11ee-96ef-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "骨损伤的固定意义是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "骨折及骨关节损伤时，采用固定方法可减轻疼痛；预防神经、血管损伤；防止伤口污染及骨折移位；修复受伤的关节囊、韧带、肌肉等组织；便于转运及护理。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7340a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe33-7084-11ee-8e0f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓病历？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "病历是指医护人员通过问诊、查体、辅助查体、诊断、治疗、护理等医疗活动中形成的文字、符号、图表、影像、切片等资料进行归纳、分析、整理形成的医疗活动的记录，包括门(急)诊病历和住院病历。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73432-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe34-7084-11ee-9c63-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一般护理记录包括哪些内容？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "护理记录是指护理人员对一般患者住院期间护理过程的客观记录。内容应包括患者姓名、科室、住院号、床位号、页码、记录日期和时间、病情观察、护理措施和效果、护士签名等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7345a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe35-7084-11ee-b5a2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "护理文件有何重要性？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "护理文件是整个医疗文件中的一个重要组成部分，是医院和患者重要的档案资料，也是教学、科研、管理以及法律上的重要资料。护理文件是护士对患者进行病情观察和实施护理措施的原始文字记载。是临床护理工作重要组成部分，体现了医院的管理水平和工作质量，护理文件必须书写规范，妥善保管。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7348c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe36-7084-11ee-81a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "卫生部规定的具有法律效应的护理文件有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "体温单、医嘱单、一般护理记录、危重患者护理记录、手术护理记录。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e734b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe37-7084-11ee-bf31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "处理手术后医嘱与重整医嘱有何不同？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凡转科、手术、分娩后需要重整医嘱时，在最后一项医嘱下面用红笔画线，以示前面的医嘱一律作废。如系重整医嘱，则在红线下用蓝笔写上“重整医嘱”和时间，并将需要继续执行的长期医嘱按原来的日期及排列顺序抄录于红线下面。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e734dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe38-7084-11ee-97b6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何执行口头医嘱？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "口头医嘱在一般情况下不予执行，但在抢救或手术过程中医生的口头医嘱，护士必须向医生复述一遍，双方确认无误后方可执行，事后由医生及时补写医嘱。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7350e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe39-7084-11ee-93f4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "重症护理记录单书写要求有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "危重患者护理记录是指护士根据医嘱和病情对危重患者住院期间护理过程的客观记录。危重患者护理记录应当根据相应专科的护理特点书写。内容包括患者姓名、科别、住院病历号(或病案号)、床位号、页码、记录日期和时间、出人液量、体温、脉搏、呼吸、血压等病情观察、护理措施和效果、护士签名等。记录时间应当具体到分钟。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73536-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe3a-7084-11ee-82ae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "临终护理的定义是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "临终护理又称终末护理、安息护理。患者进人终末阶段，处于极度衰竭状态，护士应诚恳地提供周到、全面的护理，设法解除其生理上痛苦、缓和其心理上对死亡的恐惧与不安，保持人的尊严。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73590-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe3b-7084-11ee-9fad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "临终护理的目的是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "临终护理的目的是使临终患者的生命质量得到提高，能够无痛苦、舒适地度过人生的最后历程，并使家属的身心健康得到维持和增强。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e735b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe3c-7084-11ee-a313-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "临终患者的心理反应有哪几个阶段？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "临终患者心理反应有5个阶段即否认期、愤怒期、协议期、忧郁期和接受期"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e735e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe3d-7084-11ee-aef6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "濒死定义是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "濒死即临终，指患者在已接受治疗性和姑息性的治疗后，虽然意识清楚但病情加速恶化，各种迹象显示生命即将终结。因此，濒死是生命活动的最后阶段。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73612-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe3e-7084-11ee-88a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "濒死患者有什么临床表现？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "濒死患者表现为意识模糊或丧失、各种反射减弱或逐渐消失、肌张力减退或消失、循环系统功能减退、心跳减弱、血压下降，患者表现为四肢发给、皮肤湿冷、呼吸系统功能进行性减退、表现为呼吸微弱、出现潮式呼吸或间断呼吸、代谢障碍、肠蠕动逐渐停止、感觉消失、视力下降。各种迹象表明生命即将终结，是死亡过程的开始阶段。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7363a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe3f-7084-11ee-924e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "死亡过程可分为哪3期？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "死亡过程可分为1.濒死期、2.临床死亡期、3.生物学死亡期。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73662-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe40-7084-11ee-830a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "何谓生物学死亡？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生物学死亡是指全身器官、组织、细胞生命活动停止，也称细胞死亡。随着生物学死亡期的进展，相继出现尸冷、尸斑、尸僵及尸体腐败等现象。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73694-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe41-7084-11ee-a06d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "尸体护理的目的是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "尸体护理的目的是：1.使尸体清洁，维护良好的尸体外观，易于鉴别；2.安慰家属减少哀痛。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e736bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe42-7084-11ee-a41b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "尸体识别卡应分别放置在什么位置？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第一张：死者右手腕部。第二张：尸体腰部的尸单上。第三张：停尸屉外。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e736ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe43-7084-11ee-9c35-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "解释一下相对湿度"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在单位体积的空气中，一定温度的条件下，所含水蒸气的量与其达到饱和时含量的百分比。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73716-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe44-7084-11ee-b3dc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "解释一下噪声"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "凡是不悦耳、不想听的声音，或足以引起人们心理上或生理上的不愉快的声音，称为噪音。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7373e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe45-7084-11ee-86d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人类的环境可分为"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "生理环境、物理环境、心理社会环境"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73770-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe46-7084-11ee-80a6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "环境中影响健康的因素包括"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "大气污染、水污染、土壤污染、噪声污染、吸烟、温度过高或过低、辐射、废料、室内空气污染"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73798-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe47-7084-11ee-bb90-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一般情况下，病室内的温度应保持在（）较为适宜。新生儿及老年人，室温以保持在（）为佳。病室的湿度以（）为宜。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "18~22℃22～２4℃５０～６０％"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e737c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe48-7084-11ee-8c20-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "护士尽可能的为病人创造安静的环境，应做到四轻，即（）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "说话轻、走路轻、操作轻、关门轻"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e737f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe49-7084-11ee-825b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "常用的铺床法有（）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "备用床、暂空床、麻醉床"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7381a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe4a-7084-11ee-b4fa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "病人入院的程序包括（）"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "办理入院手续、卫生处理、护送病人"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7384c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe4b-7084-11ee-af46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "住院病历的排列顺序？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "体温单、医嘱单、入院记录、病史及体格检查、病程记录（手术或分娩记录单等）各种检查和检查报告、护理记录、住院病案首页、门急诊病案。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73874-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe4c-7084-11ee-8cad-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "病人出院时，有关文件将如何处理？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在体温单的相应出院日的时间栏内，用红色钢笔竖写出院时间2.出院病历的排列顺序为：住院病历首页、出院或死亡记录、入院记录、病史及体格检查、病程记录、各种检查及检查报告单、护理记录单、医嘱单、体温单3.注销各种卡片，如诊断卡、床尾卡、服药卡、治疗卡、饮食卡等。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7389c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe4d-7084-11ee-8b33-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "解释一下舒适"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是个体在其环境中保持一种平静安宁的精神状态，是一种自我满足的感觉，是身心健康、没有疼痛、没有焦虑的轻松自在的感觉。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e738ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe4e-7084-11ee-917d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "解释一下被迫卧位"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "病人意识存在，也有变换卧位的能力，因疾病的原因，被迫采取的卧位，称被迫卧位。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e738f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe4f-7084-11ee-8297-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "解释一下保护具"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是用来限制病人身体或机体某些部位的活动，以达到维护病人安全与治疗效果的各种器具。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e7391e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe50-7084-11ee-85f0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "解释一下主动卧位"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "病人自己采用最舒适、最随意的卧位于床上，称主动卧位。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73946-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe51-7084-11ee-ade3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "解释一下被动卧位"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "病人自身无能力变换卧位，躺在被安置的卧位，称被动卧位。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73978-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808bbe52-7084-11ee-ab45-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "舒适的四个相关联的因素是"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "身体因素、社会因素、心理精神因素、环境因素"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e739a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be4fe-7084-11ee-b4d2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "使用拐杖的长度简易的计算方法为（）cm，使用时，使用者双肩放松身体直立，腋窝与拐杖垫间相距约（）cm，拐杖底端应该离足跟（）cm。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "使用者身高减去402～315～20"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e739d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be4ff-7084-11ee-93c1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "端坐位适用于（）时的病人。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "心力衰竭、心包积液、支气管哮喘发作者"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e739fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be500-7084-11ee-8e3a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "侧卧位适用于（）、()、及配合胃镜检查，预防（）。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "灌肠肛门检查压疮"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73a22-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be501-7084-11ee-882a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "疼痛病人应如何护理？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确使用止痛药物及配合其他护理措施，协助减轻疼痛。1.止痛措施：首先应减少或消除引起疼痛的原因，解除疼痛的刺激原，再采用药物止痛、物理止痛及针灸止痛等2.做好心理护理，通过了解病人的心理，教导有关疼痛的知识，减轻心理压力、分散注意力等3.帮助病人取用正确的姿势、舒适整洁的病床单位、良好的采光和通风设备、适宜的室内温度等都是促进舒适的必要条件。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73a54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be502-7084-11ee-91b4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "分散注意力减轻疼痛应采取那些方法？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "分散病人对疼痛的注意力可减少其对疼痛的感受强度，可采用的方法有1.参加有兴趣的活动2.听音乐3.有节律的按摩4.深呼吸5.治疗性的想象6.松弛法"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73a7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be503-7084-11ee-8d5d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述半坐卧位的目的？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1.某些面部手术后病人，可减少局部出血。2.急性左心衰竭病人。利用重力作用，减少回心血量，从而减轻肺淤血和心脏负担3.心肺疾病所引起的呼吸困难的病人。使膈肌位置下降，胸腔扩大，使呼吸困难改善。4.腹腔、盆腔手术后或有炎症的病人。有利于感染局限；防止感染向上蔓延引起膈下脓肿5.腹部手术后的病人。可减轻腹部切口缝合处的张力，缓解疼痛，促进舒适，有利于伤口愈合6.疾病恢复期体质虚弱的病人。逐渐适应体位的改变，协助站立起来。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73aa4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be504-7084-11ee-a374-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "解释一下全范围关节运动"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "是指根据每一特定关节可活动的范围来对此关节进行屈曲和伸展的运动，是维持关节可动性的有效的锻炼方法。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73ad6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be505-7084-11ee-ad6a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述陈—施呼吸的发生机制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "由于呼吸中枢的兴奋性降低，只有当缺氧严重，二氧化碳积聚到一定程度，才能刺激呼吸中枢，使呼吸恢复或加强，当积聚的二氧化碳呼出后，呼吸中枢又失去有效的兴奋，呼吸又再次减弱继而暂停，从而形成了周期性变化。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73afe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be506-7084-11ee-9e56-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "酒精擦浴的作用机制是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "酒精具有挥发作用，擦浴后在皮肤上迅速蒸发，吸收和带走大量的热量；同时酒精刺激毛细血管扩张，使散热增加"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73b26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be507-7084-11ee-8e19-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "使用烤灯的作用机制及适应症？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "作用机制：利用热辐射作用于人体，使局部温度升高、血管扩张、局部血液循环加速、促进组织代谢、改善局部组织营养状况。适应症：感染的伤口、压疮、臀红、神经炎、关节炎等症"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73b58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be508-7084-11ee-a712-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "冷疗和热疗对炎症的作用有什么不同？为什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "冷疗和热疗对炎症的作用有什么不同？为什么？"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73b80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be509-7084-11ee-9c6a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述压疮的好发部位？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "压疮多发生在受压和缺乏脂肪组织保护、无肌肉包裹或肌层较薄的骨隆突处及受压的部位。根据卧位不同，受压点不同，则好发部位亦不同。仰卧位：枕骨粗隆、肩胛部、肘、脊椎体隆突处、骶尾部、足跟。侧卧位：耳部、肩峰、肘部、髋部、膝关节的内外侧、内外踝。俯卧位：耳、颊部、肩部、乳房、男性生殖器、髂嵴、膝部、脚趾。坐位：坐骨结节。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73ba8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be50a-7084-11ee-9bf9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么长期卧床的病人易发生压疮？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "长期卧床病人因长时间不改变体位，局部组织受压过久，出现血液循环障碍而发生营养不良，再加上长期卧床皮肤可受到床单表面的逆行阻力摩擦，如皮肤常受潮湿如汗、尿、便等浸及摩擦，使皮肤抵抗力降低而易发生压疮。好发于受压和缺乏脂肪组织保护、无肌肉包裹或肌层较薄的骨骼隆突处。5为什么要进行口腔护理？口腔卫生对预防疾病及对病人的康复十分重要，因许多病原微生物是通过口腔进入体内的。口腔中经常存在有大量的正常和致病的菌群，正常人每天通过饮水、进食、刷牙、漱口等活动可达到减少和清除致病菌的目的，当人处于疾病状态时，机体的防御功能下降，有的病人还会出现进食及饮水障碍，在此情况下，口腔内的细菌大量繁殖，导致口腔卫生不洁甚至出现口腔疾病。口腔出现健康问题时往往会导致人的食欲减退、局部疼痛及其他严重的并发症。同时，口臭等还会产生一定的社交心理障碍。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73bda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be50b-7084-11ee-b59e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "压疮分几期？各期的临床表现及如何护理？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "第一期瘀血红润期局部皮肤受压或潮湿后，出现红、肿、热、痛或麻木，短时间内不见消退。护理：应加强护理措施，除去致病原因，增加翻身次数，避免摩擦、潮湿和排泄物的刺激，改善局部血液循环，加强营养的摄取以增强机体的抵抗力。第二期炎性浸润期受压部位呈紫红色，皮下产生硬结，皮肤因水肿而变薄，可出现水泡，此期极易破溃。破溃后，可显示潮湿红润的疮面。护理：应保护皮肤，避免感染。除继续加强上述措施外，有水泡时，未破坏的小水泡要减少摩擦，防止破裂感染，使其自行吸收。大水泡可在无菌操作下用注射器抽出泡内液体，不必剪区表皮，然后涂消毒液，用无菌敷料包扎。第三期浅度溃疡期表皮水泡逐渐扩大，破溃，真皮层疮面有黄色渗出液，感染后表面有脓液覆盖，致使浅层组织坏死，形成溃疡，病人感觉疼痛加重。护理：应尽量保持局部清洁、干燥，以鹅颈灯距疮面25cm照射疮面，每日1～２次，每次１０～１５分钟。照射后以外科无菌换药法处理疮面。还可采用鸡蛋内膜、纤维蛋白膜、骨胶原膜等贴于疮面治疗。如内膜下有气泡，应以无菌棉球轻轻挤压使之排除，再以无菌敷料覆盖其上，１～２天更换一次，直到疮面愈合为止。第四期　坏死溃疡期　坏死组织侵入真皮下层和肌肉层，感染可向周边及深部扩展，可深达骨面。脓液较多，坏死组织发黑，脓性分泌物增多，有臭味，严重者细菌入血易引起败血症，造成全身感染。护理：应清洁创面，去除坏死组织，保持引流通畅，促进愈合。采用清热解毒、活血化瘀、去腐生肌收敛的中草药治疗。如疮面有感染时，轻者可用无菌等渗盐水或１：５０００呋喃西林溶液清洗疮面，再用无菌凡士林纱布及敷料包扎，１～２天更换敷料一次。还可用灭滴灵湿敷或用生理盐水清洗疮面后涂以磺胺嘧啶银、呋喃西林治疗。对于溃疡较深、引流不畅者，应用３％过氧化氢溶液冲洗，以抑制厌氧菌。感染的疮面应定期采集分泌物作细菌培养及药物敏感试验，每周一次，按检查结果选用药物。对形成窦道给予引流。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73c02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be50c-7084-11ee-b0b8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "晨间护理的内容包括那些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对于不能离床活动的、病情较轻的病人，应鼓励其自行洗漱，护士可用消毒毛巾湿式扫床，根据清洁程度，更换床单，整理好床单位（2）对于病情较重，不能离床活动的病人，如危重、高热、昏迷、瘫痪、大手术后或年老体弱者，护士应协助其完成晨间护理，其内容包括：1.协助病人排便，帮助作好生活护理，协助翻身并按摩骨隆突处。2.按需要更换衣服和床单，整理好床铺。3.了解一夜睡眠情况及有无病情变化，给予必要的心理护理。4.根据室温适当开窗通风，保持病房内空气新鲜。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73c2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be50d-7084-11ee-8f07-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "常用的漱口溶液有哪几种？其适应症？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "1～3%过氧化氢溶液：适用于口腔感染有溃烂、有坏死组织者。１～４％碳酸氢钠溶液：适宜在酸性环境下生长的菌类如真菌有抑制作用。0.02％洗必泰溶液：广谱抗菌，对铜绿假单胞菌也有作用。0.02％呋喃西林溶液：广谱抗菌，对革兰氏阴性及阳性菌均有效。0.1%醋酸溶液：用于铜绿假单胞菌感染。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73c5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be50e-7084-11ee-b88c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "低蛋白饮食适用于哪些病人？每日蛋白质应给多少？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适用于限制蛋白质摄入者，如急性肾炎、尿毒症、肝性昏迷等病人，每日饮食中蛋白质约在40克以下"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73c84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be50f-7084-11ee-ab0e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一个理想的进餐环境对病人来说是否可有可无？为什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "进食和饮水是人的基本需要。对病人来说一个理想的进餐环境是十分重要的，它是饮食管理中重要的一环。因为疾病可导致病人不同程度的病痛、食欲减退，因此在就餐前，护士要了解病人心态，进可能创造和提供一个整洁、安静、舒适的环境，去除不良气味和视觉映象，去除干扰性因素如疼痛、焦虑等，暂停非紧急的治疗和检查，安排一个可以相互交流的环境，如安排病人在病室餐桌就餐，充分享受到进餐时生理、心理乐趣，帮助病人在最佳身心状态下愉快进餐，从而得到均衡营养，可促使疾病的早日康复。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73cac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be510-7084-11ee-99e7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "管喂饮食的目的和适应症有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适用于以下两类病人：一类是意识发生障碍不能进食的病人，如中枢神经系统损害引起的昏迷，球麻痹引起的吞咽障碍，慢性消耗性疾病晚期伴有意识障碍者；另一类是消化道手术后的病人及无法正常经口进食水的病人，如食管良性狭窄等需提供含丰富营养素是流质饮食，保证病人摄入足够的热能及营养素，促进身体早日康复。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73cd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be511-7084-11ee-aa33-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "简述蛋白质的主要功能？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "构成和修补人体的组织；构成酶和激素的成分；构成抗体；调节渗透压；供给热能"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73d06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be512-7084-11ee-b886-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如何预防便秘"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "预防便秘的方法是使生活有规律，建立正常排便习惯，多食蔬菜、水果，多饮水和加强运动。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73d2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be513-7084-11ee-8ebc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为什么膀胱高度膨胀时第一次放尿不应起过1000ml？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "因大量放尿，可导致腹腔内压力突然降低，大量血液滞留于腹腔血管内，引起血压突然下降产生虚脱。另外，膀胱突然减压，可引起膀胱粘膜急剧充血，发生血尿。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73d56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be514-7084-11ee-b078-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "尿失禁有哪几种情况？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "完全尿失禁、部分尿失禁、压力尿失禁。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73d88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be515-7084-11ee-a8b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "给药的原则是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据医嘱给药；严格执行查对制度；正确给药；观察反应"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73dba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be516-7084-11ee-bebb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "叙述注射原则"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "严格执行查对制度；严格遵守无菌操作原则；选择合适的注射器及针头；选择合适的注射部位；排尽空气；检查回血；掌握无痛技术；严格执行消毒隔离制度、预防交叉感染"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73de2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be517-7084-11ee-af40-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "小儿头皮动、静脉如何区别"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "小儿头皮静脉颜色微蓝，无搏动，管壁薄，易压瘪，血流颜色暗红，注药时阻力小；小儿头皮动脉颜色淡红或与皮肤同色，有搏动，管壁厚，不易压瘪，多离心方向流动，注药时，阻力大，局部血管树枝状突起，颜色苍白，患儿疼痛尖叫"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73e0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be518-7084-11ee-83a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试敏液为什么要现用现配？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "为了避免药物效价下降和降解产物增多引起过敏反应，故要现用现配。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73e32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be519-7084-11ee-ba67-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "超声波雾化吸入疗法适用的病人有哪几种？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "超声波雾化吸入疗法适用的病人有哪几种？"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73e64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be51a-7084-11ee-aa13-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "试述超声雾化吸入器的原理？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "超声雾化器通过超声发生器薄膜的高频振荡，输出高频电能使液体成为雾滴，可达到终末支气管及肺泡。从而达其治疗疾病之作用。"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73e8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be51b-7084-11ee-8c78-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "输血适应症及禁忌症有哪些？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "适应症：补充血容量，补充pr；纠正贫血；补充凝血因子及血小板；补充抗体；排除有害毒。禁忌症：急性肺水肿；肺栓塞；充血性心衰；恶性高血压；真性红Ｃ增多症；急性肝炎；晚期肝硬化"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73eb4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be51c-7084-11ee-8983-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "5、常见的输液反应有哪些"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "发热反应；急性肺水肿；静脉炎；空气栓塞"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73ee6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be51d-7084-11ee-a57a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "补钾有哪四不宜？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不宜过早；不宜过多；不宜过快；不宜过浓；"
+	},
+	{
+		"category": "医学",
+		"sub_category": "护理学类",
+		"raw_uuid": "35e73f0e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "808be51e-7084-11ee-ae34-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "溶血反应的临床表现是什么？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "典型反应是在输血１０—２０分钟后出现，以后随输入血量的增多而加重，开始由于红细胞凝集成团，阻塞部分小血管，从而引起头痛、面色潮红、恶心、呕吐、心前区压迫感、四肢麻木、腰背剧痛，继而出现黄疸和血红蛋白尿同时伴有寒战、高热、呼吸困难、血压下降、最后出现急性肾功衰竭症状，表现少尿或无尿，尿中出现蛋白和管型，尿素氮滞留，高血钾症和酸中毒，严重者可致死亡。"
+	}
+]

@@ -1,0 +1,648 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a7e84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4a7be-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类和对象的关系可表述为：类是对象的______ ，而对象则是类的______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抽象；实例"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a7f42-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4a98a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "静态成员函数没有隐含的______ ，所以，在C++程序中，静态成员函数主要用来访问静态数据成员，而不访问非静态成员。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "this指针"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a7f74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4ab06-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果只想保留公共基类的一个复制，就必须使用关键字______把这个公共基类声明为虚基类。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "virtual"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a7fa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4ac46-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从实现的角度来讲，多态性可以划分为两类：______和______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "静态多态性；动态多态性"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a7fce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4ad5e-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果一个类包含一个或多个纯虚函数，则该类称为______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "抽象类"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a7ff6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4aeda-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若要把void fun() 定义为类A的友元函数，则应在类A的定义中加入语句______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "friend void fun();"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8028-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4affc-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "列出C++中的两种代码复用方式：______和______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "继承；组合或模板"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8050-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4b10a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "析构函数的作用是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "在对象被系统释放之前做一些清理工作"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8082-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4b218-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假定A是一个类名，则该类的拷贝构造函数的原型说明语句为：______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A(const A &a);"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a80aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4b326-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "后置自增运算符“++”重载为类的成员函数（设类名为A）的形式为：______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A operator++(int);"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a80d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4b43e-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 面向对象的程序设计有三大特征，它们是封装、 ______ 、 ______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "继承；多态"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8104-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4b542-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "类是用户定义的类型，具有类类型的变量称作 ______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "对象"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a812c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4b650-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在面向对象的程序设计中，通过 ______实现数据隐藏；通过______实现代码的复用。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "封装；继承"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a815e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4b75e-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假定AB类中只包含一个整型数据成员a，并且它是一个引用成员，若利用引用参数 aa对其进行初始化，则该类的构造函数的定义为______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "AB（int ＆aa）｛a＝aa：｝。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8186-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4b876-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "C＋＋程序运行时的内存空间可以分成全局数据区，堆区，栈区和______区。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "代码区"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a81ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4b9de-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "局部变量具有局部生存期，存放在内存的______中。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "栈区"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a81e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4baec-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对类中对象成员的初始化是通过在构造函数中给出的______来实现的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "初始化表"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8208-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4bbf0-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对类中常量成员的初始化是通过在构造函数中给出的______来实现的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "初始化表"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8230-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4bcea-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对类中引用成员的初始化只能通过在构造函数中给出的______来实现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "初始化表"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8262-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4bf60-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对类中一般数据成员的初始化既可以通过在构造函数中给出的初始化表来实现，也可以通过构造函数中的______来实现。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "函数体"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a828a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4c0a0-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假定要把aa定义为AB类中的一个常量整数型数据成员，则定义语句______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "const int aa。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a82b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4c1a4-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假定要把aa定义为AB类中的一个引用整数型数据成员，则定义语句为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "int &aa。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a82e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4c2a8-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "假定AB类中只包含一个整型数据成员a，并且它是一个常量成员，若利用参数aa对其进行初始化，则该类的构造函数的定义为______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "AB（int aa）｛a＝aa；｝"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a830c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4c3b6-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "开发与运行 Java 程序需要经过的三个主要步骤为 ______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "编辑源程序；编译生成字节码；解释运行字节码"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8334-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4c4ba-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设 x = 2 ，则表达式 ( x + + )／3 的值是 ______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "2"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8366-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4c5be-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若 x = 5，y = 10，则 x < y 和 x >= y 的逻辑值分别为 ______和 ______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true；false"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a838e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4c6cc-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "设有数组定义：int MyIntArray[ ] = { 10 , 20 , 30 , 40 , 50 , 60 , 70}; 则执行以下几个语句后的输出结果是 ______。\nint s = 0 ;\nfor (int i = 0 ; i < MyIntArray.length ; i + + )\nif ( i % 2 = = 1 )\ns += MyIntArray[i] ;\nSystem.out.println(s);\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "120"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a83b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4c7da-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在 Java 程序中，通过类的定义只能实现______重继承，但通过接口的定义可以实现______重继承关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "单；多"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a83de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4c8e8-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Java 语言中，多态性主要表现在两个方面：______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "方法重载；成员覆盖"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8410-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4ca5a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "定义类的关键字是 class，定义接口的关键字是______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "interface"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8438-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4cb68-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在 Java 中字符串包括字符串常量和字符串变量，分别由类______和类 ______ 来创建对象。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "String；StringBuffer"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a846a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4cc6c-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在多线程程序设计中，若要启动一个线程需要调用的函数是 ______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "start()"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a8492-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4cd7a-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Java 中实现多线程一般使用两种方法，一是 ______，二是 ______ 。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "继承 Thread 类；实现 Runnable 接口"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350a84ba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "7ae4ce88-722d-11ee-a8f0-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Java 中变量有三要素：______。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "变量名；变量类型；变量值"
+	}
+]

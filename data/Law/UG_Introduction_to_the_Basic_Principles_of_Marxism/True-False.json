@@ -1,0 +1,3916 @@
+[
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8334-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae93fc2-7030-11ee-b329-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义最崇高的社会理想是实现人权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8406-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991f4-7030-11ee-9980-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无产阶级的科学世界观和方法论是辩证唯物主义和历史唯物主义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991f5-7030-11ee-93ff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义最崇高的社会理想是实现人权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8474-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991f6-7030-11ee-9dc9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义生命力的根源在于以实践为基础的科学性与革命性的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b84a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991f7-7030-11ee-8ce7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类创造的自然语言和人工语言是人类意识的物质外壳。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b84ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991f8-7030-11ee-818d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法的因果联系是指一切前后相继的现象之间的联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b84f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991f9-7030-11ee-8ddb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法认为事物发展的规律是事物内在的本质的稳定的联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b851e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991fa-7030-11ee-aa2a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类对自然界的全部“统治”力量在于人类能征服和改造自然界："
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8550-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991fb-7030-11ee-a17c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在人与世界的相互作用中，人与世界同时得到改变，并获得日益丰富的内容。造成这一变化的基础是人的实践活动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8578-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991fc-7030-11ee-b344-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。相信“意念移物”，甚至相信可以用意念来直接改变物质结构，就是信奉主张精神主宰客观物质世界的主观唯心论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b85aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991fd-7030-11ee-b813-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法对必然性和偶然性的认识是必然性意义重大，偶然性可以忽略不计。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b85d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991fe-7030-11ee-b623-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主观辩证法与客观辩证法的关系是唯心主义与唯物主义的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b85fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae991ff-7030-11ee-b820-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。随着科学技术的发展，人类已经制造出诸如醋酸纤维、聚苯乙烯、合成橡胶等自然界原本不存在的化合物，其数量已经达到数百万种。这说明物质世界是人类创造的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b862c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99200-7030-11ee-95cd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。正确地发挥意识能动作用的客观前提是个人积极性的充分调动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b865e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99201-7030-11ee-9a5c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实践之所以是检验真理的唯一标准是由真理的本性和实践的特点决定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8686-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99202-7030-11ee-bb82-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“人的思维是否具有真理性，这并不是一个理论的问题，而是一个实践的问题。人应该在实践中证明自己思维的真理性，即自己思维的现实性和力量，亦即自己思维的此岸性。”这一论断说明了实践是检验认识是否具有真理性的唯一标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b86b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99203-7030-11ee-bb72-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在实际工作中坚持马克思主义认识论的基本原理，就是要坚持社会存在决定社会意识的理论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b86e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99204-7030-11ee-9c11-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。检验真理的标准只能是客观事物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8708-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99205-7030-11ee-bcee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理和价值在认识和实践中是相互制约、相互引导、相互促进的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b873a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99206-7030-11ee-84e8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理与谬误之间的相互关系是在一定条件下可以互相转化的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8762-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99207-7030-11ee-b4f8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哲学上的“价值”是指具有特定属性的客体对于主体需要的意义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b878a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99208-7030-11ee-ad30-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理观上的相对主义，错误在于认为关于同一对象真理性的认识只有一个。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b87bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99209-7030-11ee-82e2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。毛泽东说：“马克思主义哲学认为十分重要的问题，不在于懂得了客观世界的规律性，因而能够解释世界，而在于拿了这种对于客观规律性的认识去能动地改造世界。”这段话强调的是认识的任务不仅在于解释世界，更重要的是改造世界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b87e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9920a-7030-11ee-9fb3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。逻辑证明是实践标准以外的又一个检验真理的标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8816-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9920b-7030-11ee-af65-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义认为，人的本质是永恒不变的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b883e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9920c-7030-11ee-8384-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的最根本特性是其自由属性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8870-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9920d-7030-11ee-81fa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人性决定于遗传因素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b88a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9920e-7030-11ee-800a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主体选择是指作为历史主体的人，从自身的需要和知识结构、经验、技能出发，根据历史的客观条件和发展趋势确定自己行为的方式和方向的行动。这种观点意味着承认主体选择的作用必须否定历史决定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b88ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9920f-7030-11ee-a2a2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人民群众的生活与文艺创作的关系是人民群众的生活是文艺创作的源泉。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b88f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae99210-7030-11ee-88f1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产阶级人性论最根本的缺陷是从抽象的人出发。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8924-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b901-7030-11ee-88b4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。把人与动物区别开来的决定性因素是人的劳动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b894c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b902-7030-11ee-88db-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产阶级人性论的主要特点是重视人的自由。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b897e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b903-7030-11ee-b510-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。任何英雄人物的历史作用都不能超出他们所处历史条件所许可的范围，这种看法是宿命论观点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b89a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b904-7030-11ee-97ed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义国家阶级性质的直接表现是行政、立法、司法三权分立。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b89ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b905-7030-11ee-acb7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义工资的本质是工人劳动的报酬。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8a00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b906-7030-11ee-ba52-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。最鲜明体现资本主义国家实质的国家职能是政治职能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8a28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b907-7030-11ee-9af6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本的循环运动要经过购买、生产、销售三个阶段的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b908-7030-11ee-b426-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。社会再生产的核心问题是价值的创造。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8a82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b909-7030-11ee-a81b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本划分为货币资本、生产资本、商品资本的依据是资本各个部分在循环中的职能不同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8aaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b90a-7030-11ee-a14e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义经济危机的根源在于生产过多超过劳动人民需要的矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8ad2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b90b-7030-11ee-9c9a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义的基本矛盾是生产与消费之间的矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b90c-7030-11ee-a65c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义经济危机从实质上说就是生产相对过剩的危机。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b90d-7030-11ee-85e3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本循环顺次采取的三种职能形式是货币资本、生产资本、商品资本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b90e-7030-11ee-ad1e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本社会化的最高形式是生产社会化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8b86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b90f-7030-11ee-bdbd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义国家对资本主义生产关系的调整加剧了资本主义的基本矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8bd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b910-7030-11ee-84c0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。经济全球化创造了世界各国的经济“共赢”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8bfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b911-7030-11ee-96ab-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。垄断资本主义的发展为向社会主义过渡准备了物质条件，主要表现在生产全面社会化、生产管理日益社会化、资本日益社会化等方面。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8c26-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b912-7030-11ee-adb8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国共产党全部工作的出发点和落脚点是保证党的生机与活力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8c4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b913-7030-11ee-bd57-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义政党的组织原则是人民代表大会制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8c80-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b914-7030-11ee-b64d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。能够真正实现把马克思主义的普遍真理与本国的具体实际相结合，科学地解决本国的革命、建设和改革的问题，是马克思主义政党成熟的根本标志。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8ca8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b915-7030-11ee-ab07-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“物的依赖性关系”是资本主义社会之中的人与人之间的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8cda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b916-7030-11ee-9b65-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实现了人的“自由个性”的发展的是资本主义社会。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8d02-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b917-7030-11ee-ba0b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义经济危机的根源在于生产过多超过劳动人民需要的矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8d2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b918-7030-11ee-a770-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。正确地发挥意识能动作用的客观前提是个人积极性的充分调动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8d5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b919-7030-11ee-b33c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法的因果联系是指一切前后相继的现象之间的联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8d84-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b91a-7030-11ee-bfc7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在实际工作中坚持马克思主义认识论的基本原理，就是要坚持社会存在决定社会意识的理论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8db6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b91b-7030-11ee-8c4e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实现了人的“自由个性”的发展的是资本主义社会。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8dde-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b91c-7030-11ee-ba7d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。检验真理的标准只能是客观事物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8e06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b91d-7030-11ee-98b2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本的循环运动要经过购买、生产、销售三个阶段的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8e38-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b91e-7030-11ee-93d4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。能够真正实现把马克思主义的普遍真理与本国的具体实际相结合，科学地解决本国的革命、建设和改革的问题，是马克思主义政党成熟的根本标志。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8e60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b91f-7030-11ee-9025-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类创造的自然语言和人工语言是人类意识的物质外壳。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8e88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b920-7030-11ee-9475-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类对自然界的全部“统治”力量在于人类能征服和改造自然界："
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8eba-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b921-7030-11ee-aa4f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无产阶级的科学世界观和方法论是辩证唯物主义和历史唯物主义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8ee2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b922-7030-11ee-8278-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法认为事物发展的规律是事物内在的本质的稳定的联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8f0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b923-7030-11ee-a6b3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义经济危机从实质上说就是生产相对过剩的危机。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8f3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b924-7030-11ee-8ae3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义认为：物质和意识的关系是“物质决定意识，意识完全受物质制约、影响和作用”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8f64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b925-7030-11ee-8064-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“只要知道自然界一切组成部分的相对位置和全部作用，一亿年以后的状况，都可以精确无误地演算出来，因为未来的一切早就在宇宙诞生时便已完全确定了”。这是机械决定论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8f8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b926-7030-11ee-aa30-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理和价值在认识和实践中是相互制约、相互引导、相互促进的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8fbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b927-7030-11ee-ab32-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实现了人的“自由个性”的发展的是资本主义社会。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b8fe6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b928-7030-11ee-8163-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的思想、动机和目的的实现程度，取决于它们是否被全体人民所接受。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9018-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b929-7030-11ee-b3c6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的意识不仅反映客观世界，并且（通过实践）创造客观世界，这表明人的意识具有能动性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9040-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b92a-7030-11ee-b1b7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。垄断资本主义的发展为向社会主义过渡准备了物质条件，主要表现在生产全面社会化、生产管理日益社会化、资本日益社会化等方面。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9068-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b92b-7030-11ee-84f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人民群众的生活与文艺创作的关系是人民群众的生活是文艺创作的源泉。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b909a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b92c-7030-11ee-9bb5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法认为事物发展的规律是事物内在的本质的稳定的联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b90c2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b92d-7030-11ee-8bc7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。相信“意念移物”，甚至相信可以用意念来直接改变物质结构，就是信奉主张精神主宰客观物质世界的主观唯心论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b90f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b92e-7030-11ee-8e52-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本的循环运动要经过购买、生产、销售三个阶段的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b911c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b92f-7030-11ee-9dda-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。社会再生产的核心问题是价值的创造。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9144-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b930-7030-11ee-9669-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本划分为货币资本、生产资本、商品资本的依据是资本各个部分在循环中的职能不同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b916c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b931-7030-11ee-b504-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义最崇高的社会理想是实现人权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b919e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b932-7030-11ee-b06c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义认为，人的本质是永恒不变的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b91c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b933-7030-11ee-815e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哲学上的“价值”是指具有特定属性的客体对于主体需要的意义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b91ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b934-7030-11ee-80be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“只要知道自然界一切组成部分的相对位置和全部作用，一亿年以后的状况，都可以精确无误地演算出来，因为未来的一切早就在宇宙诞生时便已完全确定了”。这是机械决定论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9220-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b935-7030-11ee-9dba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主体选择是指作为历史主体的人，从自身的需要和知识结构、经验、技能出发，根据历史的客观条件和发展趋势确定自己行为的方式和方向的行动。这种观点意味着承认主体选择的作用必须否定历史决定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9248-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b936-7030-11ee-ad05-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义认为：物质和意识的关系是“物质决定意识，意识完全受物质制约、影响和作用”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b927a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b937-7030-11ee-a2cc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义最崇高的社会理想是实现人权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b92a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b938-7030-11ee-910e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本循环顺次采取的三种职能形式是货币资本、生产资本、商品资本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b92ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b939-7030-11ee-8064-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类对自然界的全部“统治”力量在于人类能征服和改造自然界："
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b92fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b93a-7030-11ee-bf70-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主观辩证法与客观辩证法的关系是唯心主义与唯物主义的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9324-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b93b-7030-11ee-ae9d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义生命力的根源在于以实践为基础的科学性与革命性的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9356-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b93c-7030-11ee-b058-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实现了人的“自由个性”的发展的是资本主义社会。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b937e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b93d-7030-11ee-a316-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在人与世界的相互作用中，人与世界同时得到改变，并获得日益丰富的内容。造成这一变化的基础是人的实践活动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b93a6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b93e-7030-11ee-bbc8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类创造的自然语言和人工语言是人类意识的物质外壳。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b93ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b93f-7030-11ee-bab2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人民群众的生活与文艺创作的关系是人民群众的生活是文艺创作的源泉。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9400-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b940-7030-11ee-9492-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哲学上的“价值”是指具有特定属性的客体对于主体需要的意义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9428-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b941-7030-11ee-b462-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义的基本矛盾是生产与消费之间的矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b945a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b942-7030-11ee-9192-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。随着科学技术的发展，人类已经制造出诸如醋酸纤维、聚苯乙烯、合成橡胶等自然界原本不存在的化合物，其数量已经达到数百万种。这说明物质世界是人类创造的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9482-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b943-7030-11ee-b694-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义认为，人的本质是永恒不变的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b94b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b944-7030-11ee-8a3c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类创造的自然语言和人工语言是人类意识的物质外壳。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b94dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b945-7030-11ee-93a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主体选择是指作为历史主体的人，从自身的需要和知识结构、经验、技能出发，根据历史的客观条件和发展趋势确定自己行为的方式和方向的行动。这种观点意味着承认主体选择的作用必须否定历史决定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b950e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b946-7030-11ee-9c4f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义认为：物质和意识的关系是“物质决定意识，意识完全受物质制约、影响和作用”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9536-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b947-7030-11ee-8745-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义经济危机的根源在于生产过多超过劳动人民需要的矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b955e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b948-7030-11ee-8c39-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本循环顺次采取的三种职能形式是货币资本、生产资本、商品资本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9590-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b949-7030-11ee-b417-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理与谬误之间的相互关系是在一定条件下可以互相转化的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b95b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b94a-7030-11ee-a8d0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法的因果联系是指一切前后相继的现象之间的联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b95ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b94b-7030-11ee-8fae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实现了人的“自由个性”的发展的是资本主义社会。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9612-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b94c-7030-11ee-a7ab-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的最根本特性是其自由属性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9644-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b94d-7030-11ee-b558-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主体选择是指作为历史主体的人，从自身的需要和知识结构、经验、技能出发，根据历史的客观条件和发展趋势确定自己行为的方式和方向的行动。这种观点意味着承认主体选择的作用必须否定历史决定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b966c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b94e-7030-11ee-bc58-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类创造的自然语言和人工语言是人类意识的物质外壳。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9694-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b94f-7030-11ee-94e8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类对自然界的全部“统治”力量在于人类能征服和改造自然界："
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b96c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b950-7030-11ee-abea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人民群众的生活与文艺创作的关系是人民群众的生活是文艺创作的源泉。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b96f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b951-7030-11ee-8f83-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“人的思维是否具有真理性，这并不是一个理论的问题，而是一个实践的问题。人应该在实践中证明自己思维的真理性，即自己思维的现实性和力量，亦即自己思维的此岸性。”这一论断说明了实践是检验认识是否具有真理性的唯一标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9720-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b952-7030-11ee-a09d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类的意识能动性是指能动地反映世界和能动地改造世界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9752-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b953-7030-11ee-a07b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无产阶级的科学世界观和方法论是辩证唯物主义和历史唯物主义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b977a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b954-7030-11ee-9197-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义最崇高的社会理想是实现人权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b97ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b955-7030-11ee-ae34-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义生命力的根源在于以实践为基础的科学性与革命性的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b97d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b956-7030-11ee-ae05-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无产阶级的科学世界观和方法论是辩证唯物主义和历史唯物主义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9806-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b957-7030-11ee-acf3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义认为：物质和意识的关系是“物质决定意识，意识完全受物质制约、影响和作用”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b982e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b958-7030-11ee-82a7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“只要知道自然界一切组成部分的相对位置和全部作用，一亿年以后的状况，都可以精确无误地演算出来，因为未来的一切早就在宇宙诞生时便已完全确定了”。这是机械决定论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9856-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b959-7030-11ee-8ec0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法认为事物发展的规律是事物内在的本质的稳定的联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9888-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b95a-7030-11ee-993c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。正确地发挥意识能动作用的客观前提是个人积极性的充分调动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b98b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b95b-7030-11ee-900a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法对必然性和偶然性的认识是必然性意义重大，偶然性可以忽略不计。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b98e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9b95c-7030-11ee-bc61-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。相信“意念移物”，甚至相信可以用意念来直接改变物质结构，就是信奉主张精神主宰客观物质世界的主观唯心论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9914-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e011-7030-11ee-84cb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的意识不仅反映客观世界，并且（通过实践）创造客观世界，这表明人的意识具有能动性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b993c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e012-7030-11ee-b4c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类的意识能动性是指能动地反映世界和能动地改造世界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b996e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e013-7030-11ee-848a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主观辩证法与客观辩证法的关系是唯心主义与唯物主义的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9996-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e014-7030-11ee-a1a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。随着科学技术的发展，人类已经制造出诸如醋酸纤维、聚苯乙烯、合成橡胶等自然界原本不存在的化合物，其数量已经达到数百万种。这说明物质世界是人类创造的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b99c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e015-7030-11ee-9066-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理与谬误之间的相互关系是在一定条件下可以互相转化的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b99f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e016-7030-11ee-9aaf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。检验真理的标准只能是客观事物。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9a18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e017-7030-11ee-8201-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理观上的相对主义，错误在于认为关于同一对象真理性的认识只有一个。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9a4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e018-7030-11ee-8542-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。毛泽东说：“马克思主义哲学认为十分重要的问题，不在于懂得了客观世界的规律性，因而能够解释世界，而在于拿了这种对于客观规律性的认识去能动地改造世界。”这段话强调的是认识的任务不仅在于解释世界，更重要的是改造世界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9a72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e019-7030-11ee-9ff9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“人的思维是否具有真理性，这并不是一个理论的问题，而是一个实践的问题。人应该在实践中证明自己思维的真理性，即自己思维的现实性和力量，亦即自己思维的此岸性。”这一论断说明了实践是检验认识是否具有真理性的唯一标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9aa4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e01a-7030-11ee-ba60-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在实际工作中坚持马克思主义认识论的基本原理，就是要坚持社会存在决定社会意识的理论。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9acc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e01b-7030-11ee-a186-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实践之所以是检验真理的唯一标准是由真理的本性和实践的特点决定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9b12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e01c-7030-11ee-996f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理和价值在认识和实践中是相互制约、相互引导、相互促进的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9b3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e01d-7030-11ee-897c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哲学上的“价值”是指具有特定属性的客体对于主体需要的意义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9b6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e01e-7030-11ee-886f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。逻辑证明是实践标准以外的又一个检验真理的标准。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9b94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e01f-7030-11ee-81ae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产阶级人性论最根本的缺陷是从抽象的人出发。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9bc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e020-7030-11ee-aad2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人民群众的生活与文艺创作的关系是人民群众的生活是文艺创作的源泉。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9bee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e021-7030-11ee-9993-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的最根本特性是其自由属性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9c16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e022-7030-11ee-872e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主体选择是指作为历史主体的人，从自身的需要和知识结构、经验、技能出发，根据历史的客观条件和发展趋势确定自己行为的方式和方向的行动。这种观点意味着承认主体选择的作用必须否定历史决定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9c48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e023-7030-11ee-969e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。把人与动物区别开来的决定性因素是人的劳动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9c70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e024-7030-11ee-a059-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人性决定于遗传因素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9ca2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e025-7030-11ee-b469-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。任何英雄人物的历史作用都不能超出他们所处历史条件所许可的范围，这种看法是宿命论观点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9cca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e026-7030-11ee-a677-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产阶级人性论的主要特点是重视人的自由。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9cfc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e027-7030-11ee-b006-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义认为，人的本质是永恒不变的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9d24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e028-7030-11ee-b3b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。任何英雄人物的历史作用都不能超出他们所处历史条件所许可的范围，这种看法是宿命论观点。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9d4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e029-7030-11ee-bffc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主体选择是指作为历史主体的人，从自身的需要和知识结构、经验、技能出发，根据历史的客观条件和发展趋势确定自己行为的方式和方向的行动。这种观点意味着承认主体选择的作用必须否定历史决定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9d7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e02a-7030-11ee-8014-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产阶级人性论最根本的缺陷是从抽象的人出发。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9da6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e02b-7030-11ee-bccd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人性决定于遗传因素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9dd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e02c-7030-11ee-8d73-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人民群众的生活与文艺创作的关系是人民群众的生活是文艺创作的源泉。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9e0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e02d-7030-11ee-b40f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。把人与动物区别开来的决定性因素是人的劳动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9e32-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e02e-7030-11ee-ab87-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的最根本特性是其自由属性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9e64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e02f-7030-11ee-87dc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义认为，人的本质是永恒不变的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9e96-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e030-7030-11ee-af5c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产阶级人性论的主要特点是重视人的自由。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9ebe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e031-7030-11ee-80d4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义的基本矛盾是生产与消费之间的矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9ee6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e032-7030-11ee-8325-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义经济危机从实质上说就是生产相对过剩的危机。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9f18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e033-7030-11ee-8e88-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本划分为货币资本、生产资本、商品资本的依据是资本各个部分在循环中的职能不同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9f40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e034-7030-11ee-ac23-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本循环顺次采取的三种职能形式是货币资本、生产资本、商品资本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9f72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e035-7030-11ee-a255-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义国家阶级性质的直接表现是行政、立法、司法三权分立。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9f9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e036-7030-11ee-bc11-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义工资的本质是工人劳动的报酬。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9fcc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e037-7030-11ee-8475-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本的循环运动要经过购买、生产、销售三个阶段的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354b9ff4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e038-7030-11ee-a10d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义经济危机的根源在于生产过多超过劳动人民需要的矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba026-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e039-7030-11ee-9e67-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。最鲜明体现资本主义国家实质的国家职能是政治职能。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba058-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e03a-7030-11ee-ac5c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。社会再生产的核心问题是价值的创造。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba080-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e03b-7030-11ee-89ff-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义国家对资本主义生产关系的调整加剧了资本主义的基本矛盾。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba0b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e03c-7030-11ee-936f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。经济全球化创造了世界各国的经济“共赢”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba0da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e03d-7030-11ee-8a01-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。垄断资本主义的发展为向社会主义过渡准备了物质条件，主要表现在生产全面社会化、生产管理日益社会化、资本日益社会化等方面。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba102-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e03e-7030-11ee-a520-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本社会化的最高形式是生产社会化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba134-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e03f-7030-11ee-ac3c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。中国共产党全部工作的出发点和落脚点是保证党的生机与活力。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba15c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e040-7030-11ee-8079-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义政党的组织原则是人民代表大会制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba18e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e041-7030-11ee-8ed6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。能够真正实现把马克思主义的普遍真理与本国的具体实际相结合，科学地解决本国的革命、建设和改革的问题，是马克思主义政党成熟的根本标志。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba1b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e042-7030-11ee-98cc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。实现了人的“自由个性”的发展的是资本主义社会。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba1e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e043-7030-11ee-ba20-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“物的依赖性关系”是资本主义社会之中的人与人之间的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba210-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e044-7030-11ee-a593-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理和价值在认识和实践中是相互制约、相互引导、相互促进的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba242-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e045-7030-11ee-9360-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。能够真正实现把马克思主义的普遍真理与本国的具体实际相结合，科学地解决本国的革命、建设和改革的问题，是马克思主义政党成熟的根本标志。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba26a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e046-7030-11ee-a61a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本划分为货币资本、生产资本、商品资本的依据是资本各个部分在循环中的职能不同。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba29c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e047-7030-11ee-a97c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。哲学上的“价值”是指具有特定属性的客体对于主体需要的意义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba2ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e048-7030-11ee-948b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本社会化的最高形式是生产社会化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba2f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e049-7030-11ee-883e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。毛泽东说：“马克思主义哲学认为十分重要的问题，不在于懂得了客观世界的规律性，因而能够解释世界，而在于拿了这种对于客观规律性的认识去能动地改造世界。”这段话强调的是认识的任务不仅在于解释世界，更重要的是改造世界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba328-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e04a-7030-11ee-8812-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。正确地发挥意识能动作用的客观前提是个人积极性的充分调动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba35a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e04b-7030-11ee-b98a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的意识不仅反映客观世界，并且（通过实践）创造客观世界，这表明人的意识具有能动性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba382-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e04c-7030-11ee-afbe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。垄断资本主义的发展为向社会主义过渡准备了物质条件，主要表现在生产全面社会化、生产管理日益社会化、资本日益社会化等方面。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba3b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e04d-7030-11ee-bc6e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。经济全球化创造了世界各国的经济“共赢”。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba3dc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e04e-7030-11ee-a0df-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法对必然性和偶然性的认识是必然性意义重大，偶然性可以忽略不计。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba404-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e04f-7030-11ee-8291-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。唯物辩证法认为事物发展的规律是事物内在的本质的稳定的联系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba436-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e050-7030-11ee-8ae9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义经济危机从实质上说就是生产相对过剩的危机。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba45e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e051-7030-11ee-a4c4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。正确地发挥意识能动作用的客观前提是个人积极性的充分调动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba490-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e052-7030-11ee-ab06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。真理和价值在认识和实践中是相互制约、相互引导、相互促进的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba4b8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e053-7030-11ee-b14f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义国家阶级性质的直接表现是行政、立法、司法三权分立。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba4ea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e054-7030-11ee-805b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无产阶级的科学世界观和方法论是辩证唯物主义和历史唯物主义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba512-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e055-7030-11ee-808a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在人与世界的相互作用中，人与世界同时得到改变，并获得日益丰富的内容。造成这一变化的基础是人的实践活动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba544-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e056-7030-11ee-ae33-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的意识不仅反映客观世界，并且（通过实践）创造客观世界，这表明人的意识具有能动性。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba576-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e057-7030-11ee-96f2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。垄断资本主义的发展为向社会主义过渡准备了物质条件，主要表现在生产全面社会化、生产管理日益社会化、资本日益社会化等方面。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba59e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e058-7030-11ee-b37b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。无产阶级的科学世界观和方法论是辩证唯物主义和历史唯物主义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba5d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e059-7030-11ee-8b89-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义最崇高的社会理想是实现人权。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba602-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e05a-7030-11ee-9e10-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。马克思主义生命力的根源在于以实践为基础的科学性与革命性的统一。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba634-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e05b-7030-11ee-82bf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资产阶级意识形态的核心是政治思想和法律思想。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba65c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e05c-7030-11ee-bc17-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。把人与动物区别开来的决定性因素是人的劳动。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba68e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e05d-7030-11ee-9545-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。产业资本循环顺次采取的三种职能形式是货币资本、生产资本、商品资本。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba6b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e05e-7030-11ee-ae37-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。毛泽东说：“马克思主义哲学认为十分重要的问题，不在于懂得了客观世界的规律性，因而能够解释世界，而在于拿了这种对于客观规律性的认识去能动地改造世界。”这段话强调的是认识的任务不仅在于解释世界，更重要的是改造世界。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba6e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e05f-7030-11ee-bf4c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人的思想、动机和目的的实现程度，取决于它们是否被全体人民所接受。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba710-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e060-7030-11ee-b5d5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。主体选择是指作为历史主体的人，从自身的需要和知识结构、经验、技能出发，根据历史的客观条件和发展趋势确定自己行为的方式和方向的行动。这种观点意味着承认主体选择的作用必须否定历史决定。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba742-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e061-7030-11ee-90e8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。“物的依赖性关系”是资本主义社会之中的人与人之间的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba76a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e062-7030-11ee-8057-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人性决定于遗传因素。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba792-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e063-7030-11ee-908e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。资本主义经济危机从实质上说就是生产相对过剩的危机。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	},
+	{
+		"category": "法学",
+		"sub_category": "马克思主义理论类",
+		"raw_uuid": "354ba7c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "eae9e064-7030-11ee-8c2f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。人类创造的自然语言和人工语言是人类意识的物质外壳。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。"
+	}
+]

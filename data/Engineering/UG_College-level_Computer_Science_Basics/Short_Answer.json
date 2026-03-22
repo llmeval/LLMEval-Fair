@@ -1,0 +1,1028 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007b46-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3dcc5f-716d-11ee-8c2b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " n个人围成一圈，顺序排号。从第1个人开始报数（从1到3报数），凡报到3的人退出圈子，问最后留下的是原来第几号的那位。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "思路：用数组num储存n个人，从1到n编号，表示仍在圈子里。如果第i个人报到了3，则令num[i]=0，表示该人已经出圈，并令m++（m记录退出的人数）。当m=n-1时，寻找num[j]!=0，则num[j]号为最后留下来的人。\n程序如下：\n#include<stdio.h>\nint main()\n{\nint i,k,m,n,num[50],*p;\nprintf(\"\ninput number of person:n=\");\nscanf(\"%d\",&n);\np=num;\nfor(i=0;i<n;i++)\n*(p+i)=i+1; //以1至n为序给每个人编号\ni=0; //i为每次循环时计数变量\nk=0; //k为按1，2，3报数时的计数变量\nm=0; //m为退出人数\nwhile(m<n-1) //当退出人数比n－1少时（即未退出人数大于1时）执行循环体\n{\nif(*(p+i)!=0)\nk++;\nif(k==3)\n{\n*(p+i)=0; //对退出的人的编号置为0\nk=0;\nm++;\n}\ni++;\nif(i==n) //报数到尾后，i恢复为0\ni=0;\n}\nwhile(*p==0)\np++;\nprintf(\"The last one is No.%d\n\",*p);\nreturn 0;\n}\n运行结果：\ninput number of person:n=8\nThe last one is No.7"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007ca4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b06-716d-11ee-9468-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写一函数，求一个字符串的长度。在main函数中输入字符串，并输出其长度。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nint length(char *p);\nint len;\nchar str[20];\nprintf(\"input string:\n\");\nscanf(\"%s\",str);\nlen=length(str);\nprintf(\"The length of string is %d.\n\",len);\nreturn 0;\n}\nint length(char *p) //求字符串长度函数\n{\nint n;\nn=0;\nwhile(*p!='\\0')\n{\nn++;\np++;\n}\nreturn (n);\n}\n运行结果：\ninput string:\nShengcaidianzishu\nThe length of string is 17."
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007d12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b07-716d-11ee-9933-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 有一字符串，包含n个字符。写一函数，将此字符串中从第m个字符开始的全部字符复制成为另一个字符串。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\n#include<string.h>\nint main()\n{\nvoid copystr(char *,char *,int);\nint m;\nchar str1[20],str2[20];\nprintf(\"input string:\");\ngets(str1);\nprintf(\"which character that begin to copy?\");\nscanf(\"%d\",&m);\nif(strlen(str1)<m)\nprintf(\"input error!\");\nelse\n{\ncopystr(str1,str2,m);\nprintf(\"result:%s\n\",str2);\n}\nreturn 0;\n}\nvoid copystr(char *p1,char *p2,int m) //字符串部分复制函数\n{\nint n;\nn=0;\nwhile(n<m-1) //找到复制起点\n{\nn++;\np1++;\n}\nwhile(*p1!='\\0')\n{\n*p2=*p1;\np1++;\np2++;\n}\n*p2='\\0';\n}\n运行结果：\ninput string:shengcai-ebook\nwhich character that begin to copy?10\nresult:ebook"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007d62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b08-716d-11ee-a72a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 输入一行文字，找出其中大写字母、小写字母、空格、数字以及其他字符各有多少。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nint upper=0,lower=0,digit=0,space=0,other=0,i=0;\nchar *p,s[20];\nprintf(\"input string:\n\");\nwhile((s[i]=getchar())!='\n') //输入字符串\ni++;\np=&s[0];\nwhile(*p!='\n')\n{\nif(('A'<=*p)&&(*p<='Z'))\n++upper;\nelse if(('a'<=*p)&&(*p<='z'))\n++lower;\nelse if(*p==' ')\n++space;\nelse if((*p<='9')&&(*p>='0'))\n++digit;\nelse\n++other;\np++;\n}\nprintf(\"upper case:%d\n\",upper);\nprintf(\"lower case:%d\n\",lower);\nprintf(\"space:%d\n\",space);\nprintf(\"digit:%d\n\",digit);\nprintf(\"other:%d\n\",other);\nreturn 0;\n}\n运行结果：\ninput string:\nToday is 2019/11/11\nupper case:1\nlower case:6\nspace:2\ndigit:6\nother:2"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007d9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b09-716d-11ee-a264-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写一函数，将一个3×3的整型矩阵转置。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nvoid move(int *pointer);\nint a[3][3],*p,i;\nprintf(\"input matrix:\n\");\nfor(i=0;i<3;i++) //输入待处理的矩阵\nscanf(\"%d%d%d\",&a[i][0],&a[i][1],&a[i][2]);\np=&a[0][0]; //将a[0][0]的指针赋值给p\nmove(p);\nprintf(\"Now,matrix:\n\");\nfor(i=0;i<3;i++)\nprintf(\"%d %d %d\n\",a[i][0],a[i][1],a[i][2]);\nreturn 0;\n}\nvoid move(int *pointer)\n{\nint i,j,t;\nfor(i=0;i<3;i++) //对矩阵进行转置操作\nfor(j=i+1;j<3;j++)\n{\nt=*(pointer+3*i+j);\n*(pointer+3*i+j)=*(pointer+3*j+i);\n*(pointer+3*j+i)=t;\n}\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007de4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b0a-716d-11ee-88af-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 将一个5×5的矩阵中最大的元素放在中心，4个角分别放4个最小的元素（顺序为从左到右，从上到下依次从小到大存放），写一函数实现之。用main函数调用。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "思路：使用一个一维数组储存矩阵中的元素，然后将该一维数组进行冒泡排序。将排序后的数组中的最大值放在中心，四个最小的元素放在四个角。\n程序如下：\n#include<stdio.h>\nint main()\n{\nvoid change(int *p);\nint a[5][5],*p,i,j;\nprintf(\"input matrix:\n\"); //提示输入二维数组各元素\nfor(i=0;i<5;i++)\nfor(j=0;j<5;j++)\nscanf(\"%d\",&a[i][j]);\np=&a[0][0]; //使p指向0行0列元素\nchange(p); //调用change函数，实现交换\nprintf(\"Now,matrix:\n\");\nfor(i=0;i<5;i++) //输出已交换的二位数组\n{\nfor(j=0;j<5;j++)\nprintf(\"%d \",a[i][j]);\nprintf(\"\n\");\n}\nreturn 0;\n}\nvoid change(int *p) //交换函数\n{\nint i,j,temp;\nint *pmax,*pmin;\npmax=p;\npmin=p;\nfor(i=0;i<5;i++) //找最大值和最小值的地址，并赋给pmax，pmin\nfor(j=i;j<5;j++)\n{\nif(*pmax<*(p+5*i+j))\npmax=p+5*i+j;\nif(*pmin>*(p+5*i+j))\npmin=p+5*i+j;\n}\ntemp=*(p+12); //将最大值换给中心元素\n*(p+12)=*pmax;\n*pmax=temp;\ntemp=*p; //将最小值换给左上角元素\n*p=*pmin;\n*pmin=temp;\nfor(i=0;i<5;i++) //找第二最小值的地址赋给pmin\nfor(j=0;j<5;j++)\nif(((p+5*i+j)!=p)&&(*pmin>*(p+5*i+j)))\npmin=p+5*i+j;\ntemp=*pmin; //将第二最小值换给右上角元素\n*pmin=*(p+4);\n*(p+4)=temp;\npmin=p+1;\nfor(i=0;i<5;i++) //找第三最小值的地址赋给pmin\nfor(j=0;j<5;j++)\nif(((p+5*i+j)!=(p+4))&&((p+5*i+j)!=p)&&(*pmin>*(p+5*i+j)))\npmin=p+5*i+j;\ntemp=*pmin; //将第三最小值换给左下角元素\n*pmin=*(p+20);\n*(p+20)=temp;\npmin=p+1;\nfor(i=0;i<5;i++) //找第四最小值的地址赋给pmin\nfor(j=0;j<5;j++)\nif(((p+5*i+j)!=p)&&((p+5*i+j)!=(p+4))&&((p+5*i+j)!=(p+20))&&\n(*pmin>*(p+5*i+j)))\npmin=p+5*i+j;\ntemp=*pmin; //将第四最小值换给右下角元素\n*pmin=*(p+24);\n*(p+24)=temp;\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007e2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b0b-716d-11ee-92b2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 在主函数中输入10个等长的字符串。用另一函数对它们排序。然后在主函数输出这10个已排好序的字符串。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\n#include<string.h>\nint main()\n{\nvoid sort(char s[][6]);\nint i;\nchar str[10][6];\nprintf(\"input 10 strings:\n\");\nfor(i=0;i<10;i++)\nscanf(\"%s\",str[i]);\nsort(str);\nprintf(\"Now,the sequence is :\n\");\nfor(i=0;i<10;i++)\nprintf(\"%s\n\",str[i]);\nreturn 0;\n}\nvoid sort(char s[10][6])\n{\nint i,j;\nchar *p,temp[10];\np=temp; //p指向一维字符数组temp\nfor(i=0;i<9;i++)\nfor(j=0;j<9-i;j++)\nif(strcmp(s[j],s[j+1])>0)\n{\n//以下3行是将s[j]指向的一维数组的内容与s[j+1]指向的一维数组的内容互换\nstrcpy(p,s[j]);\nstrcpy(s[j],s[j+1]);\nstrcpy(s[j+1],p);\n}\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007e70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b0c-716d-11ee-8cf7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 用指针数组处理上一题目，字符串不等长。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\n#include<string.h>\nint main()\n{\nvoid sort(char *[]);\nint i;\nchar *p[10],str[10][20]; //p为指针数组，数组中的元素是指向一维数组的指针\nfor(i=0;i<10;i++)\np[i]=str[i]; //将第i个字符串的首地址赋于指针数组p的第i个元素\nprintf(\"input 10 strings:\n\");\nfor(i=0;i<10;i++)\nscanf(\"%s\",p[i]);\nsort(p);\nprintf(\"Now,the sequence is:\n\");\nfor(i=0;i<10;i++)\nprintf(\"%s\n\",p[i]);\nreturn 0;\n}\nvoid sort(char *s[]) //起泡排序\n{\nint i,j;\nchar *temp;\nfor(i=0;i<9;i++)\nfor(j=0;j<9-i;j++)\nif(strcmp(*(s+j),*(s+j+1))>0)\n{\ntemp=*(s+j);\n*(s+j)=*(s+j+1);\n*(s+j+1)=temp;\n}\n}\n运行结果：\ninput 10 strings:\nChina\nJapan\nYemen\nPakistan\nMexico\nKorea\nBrazil\nIceland\nCanada\nMongolia\nNow,the sequence is:\nBrazil\nCanada\nChina\nIceland\nJapan\nKorea\nMexico\nMongolia\nPakistan\nYemen"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007eb6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b0d-716d-11ee-956e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写一函数，实现两个字符串的比较。即自己写一个strcmp函数，函数原型为strcmp(char*p1,char*p2) 设p1指向字符串s1，p2指向字符串s2。要求当s1＝s2时，返回值为0；若s1≠s2，返回它们二者第1个不同字符的ASCII码差值（如“BOY”与“BAD”，第2个字母不同，“O”与“A”之差为79－65＝14）；如果s1＞s2，则输出正值；如果s1＜s2，则输出负值。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nint m;\nchar str1[20],str2[20],*p1,*p2;\nprintf(\"input two strings:\n\");\nscanf(\"%s\",str1);\nscanf(\"%s\",str2);\np1=&str1[0];\np2=&str2[0];\nm=strcmp(p1,p2);\nprintf(\"result:%d\n\",m);\nreturn 0;\n}\nstrcmp(char *p1,char *p2) //两个字符串比较函数\n{\nint i;\ni=0;\nwhile(*(p1+i)==*(p2+i))\nif(*(p1+i++)=='\\0')\nreturn 0; //相等时返回结果0\nreturn(*(p1+i)-*(p2+i)); //不等时返回结果为第一个不等字符ASCII码的差值\n}\n运行结果：\n（1）输入不同的字符串\ninput two strings:\nshengcai-education\nshengcai-ebook\nresult:2\n（2）输入相同的字符串\ninput two strings:\nshengcai\nshengcai\nresult:0"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007efc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b0e-716d-11ee-8d0e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 编一程序，输入月份号，输出该月的英文月名。例如，输入\n“3”，则输出“March”，要求用指针数组处理。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nchar *month_name[13]={\"illegal month\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"};\nint n;\nprintf(\"input month:\n\");\nscanf(\"%d\",&n);\nif((n<=12)&&(n>=1))\nprintf(\"It is %s.\n\",*(month_name+n));\nelse\nprintf(\"It is wrong.\n\");\nreturn 0;\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007f24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b0f-716d-11ee-9dc1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " （1）编写一个函数new，对n个字符开辟连续的存储空间，此函数应返回一个指针（地址），指向字符串开始的空间。new（n）表示分配n个字节的内存空间。\n（2）写一函数free，将前面用new函数占用的空间释放。free（p）表示将p（地址）指向的单元以后的内存段释放。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（1）编写函数new\n程序如下：\n#include<stdio.h>\n#define NEWSIZE 1000\nchar newbuf[NEWSIZE];\nchar *newp=newbuf;\nchar *new(int n)\n{\nif(newp+n<=newbuf+NEWSIZE)\n{\nnewp+=n;\nreturn(newp-n);\n}\nelse\nreturn(NULL);\n}\n（2）编写函数free\nfree函数如下：\n#include<stdio.h>\n#define NEWSIZE 1000\nchar newbuf[NEWSIZE];\nchar *newp=newbuf;\nvoid free(char *p) //释放储存区函数\n{\nif(p>newbuf&&p<newbuf+NEWSIZE) newp=p;\n}\n上面只是编写了两个函数，并不是完整的程序，它没有main函数。本题是示意性的，可以大体了解开辟存储区的思路。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007f4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b10-716d-11ee-8d5f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 用指向指针的指针的方法对5个字符串排序并输出。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\n#include<string.h>\n#define LINEMAX 20 //定义字符串的最大长度\nint main()\n{\nvoid sort(char **p);\nint i;\nchar **p,*pstr[5],str[5][LINEMAX];\nfor(i=0;i<5;i++)\npstr[i]=str[i]; //将第i个字符串的首地址赋予指针数组pstr的第i个元素\nprintf(\"input 5 strings:\n\");\nfor(i=0;i<5;i++)\nscanf(\"%s\",pstr[i]);\np=pstr;\nsort(p);\nprintf(\"\nstrings sorted:\n\");\nfor(i=0;i<5;i++)\nprintf(\"%s\n\",pstr[i]);\nreturn 0;\n}\nvoid sort(char **p) //用起泡法对5个字符串排序函数\n{\nint i,j;\nchar *temp;\nfor(i=0;i<5;i++)\n{\nfor(j=i+1;j<5;j++)\n{\nif(strcmp(*(p+i),*(p+j))>0) //比较后交换字符串地址\n{\ntemp=*(p+i);\n*(p+i)=*(p+j);\n*(p+j)=temp;\n}\n}\n}\n}\n运行结果：\ninput 5 strings:\nChina\nAmerica\nIndia\nJapan\nFrance\nstrings sorted:\nAmerica\nCanada\nFrance\nIndia\nJapan"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007f74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b11-716d-11ee-a5fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 有两个磁盘文件“A”和“B”，各存放一行字母，今要求把这两个\n文件中的信息合并（按字母顺序排列），输出到一个新文件“C”中\n去。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "先用第1题的程序分别建立两个文件A和B，放在D盘的根目录下，其中内容分别是“I LOVE CHINA”和“I LOVE BEIJING”。在程序中先分别将A，B文件的内容读出放到数组c中，再对数组c排序。最后将数组内容写到“C”文件中。\n程序如下：\n#include<stdio.h>\n#include<stdlib.h>\nint main()\n{\nFILE *fp;\nint i,j,n,i1;\nchar c[100],t,ch;\nif((fp=fopen(\"d:\\A\",\"r\"))==NULL) //打开文件A\n{\nprintf(\"\ncan not open file\n\");\nexit(0);\n}\nprintf(\"file A:\n\");\nfor(i=0;(ch=fgetc(fp))!=EOF;i++) //读取文件A的内容\n{\nc[i]=ch;\nputchar(c[i]);\n}\nfclose(fp);\ni1=i;\nif((fp=fopen(\"d:\\B\",\"r\"))==NULL) //打开文件B\n{\nprintf(\"\ncan not open file\n\");\nexit(0);\n}\nprintf(\"\nfile B:\n\");\nfor(i=i1;(ch=fgetc(fp))!=EOF;i++) //读取文件B的内容\n{\nc[i]=ch;\nputchar(c[i]);\n}\nfclose(fp);\nn=i;\nfor(i=0;i<n;i++) //对字符数组C进行冒泡排序\nfor(j=i+1;j<n;j++)\nif(c[i]>c[j])\n{\nt=c[i];\nc[i]=c[j];\nc[j]=t;\n}\nprintf(\"\nfile C:\n\");\nfp=fopen(\"d:\\C\",\"w\");\nfor(i=0;i<n;i++) //将字符数组C的内容写入文件C\n{\nputc(c[i],fp);\nputchar(c[i]);\n}\nprintf(\"\n\");\nfclose(fp);\nreturn 0;\n}\n运行结果：\nfile A:\nI LOVE CHINA\nfile B:\nI LOVE BEIJING\nfile C:\nABCEEEGHIIIIIJLLNNOOVV"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007fa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b12-716d-11ee-8daf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 从键盘输入若干行字符（每行长度不等），输入后把它们存储到一磁盘文件中。再从该文件中读入这些数据，将其中小写字母转换成大写字母后在显示屏上输出。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nint i,flag;\nchar str[80],c;\nFILE *fp;\nfp=fopen(\"d:\text\",\"w\");\nflag=1;\nwhile(flag==1)\n{\nprintf(\"input string:\n\");\ngets(str);\nfprintf(fp,\\%s \",str); //将输入字符串写入文件中\nprintf(\"continue?\");\nc=getchar();\nif((c=='N')||(c=='n'))\nflag=0;\ngetchar();\n}\nfclose(fp);\nfp=fopen(\"d:\text\",\"r\");\nwhile(fscanf(fp,\"%s\",str)!=EOF) //读取文件内容\n{\nfor(i=0;str[i]!='\\0';i++)\nif((str[i]>='a')&&(str[i]<='z'))\nstr[i]-=32; //将小写字母变成大写字母\nprintf(\"%s\n\",str);\n}\nfclose(fp);\nreturn 0;\n}\n运行结果：\ninput string:\nabcdef.\ncontinue?y\ninput string:\nghijkl.\ncontinue?y\ninput string:\nmnopqrst.\ncontinue?n\nABCDEF.\nGHIJKL.\nMNOPQRST."
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007fce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b13-716d-11ee-abbf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 对于下列for循环语句，请将其改写为功能完全相同的while循环语句。\nint i,j,count=0;\nfor(i＝0;i＜100;i++)\n{\n  for(j=100;j>=i;j-=2)\n  {\n    count+=j-i;\n}\n    }"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "此题可以在定义时先令i＝0，j＝100，在第一层while循环时只需判断i＜100即可，在第二层while循环时只需判断j＞＝i即可，j－＝2放在内层循环体中即可，具体程序如下：\nint i=0, j=100, count=0;\nwhile(i<100)\n{\n  while(j>=i)\n  {\n    count+=j-i;\n    j-=2;\n}\n  i++;\n    }"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35007ff6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e1b14-716d-11ee-af7b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 输入一个字符，判别它是否为大写字母，如果是，将它变为小写字母；如果不是，不转换。然后输出最后得到的字符。请在下面空白处填上适当语句。\n#include<stdio.h>\nint main()\n{\n  char ch;\n  scanf(\"%c\", ① );\n  ch=(ch>='A'&& ② )?(ch+32): ③ ;\n  printf( ④ ,ch);\n  return ⑤ ;\n    }"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "① &ch\n② ch＜＝'Z'\n③ ch\n④ \"%c\"\n⑤ 0"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008028-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51b4-716d-11ee-95fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 从键盘输入10个整数，编程求其中大于3且小于100的数的平均值并输出结果。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "此题可以先利用循环从屏幕读取10个数，存放在一个一位数组中，然后循环判断大于3且小于100的数，最后取平均值进行输出，程序如下：\n#include<stdio.h>\nvoid main()\n{\n  int num[ 10],s=0,n=10;\n  printf(\"input 10 numbers:\");\n  for(int i=0;i<10;i++)\n  {\n  scanf(\"%d\",&num[i ]);\n    if(num[i ]<=3||num[i ]>=100)\n    {\n      num[i     ]=0;\n      n--;\n     }\n    s+=num[i ];\n  }\n  if(n==0)\n    printf(\"no exist!\");\n  else\n    printf(\"%d\n\",s/n);\n    }"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008050-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51b5-716d-11ee-9360-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 编程求100～200间的全部素数。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "素数意思是只能被1和本身整除，因此将1到本身之间的数做除数，进行求余，如果余数为0，则不是素数，否则是素数。根据经验，假设所要判断的数为n，则一般只需要判断1到根号n之间的数即可，具体程序如下：\n#include<stdio.h>\n#include<math.h>\nvoid main()\n{ int i,j,count;\n  for(i=100;i<=200;i++)\n  {\ncount=0;\nfor(j=2;j<sqrt(i);j++)\n{\n  if(i%j==0)\n  count++;\n }\nif(count==0)\nprintf(\"%d 是素数!\n\",i);\n  }\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008082-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51b6-716d-11ee-8acf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 从键盘输入一个字符串，将其中的小写字母全部转换成大写字母，然后输出到一个磁盘文件“test”中保存。输入的字符串以“!”结束。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "本题先利用循环逐个读入所输入的字符，同时判断所输入字符是否为“!”，若是则停止输入，结束程序；若不是，则判断该字符是否是小写字母，若是则转换为大写字母，最后写入文件text中，具体程序如下：\n#include<stdio.h>\n#include<stdlib.h>\nvoid main)\n{\n  FILE *fp;\n  char ch;\n  fp=fopen(\"text.txt\",\"w+\");\n  if(fp == NULL)\n  {\nprintf(\"Cannot open file strike any key exit!\");\nexit(1);\n }\n  printf(\"input the string:\");\n  while(1)\n  {\n  scanf(\"%c\",&ch);\nif(ch=='!') break;\n  if(ch>='a'&&ch<='z')\nch-=32;\nfprintf(fp,\"%c\",ch);\n}\n  fclose(fp);\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350080aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51b7-716d-11ee-be34-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 请根据以下各小题的要求设计C应用程序（包括界面和代码）。\n请编写函数fun（），该函数的功能是：计算并输出给定整数n的所有因子（不包括1和自身）之和。规定n的值不大于1000。例如，在主函数中从键盘给n输入的值为856，则输出为：sum＝763。\n注意：部分源程序给出如下。\n请勿改动主函数main（）和其他函数中的任何内容，仅在fun（）函数的花括号中填入所编写的若干语句。\n试题程序如下：\n#include <stdio.h>\nint fun(int n)\n{\n}\nvoid main()\n{\n  int n,sum;\n  printf(\"Input n: \");\n  scanf(\"%d\",&n);\n  sum=fun(n);\n  printf(\"sum=%d\n\",sum);\n}"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "int fun(int n)\n{\n  int s=0,i;\n  for(i=2;i<=n-1;i++)\nif(n%i==0)\n  s+=i;\n  return s;\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350080d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51b8-716d-11ee-8ac0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 请根据以下各小题的要求设计C应用程序（包括界面和代码）。\n请编写函数fun（），它的功能是：将3行4列矩阵x乘以4行3列矩阵y，结果放在3行3列矩阵xy中。矩阵相乘的基本方法是：矩阵xy中行列下标分别为i，j的元素的值，是矩阵x中第i行上4个元素与矩阵y第j列上4个元素对应相乘再相加的和。\n注意：部分源程序给出如下。\n请勿改动主函数main和其他函数中的任何内容，仅在函数fun的花括号中填入所编写的若干语句。\n试题程序如下：\n#include <stdio.h>\n#include <string.h>\nvoid fun(int a[3][4],int b[4][3],int ab[3][3])\n{\n}\nmain()\n{\n  int x[3][4] = {{1,0,1,1},{2,1,0,1},{1,2,0,3}};\n  int y[4][3] = {{1,1,1},{0,0,0},   {2,1,1},{1,1,3}};\n  int xy[3][3] = {0},i,j;\n  fun(x,y,xy);\n  printf(\"a × b = ab:(3,3):\n\");\n  for(i=0;i<3;i++)\n  {\nfor(j=0;j<3;j++)\n  printf(\"%d\",xy[i][j]);\nprintf(\"\n\");\n  }\n}"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "void fun(int a[3][4],int b[4][3],int ab[3][3])\n{\n  int j,k,l;\n  for(k=0;k<3;k++)\nfor(l=0;l<3;l++)\n  for(j=0;j<4;j++)\nab[k][l]+=a[k][j]*b[j][l];\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008104-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51b9-716d-11ee-995c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 请根据以下要求设计C应用程序。\n请编写函数fun，它的功能是：统计各年龄段的人数。N个年龄通过调用随机函数获得，并放在主函数的age数组中；要求函数把0至9岁年龄段的人数放在d[0]中，把10至19岁年龄段的人数放在d[1]中，把20至29岁年龄段的人数放在d[2]中，其余依次类推，把100岁（含100岁）以上年龄的人数放在d[10]中。结果在主函数中输出。\n注意：部分源程序给出如下。\n请勿改动主函数main和其他函数中的任何内容，仅在函数fun的花括号中填入所编写的若干语句。\n试题程序如下：\n#include <stdio.h>\n#define N 50\n#define M 11\nvoid fun(int *a, int *b)\n{\n}ndouble rnd()\n{\n  static int t=29,c=217,m=1024,r=0;\n  r= (r*t+c)%m;\n  return ((double) r/m);\n}\nmain ()\n{\n  int age[N],i,d[M];\n  for(i=0; i< N; i++)\nage [i]= (int)(115*rnd ());\n  printf (\"The original data : \n\");\n  for(i=0; i< N; i++)\nprintf((i+1)%10 == 0? \"%4d\n\": \"%4d\",age[i]);\n  printf(\"\n\n\");\n  fun(age,d);\n  for(i=0; i< 10; i++)\nprintf(\"%4d---%4d :%4d\n\", i*10,i*10+9,d[i]);\n  printf(\"Over 100 : %4d\n\",d[10]);\n}"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "void fun(int *a, int *b)\n{\n  int i,j;\n  for (j=0; j<M;j++)\nb[j]=0;\n  for (i=0; i<N;i++)\n  {\nswitch (a[i]/10)\n{\n  case 0:b[0]++; break;\n  case 1:b[1]++; break;\n  case 2:b[2]++; break;\n  case 3:b[3]++; break;\n  case 4:b[4]++; break;\n  case 5:b[5]++; break;\n  case 6:b[6]++; break;\n  case 7:b[7]++; break;\n  case 8:b[8]++; break;\n  case 9:b[9]++; break;\n  default:b[10]++; break;\n}\n  }\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3500812c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51ba-716d-11ee-8d6e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 请编写一个函数fun，它的功能是：将ss所指字符串中所有下标为奇数位置的字母转换为大写（若该位置上不是字母，则不转换）。\n例如，若输入“abc4Efg”，则应输出“aBc4EFg”。\n注意：部分源程序在文件PROG1.C中。\n请勿改动主函数main和其他函数中的任何内容，仅在函数fun的花括号中填入你编写的若干语句。\n试题程序如下：\n#include <stdio.h>\n#include <stdlib.h>\n#include <conio.h>\n#include <string.h>\nvoid fun(char *ss)\n{\n}\nmain()\n{\n  FILE *wf;\n  char tt[ 81],ss[ 81]=\"abcEfg\";n  system(\"CLS\");\n  printf(\"\nPlease enter a string within 80 charasters:\n\");\n  gets(tt);\n  printf(\"\n\nAfter changeing, the string\n %s\",tt);\n  fun(tt);\n  printf(\"\nbecomes\n %s\n\",tt);\n   /******************/\n  wf=fopen(\"out.dat\",\"w\");\n  fun(ss);\n  fprintf(wf,\"%s\",ss);\n  fclose(wf);\n   /*****************/\n}"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "void fun(char *ss)\n{\n  int i;\n  if(ss==NULL)return;\n  for(i=0;ss[i]!='\\0';i++)\n  {\nif(i%2==1&&ss[i]>='a'&&ss[i]<='z')\n  ss[i]=ss[i]-32;\n  }\n}"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008154-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51bb-716d-11ee-bd10-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 分析下面的程序：\n#include<stdio.h>int main(){ char c1,c2; c1=97; c2=98; printf(\"c1=%c,c2=%c\n\",c1,c2); printf(\"c1=%d,c2=%d\n\",c1,c2); return 0;}\n（1）运行时会输出什么信息？为什么？\n（2）如果将程序第4，5行改为c1=197;c2=198;，运行时会输出什么信息？为什么？\n（3）如果将程序第3行改为int c1,c2;，运行时会输出什么信息？为什么？\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（1）运行时输出：\nc1=a,c2=b\nc1=97,c2=98\n第1行是将c1，c2按%c的格式输出，97是字符'a'的ASCII代码，98是字符'b'的ASCII代码。第2行是将c1，c2按%d的格式输出，输出两个十进制整数。\n（2）Visual C＋＋ 6.0字符型数据是signed char类型，占一个字节，其有效范围为0～127。若数据超过此范围，不同的系统处理方法不同，因而用“%c”格式输出时，结果是不可预料的。用“%d”格式输出时，输出c1＝－59，c2＝－58，按补码形式输出。\n（3）当c1=97，c2=98时，输出：\nc1=a,c2=b\nc1=97,c2=98\n当c1=197，c2=198时，则用%c输出时，是不可预料的字符。用%d输出时，输出整数197和198，因为他们在int类型的有效范围内。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008186-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51bc-716d-11ee-b5be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 用下面的scanf函数输入数据，使a=3，b=7，x=8.5，y=71.82，\nc1='A'，c2='a'。问在键盘上如何输入？\n#include<stdio.h>#include<math.h>int main(){ int a,b; float x,y; char c1,c2; scanf(\"a=%d b=%d\",&a,&b); scanf(\"%f%e\",&x,&y); scanf(\"%c%c\",&c1,&c2); return 0;    }\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "按如下方式在键盘上输入（见下面第1、2两行）。\na=3 b=78.5 71.82Aa\n其中第三行为输出结果，需要注意的是第二行的输入，在输入字符时，不能输入空格、逗号等其他字符，应在上次输入完后直接输入'A'和'a'。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350081ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51bd-716d-11ee-9028-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 请编程序将“China”译成密码，密码规律是：用原来的字母后面\n第4个字母代替原来的字母。例如，字母“A”后面第4个字母是“E”，用“E”代替“A”。因此，“China”应译为“Glmre”。请编一程序，用赋初值的方法使c1，c2，c3，c4，c5这5个变量的值分别为'C'，'h'，'i'，'n'，'a'，经过运算，使c1，c2，c3，c4，c5分别变为'G'，'l'，'m'，'r'，'e'。分别用putchar函数和printf函数输出这5个字符。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>int main(){ char c1='C',c2='h',c3='i',c4='n',c5='a'; c1=c1+4; c2=c2+4; c3=c3+4; c4=c4+4; c5=c5+4; printf(\"%c%c%c%c%c\n\",c1,c2,c3,c4,c5); putchar(c1); putchar(c2); p\nutchar(c3); putchar(c4); putchar(c5); putchar('\n'); return 0;}\n运行结果：\nGlmre\nGlmre"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350081d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51be-716d-11ee-8695-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设圆半径r＝1.5，圆柱高h＝3，求圆周长、圆面积、圆球表面积、圆球体积、圆柱体积。用scanf输入数据，输出计算结果，输出时要求有文字说明，取小数点后2位数字。请编程序。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>#define PI 3.1415926int main(){ float h,r,l,s,sq,vq,vz; printf(\"请输入圆半径r，圆柱高h（以空格分开）：\"); scanf(\"%f%f\",&r,&h); l=2*PI*r; s=r*r*PI; sq=4*PI*r*r; vq=4.0/3.0*PI*r*r*r; vz=PI*r*r*h; printf(\"圆周长为： l=%.2f\n\",l); printf(\"圆面积为： s=%.2f\n\",s); printf(\"圆球表面积为： sq=%.2f\n\",sq); printf(\"圆球体积为： vq=%.2f\n\",vq); printf(\"圆住体积为： vz=%.2f\n\",vz); return 0;}\n运行结果：\n请输入圆半径r，圆柱高h（以空格分开）：1.5 3圆周长为： l= 9.42圆面积为： s=7.07圆球表面积为： sq= 28.27圆球体积为： vq= 14.14圆柱体积为： vz= 21.21"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008208-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51bf-716d-11ee-95b2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 编程序，用getchar函数读入两个字符给c1和c2，然后分别用putchar函数和printf函数输出这两个字符。思考以下问题：\n（1）变量c1和c2应定义为字符型还是整型还是二者皆可？\n（2）要求输出c1和c2值的ASCII码，应如何处理？用putchar函数还是printf函数？\n（3）整型变量与字符变量是否在任何情况下都可以互相代替？如：char c1,c2;与int c1,c2;是否无条件地等价？\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>int main(){ char c1,c2; printf(\"请输入两个字符c1，c2：\"); c1=getchar(); c2=getchar(); printf(\"用putchar语句输出结果为：\"); putchar(c1); putchar(c2); putchar('\n'); printf(\"用printf语句输出结果为：\"); printf(\"%c%c\n\",c1,c2); return 0;}\n运行结果：\n请输入两个字符c1，c2：ab\n用putchar语句输出结果为：ab\n用printf语句输出结果为：ab\n下面回答思考问题：\n（1）c1和c2可以定义为字符型或整型。\n（2）可以用printf函数输出，printf(\"%d%d\n\",c1,c2);\n（3）字符变量在计算机内占1个字节，而整型变量占2个或4个字节。因此整型变量在可输出字符的范围内是可以与字符数据互相转换的。如果整数在此范围外，则不能代替。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008230-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c0-716d-11ee-94e7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 什么是算术运算？什么是关系运算？什么是逻辑运算？\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "+、-、*、/等数学运算是算术运算；==、!=、<、>、=<、>=运算是关系运算；||、&&、!是逻辑运算。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008262-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c1-716d-11ee-9438-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " C语言中如何表示“真”和“假”？系统如何判断一个量的“真”和“假”？\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "逻辑表达式，1表示真，0表示假。若是判断一个逻辑量的值，\n系统会以0作为“假”，以非0作为“真”。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3500828a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c2-716d-11ee-a319-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写出下面各逻辑表达式的值，设a＝3，b＝4，c＝5。\n（1）a+b>c&&b==c\n（2）a||b+c&&b-c\n（3）!(a>b)&&!c||1\n（4）!(x=a)&&(y=b)&&0\n（5）!(a+b)+c-1&&b+c/2\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据运算符优先级可知，!（非）＞算术运算符＞关系运算符＞逻辑运算符＞赋值运算符，其中逻辑运算符中&&＞||，因此可得\n（1）0\n（2）1\n（3）1\n（4）0\n（5）1"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350082bc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c3-716d-11ee-bf44-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 有3个整数a，b，c，由键盘输入，输出其中最大的数。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>int main(){ int a,b,c,temp,max; printf(\"请输入三个整数：\"); scanf(\"%d%d%d\",&a,&b,&c); if(a>b) { if(a>c) max=a; else max=c;} else { if(b>c) max=b; else max=c;} printf(\"三个整数的最大数是%d\n\",max); return 0;}\n运行结果：\n请输入三个整数：1 10 3\n三个整数的最大数是10"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350082e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c4-716d-11ee-854a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 给出一百分制成绩，要求输出成绩等级'A'、'B'、'C'、'D'、'E'。90分以上为'A'，80～89分为'B'，70～79分为'C'，60～69分为'D'，60分以下为'E'。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>int main(){ float score; char grade; printf(\"请输入学生成绩：\"); scanf(\"%f\",&score); while(score>100||score<0) { printf(\"\n输入有误，请重输：\"); scanf(\"%f\",&score);        } if(score >= 90.0) grade='A'; else if(score >= 80.0) grade='B'; else if(score >= 70.0) grade='C'; else if(score >= 60.0) grade='D'; else grade='E'; printf(\"相应的等级是%c\n\",grade); return 0;    }\n运行结果：\n①\n请输入学生成绩：79.5\n相应的等级是C\n②\n请输入学生成绩：59.5\n相应的等级是E"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3500830c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c5-716d-11ee-a540-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 请补充教材中例5.7程序，分别统计当“fabs(t)>=1e-6”和“fabs(t)>=1e-8”时，执行循环体的次数。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "（1）采用fabs(t)>=1e-6作为循环终止条件的程序补充修改如下：\n#include<stdio.h>\n#include<math.h> // fabs包含于头文件math.h中\nint main()\n{\nint sign=1,count=0; //sign表示数值的符号，count用于计算循环次数\ndouble pi=0.0,n=1.0,term=1.0;\nwhile(fabs(term)>=1e-6)\n{\npi=pi+term;\nn=n+2;\nsign=-sign;\nterm=sign/n;\ncount++;\n}\npi=pi*4; //多项式的和pi乘以4，才是π的近似值\nprintf(\"pi=%.8f\n\",pi); //输出π的近似值\nprintf(\"count=%d\n\",count); //输出count的值\nreturn 0;\n}\n运行结果：\npi=3.14159065\ncount=500000\n执行50万次循环\n（2）若采用fabs(t)>=1e-8作为循环终止条件的程序，则只须把上面\n程序的while条件语句更改如下即可：\nwhile(fabs(term)>=1e-8)\n运行结果：\npi=3.4159263\ncount=50000000\n执行5000万次循环"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3500833e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c6-716d-11ee-951a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 输入两个正整数m和n，求其最大公约数和最小公倍数。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nint p,r,n,m,temp;\nprintf(\"请输入两个正整数n，m：\");\n scanf(\"%d%d\",&n,&m);\nif(n<m) //若n比m小，则将两者值交换\n{\ntemp=n;\nn=m;\nm=temp;\n}\np=n*m;\nwhile(m!=0)\n{\nr=n%m;\nn=m;\nm=r;\n}\nprintf(\"它们的最大公约数为：%d\n\",n);\nprintf(\"它们的最小公倍数为：%d\n\",p/n);\nreturn 0;\n}\n运行结果：\n请输入两个正整数n,m：6 8\n它们的最大公约数为：2\n它们的最小公倍数为：24"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008366-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c7-716d-11ee-9037-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 输入一行字符，分别统计出其中英文字母、空格、数字和其他字符的个数。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nchar c;\nint letters=0,space=0,digit=0,other=0;\nprintf(\"请输入一行字符：\n\");\nwhile((c=getchar())!='\n')\n{\nif(c>='a'&&c<='z'||c>='A'&&c<='z')\nletters++;\nelse if(c==' ')\nspace++;\nelse if(c>='0'&&c<='9')\ndigit++;\nelse\nother++;\n}\nprintf(\"字母数：%d\n空格数：%d\n数字数：%d\n其他字符数：%d\n\",letters,space,digit,other);\nreturn 0;\n}\n运行结果：\n请输入一行字符：\nWelcome to Shengcaidianzishu!\n字母数：26\n空格数：2\n数字数：0\n其他字符数：1"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008398-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c8-716d-11ee-9d0e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 求Sn＝a＋aa＋aaa＋…＋aa…a（n个a）之值，其中a是一个数字，n表示a的位数，例如：2＋22＋222＋2222＋22222（此时n＝5），n由键盘输入。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nint a,n,i,ans=0,temp=0;\nprintf(\"a,n=\");\nscanf(\"%d,%d\",&a,&n);\nfor(i=0; i<n; i++)\n{\ntemp=temp+a; //赋值后的tn为i个a组成数的值\nans=ans+temp; //赋值后的sn为多项式前i项之和\na=a*10;\n}\nprintf(\"a+aa+aaa+…=%d\n\",ans);\nreturn 0;\n}\n运行结果：\na,n=2,5\na+aa+aaa+…=24690"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350083c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51c9-716d-11ee-99e2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 猴子吃桃问题。猴子第1天摘下若干个桃子，当即吃了一半，还不过瘾，又多吃了一个。第2天早上又将剩下的桃子吃掉一半，又多吃了一个。以后每天早上都吃了前一天剩下的一半零一个。到第10天早上想再吃时，就只剩一个桃子了。求第1天共摘多少个桃子。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nint day,x1,x2;\nx2=1;\nfor(day=9; day>0; day--)\n{\nx1=(x2+1)*2; // 第1天的桃子数是第2天桃子数加1后的2倍\nx2=x1;\n}\nprintf(\"第1天共摘%d个桃子\n\",x1);\nreturn 0;\n}\n运行结果：\n第1天共摘1534个桃子"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350083f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51ca-716d-11ee-a4a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 输出以下图案：\n*\n***\n*****\n*******\n*****\n***\n*\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "输出上述图案的程序如下：\n#include<stdio.h>\nint main()\n{\nint i,j,k;\n//先输出上半部图案\nfor(i=0;i<=3;i++)\n{\nfor(j=0;j<=2-i;j++)\nprintf(\" \");\nfor(k=0;k<=2*i;k++)\nprintf(\"*\");\nprintf(\"\n\");\n}\n//再输出下半部分图案\nfor(i=0;i<=2;i++)\n{\nfor(j=0;j<=i;j++)\nprintf(\" \");\nfor(k=0;k<=4-2*i;k++)\nprintf(\"*\");\nprintf(\"\n\");\n}\nreturn 0;\n}\n运行结果：\n*\n***\n*****\n*******\n*****\n***\n*"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3500841a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51cb-716d-11ee-924c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 两个乒乓球队进行比赛，各出3人。甲队为A，B，C 3人，乙队为X，Y，Z 3人。已抽签决定比赛名单。有人向队员打听比赛的名单，A说他不和X比，C说他不和X，Z比，请编程序找出3对赛手的名单。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "根据题意：C只能和Y比，又A不和X比，则有A和Z比，最后B和X比。\n程序如下：\n#include<stdio.h>\nint main()\n{\nchar i,j,k; //i是A的对手；j是B的对手；k是C的对手\nfor(i='X';i<='Z';i++)\nfor(j='X';j<='Z';j++)\nfor(k='X';k<='Z';k++)\nif(i!=j&&i!=k&&j!=k)\nif(i!='X'&&k!='X'&&k!='Z')\nprintf(\"A--%c\nB--%c\nC--%c\n\",i,j,k);\nreturn 0;\n}\n运行结果：\nA--Z\nB--X\nC--Y"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3500844c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51cc-716d-11ee-af96-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 有一行电文，已按下面规律译成密码：\nA→Z a→z\nB→Y b→y\nC→X c→x\n┇ ┇\n即第1个字母变成第26个字母，第i个字母变成第（26－i＋1）个字母，非字母字符不变。要求编程序将密码译回原文，并输出密码和原文。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "可以定义一个数组ch，在其中存放电文。变换公式：当ch[i]是大写字母时，ch[i]=155-ch[i]；当ch[i]是小写字母时，ch[i]=219-ch[i]；否则，ch[i]=ch[i]。\n程序如下：\n#include<stdio.h>\nint main()\n{\nint i,n;\nchar ch[80];\nprintf(\"input cipher code:\n\");\ngets(ch);\nprintf(\"\ncipher code:%s\n\",ch);\ni=0;\nwhile(ch[i]!='\\0')\n{\nif((ch[i]>='A')&&(ch[i]<='Z'))\nch[i]=155-ch[i];\nelse if((ch[i]>='a')&&(ch[i]<='z'))\nch[i]=219-ch[i];\nelse\nch[i]=ch[i];\ni++;\n}\nn=i;\nprintf(\"original text:\");\nfor(i=0;i<n;i++)\nputchar(ch[i        ]);\nprintf(\"\n\");\nreturn 0;\n}\n运行结果：\ninput cipher code:\nR droo erhrg Xsrmz mvcg dvvp.\ncipher code:R droo erhrg Xsrmz mvcg dvvp.\noriginal text:I will visit China next week."
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008474-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51cd-716d-11ee-9f5b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 编一程序，将两个字符串连接起来，不要用strcat函数。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nchar s1[80],s2[40];\nint i=0,j=0;\nprintf(\"input string1:\");\nscanf(\"%s\",s1);\nprintf(\"input string2:\");\nscanf(\"%s\",s2);\nwhile(s1[i        ]!='\\0') //查找字符串s1的末尾\ni++;\nwhile(s2[j]!='\\0') //将字符串s2加到s1的末尾上\ns1[i++]=s2[j++];\ns1[i]='\\0';\nprintf(\"\nThe new string is:%s\n\",s1);\nreturn 0;\n}\n运行结果：\ninput string1:shengcai\ninput string2:dianzishu\nThe new string is:shengcaidianzishu"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3500849c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51ce-716d-11ee-b415-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 编一个程序，将两个字符串s1和s2比较，若s1＞s2，输出一个正数；若s1＝s2，输出0；若s1＜s2，输出一个负数。不要用strcpy函数。两个字符串用gets函数读入。输出的正数或负数的绝对值应是相比较的两个字符串相应字符的ASCII码的差值。例如，\"A\"与\"C\"相比，由于\"A\"＜\"C\"，应输出负数，同时由于'A'与'C'的ASCII码差值为2，因此应输出“－2”。同理：\"And\"和\"Aid\"比较，根据第2个字符比较结果，\"n\"比\"i\"大5，因此应输出“5”。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nint i,resu;\nchar s1[100],s2[100];\nprintf(\"input string1:\");\ngets(s1);\nprintf(\"\ninput string2:\");\ngets(s2);\ni=0;\nwhile((s1[i]==s2[i])&&(s1[i]!='\\0')&&(s2[i]!='\\0')) //将两个字符串进行比较\ni++;\nif(s1[i]=='\\0'&&s2[i]=='\\0') //当两个字符串都到了末尾\nresu=0;\nelse\nresu=s1[i]-s2[i];\nprintf(\"\nresult:%d.\n\",resu);\nreturn 0;\n}\n运行结果：\ninput string1:Aid\ninput string2:And\nresult:-5."
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350084ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51cf-716d-11ee-b083-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 编写一个程序，将字符数组s2中的全部字符复制到字符数组s1中。不用strcpy函数。复制时，'\\0'也要复制过去。'\\0'后面的字符不复制。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\n#include<string.h>\nint main()\n{\nchar s1[80],s2[80];\nint i;\nprintf(\"input s2:\");\nscanf(\"%s\",s2);\nfor(i=0;i<=strlen(s2);i++) //复制\ns1[i]=s2[i];\nprintf(\"s1:%s\n\",s1);\nreturn 0;\n}\n运行结果：\ninput s2:student\ns1:student"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008500-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d0-716d-11ee-80ce-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写一个函数，使输入的一个字符串按反序存放，在主函数中输入和输出字符串。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\n#include<string.h>\nint main()\n{\nvoid inverse(char str[]);\nchar str[100];\nprintf(\"input string:\");\nscanf(\"%s\",str);\ninverse(str);\nprintf(\"inverse string:%s\n\",str);\nreturn 0;\n}\nvoid inverse(char str[]) //将字符串反序\n{\nchar t;\nint i,j;\nfor(i=0,j=strlen(str);i<j;i++,j--) //交换首尾对应位置的数据\n{\nt=str[i];\nstr[i]=str[j-1];\nstr[j-1]=t;\n}\n}\n运行结果：\ninput string:shengcai\ninverse string:iacgnehs"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d1-716d-11ee-bd9c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写一个函数，将两个字符串连接。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nvoid concatenate(char string1[],char string2[],char string[]);\nchar s1[100],s2[100],s[100];\nprintf(\"input string1:\");\nscanf(\"%s\",s1);\nprintf(\"input string2:\");\nscanf(\"%s\",s2);\nconcatenate(s1,s2,s);\nprintf(\"\nThe new string is %s\n\",s);\nreturn 0;\n}\nvoid concatenate(char string1[],char string2[],char string[])\n{\nint i,j;\nfor(i=0;string1[i]!='\\0';i++) //将字符串string1复制给string\nstring[i]=string1[i];\nfor(j=0;string2[j]!='\\0';j++) //将字符串string2复制给string\nstring[i+j]=string2[j];\nstring[i+j]='\\0';\n}\n运行结果：\ninput string1:shengcai\ninput string2:dianzishu\nThe new string is shengcaidianzishu"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008550-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d2-716d-11ee-bac0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写一个函数，将一个字符串中的元音字母复制到另一字符串，然后输出。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nvoid cpy(char[],char[]);\nchar str[80],c[80];\nprintf(\"input string:\"); //输入待处理的字符串\ngets(str);\ncpy(str,c);\nprintf(\"The vowel letters are:%s\n\",c);\nreturn 0;\n}\nvoid cpy(char s[],char c[])\n{\nint i,j;\nfor(i=0,j=0;s[i]!='\\0';i++) //将字符串中的元音字母存入数组C中\nif(s[i]=='a'||s[i]=='A'||s[i]=='e'||s[i]=='E'||s[i]=='i'||s[i]=='I'||\ns[i]=='o'||s[i]=='O'||s[i]=='u'||s[i]=='U')\n{\nc[j]=s[i];\nj++;\n}\nc[j]='\\0';\n}\n运行结果：\ninput string:shengcaidianzishu\nThe vowel letters are:eaiiaiu"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008582-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d3-716d-11ee-a85a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 编写一个函数，由实参传来一个字符串，统计此字符串中字母、数字、空格和其他字符的个数，在主函数中输入字符串以及输出上述的结果。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint letter,digit,space,others;\nint main()\n{\nvoid count(char []);\nchar text[80];\nprintf(\"input string:\n\");\ngets(text);\nletter=0;\ndigit=0;\nspace=0;\nothers=0;\ncount(text);\nprintf(\"\nletter:%d\ndigit:%d\nspace:%d\nothers:%d\n\",letter,digit,space,oth\ners);\nreturn 0;\n}\nvoid count(char str[]) //统计字符串中的字母、数字、空格和其他字符的个数\n{\nint i;\nfor(i=0;str[i]!='\\0';i++)\nif((str[i]>='a'&&str[i]<='z')||(str[i]>='A'&&str[i]<='Z'))\nletter++;\nelse if(str[i]>='0'&&str[i]<='9')\ndigit++;\nelse if(str[i]==32)\nspace++;\nelse\nothers++;\n}\n运行结果：\ninput string:\nIfrom a 11011 bit home! It’s <>= a dream…\nletter:22\ndigit:5\nspace:8\nothers:8"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350085aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d4-716d-11ee-90a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写一个函数，输入一行字符，将此字符串中最长的单词输出。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "认为单词是全由字母组成的字符串，程序中设longest函数的作用是找最长单词的位置。此函数的返回值是该行字符中最长单词的起始位置。flag表示单词是否已开始，flag＝0表示未开始，flag＝1表示单词开始；len代表当前单词已累计的字母个数；length代表先前单词中最长单词的长度；point代表当前单词的起始位置（用下标表示）；place代表最长单词的起始位置。函数alphabetic的作用是判断当前字符是否字母，若是则返回1，否则返回0。\n程序如下：\n#include<stdio.h>\n#include<string.h>\nint main()\n{\nint alphabetic(char);\nint longest(char []);\nint i;\nchar line[100];\nprintf(\"input one line:\n\");\ngets(line);\nprintf(\"The longest word is:\");\nfor(i=longest(line);alphabetic(line[i    ]);i++)\nprintf(\"%c\",line[i]);\nprintf(\"\n\");\nreturn 0;\n}\nint alphabetic(char c) //判断是否为字母\n{\nif((c>='a'&&c<='z')||(c>='A'&&c<='Z'))\nreturn(1);\nelse\nreturn(0);\n}\nint longest(char string[]) //查找最长的单词\n{\nint len=0,i,length=0,flag=1,place=0,point;\nfor(i=0;i<=strlen(string);i++)\nif(alphabetic(string[i])) //当前字符是字母\nif(flag) //若flag=1，表明该字符为一个单词的开始\n{\npoint=i; //记录单词的起始点\nflag=0;\nlen++;\n}\nelse //若flag不为1，表明该字符为一个单词的非首部\nlen++;\nelse //当前字符不是字母时，表示一个单词结束，计算该单词的长度\n{\nflag=1;\nif(len>=length) //若该单词比上一个最长的单词还要长，记录下来\n{\nlength=len;\nplace=point;\n}\nlen=0;\n}\nreturn(place);\n}\n运行结果：\ninput one line:\nWelcome to shengcaidianzishu.\nThe longest word is:shengcaidianzishu"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350085d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d5-716d-11ee-8c99-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写一个函数，用“起泡法”对输入的10个字符按由小到大顺序排列。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\n#include<string.h>\n#define N 10\nchar str[N];\nint main()\n{\nvoid sort(char []);\nint i,flag;\nprintf(\"请输入10个字符：\");\nfor(i=0; i<=10;i++)\nscanf(\"%c\",&str[i]);\nsort(str);\nprintf(\"处理后的有序序列：\n\");\nfor(i=0;i<N;i++)\nprintf(\"%c\",str[i]);\nprintf(\"\n\");\nreturn 0;\n}\nvoid sort(char str[]) //起泡排序\n{\nint i,j,flag=1;\nchar t;\nfor(j=1;j<N;j++)\n{\nif(!flag) break; //设置标志变量，当flag=0时，标明上一趟排序没有数值进行交换，结束\n循环\nflag=0;\nfor(i=0;(i<N-j)&&(str[i]!='\\0');i++)\nif(str[i]>str[i+1])\n{\nt=str[i];\nstr[i]=str[i+1];\nstr[i+1]=t;\nflag=1;\n}\n}\n}\n运行结果：\n请输入10个字符：reputation\n处理后的有序序列：\naeinoprttu"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "350085fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d6-716d-11ee-b752-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 写一个函数，输入一个十六进制数，输出相应的十进制数。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\n#define MAX 1000\nint main()\n{\nint htoi(char s[]);\nint c,i,flag,flag1;\nchar t[MAX];\ni=0;\nflag=0; //当为0时，表示输入的数为空\nflag1=1; //当为1时，表示继续输入十六进制数\nprintf(\"input a HEX number:\");\nwhile((c=getchar())!='\\0'&&i<MAX&&flag1)\n{\nif(c>='0'&&c<='9'||c>='a'&&c<='f'||c>='A'&&c<='F') //判断输入的十六进制数是否\n合法\n{\nflag=1;\nt[i++]=c;\n}\nelse if(flag) //当flag为1，表明输入的数值不为空\n{\nt[i]='\\0';\nprintf(\"decimal number:%d\n\",htoi(t)); //输出转换后的数\nprintf(\"continue or not?\");\nc=getchar();\nif(c=='N'||c=='n') //是否继续输入\nflag1=0;\nelse\n{\nflag=0;\ni=0;\nprintf(\"\ninput a HEX number:\");\n}\n}\n}\nreturn 0;\n}\nint htoi(char s[])\n{\nint i,n;\nn=0;\nfor(i=0;s[i]!='\\0';i++)\n{\nif(s[i]>='0'&&s[i]<='9')\nn=n*16+s[i]-'0';\nif(s[i]>='a'&&s[i]<='f')\nn=n*16+s[i]-'a'+10;\nif(s[i]>='A'&&s[i]<='F')\nn=n*16+s[i]-'A'+10;\n}\nreturn(n);\n}\n运行结果：\ninput a HEX number:a11\ndecimal number:2577\ncontinue or not?y\ninput a HEX number:10\ndecimal number:16\ncontinue or not?y\ninput a HEX number:f\ndecimal number:15\ncontinue or not?n"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008622-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d7-716d-11ee-9ee2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 输入3个整数，按由小到大的顺序输出。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nvoid swap(int *p1,int *p2);\nint n1,n2,n3;\nint *p1,*p2,*p3;\nprintf(\"input three integer n1,n2,n3:\");\nscanf(\"%d,%d,%d\",&n1,&n2,&n3);\np1=&n1;\np2=&n2;\np3=&n3;\nif(n1>n2)\nswap(p1,p2);\nif(n1>n3)\nswap(p1,p3);\nif(n2>n3)\nswap(p2,p3);\nprintf(\"Now,the order is : %d,%d,%d\n\",n1,n2,n3);\nreturn 0;\n}\nvoid swap(int *p1,int *p2) //交换\n{\nint p;\np=*p1;\n*p1=*p2;\n*p2=p;\n}\n运行结果：\ninput three integer n1,n2,n3:3,2,1\nNow,the order is : 1,2,3"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35008654-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d8-716d-11ee-bb0b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 输入3个字符串，按由小到大的顺序输出。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\n#include<string.h>\nint main()\n{\nvoid swap(char *,char *);\nchar str1[20],str2[20],str3[20];\nprintf(\"input three line:\n\");\ngets(str1);\ngets(str2);\ngets(str3);\nif(strcmp(str1,str2)>0)\nswap(str1,str2);\nif(strcmp(str1,str3)>0)\nswap(str1,str3);\nif(strcmp(str2,str3)>0)\nswap(str2,str3);\nprintf(\"Now,the order is:\n\");\nprintf(\"%s\n%s\n%s\n\",str1,str2,str3);\nreturn 0;\n}\nvoid swap(char *p1,char *p2)\n{\nchar p[20];\nstrcpy(p,p1);\nstrcpy(p1,p2);\nstrcpy(p2,p);\n}\n运行结果：\ninput three line:\nI study very hard.\nC language is very interesting.\nHe is a professor.\nNow,the order is:\nC language is very interesting.\nHe is a professor.\nI study very hard."
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "3500867c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "5b3e51d9-716d-11ee-9fb9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 输入10个整数，将其中最小的数与第1个数对换，把最大的数与最后一个数对换。写3个函数：①输入10个数；②进行处理；③输出10个数。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "程序如下：\n#include<stdio.h>\nint main()\n{\nvoid input(int *);\nvoid max_min_value(int *);\nvoid output(int *);\nint number[10];\ninput(number); //调用输入10个数的函数\nmax_min_value(number); //调用交换函数\noutput(number); //调用输出函数\nreturn 0;\n}\nvoid input(int *number) //输入10个数的函数\n{\nint i;\nprintf(\"input 10 numbers:\");\nfor(i=0;i<10;i++)\nscanf(\"%d\",&number[i]);\n        }\nvoid max_min_value(int *number) //交换函数\n{\nint *max,*min,*p,temp;\nmax=min=number; //开始时使max和min都指向第1个数\nfor(p=number+1;p<number+10;p++)\nif(*p>*max) //若p指向的数大于max指向的数，就使max指向p指向的大数\nmax=p;\nelse if(*p<*min) //若p指向的数小于min指向的数，就使min指向p指向的小数\nmin=p;\ntemp=number[0]; //下面三行将最小数与第1个数number[0]交换\nnumber[0]=*min;\n*min=temp;\n//如果max和number相等，表示第1个数是最大数，则使max指向当前的最大数\nif(max==number)\nmax=min;\ntemp=number[9]; //下面三行将最大数与最后一个数交换\nnumber[9]=*max;\n*max=temp;\n}\nvoid output(int *number) //输出函数\n{\nint *p;\nprintf(\"Now,they are:\");\nfor(p=number;p<number+10;p++)\nprintf(\"%d \",*p);\nprintf(\"\n\");\n}\n运行结果：\ninput 10 numbers:32 24 56 78 1 98 36 44 29 6\nNow,they are:1 24 56 78 32 6 36 44 29 98"
+	}
+]

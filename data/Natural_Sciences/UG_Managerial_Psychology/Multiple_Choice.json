@@ -1,0 +1,7792 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a57e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f71cc1-73fa-11ee-b539-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在管理心理学研究的方法中，在情景中对被观察者的行为作系统的观察记录，以分析判断其心理活动称之为______\n“案例法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：观察法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a57e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ecb-73fa-11ee-b05b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在管理心理学研究的方法中，在情景中对被观察者的行为作系统的观察记录，以分析判断其心理活动称之为______\n“观察法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：观察法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a57e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ecc-73fa-11ee-af46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在管理心理学研究的方法中，在情景中对被观察者的行为作系统的观察记录，以分析判断其心理活动称之为______\n“测验法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：观察法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a57e0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ecd-73fa-11ee-8c3b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在管理心理学研究的方法中，在情景中对被观察者的行为作系统的观察记录，以分析判断其心理活动称之为______\n“调查法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：观察法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a58b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ece-73fa-11ee-98cc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "性格是一个人比较稳定的对现实的态度与习惯化了的______\n“行为方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：行为方式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a58b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ecf-73fa-11ee-9a77-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "性格是一个人比较稳定的对现实的态度与习惯化了的______\n“生活方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：行为方式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a58b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed0-73fa-11ee-95bd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "性格是一个人比较稳定的对现实的态度与习惯化了的______\n“学习方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：行为方式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a58b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed1-73fa-11ee-905a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "性格是一个人比较稳定的对现实的态度与习惯化了的______\n“交往方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：行为方式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a58e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed2-73fa-11ee-b6fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“早熟”与“晚熟”是______\n“能力的类型差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：能力发展的早晚差异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a58e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed3-73fa-11ee-aefc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“早熟”与“晚熟”是______\n“能力的水平差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：能力发展的早晚差异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a58e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed4-73fa-11ee-a15a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“早熟”与“晚熟”是______\n“能力发展的早晚差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：能力发展的早晚差异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a58e4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed5-73fa-11ee-87ab-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“早熟”与“晚熟”是______\n“能力的质的差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：能力发展的早晚差异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5916-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed6-73fa-11ee-9374-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照赫茨伯格的双因素理论，人的行为需要可以分为保健因素与______两大类\n“生理性因素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：激励因素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5916-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed7-73fa-11ee-a27e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照赫茨伯格的双因素理论，人的行为需要可以分为保健因素与______两大类\n“发展性因素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：激励因素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5916-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed8-73fa-11ee-a850-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照赫茨伯格的双因素理论，人的行为需要可以分为保健因素与______两大类\n“社会性因素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：激励因素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5916-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f77ed9-73fa-11ee-a3ae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按照赫茨伯格的双因素理论，人的行为需要可以分为保健因素与______两大类\n“激励因素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：激励因素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a593e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5dc-73fa-11ee-af31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“鹤立鸡群”“万绿丛中一点红”等现象是因为知觉的______特性而容易产生知觉\n“选择性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：选择性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a593e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5dd-73fa-11ee-abe6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“鹤立鸡群”“万绿丛中一点红”等现象是因为知觉的______特性而容易产生知觉\n“整体性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：选择性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a593e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5de-73fa-11ee-a000-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“鹤立鸡群”“万绿丛中一点红”等现象是因为知觉的______特性而容易产生知觉\n“理解性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：选择性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a593e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5df-73fa-11ee-b17e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“鹤立鸡群”“万绿丛中一点红”等现象是因为知觉的______特性而容易产生知觉\n“恒常性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：选择性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5970-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e0-73fa-11ee-9d06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会知觉中，对他人认知的以偏概全或以点概面的倾向，属于______\n“首因效应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：晕轮效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5970-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e1-73fa-11ee-9974-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会知觉中，对他人认知的以偏概全或以点概面的倾向，属于______\n“晕轮效应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：晕轮效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5970-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e2-73fa-11ee-a6f1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会知觉中，对他人认知的以偏概全或以点概面的倾向，属于______\n“近因效应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：晕轮效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5970-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e3-73fa-11ee-8b60-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "社会知觉中，对他人认知的以偏概全或以点概面的倾向，属于______\n“刻板效应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：晕轮效应。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e4-73fa-11ee-afa1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“假设群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e5-73fa-11ee-a6bc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“实际群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e6-73fa-11ee-972e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“实属群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e7-73fa-11ee-a980-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“参照群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e8-73fa-11ee-8d32-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由于群体压力，不仅在行为上而且在信仰上也改变原来的观点，这种现象称为______\n“从众”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：从众。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5e9-73fa-11ee-aaaa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由于群体压力，不仅在行为上而且在信仰上也改变原来的观点，这种现象称为______\n“顺从”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：从众。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5ea-73fa-11ee-8935-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由于群体压力，不仅在行为上而且在信仰上也改变原来的观点，这种现象称为______\n“认同”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：从众。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5eb-73fa-11ee-ae23-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "由于群体压力，不仅在行为上而且在信仰上也改变原来的观点，这种现象称为______\n“内化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：从众。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5ec-73fa-11ee-919d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导理论中，侧重研究领导成功的经验及其本人的品德、能力、知识、修养和领导艺术等特征的关系的是______\n“权变理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：特质理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5ed-73fa-11ee-9111-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导理论中，侧重研究领导成功的经验及其本人的品德、能力、知识、修养和领导艺术等特征的关系的是______\n“行为理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：特质理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5ee-73fa-11ee-9538-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导理论中，侧重研究领导成功的经验及其本人的品德、能力、知识、修养和领导艺术等特征的关系的是______\n“特质理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：特质理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a59f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7a5ef-73fa-11ee-9e7a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导理论中，侧重研究领导成功的经验及其本人的品德、能力、知识、修养和领导艺术等特征的关系的是______\n“专业理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：特质理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d31d-73fa-11ee-be16-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "只进行与工作相关的信息沟通的是______\n“正式沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：正式沟通。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d31e-73fa-11ee-8020-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "只进行与工作相关的信息沟通的是______\n“非正式沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：正式沟通。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d31f-73fa-11ee-97bb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "只进行与工作相关的信息沟通的是______\n“单向沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：正式沟通。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d320-73fa-11ee-90ca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "只进行与工作相关的信息沟通的是______\n“双向沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：正式沟通。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d321-73fa-11ee-8873-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“生理需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d322-73fa-11ee-84c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“安全需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d323-73fa-11ee-bebc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“社交需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d324-73fa-11ee-b86a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“尊重需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d325-73fa-11ee-be26-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“自我实现需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d326-73fa-11ee-a400-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响知觉选择性的主观因素主要有______\n“观察者的需要与动机”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：观察者的需要与动机；观察者的兴趣和爱好；观察者的个性特征；观察者的过去经验；观察者的知识结构。。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d327-73fa-11ee-8ae6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响知觉选择性的主观因素主要有______\n“观察者的兴趣和爱好”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：观察者的需要与动机；观察者的兴趣和爱好；观察者的个性特征；观察者的过去经验；观察者的知识结构。。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d328-73fa-11ee-b2a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响知觉选择性的主观因素主要有______\n“观察者的个性特征”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：观察者的需要与动机；观察者的兴趣和爱好；观察者的个性特征；观察者的过去经验；观察者的知识结构。。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d329-73fa-11ee-a374-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响知觉选择性的主观因素主要有______\n“观察者的过去经验”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：观察者的需要与动机；观察者的兴趣和爱好；观察者的个性特征；观察者的过去经验；观察者的知识结构。。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5a74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d32a-73fa-11ee-a3e1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响知觉选择性的主观因素主要有______\n“观察者的知识结构。”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：观察者的需要与动机；观察者的兴趣和爱好；观察者的个性特征；观察者的过去经验；观察者的知识结构。。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5aa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d32b-73fa-11ee-98d5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标管理是过程型激励理论的代表杜拉克提出的，他把目标管理分为______\n“目标制定阶段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：目标制定阶段；目标实施阶段；目标成果评价阶段。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5aa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d32c-73fa-11ee-8515-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标管理是过程型激励理论的代表杜拉克提出的，他把目标管理分为______\n“目标实施阶段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：目标制定阶段；目标实施阶段；目标成果评价阶段。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5aa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d32d-73fa-11ee-b110-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标管理是过程型激励理论的代表杜拉克提出的，他把目标管理分为______\n“目标可行性分析阶段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：目标制定阶段；目标实施阶段；目标成果评价阶段。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5aa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d32e-73fa-11ee-83f3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标管理是过程型激励理论的代表杜拉克提出的，他把目标管理分为______\n“目标成果评价阶段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：目标制定阶段；目标实施阶段；目标成果评价阶段。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5ace-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d32f-73fa-11ee-aba6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导的职能是______\n“制定战略目标”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：制定战略目标；合理决策并注意学习；建立组织机构和规章制度；选人、用人，建立和谐的人际关系；联系群众，注意调查研究。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5ace-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d330-73fa-11ee-a5b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导的职能是______\n“合理决策并注意学习”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：制定战略目标；合理决策并注意学习；建立组织机构和规章制度；选人、用人，建立和谐的人际关系；联系群众，注意调查研究。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5ace-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d331-73fa-11ee-b20b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导的职能是______\n“建立组织机构和规章制度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：制定战略目标；合理决策并注意学习；建立组织机构和规章制度；选人、用人，建立和谐的人际关系；联系群众，注意调查研究。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5ace-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d332-73fa-11ee-a5a6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导的职能是______\n“选人、用人，建立和谐的人际关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：制定战略目标；合理决策并注意学习；建立组织机构和规章制度；选人、用人，建立和谐的人际关系；联系群众，注意调查研究。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5ace-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d333-73fa-11ee-bdd2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导的职能是______\n“联系群众，注意调查研究”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：制定战略目标；合理决策并注意学习；建立组织机构和规章制度；选人、用人，建立和谐的人际关系；联系群众，注意调查研究。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5af6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d334-73fa-11ee-9102-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标理论认为对目标的合适程度可以从三个角度加以分析，即目标的具体性、目标的难易度和______\n“目标的可接受性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：目标的可接受性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5af6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d335-73fa-11ee-b42e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标理论认为对目标的合适程度可以从三个角度加以分析，即目标的具体性、目标的难易度和______\n“目标的实践性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：目标的可接受性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5af6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d336-73fa-11ee-ae01-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标理论认为对目标的合适程度可以从三个角度加以分析，即目标的具体性、目标的难易度和______\n“目标的合理性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：目标的可接受性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5af6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d337-73fa-11ee-a625-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标理论认为对目标的合适程度可以从三个角度加以分析，即目标的具体性、目标的难易度和______\n“目标的科学性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：目标的可接受性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d338-73fa-11ee-b869-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谈话法和问卷法属于管理心理学研究方法中的______\n“观察法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：调查法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d339-73fa-11ee-b0dc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谈话法和问卷法属于管理心理学研究方法中的______\n“实验法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：调查法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7d33a-73fa-11ee-a44e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谈话法和问卷法属于管理心理学研究方法中的______\n“调查法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：调查法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe22-73fa-11ee-8241-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谈话法和问卷法属于管理心理学研究方法中的______\n“测验法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：调查法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe23-73fa-11ee-890c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对某一个体、某一团体或组织在较长的时间里连续进行观察、调查、了解，是管理心理学研究方法中的______\n“观察法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：个案法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe24-73fa-11ee-bd76-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对某一个体、某一团体或组织在较长的时间里连续进行观察、调查、了解，是管理心理学研究方法中的______\n“个案法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：个案法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe25-73fa-11ee-8925-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对某一个体、某一团体或组织在较长的时间里连续进行观察、调查、了解，是管理心理学研究方法中的______\n“调查法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：个案法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe26-73fa-11ee-ab1d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对某一个体、某一团体或组织在较长的时间里连续进行观察、调查、了解，是管理心理学研究方法中的______\n“实验法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：个案法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe27-73fa-11ee-ac05-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法约尔的管理理论在古典管理理论中属于______\n“早期管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe28-73fa-11ee-b84e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法约尔的管理理论在古典管理理论中属于______\n“传统管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe29-73fa-11ee-85de-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法约尔的管理理论在古典管理理论中属于______\n“科学管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5b82-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe2a-73fa-11ee-b707-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法约尔的管理理论在古典管理理论中属于______\n“行为科学理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5baa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe2b-73fa-11ee-9430-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在行为科学理论中侧重研究人的需要、动机和激励问题的理论是______\n“人性管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人类需要理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5baa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe2c-73fa-11ee-8f52-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在行为科学理论中侧重研究人的需要、动机和激励问题的理论是______\n“群体行为理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人类需要理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5baa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe2d-73fa-11ee-8520-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在行为科学理论中侧重研究人的需要、动机和激励问题的理论是______\n“人类需要理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：人类需要理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5baa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe2e-73fa-11ee-908f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在行为科学理论中侧重研究人的需要、动机和激励问题的理论是______\n“领导行为理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人类需要理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5bd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe2f-73fa-11ee-955c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "情绪、情操是心理过程中的______\n“认识过程”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：情感过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5bd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe30-73fa-11ee-b16d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "情绪、情操是心理过程中的______\n“意志过程”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：情感过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5bd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe31-73fa-11ee-a430-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "情绪、情操是心理过程中的______\n“情感过程”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：情感过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5bd2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe32-73fa-11ee-af06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "情绪、情操是心理过程中的______\n“反映过程”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：情感过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5bfa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe33-73fa-11ee-828a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调环境对个人行为和性格起决定作用的个性理论是______\n“特质论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会学习论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5bfa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe34-73fa-11ee-9e82-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调环境对个人行为和性格起决定作用的个性理论是______\n“社会学习论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：社会学习论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5bfa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe35-73fa-11ee-b71a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调环境对个人行为和性格起决定作用的个性理论是______\n“心理分析法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会学习论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5bfa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f7fe36-73fa-11ee-9d85-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调环境对个人行为和性格起决定作用的个性理论是______\n“个性类型论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会学习论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82584-73fa-11ee-a760-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为特征表现为直率热情，精力旺盛，情绪易冲动等的气质类型是______\n“多血质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：胆汁质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82585-73fa-11ee-82b9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为特征表现为直率热情，精力旺盛，情绪易冲动等的气质类型是______\n“粘液质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：胆汁质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82586-73fa-11ee-acb9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为特征表现为直率热情，精力旺盛，情绪易冲动等的气质类型是______\n“胆汁质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：胆汁质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82587-73fa-11ee-8e9f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为特征表现为直率热情，精力旺盛，情绪易冲动等的气质类型是______\n“抑郁质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：胆汁质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82588-73fa-11ee-ad40-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "他人行为涉及归因者而导致归因的偏差是______\n“观察者与行为者的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：涉及个人利益的归因偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82589-73fa-11ee-b049-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "他人行为涉及归因者而导致归因的偏差是______\n“涉及个人利益的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：涉及个人利益的归因偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8258a-73fa-11ee-8dbd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "他人行为涉及归因者而导致归因的偏差是______\n“涉及社会地位的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：涉及个人利益的归因偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8258b-73fa-11ee-ac35-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "他人行为涉及归因者而导致归因的偏差是______\n“对自然现象拟人化的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：涉及个人利益的归因偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c54-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8258c-73fa-11ee-94b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "他人行为涉及归因者而导致归因的偏差是______\n“能力的质的差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：涉及个人利益的归因偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8258d-73fa-11ee-b713-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度改变的各种类型中，不改变原有态度的方向，仅改变原有态度的强度被称为______\n“一致性改变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：一致性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8258e-73fa-11ee-9631-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度改变的各种类型中，不改变原有态度的方向，仅改变原有态度的强度被称为______\n“不一致性改变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：一致性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8258f-73fa-11ee-a562-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度改变的各种类型中，不改变原有态度的方向，仅改变原有态度的强度被称为______\n“同化改变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：一致性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5c86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82590-73fa-11ee-97cf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度改变的各种类型中，不改变原有态度的方向，仅改变原有态度的强度被称为______\n“异化改变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：一致性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5cae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82591-73fa-11ee-b013-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响态度改变的团体因素包括信仰、目标、规范和______\n“组织形式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：组织形式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5cae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82592-73fa-11ee-b28e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响态度改变的团体因素包括信仰、目标、规范和______\n“领导方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织形式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5cae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82593-73fa-11ee-a2da-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响态度改变的团体因素包括信仰、目标、规范和______\n“领导作风”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织形式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5cae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82594-73fa-11ee-a720-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响态度改变的团体因素包括信仰、目标、规范和______\n“组织效能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织形式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5cd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82595-73fa-11ee-bc52-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "麦克利兰的成就需要理论认为人的需要可以分为对成就的需要、对社交的需要和______\n“对发展的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对权力的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5cd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82596-73fa-11ee-9265-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "麦克利兰的成就需要理论认为人的需要可以分为对成就的需要、对社交的需要和______\n“对享受的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对权力的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5cd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82597-73fa-11ee-92d8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "麦克利兰的成就需要理论认为人的需要可以分为对成就的需要、对社交的需要和______\n“对精神的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对权力的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5cd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82598-73fa-11ee-ae68-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "麦克利兰的成就需要理论认为人的需要可以分为对成就的需要、对社交的需要和______\n“对权力的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：对权力的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f82599-73fa-11ee-8006-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强化可以分为积极强化、消极强化、惩罚和______\n“奖励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：消退。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8259a-73fa-11ee-a506-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强化可以分为积极强化、消极强化、惩罚和______\n“倒退”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：消退。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8259b-73fa-11ee-a478-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强化可以分为积极强化、消极强化、惩罚和______\n“消退”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：消退。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d08-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8259c-73fa-11ee-bffb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强化可以分为积极强化、消极强化、惩罚和______\n“激励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：消退。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8259d-73fa-11ee-863a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“假设群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c7d-73fa-11ee-8d6c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“实际群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c7e-73fa-11ee-8018-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“实属群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c7f-73fa-11ee-b74e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“参照群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c80-73fa-11ee-baea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个人之间能面对面地接触和联系的群体是______\n“小型群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：小型群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c81-73fa-11ee-8dc6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个人之间能面对面地接触和联系的群体是______\n“大型群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：小型群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c82-73fa-11ee-8975-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个人之间能面对面地接触和联系的群体是______\n“实属群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：小型群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d62-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c83-73fa-11ee-8120-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个人之间能面对面地接触和联系的群体是______\n“参照群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：小型群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c84-73fa-11ee-a67f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下诸因素中，能增强群体凝聚力的因素是______\n“群体与外界比较隔离”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：群体与外界比较隔离。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c85-73fa-11ee-a244-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下诸因素中，能增强群体凝聚力的因素是______\n“群体成员沟通较少”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：群体与外界比较隔离。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c86-73fa-11ee-b8e5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下诸因素中，能增强群体凝聚力的因素是______\n“群体的规模较大”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：群体与外界比较隔离。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5d94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c87-73fa-11ee-81cd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下诸因素中，能增强群体凝聚力的因素是______\n“群体规范是消极的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：群体与外界比较隔离。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5dbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c88-73fa-11ee-9702-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______能最大提高生产效率\n“群体目标与组织目标一致，但群体凝聚力较弱”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：群体目标与组织目标一致，但群体凝聚力较强。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5dbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c89-73fa-11ee-84da-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______能最大提高生产效率\n“群体目标与组织目标一致，但群体凝聚力较强”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：群体目标与组织目标一致，但群体凝聚力较强。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5dbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c8a-73fa-11ee-b858-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______能最大提高生产效率\n“群体目标与组织目标不一致，但群体凝聚力较强”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：群体目标与组织目标一致，但群体凝聚力较强。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5dbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c8b-73fa-11ee-8fe2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______能最大提高生产效率\n“群体目标与组织目标不一致，但群体凝聚力较弱”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：群体目标与组织目标一致，但群体凝聚力较强。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5dee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c8c-73fa-11ee-bf28-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "冲突的双方为了维持相互之间的关系，双方都放弃某些东西，而共同分享既得利益的做法称为______\n“协作”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：折衷。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5dee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c8d-73fa-11ee-81ed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "冲突的双方为了维持相互之间的关系，双方都放弃某些东西，而共同分享既得利益的做法称为______\n“回避”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：折衷。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5dee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c8e-73fa-11ee-92b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "冲突的双方为了维持相互之间的关系，双方都放弃某些东西，而共同分享既得利益的做法称为______\n“迁就”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：折衷。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5dee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c8f-73fa-11ee-bd70-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "冲突的双方为了维持相互之间的关系，双方都放弃某些东西，而共同分享既得利益的做法称为______\n“折衷”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：折衷。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5e48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c90-73fa-11ee-a75b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "参照测量法测量的对象是______\n“人际交往频率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人际交往动机。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5e48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c91-73fa-11ee-8a86-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "参照测量法测量的对象是______\n“人际交往动机”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：人际交往动机。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5e48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c92-73fa-11ee-851c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "参照测量法测量的对象是______\n“人际关系中的相关关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人际交往动机。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5e48-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c93-73fa-11ee-b304-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "参照测量法测量的对象是______\n“人际关系的密切程度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人际交往动机。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5e70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c94-73fa-11ee-99de-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据布雷克管理方格图，对工作抓的最紧的是______管理方式\n“8.4”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：9.2。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5e70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c95-73fa-11ee-a866-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据布雷克管理方格图，对工作抓的最紧的是______管理方式\n“3.7”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：9.2。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5e70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c96-73fa-11ee-ba09-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据布雷克管理方格图，对工作抓的最紧的是______管理方式\n“2.8”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：9.2。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5e70-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c97-73fa-11ee-a13b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据布雷克管理方格图，对工作抓的最紧的是______管理方式\n“9.2”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：9.2。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5ea2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f84c98-73fa-11ee-b58c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导者有意让部属拥有充分的自主权。这种领导决策方式是______\n“集权式的领导决策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：放权式的领导决策。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5ea2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8738b-73fa-11ee-ba4c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导者有意让部属拥有充分的自主权。这种领导决策方式是______\n“参与式的领导决策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：放权式的领导决策。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5ea2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8738c-73fa-11ee-90a6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导者有意让部属拥有充分的自主权。这种领导决策方式是______\n“放权式的领导决策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：放权式的领导决策。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5ea2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8738d-73fa-11ee-8b06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "领导者有意让部属拥有充分的自主权。这种领导决策方式是______\n“开放式的领导决策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：放权式的领导决策。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5eca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8738e-73fa-11ee-af60-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织形象识别系统中，被简称为MI的是______\n“理念识别系统”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：理念识别系统。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5eca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8738f-73fa-11ee-90ae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织形象识别系统中，被简称为MI的是______\n“行为识别系统”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：理念识别系统。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5eca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87390-73fa-11ee-bdd6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织形象识别系统中，被简称为MI的是______\n“视觉识别系统”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：理念识别系统。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5eca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87391-73fa-11ee-9d82-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织形象识别系统中，被简称为MI的是______\n“效能识别系统”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：理念识别系统。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5efc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87392-73fa-11ee-b6a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "年终考核是______\n“日常考核”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：长期考核。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5efc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87393-73fa-11ee-9610-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "年终考核是______\n“定期考核”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：长期考核。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5efc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87394-73fa-11ee-a7c6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "年终考核是______\n“长期考核”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：长期考核。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5efc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87395-73fa-11ee-8369-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "年终考核是______\n“临时考核”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：长期考核。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87396-73fa-11ee-a627-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "考核者在评价他人时，特别体谅那些与自己一致的行为和思想。这种考核中的心理偏差是______\n“从众效应偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：相似性偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87397-73fa-11ee-850a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "考核者在评价他人时，特别体谅那些与自己一致的行为和思想。这种考核中的心理偏差是______\n“相似性偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：相似性偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87398-73fa-11ee-8b88-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "考核者在评价他人时，特别体谅那些与自己一致的行为和思想。这种考核中的心理偏差是______\n“趋中化的偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：相似性偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f87399-73fa-11ee-b68e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "考核者在评价他人时，特别体谅那些与自己一致的行为和思想。这种考核中的心理偏差是______\n“暗示性偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：相似性偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8739a-73fa-11ee-b50a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "勒温认为组织变革的过程包括三个阶段：解冻、变革和______\n“再冻结”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：再冻结。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8739b-73fa-11ee-bad9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "勒温认为组织变革的过程包括三个阶段：解冻、变革和______\n“激励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：再冻结。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8739c-73fa-11ee-9a9b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "勒温认为组织变革的过程包括三个阶段：解冻、变革和______\n“管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：再冻结。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8739d-73fa-11ee-89e3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "勒温认为组织变革的过程包括三个阶段：解冻、变革和______\n“目标”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：再冻结。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8739e-73fa-11ee-a1b9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变革的方式很多，其中一种是通过直接改变组织成员的动机和认知、态度和行为，进而改变群众的行为，以提高组织效率。这种方式是______\n“组织导向型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人员导向型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8739f-73fa-11ee-a943-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变革的方式很多，其中一种是通过直接改变组织成员的动机和认知、态度和行为，进而改变群众的行为，以提高组织效率。这种方式是______\n“人员导向型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：人员导向型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f873a0-73fa-11ee-a856-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变革的方式很多，其中一种是通过直接改变组织成员的动机和认知、态度和行为，进而改变群众的行为，以提高组织效率。这种方式是______\n“技术导向型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人员导向型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5f7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f873a1-73fa-11ee-a114-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变革的方式很多，其中一种是通过直接改变组织成员的动机和认知、态度和行为，进而改变群众的行为，以提高组织效率。这种方式是______\n“系统导向型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人员导向型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f873a2-73fa-11ee-a3c8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "激励理论大致可以分为三种基本类型，即______\n“内容型激励理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：内容型激励理论；过程型激励理论；状态型激励理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89a9a-73fa-11ee-bfa2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "激励理论大致可以分为三种基本类型，即______\n“过程型激励理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：内容型激励理论；过程型激励理论；状态型激励理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89a9b-73fa-11ee-97ca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "激励理论大致可以分为三种基本类型，即______\n“状态型激励理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：内容型激励理论；过程型激励理论；状态型激励理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89a9c-73fa-11ee-9187-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "激励理论大致可以分为三种基本类型，即______\n“自我感知型激励理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：内容型激励理论；过程型激励理论；状态型激励理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fb0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89a9d-73fa-11ee-ae6d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "激励理论大致可以分为三种基本类型，即______\n“综合型激励理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：内容型激励理论；过程型激励理论；状态型激励理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89a9e-73fa-11ee-afe7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正式群体的功能主要有______\n“完成组织任务”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：完成组织任务；满足成员需求凝聚力；协调人际关系；改变个人观念和行为。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89a9f-73fa-11ee-9e6d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正式群体的功能主要有______\n“满足成员需求凝聚力”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：完成组织任务；满足成员需求凝聚力；协调人际关系；改变个人观念和行为。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa0-73fa-11ee-9e9f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正式群体的功能主要有______\n“协调人际关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：完成组织任务；满足成员需求凝聚力；协调人际关系；改变个人观念和行为。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa1-73fa-11ee-83b9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正式群体的功能主要有______\n“改变个人观念和行为”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：完成组织任务；满足成员需求凝聚力；协调人际关系；改变个人观念和行为。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a5fd8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa2-73fa-11ee-b093-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正式群体的功能主要有______\n“提高群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：完成组织任务；满足成员需求凝聚力；协调人际关系；改变个人观念和行为。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a600a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa3-73fa-11ee-b4db-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "非正式群体对其成员的主要功能有______\n“满足成员需求”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：满足成员需求；控制成员；改造成员；激励成员。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a600a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa4-73fa-11ee-80c3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "非正式群体对其成员的主要功能有______\n“控制成员”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：满足成员需求；控制成员；改造成员；激励成员。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a600a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa5-73fa-11ee-80b0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "非正式群体对其成员的主要功能有______\n“教育成员”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：满足成员需求；控制成员；改造成员；激励成员。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a600a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa6-73fa-11ee-8e8b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "非正式群体对其成员的主要功能有______\n“改造成员”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：满足成员需求；控制成员；改造成员；激励成员。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a600a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa7-73fa-11ee-9409-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "非正式群体对其成员的主要功能有______\n“激励成员”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：满足成员需求；控制成员；改造成员；激励成员。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6032-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa8-73fa-11ee-8447-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按沟通者有无地位转移将沟通分为______\n“上行沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：单向沟通；双向沟通。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6032-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aa9-73fa-11ee-b930-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按沟通者有无地位转移将沟通分为______\n“下行沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：单向沟通；双向沟通。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6032-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aaa-73fa-11ee-a8e7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按沟通者有无地位转移将沟通分为______\n“平行沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：单向沟通；双向沟通。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6032-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aab-73fa-11ee-8564-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按沟通者有无地位转移将沟通分为______\n“单向沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：单向沟通；双向沟通。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6032-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aac-73fa-11ee-976c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "按沟通者有无地位转移将沟通分为______\n“双向沟通”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：单向沟通；双向沟通。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a608c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aad-73fa-11ee-b141-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标理论认为对目标的合适程度可以从三个角度加以分析，即目标的具体性、目标的难易度和______\n“目标的可接受性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：目标的可接受性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a608c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aae-73fa-11ee-a93e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标理论认为对目标的合适程度可以从三个角度加以分析，即目标的具体性、目标的难易度和______\n“目标的实践性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：目标的可接受性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a608c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89aaf-73fa-11ee-b865-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标理论认为对目标的合适程度可以从三个角度加以分析，即目标的具体性、目标的难易度和______\n“目标的合理性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：目标的可接受性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a608c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89ab0-73fa-11ee-9ed1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目标理论认为对目标的合适程度可以从三个角度加以分析，即目标的具体性、目标的难易度和______\n“目标的科学性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：目标的可接受性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a60be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89ab1-73fa-11ee-8f05-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谈话法和问卷法属于管理心理学研究方法中的______\n“观察法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：调查法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a60be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89ab2-73fa-11ee-87a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谈话法和问卷法属于管理心理学研究方法中的______\n“实验法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：调查法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a60be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89ab3-73fa-11ee-881d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谈话法和问卷法属于管理心理学研究方法中的______\n“调查法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：调查法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a60be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f89ab4-73fa-11ee-8fd0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "谈话法和问卷法属于管理心理学研究方法中的______\n“测验法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：调查法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a60e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1c5-73fa-11ee-bb8e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对某一个体、某一团体或组织在较长的时间里连续进行观察、调查、了解，是管理心理学研究方法中的______\n“观察法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：个案法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a60e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1c6-73fa-11ee-b0f4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对某一个体、某一团体或组织在较长的时间里连续进行观察、调查、了解，是管理心理学研究方法中的______\n“个案法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：个案法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a60e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1c7-73fa-11ee-905a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对某一个体、某一团体或组织在较长的时间里连续进行观察、调查、了解，是管理心理学研究方法中的______\n“调查法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：个案法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a60e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1c8-73fa-11ee-87a4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对某一个体、某一团体或组织在较长的时间里连续进行观察、调查、了解，是管理心理学研究方法中的______\n“实验法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：个案法。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1c9-73fa-11ee-a6c1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法约尔的管理理论在古典管理理论中属于______\n“早期管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1ca-73fa-11ee-99d3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法约尔的管理理论在古典管理理论中属于______\n“传统管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1cb-73fa-11ee-b5fe-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法约尔的管理理论在古典管理理论中属于______\n“科学管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1cc-73fa-11ee-a68f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "法约尔的管理理论在古典管理理论中属于______\n“行为科学理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1cd-73fa-11ee-b51b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在行为科学理论中侧重研究人的需要、动机和激励问题的理论是______\n“人性管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人类需要理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1ce-73fa-11ee-80e8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在行为科学理论中侧重研究人的需要、动机和激励问题的理论是______\n“群体行为理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人类需要理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1cf-73fa-11ee-b6de-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在行为科学理论中侧重研究人的需要、动机和激励问题的理论是______\n“人类需要理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：人类需要理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d0-73fa-11ee-bb60-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在行为科学理论中侧重研究人的需要、动机和激励问题的理论是______\n“领导行为理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：人类需要理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d1-73fa-11ee-81bc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在现代管理理论中，主张管理要根据企业所处的内外条件随机应变的管理理论是______\n“系统管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：权变理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d2-73fa-11ee-9872-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在现代管理理论中，主张管理要根据企业所处的内外条件随机应变的管理理论是______\n“经验主义理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：权变理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d3-73fa-11ee-af7d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在现代管理理论中，主张管理要根据企业所处的内外条件随机应变的管理理论是______\n“权变理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：权变理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d4-73fa-11ee-9554-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在现代管理理论中，主张管理要根据企业所处的内外条件随机应变的管理理论是______\n“决策理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：权变理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d5-73fa-11ee-84ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "情绪、情操是心理过程中的______\n“认识过程”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：情感过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d6-73fa-11ee-aa6f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "情绪、情操是心理过程中的______\n“意志过程”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：情感过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d7-73fa-11ee-acbf-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "情绪、情操是心理过程中的______\n“情感过程”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：情感过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d8-73fa-11ee-835a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "情绪、情操是心理过程中的______\n“反映过程”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：情感过程。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1d9-73fa-11ee-af3f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调环境对个人行为和性格起决定作用的个性理论是______\n“特质论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会学习论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1da-73fa-11ee-9356-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调环境对个人行为和性格起决定作用的个性理论是______\n“社会学习论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：社会学习论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1db-73fa-11ee-8c4a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调环境对个人行为和性格起决定作用的个性理论是______\n“心理分析法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会学习论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1dc-73fa-11ee-93c0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调环境对个人行为和性格起决定作用的个性理论是______\n“个性类型论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：社会学习论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8c1dd-73fa-11ee-9002-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为特征表现为直率热情，精力旺盛，情绪易冲动等的气质类型是______\n“多血质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：胆汁质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec92-73fa-11ee-9a97-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为特征表现为直率热情，精力旺盛，情绪易冲动等的气质类型是______\n“粘液质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：胆汁质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec93-73fa-11ee-bb5c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为特征表现为直率热情，精力旺盛，情绪易冲动等的气质类型是______\n“胆汁质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：胆汁质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a61f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec94-73fa-11ee-9f47-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为特征表现为直率热情，精力旺盛，情绪易冲动等的气质类型是______\n“抑郁质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：胆汁质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec95-73fa-11ee-ad3b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“早熟”与“晚熟”是______\n“能力的类型差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：能力发展的早晚差异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec96-73fa-11ee-8364-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“早熟”与“晚熟”是______\n“能力的水平差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：能力发展的早晚差异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec97-73fa-11ee-8fa3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“早熟”与“晚熟”是______\n“能力发展的早晚差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：能力发展的早晚差异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec98-73fa-11ee-a4db-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“早熟”与“晚熟”是______\n“能力的质的差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：能力发展的早晚差异。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec99-73fa-11ee-a590-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "他人行为涉及归因者而导致归因的偏差是______\n“观察者与行为者的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：涉及个人利益的归因偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec9a-73fa-11ee-83e7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "他人行为涉及归因者而导致归因的偏差是______\n“涉及个人利益的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：涉及个人利益的归因偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec9b-73fa-11ee-8555-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "他人行为涉及归因者而导致归因的偏差是______\n“涉及社会地位的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：涉及个人利益的归因偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec9c-73fa-11ee-afba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "他人行为涉及归因者而导致归因的偏差是______\n“对自然现象拟人化的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：涉及个人利益的归因偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6370-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec9d-73fa-11ee-be41-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度改变的各种类型中，不改变原有态度的方向，仅改变原有态度的强度被称为______\n“一致性改变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：一致性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6370-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec9e-73fa-11ee-a813-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度改变的各种类型中，不改变原有态度的方向，仅改变原有态度的强度被称为______\n“不一致性改变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：一致性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6370-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ec9f-73fa-11ee-81a3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度改变的各种类型中，不改变原有态度的方向，仅改变原有态度的强度被称为______\n“同化改变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：一致性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6370-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca0-73fa-11ee-b306-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度改变的各种类型中，不改变原有态度的方向，仅改变原有态度的强度被称为______\n“异化改变”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：一致性改变。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca1-73fa-11ee-b388-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响态度改变的团体因素包括信仰、目标、规范和______\n“组织形式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：组织形式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca2-73fa-11ee-9127-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响态度改变的团体因素包括信仰、目标、规范和______\n“领导方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织形式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca3-73fa-11ee-8d8c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响态度改变的团体因素包括信仰、目标、规范和______\n“领导作风”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织形式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca4-73fa-11ee-a747-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "影响态度改变的团体因素包括信仰、目标、规范和______\n“组织效能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：组织形式。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca5-73fa-11ee-9523-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "麦克利兰的成就需要理论认为人的需要可以分为对成就的需要、对社交的需要和______\n“对发展的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对权力的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca6-73fa-11ee-b25e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "麦克利兰的成就需要理论认为人的需要可以分为对成就的需要、对社交的需要和______\n“对享受的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对权力的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca7-73fa-11ee-aabc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "麦克利兰的成就需要理论认为人的需要可以分为对成就的需要、对社交的需要和______\n“对精神的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对权力的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca8-73fa-11ee-bc16-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "麦克利兰的成就需要理论认为人的需要可以分为对成就的需要、对社交的需要和______\n“对权力的需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：对权力的需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8eca9-73fa-11ee-975b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强化可以分为积极强化、消极强化、惩罚和______\n“奖励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：消退。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ecaa-73fa-11ee-9c06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强化可以分为积极强化、消极强化、惩罚和______\n“倒退”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：消退。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ecab-73fa-11ee-8581-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强化可以分为积极强化、消极强化、惩罚和______\n“消退”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：消退。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a63fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f8ecac-73fa-11ee-8f91-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强化可以分为积极强化、消极强化、惩罚和______\n“激励”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：消退。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6424-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913df-73fa-11ee-9d70-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“假设群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6424-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e0-73fa-11ee-85a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“实际群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6424-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e1-73fa-11ee-920c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“实属群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6424-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e2-73fa-11ee-9c59-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "实际上并不存在，只是为了研究或统计的需要，划分出来的群体称为______\n“参照群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：假设群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6456-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e3-73fa-11ee-805e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个人之间能面对面地接触和联系的群体是______\n“小型群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：小型群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6456-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e4-73fa-11ee-a6a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个人之间能面对面地接触和联系的群体是______\n“大型群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：小型群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6456-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e5-73fa-11ee-b3fb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个人之间能面对面地接触和联系的群体是______\n“实属群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：小型群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6456-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e6-73fa-11ee-bd31-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "个人之间能面对面地接触和联系的群体是______\n“参照群体”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：小型群体。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a647e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e7-73fa-11ee-99aa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下诸因素中，能增强群体凝聚力的因素是______\n“群体与外界比较隔离”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：群体与外界比较隔离。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a647e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e8-73fa-11ee-84b7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下诸因素中，能增强群体凝聚力的因素是______\n“群体成员沟通较少”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：群体与外界比较隔离。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a647e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913e9-73fa-11ee-be14-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下诸因素中，能增强群体凝聚力的因素是______\n“群体的规模较大”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：群体与外界比较隔离。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a647e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913ea-73fa-11ee-bfae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下诸因素中，能增强群体凝聚力的因素是______\n“群体规范是消极的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：群体与外界比较隔离。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a65b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913eb-73fa-11ee-9fda-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“个人能力主义”是______的主要特征之一\n“美国组织文化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：美国组织文化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a65b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913ec-73fa-11ee-856a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“个人能力主义”是______的主要特征之一\n“日本组织文化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：美国组织文化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a65b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913ed-73fa-11ee-9a54-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“个人能力主义”是______的主要特征之一\n“中国组织文化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：美国组织文化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a65b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913ee-73fa-11ee-8363-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“个人能力主义”是______的主要特征之一\n“澳洲组织文化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：美国组织文化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913ef-73fa-11ee-9db3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当组织出现______情况之一时，就需要进行变革\n“决策失灵”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：决策失灵；沟通渠道阻塞；组织机能失效；缺乏创新。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f0-73fa-11ee-8ef0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当组织出现______情况之一时，就需要进行变革\n“沟通渠道阻塞”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：决策失灵；沟通渠道阻塞；组织机能失效；缺乏创新。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f1-73fa-11ee-a925-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当组织出现______情况之一时，就需要进行变革\n“组织机能失效”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：决策失灵；沟通渠道阻塞；组织机能失效；缺乏创新。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f2-73fa-11ee-bb6c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当组织出现______情况之一时，就需要进行变革\n“缺乏创新”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：决策失灵；沟通渠道阻塞；组织机能失效；缺乏创新。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f3-73fa-11ee-945b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当组织出现______情况之一时，就需要进行变革\n“出现非正式组织”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：决策失灵；沟通渠道阻塞；组织机能失效；缺乏创新。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a67a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f4-73fa-11ee-b20d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "心理科学体系中的基础学科是______\n“普通心理学”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：普通心理学。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a67a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f5-73fa-11ee-b00f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "心理科学体系中的基础学科是______\n“管理心理学”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：普通心理学。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a67a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f6-73fa-11ee-8d6b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "心理科学体系中的基础学科是______\n“工程心理学”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：普通心理学。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a67a8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f7-73fa-11ee-9f20-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "心理科学体系中的基础学科是______\n“社会心理学”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：普通心理学。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a67da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f8-73fa-11ee-8f06-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "德国心理学家勒温提出了他著名的行为公式 B=f(P•E)，其中 P 是______\n“行为”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：个人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a67da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913f9-73fa-11ee-a31a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "德国心理学家勒温提出了他著名的行为公式 B=f(P•E)，其中 P 是______\n“函数”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：个人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a67da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913fa-73fa-11ee-ab70-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "德国心理学家勒温提出了他著名的行为公式 B=f(P•E)，其中 P 是______\n“环境”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：个人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a67da-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913fb-73fa-11ee-bff2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "德国心理学家勒温提出了他著名的行为公式 B=f(P•E)，其中 P 是______\n“个人”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：个人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6802-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913fc-73fa-11ee-9256-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人性假设理论中，认为人类需要的最高层次就是自我实现，这是______\n““经济人”假设”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：“自我实现人”假设。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6802-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913fd-73fa-11ee-be65-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人性假设理论中，认为人类需要的最高层次就是自我实现，这是______\n““复杂人”假设”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：“自我实现人”假设。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6802-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913fe-73fa-11ee-a80d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人性假设理论中，认为人类需要的最高层次就是自我实现，这是______\n““社会人”假设”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：“自我实现人”假设。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6802-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f913ff-73fa-11ee-afb9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人性假设理论中，认为人类需要的最高层次就是自我实现，这是______\n““自我实现人”假设”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：“自我实现人”假设。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6834-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94eb8-73fa-11ee-8dae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在心理过程中，我们把人们对事物的具有好恶倾向的体验称之为______\n“理智”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：情感。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6834-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94eb9-73fa-11ee-8034-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在心理过程中，我们把人们对事物的具有好恶倾向的体验称之为______\n“意志”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：情感。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6834-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94eba-73fa-11ee-b22e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在心理过程中，我们把人们对事物的具有好恶倾向的体验称之为______\n“情感”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：情感。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6834-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ebb-73fa-11ee-9ec3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在心理过程中，我们把人们对事物的具有好恶倾向的体验称之为______\n“认识”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：情感。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a685c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ebc-73fa-11ee-9780-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于个性倾向性内容\n“兴趣”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：气质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a685c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ebd-73fa-11ee-a44a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于个性倾向性内容\n“气质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：气质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a685c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ebe-73fa-11ee-a839-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于个性倾向性内容\n“爱好”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：气质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a685c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ebf-73fa-11ee-be74-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于个性倾向性内容\n“需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：气质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a688e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec0-73fa-11ee-a114-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "不同的气质类型具有不同的行为特征。具有安静稳重、反应缓慢行为特征的人的气质属于______\n“多血质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：粘液质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a688e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec1-73fa-11ee-85ea-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "不同的气质类型具有不同的行为特征。具有安静稳重、反应缓慢行为特征的人的气质属于______\n“抑郁质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：粘液质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a688e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec2-73fa-11ee-85ed-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "不同的气质类型具有不同的行为特征。具有安静稳重、反应缓慢行为特征的人的气质属于______\n“胆汁质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：粘液质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a688e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec3-73fa-11ee-bee8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "不同的气质类型具有不同的行为特征。具有安静稳重、反应缓慢行为特征的人的气质属于______\n“粘液质”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：粘液质。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a68b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec4-73fa-11ee-8501-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "客观事物直接作用于感觉器官而在大脑中产生的对这个事物的个别属性的反映称为______\n“感觉”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：感觉。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a68b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec5-73fa-11ee-b333-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "客观事物直接作用于感觉器官而在大脑中产生的对这个事物的个别属性的反映称为______\n“知觉”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：感觉。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a68b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec6-73fa-11ee-b9e7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "客观事物直接作用于感觉器官而在大脑中产生的对这个事物的个别属性的反映称为______\n“记忆”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：感觉。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a68b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec7-73fa-11ee-a490-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "客观事物直接作用于感觉器官而在大脑中产生的对这个事物的个别属性的反映称为______\n“思维”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：感觉。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a68e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec8-73fa-11ee-bcf6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有人把乌鸦的出现看成是不祥的征兆，把喜鹊的出现看成是好兆头，这是常见的归因偏差中的______\n“观察者与行为者的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对自然现象作拟人化归因的偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a68e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ec9-73fa-11ee-ad8f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有人把乌鸦的出现看成是不祥的征兆，把喜鹊的出现看成是好兆头，这是常见的归因偏差中的______\n“涉及个人利益的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对自然现象作拟人化归因的偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a68e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94eca-73fa-11ee-be1a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有人把乌鸦的出现看成是不祥的征兆，把喜鹊的出现看成是好兆头，这是常见的归因偏差中的______\n“涉及群体利益的归因偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对自然现象作拟人化归因的偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a68e8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ecb-73fa-11ee-8c30-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "有人把乌鸦的出现看成是不祥的征兆，把喜鹊的出现看成是好兆头，这是常见的归因偏差中的______\n“对自然现象作拟人化归因的偏差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：对自然现象作拟人化归因的偏差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ecc-73fa-11ee-a365-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度的构成要素中，起基础性作用的是______\n“认知要素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：认知要素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ecd-73fa-11ee-b35c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度的构成要素中，起基础性作用的是______\n“评价要素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：认知要素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ece-73fa-11ee-9f8b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度的构成要素中，起基础性作用的是______\n“情感要素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：认知要素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f94ecf-73fa-11ee-a6c2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在态度的构成要素中，起基础性作用的是______\n“意向要素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：认知要素。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d7e-73fa-11ee-a749-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "态度变化三阶段理论的提出者是______\n“勒温”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：凯尔曼。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d7f-73fa-11ee-bd25-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "态度变化三阶段理论的提出者是______\n“费斯汀曼”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：凯尔曼。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d80-73fa-11ee-ab81-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "态度变化三阶段理论的提出者是______\n“凯尔曼”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：凯尔曼。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6942-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d81-73fa-11ee-af7f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "态度变化三阶段理论的提出者是______\n“因斯科”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：凯尔曼。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a696a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d82-73fa-11ee-81f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于挫折的行为表现\n“攻击性行为”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：主观性行为。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a696a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d83-73fa-11ee-8e1e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于挫折的行为表现\n“退化性行为”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：主观性行为。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a696a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d84-73fa-11ee-af4f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于挫折的行为表现\n“妥协性行为”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：主观性行为。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a696a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d85-73fa-11ee-9342-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于挫折的行为表现\n“主观性行为”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：主观性行为。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a699c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d86-73fa-11ee-8d52-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据成就需要理论，人的主要需要不包括______\n“安全需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：安全需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a699c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d87-73fa-11ee-a6bb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据成就需要理论，人的主要需要不包括______\n“成就需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：安全需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a699c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d88-73fa-11ee-9bf8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据成就需要理论，人的主要需要不包括______\n“社会交往需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：安全需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a699c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d89-73fa-11ee-bb9f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据成就需要理论，人的主要需要不包括______\n“权力需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：安全需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a69c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d8a-73fa-11ee-afe0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为群体的一个显著标志，就是群体内的成员应具有共同的______\n“信念和兴趣”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：信念和群体意识。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a69c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d8b-73fa-11ee-ab73-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为群体的一个显著标志，就是群体内的成员应具有共同的______\n“信念和群体意识”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：信念和群体意识。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a69c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d8c-73fa-11ee-82e0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为群体的一个显著标志，就是群体内的成员应具有共同的______\n“价值观念和性格”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：信念和群体意识。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a69c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d8d-73fa-11ee-acf5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为群体的一个显著标志，就是群体内的成员应具有共同的______\n“利害关系和生活方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：信念和群体意识。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a69f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d8e-73fa-11ee-8153-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以非正式群体的性质为根据，与组织若即若离的非正式群体称为______\n“积极型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：中间型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a69f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d8f-73fa-11ee-99f8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以非正式群体的性质为根据，与组织若即若离的非正式群体称为______\n“中间型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：中间型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a69f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d90-73fa-11ee-92d8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以非正式群体的性质为根据，与组织若即若离的非正式群体称为______\n“消极型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：中间型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a69f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d91-73fa-11ee-81a8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以非正式群体的性质为根据，与组织若即若离的非正式群体称为______\n“破坏型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：中间型。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d92-73fa-11ee-8e01-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“规范分析法”作为改进群体工作效率工具的优点是______\n“对人不对事”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对事不对人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d93-73fa-11ee-8bc6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“规范分析法”作为改进群体工作效率工具的优点是______\n“对人又对事”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对事不对人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d94-73fa-11ee-8706-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“规范分析法”作为改进群体工作效率工具的优点是______\n“对事不对人”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：对事不对人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a1e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d95-73fa-11ee-988b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“规范分析法”作为改进群体工作效率工具的优点是______\n“既不对人也不对事”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：对事不对人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d96-73fa-11ee-8471-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为科学对冲突的看法是______\n“冲突等同于暴力、破坏、无理取闹”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：冲突并非完全是坏事。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d97-73fa-11ee-97c6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为科学对冲突的看法是______\n“冲突并非完全是坏事”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：冲突并非完全是坏事。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f97d98-73fa-11ee-b660-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为科学对冲突的看法是______\n“冲突是一件好事”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：冲突并非完全是坏事。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4c6-73fa-11ee-b6be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "行为科学对冲突的看法是______\n“冲突是完全可以避免的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：冲突并非完全是坏事。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4c7-73fa-11ee-8fae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工具式沟通的主要目的是______\n“发布命令”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：传达情报。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4c8-73fa-11ee-8488-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工具式沟通的主要目的是______\n“满足精神需求”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：传达情报。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4c9-73fa-11ee-92cd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工具式沟通的主要目的是______\n“传达情报”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：传达情报。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6a78-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4ca-73fa-11ee-ac00-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "工具式沟通的主要目的是______\n“确定与对方的人际关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：传达情报。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6aaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4cb-73fa-11ee-83f1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正式沟通网络一般是______\n“间接的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：垂直的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6aaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4cc-73fa-11ee-b9c7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正式沟通网络一般是______\n“直接的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：垂直的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6aaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4cd-73fa-11ee-a5c6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正式沟通网络一般是______\n“平行的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：垂直的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6aaa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4ce-73fa-11ee-95a1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "正式沟通网络一般是______\n“垂直的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：垂直的。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6ad2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4cf-73fa-11ee-b7d4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人际交往中，人际吸引的“磁力”核心是______\n“互利互惠”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：真、善、美。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6ad2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d0-73fa-11ee-a454-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人际交往中，人际吸引的“磁力”核心是______\n“共同语言”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：真、善、美。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6ad2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d1-73fa-11ee-9d37-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人际交往中，人际吸引的“磁力”核心是______\n“真、善、美”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：真、善、美。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6ad2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d2-73fa-11ee-b3b5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在人际交往中，人际吸引的“磁力”核心是______\n“名、利、权”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：真、善、美。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d3-73fa-11ee-81b2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据社会心理学家的研究，子女排行和合群之间的关系为______\n“没规律性的关系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：排行越高，合群倾向越强；排行越低，合群倾向越差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d4-73fa-11ee-b6fa-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据社会心理学家的研究，子女排行和合群之间的关系为______\n“排行越高，合群倾向越强；排行越低，合群倾向越差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：排行越高，合群倾向越强；排行越低，合群倾向越差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d5-73fa-11ee-b90b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据社会心理学家的研究，子女排行和合群之间的关系为______\n“排行越高，合群倾向越差；排行越低，合群倾向越强”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：排行越高，合群倾向越强；排行越低，合群倾向越差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b04-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d6-73fa-11ee-8b8c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据社会心理学家的研究，子女排行和合群之间的关系为______\n“排行中间的子女合群倾向最强”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：排行越高，合群倾向越强；排行越低，合群倾向越差。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d7-73fa-11ee-b8c3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在管理方格理论中，（9. 1）型管理方式又称为______\n“贫乏型管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：任务型管理。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d8-73fa-11ee-89a0-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在管理方格理论中，（9. 1）型管理方式又称为______\n“俱乐部型管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：任务型管理。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4d9-73fa-11ee-b571-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在管理方格理论中，（9. 1）型管理方式又称为______\n“任务型管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：任务型管理。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b2c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4da-73fa-11ee-a3f8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在管理方格理论中，（9. 1）型管理方式又称为______\n“中间道路型管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：任务型管理。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4db-73fa-11ee-8bbb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "属于领导者做好工作的前提条件的心理素质是______\n“善于转换角色”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：较完善的人格。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4dc-73fa-11ee-b446-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "属于领导者做好工作的前提条件的心理素质是______\n“较完善的人格”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：较完善的人格。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4dd-73fa-11ee-a0e9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "属于领导者做好工作的前提条件的心理素质是______\n“外松内紧的防卫心理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：较完善的人格。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b5e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4de-73fa-11ee-84ba-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "属于领导者做好工作的前提条件的心理素质是______\n“富有使命感和同情心”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：较完善的人格。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4df-73fa-11ee-9169-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早的组织结构形式是______\n“直线式组织结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：直线式组织结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4e0-73fa-11ee-a2af-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早的组织结构形式是______\n“扁平式组织结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：直线式组织结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4e1-73fa-11ee-8a6b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早的组织结构形式是______\n“矩阵式组织结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：直线式组织结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6b86-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9a4e2-73fa-11ee-a278-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "最早的组织结构形式是______\n“职能式组织结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：直线式组织结构。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6bb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd0-73fa-11ee-83c9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变量由两类因素所组成，一个是结构变量，另一个是______\n“任务变量”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：因果变量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6bb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd1-73fa-11ee-918b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变量由两类因素所组成，一个是结构变量，另一个是______\n“权力变量”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：因果变量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6bb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd2-73fa-11ee-bcc5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变量由两类因素所组成，一个是结构变量，另一个是______\n“因果变量”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：因果变量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6bb8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd3-73fa-11ee-b55b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织变量由两类因素所组成，一个是结构变量，另一个是______\n“时间变量”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：因果变量。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6bea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd4-73fa-11ee-8e1a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织形象识别系统中，______属于企业形象策划的动态识别形式\n“CI”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：CI；BI。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6bea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd5-73fa-11ee-997e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织形象识别系统中，______属于企业形象策划的动态识别形式\n“MI”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：CI；BI。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6bea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd6-73fa-11ee-b428-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织形象识别系统中，______属于企业形象策划的动态识别形式\n“BI”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：CI；BI。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6bea-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd7-73fa-11ee-abc6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织形象识别系统中，______属于企业形象策划的动态识别形式\n“VI”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：CI；BI。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd8-73fa-11ee-9582-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织文化的作用中，对员工行为的约束是______\n“通过制度约束”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：无形的思想约束。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbd9-73fa-11ee-874c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织文化的作用中，对员工行为的约束是______\n“通过监督约束”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：无形的思想约束。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbda-73fa-11ee-b60c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织文化的作用中，对员工行为的约束是______\n“无形的思想约束”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：无形的思想约束。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbdb-73fa-11ee-8029-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在组织文化的作用中，对员工行为的约束是______\n“引导与监督相结合的约束”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：无形的思想约束。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbdc-73fa-11ee-9eec-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是表述正确的公式\n“效果=目标×效率”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：效果=目标×效率。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbdd-73fa-11ee-85be-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是表述正确的公式\n“效率=目标×效果”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：效果=目标×效率。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbde-73fa-11ee-8c35-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是表述正确的公式\n“效果=目标×效能”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：效果=目标×效率。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c3a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbdf-73fa-11ee-95a5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是表述正确的公式\n“效率=目标×效益”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：效果=目标×效率。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbe0-73fa-11ee-84fc-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一切绩效考核工作的基本原则与总的要求是______\n“以人为中心”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：实事求是。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbe1-73fa-11ee-bb3c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一切绩效考核工作的基本原则与总的要求是______\n“实事求是”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：实事求是。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbe2-73fa-11ee-8b8d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一切绩效考核工作的基本原则与总的要求是______\n“公平、公正”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：实事求是。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c6c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbe3-73fa-11ee-b3b1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一切绩效考核工作的基本原则与总的要求是______\n“崇高的目标”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：实事求是。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbe4-73fa-11ee-8c86-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“对组织进行有计划的、系统的改革，以促使整个组织更新和发展的过程”是指组织的______\n“变革”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：发展。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbe5-73fa-11ee-bdd2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“对组织进行有计划的、系统的改革，以促使整个组织更新和发展的过程”是指组织的______\n“发展”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：发展。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbe6-73fa-11ee-9f78-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“对组织进行有计划的、系统的改革，以促使整个组织更新和发展的过程”是指组织的______\n“创新”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：发展。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6c94-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbe7-73fa-11ee-9cf2-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“对组织进行有计划的、系统的改革，以促使整个组织更新和发展的过程”是指组织的______\n“建设”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：发展。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6cc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9cbe8-73fa-11ee-a6f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当组织成员要求在工作中有个人发展机会，但组织仍然倾向于简单化、专业化的管理方式，从而限制了成员的发展机会时，组织就应该进行______\n“思想教育”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：变革。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6cc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2e3-73fa-11ee-8d46-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当组织成员要求在工作中有个人发展机会，但组织仍然倾向于简单化、专业化的管理方式，从而限制了成员的发展机会时，组织就应该进行______\n“发展”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：变革。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6cc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2e4-73fa-11ee-9161-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当组织成员要求在工作中有个人发展机会，但组织仍然倾向于简单化、专业化的管理方式，从而限制了成员的发展机会时，组织就应该进行______\n“变革”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：变革。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6cc6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2e5-73fa-11ee-af11-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当组织成员要求在工作中有个人发展机会，但组织仍然倾向于简单化、专业化的管理方式，从而限制了成员的发展机会时，组织就应该进行______\n“人员”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：变革。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2e6-73fa-11ee-93ae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古典管理理论是西方管理理论发展的第一阶段，分别由以下几种理论组成______\n“人际管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：早期管理理论；传统管理理论；科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2e7-73fa-11ee-8977-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古典管理理论是西方管理理论发展的第一阶段，分别由以下几种理论组成______\n“人性管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：早期管理理论；传统管理理论；科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2e8-73fa-11ee-bd3f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古典管理理论是西方管理理论发展的第一阶段，分别由以下几种理论组成______\n“早期管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：早期管理理论；传统管理理论；科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2e9-73fa-11ee-82f7-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古典管理理论是西方管理理论发展的第一阶段，分别由以下几种理论组成______\n“传统管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：早期管理理论；传统管理理论；科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6cf8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2ea-73fa-11ee-aef5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "古典管理理论是西方管理理论发展的第一阶段，分别由以下几种理论组成______\n“科学管理理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：早期管理理论；传统管理理论；科学管理理论。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2eb-73fa-11ee-ae4b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自我意识包括______\n“物质自我”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：物质自我；社会自我；精神自我。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2ec-73fa-11ee-8fc4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自我意识包括______\n“社会自我”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：物质自我；社会自我；精神自我。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2ed-73fa-11ee-ada8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自我意识包括______\n“知觉自我”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：物质自我；社会自我；精神自我。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2ee-73fa-11ee-8ee3-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自我意识包括______\n“精神自我”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：物质自我；社会自我；精神自我。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d20-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2ef-73fa-11ee-aed8-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "自我意识包括______\n“管理自我”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：物质自我；社会自我；精神自我。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f0-73fa-11ee-858a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“生理需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f1-73fa-11ee-86fd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“安全需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f2-73fa-11ee-8460-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“社交需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f3-73fa-11ee-a207-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“尊重需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f4-73fa-11ee-aa07-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "马斯洛的需要层次理论把人的需要归纳为______\n“自我实现需要”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：生理需要；安全需要；社交需要；尊重需要；自我实现需要。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f5-73fa-11ee-a525-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人类学家霍尔根据人们接触的距离，把人际关系的范围划分为______\n“亲密区”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：亲密区；熟人区；社交区；公共区。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f6-73fa-11ee-9353-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人类学家霍尔根据人们接触的距离，把人际关系的范围划分为______\n“熟人区”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：亲密区；熟人区；社交区；公共区。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f7-73fa-11ee-ac42-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人类学家霍尔根据人们接触的距离，把人际关系的范围划分为______\n“社交区”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：亲密区；熟人区；社交区；公共区。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f8-73fa-11ee-a6c5-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人类学家霍尔根据人们接触的距离，把人际关系的范围划分为______\n“公共区”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：亲密区；熟人区；社交区；公共区。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6d7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2f9-73fa-11ee-9e2c-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "人类学家霍尔根据人们接触的距离，把人际关系的范围划分为______\n“隔离区”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：亲密区；熟人区；社交区；公共区。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2fa-73fa-11ee-862d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织文化按不同的标准可以划分为不同的类型。按活力程度，组织文化可以被划分为______\n“活力型组织文化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：活力型组织文化；官僚僵化式组织文化；停滞型组织文化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2fb-73fa-11ee-aff9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织文化按不同的标准可以划分为不同的类型。按活力程度，组织文化可以被划分为______\n“挑战型组织文化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：活力型组织文化；官僚僵化式组织文化；停滞型组织文化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2fc-73fa-11ee-bd03-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织文化按不同的标准可以划分为不同的类型。按活力程度，组织文化可以被划分为______\n“官僚僵化式组织文化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：活力型组织文化；官僚僵化式组织文化；停滞型组织文化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2fd-73fa-11ee-947f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织文化按不同的标准可以划分为不同的类型。按活力程度，组织文化可以被划分为______\n“停滞型组织文化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：活力型组织文化；官僚僵化式组织文化；停滞型组织文化。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "心理学类",
+		"raw_uuid": "352a6dac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "d1f9f2fe-73fa-11ee-b1cb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "组织文化按不同的标准可以划分为不同的类型。按活力程度，组织文化可以被划分为______\n“发展型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：活力型组织文化；官僚僵化式组织文化；停滞型组织文化。"
+	}
+]

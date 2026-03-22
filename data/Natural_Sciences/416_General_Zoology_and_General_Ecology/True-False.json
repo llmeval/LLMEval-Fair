@@ -1,0 +1,458 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a2248-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72d5b48-7085-11ee-a707-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。⽣态学的研究内容是⽣物与周围物理环境的关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a237e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da953-7085-11ee-8c03-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。⽣活在⾼纬度地区的恒温动物，⼀般其⾝体较低纬度地区的同类个体⼤，以此来减少单位体重散\n热量，这⼀适应称为贝格曼法则。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a23e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da954-7085-11ee-bf6f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。⼟壤酸碱度对⼟壤养分的有效性没有影响。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a2428-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da955-7085-11ee-8764-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。⼈为因⼦属于特殊的⽣物因⼦，它的提出是为了强调⼈类在⽣态系统中的特殊作⽤。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a2478-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da956-7085-11ee-a117-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。紫外光因其波长短⽽能产⽣⼤量的热，地表热量基本上都是由紫外光产⽣的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a24c8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da957-7085-11ee-a5e6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。植物各发育阶段所需要的总热量随外界环境条件的变化⽽改变。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a250e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da958-7085-11ee-81e9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在⽣态学中，环境因⼦和⽣态因⼦是同⼀概念，具有完全相同的含义。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a255e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da959-7085-11ee-9710-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。⼀种⽣物对某⼀⽣态因⼦的耐受曲线是固定不变的，即其耐受的上限和下限是⼀定的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a25ae-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da95a-7085-11ee-8cae-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。内稳态⽣物能控制体内环境的稳定，所以完全能摆脱环境条件的限制。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a25f4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da95b-7085-11ee-af71-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。Allen规律是指恒温动物⾝体的突出部分如四肢、尾和外⽿等在低温环境中有变⼩变短的趋势。\n"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a263a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da95c-7085-11ee-89ca-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。淡⽔动物⾯临的主要渗透压调节问题是排出过量的溶质、获取⼤量的⽔分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a2680-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da95d-7085-11ee-897e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。恒温动物的体温也是会变的。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a26c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da95e-7085-11ee-810e-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。只要2种⽣物⽣活在同⼀⽣境中，它们之间的竞争就不可避免。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a270c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da95f-7085-11ee-a26a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。动物的婚配制度与资源的分布状况有密切关系。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a2752-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da960-7085-11ee-b34d-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。陆地植物群落的分层与⽔的利⽤有关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a27a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da961-7085-11ee-a215-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。群落季相变化的主要标志是群落主要层的物候变化。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a27f2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da962-7085-11ee-9328-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。基盖度也称真盖度或显著度。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a2838-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da963-7085-11ee-a601-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。同⼀⽣活型的⽣物不但对环境的适应⽅式和途径相同（或相似），⽽且外貌上也相似。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a2888-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da964-7085-11ee-b516-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。岛屿上⽣物种类的多少取决于岛屿与⼤陆的远近。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a28ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da965-7085-11ee-ae3a-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。植物群落中的优势种可以有多个⽽建群种只有⼀个。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a291e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da966-7085-11ee-8255-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。所有⽣物群落都具有明显的边界，可以清楚地加以区分。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a2964-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da967-7085-11ee-aaeb-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。多样性指数的⼤⼩与种的数⽬有关⽽与种的均匀度⽆关。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a29aa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da968-7085-11ee-bd56-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。群落中个体⽣物量最⼤的物种称为优势种。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "生物科学类",
+		"raw_uuid": "352a29f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a72da969-7085-11ee-a557-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。没有植物⽣长的地段即为裸地，原⽣裸地是指从来没有植物覆盖的地⾯。发⽣在原⽣裸地上的演\n替称为原⽣演替。"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。"
+	}
+]

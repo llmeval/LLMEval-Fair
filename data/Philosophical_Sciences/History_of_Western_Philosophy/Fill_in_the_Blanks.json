@@ -1,0 +1,2130 @@
+[
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "西方哲学史上第一位哲学家是什么，他提出什么是万物的本原？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "泰利斯；水"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "阿那克西曼德称万物的本原为什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "无定"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "阿那克西美尼认为世界的本原是什么，它们通过什么和什么转化成万物？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "气；凝聚；稀释"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "什么提出了“人不可能两次踏入同一条河流”和“战争是万物之父”的说法？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "赫拉克利特"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "什么是第一个使用哲学的人，他认为哲学的首要对象是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "毕达哥拉斯；数"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "巴门尼德的两条道路指什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "真理之路；意见之路"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "“元素”这一概念的原意是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "字母"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "恩培多克勒的四根是什么、什么、什么和什么，他还提出什么和什么来解释事物的运动和变化？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "土；气；火；水；爱；恨"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "阿那克萨戈拉认为构成万物的元素是什么，除此之外，他还设定了一个能动性的本原：什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "种子；心灵"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "原子论者认为世界的本原是什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "原子；虚空"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "什么说人是万物的尺度，是存在者存在的尺度，也是不存在者不存在的尺度？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "普罗泰戈拉"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "高尔吉亚提出的三个相对主义的命题分别是什么；什么；什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "无物存在；即使有物存在，也不可被认识；即使被认识，也不可把它说出来"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "德尔菲神庙的铭句是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "认识你自己"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "苏格拉底认为德性即什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "知识"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "苏格拉底把自己使用的方法比作他母亲的什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "助产术"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "柏拉图认为在可感事物组成的可感领域之外，还存在一个由真实的理念组成的什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "可知领域"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "柏拉图认为一事物之所以是一事物，是因为它分有了它的什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "型相"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "柏拉图把知识划分为四种形式，它们分别是什么、什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "幻想；信念；数学知识；理性知识"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "柏拉图认为人的灵魂由什么、什么和什么三部分组成？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "理性；激情；欲望"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "柏拉图认为学习就是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "回忆"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "柏拉图认为一个城邦由保卫者、武士和生产者三个政治等级组成，与这三个政治等级相对应的是三种德性，它们分别是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "智慧；勇敢；节制"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "《形而上学》的作者是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "亚里士多德"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德在分析运动的时候提出了三本原说，他们分别是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "形式；缺乏；质料"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德的四因说指的是什么、什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "质料因；形式因；动力因；目的因"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德说谓词共有十类：他们分别是什么、什么、什么、什么、什么、什么、什么、什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "本质；数量；性质；关系；地点；时间；姿势；状态；活动；遭受"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德认为物理学的研究对象是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "自然"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德认为哲学是一切科学的总汇，它可以分成什么、什么和什么三部分？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "理论科学；实践科学；艺术"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德认为天界的运动是什么，地界的运动是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "圆周运动；直线运动"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德对时间的定义是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "依先后而定的运动的数目"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德认为第一哲学研究的对象是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "是者"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德把灵魂分成什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "植物灵魂；动物灵魂；人类理性"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德把运动分为什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "性质的；数量的；位置的"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德认为最高的实体是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "神"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德认为最高的善是什么，他认为实践智慧选择德性的标淮是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "幸福；中道"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德在《政治学》中说：“人是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "天生的政治动物"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "亚里士多德把政体分成为了公民共同利益的好政体和为了执政者利益的坏政体两种，每一种又有三种形式，好政体包括：什么、什么和什么，坏政体包括：什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "君主制；贵族制；立宪制；暴君制；寡头制；民主制"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "伊壁鸠鲁的学说可以分为三个部分，它们分别是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "准则学；物理学；理学"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "伊壁鸠鲁在德谟克利特的原子的性质上，又增加了什么这一性质？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "重量"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "伊壁鸠鲁认为快乐有两种，它们分别是什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "动态快乐；静态快乐"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "斯多亚派认为有些元素是主动的，有些元素是被动的。什么和什么是主动元素，什么和什么是被动元素？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "火；气；土；水"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "斯多亚派认为什么、什么、什么和什么是四种主要的德性？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "正义；智慧；勇敢；节制"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "普罗提诺认为什么、什么和什么是三个首要的本体？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "太一；理智；灵魂"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "普罗提诺把“太一〞生成其他本体的过程比喻成什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "流溢"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "阿格里帕认为，人体的比例是万物的尺度，人体的构造是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "小宇宙"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "教父哲学早期对待希腊哲学主要有两种态度：它们分别是什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "理性辩护主义；信仰主义"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "奥古斯丁认为：什么才是真正的哲学？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "基督教"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "托马斯•阿奎纳把德性分为基本德性和神学德性，其中，基本德性有什么、什么、什么和什么，神学德性有什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "谨慎；正义；节制；坚韧；信；望；爱"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "托马斯•阿奎纳认为“自然律”的内容包括：什么、什么、什么、什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "趋善避悉以保全生命；通过夫妻关系来繁衍后代；在和平的环境里探素真理；服从法律以保持社会秩序"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "托马斯•阿奎纳把实体按照由高到低的等级体系划分为什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "最高实体上帝；精神实体；物质实体"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "托马斯•阿奎纳认为人的外感觉有五种，它们分别是什么、什么、什么、什么、什么，其中，什么是最基本、最一般的外感觉？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "视觉；听觉；嗅觉；味觉；触觉；触觉"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "托马斯•阿奎纳认为人除了认知活动以外，还有意欲的活动。他将人的意欲分为什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "感性意欲；理性意欲"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "托马斯•阿奎纳认为成文法的米源有二，它们分别是什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "上帝直接向人类宣布的神律；人的信仰和理性"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "“知识就是力量”是什么的名言？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "培根"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "培根的四假相分别是什么、什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "种族假相；洞穴假相；市场假相；剧场假相"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "培根的三表法指什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "具有表；缺三表；程度表"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "培根在《新工具》一书中提出的新的认识方法是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "归纳法"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "《利维坦》的作者是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "霍布斯"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "霍布斯认为哲学的方法是什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "分析；综合"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "笛卡尔的哲学之树，树根是什么，树干是什么，树枝是医学、力学、伦理学等应用学科？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "形而上学；物理学"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "笛卡尔哲学的第一原则是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "我思故我在"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "笛卡尔认为真的标淮是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "清楚明白的观念"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "笛卡尔认为观念可分为三类：它们分别是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "天赋观念；外来观念；虚杓观念"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "笛卡尔认为心灵的本质属性是什么，物质的本质属性是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "思想；广延"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "笛卡尔认为心灵和身体不能相互作用，他假设了什么来解释人的心理和生理活动协调一致的事实？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "松果腺"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "斯宾诺莎认为哲学的目的在于什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "获得最高的幸福"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "斯宾诺莎在《伦理学》这本书中采用的方法是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "几何学的方法"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "斯宾诺莎根据观念清晰的程度把知识分为四种，它们分别是什么、什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "由传闻和符号得到的知识；由表面经验得到的知识；推理知识；直观知识"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "斯宾诺莎哲学体系的第一个真观念是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "实体"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "斯宾诺莎关于实体的定义是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "在自身内并通过自身而被认识的东西"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "斯宾诺莎关于属性的定义是什么，他认为人类所能认识的属性有两种：什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "从理智看来是构成实体的本质的东西；广延；思想"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "莱布尼茨在《神正论》中，把哲学的基本问题归结为两个，它们是什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "自由和必然的问题；连续性和不可分的点之间的问题"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "莱布尼茨认为什么是组成世界的最小单元，它们有无限多个？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "单子"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "莱布尼茨为了说明身心何以一致的问题提出了什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "预定和谐论"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "为了反对“天赋观念〞论，洛克提出了自己的什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "“白板”说"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "洛克认为知识的唯一来源是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "经验"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "洛克把经验分为什么和什么两类？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "感觉；反省"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "按自身的构造，洛克把观念分为什么和什么的观念两种，按主观和客观的关系，观念又可以分为什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "简单观念；复杂观念；第一性的质；第二性的质"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "洛克将知识分成三类，第一是什么，第二是什么，第三是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "直觉知识；证明知识；感性知识"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "贝克莱的出发点是人类知识的对象是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "观念"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "贝克莱的基本哲学命题是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "存在就是被感知"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "休谟的知觉可以分成两种：一是什么，一是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "印象；观念"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "休谟把知识分为两种，它们是什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "观念关系的知识；事实的知识"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "休谟认为关于观念的知识是什么命题，是什么真理。关于事实的知识是什么命题，是什么真理？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "分析；必然；综合；偶然"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "休谟认为什么是人生的伟大指南？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "习惯"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "休谟提出了休谟的法则，认为应该在什么和什么之间作出区分？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "事实；价值"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "“即使上帝不存在，也要创造一个”是什么的名言？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "伏尔泰"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "卢梭政治哲学的基础是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "性善论"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "卢梭认为文明的基础是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "私有制"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "拉美特利认为人是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "机器"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "狄德罗反对自然界是由一种完全相同的物质产生出来的，提出了他的什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "物质异质性"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "爱尔维修把感觉分为两种，它们是什么和什么。他还认为应该把道德科学归结为什么这一简单的事实？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "肉体感受性；记忆；肉体感受性"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "爱尔维修在解决如何把个人利益和公共利益结合起来的问题的时候，提出了什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "环境决定论"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "霍尔巴赫的思想有两个明显的特点：一是什么，一是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "彻底的无神论；彻底的决定论"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德在《纯粹理性批判》第二版序言中，把他的哲学的意义概括为什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "哥白尼革命"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德认为有三种形式的判断，它们分别是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "先天综合判断；先天分析判断；后天综合判断"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德将广义的理性分为什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "感性；知性；理性"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德哲学中，感性直观的纯形式是什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "空间；时间"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德认为知性的纯形式是什么，可以分为什么组什么个。它们分别是什么、什么、什么、什么、什么、什么、什么、什么、什么、什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "范畴；四；十二；统一；多样；整体；实在；否定；限制；实体与属性；原因与结果；作用与反作用；可能或不可能；存在或非存在；必然或偶然"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德认为什么是人类认识的最高原则？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "先验统觉"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德认为范畴的合法运用只能限制在什么，他说什么为自然立法？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "现象界；人"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德认为与理性相对的逻辑形式是什么，因此他认为理念有什么个，它们分别是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "推理；三；灵魂；世界；上帝"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德把理性心理学中灵魂是一个实体的论证所犯的错误称为什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "四名词"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德在理性宇宙论中提出了四组二律背反，它们分别是什么、什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "世界在时间和空间上是有限的，世界在时间和空间上是无限的；世界上一切事物都是由单一的东西构成的，没有单一的东西；世界上一切事物都是由复合的东西构成的，世界有出于自由的原因。没有自由，世界的一切都是被決定的；世界的因果系列以一个必然存在者为第一因。没有绝对的必然存在者，世界的最初原因是偶然的。"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德的绝对命令有两条推论：一是什么，二是什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "始终把人当作目的，而不能把人当作工具；每一个理性存在者的意志都是颁布普遍规律的意志"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德的道德公设一共有三条，它们分别是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "意志自由；灵魂不朽；上帝存在"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "康德说，他所关心的问题只是“人是什么”，这个问题可以分成三个：它们分别是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "人能够知道什么；人应当做什么；人可以希望什么"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "贵希特的知识学有三个部分，它们分别是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "理论哲学；实践哲学；关于公设的哲学"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "黑格尔把理性的过程分为什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "戏家的理性；道德的理性；自律的理性"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "黑格尔认为当主观精神外在化为社会组织和历史进程，就变成了什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "客观精神"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "黑格尔把宗教分为什么、什么和什么三个阶段？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "自然宗教；艺术宗教；天启宗教"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "黑格尔逻辑学的三个大圆圈依次是什么、什么和什么？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "存在论；本质论；概念论"
+    },
+    {
+        "category": "哲学",
+        "sub_category": "哲学",
+        "raw_uuid": null,
+        "question_uuid": null,
+        "dialog_uuid": null,
+        "llm_name": null,
+        "dialog": [
+            {
+                "role": "user",
+                "content": "黑格尔的自然哲学可以分为什么、什么和什么三个环节？"
+            },
+            {
+                "role": "llm",
+                "content": null
+            }
+        ],
+        "hint": "机械论；物理论；有机论"
+    }
+]

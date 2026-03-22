@@ -1,0 +1,952 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847ad3a5-6be0-11ee-a7cb-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Ausdauer”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7b3-6be0-11ee-addf-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Disziplin”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7b4-6be0-11ee-b80a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Ehrlichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7b5-6be0-11ee-afad-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Geschicklichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7b6-6be0-11ee-abf8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Gewandtheit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7b7-6be0-11ee-8cfb-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Wissbegierde”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7b8-6be0-11ee-a7f6-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Gewissenhaftigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7b9-6be0-11ee-aa7d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Wachsamkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7ba-6be0-11ee-a2fc-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Uberzeugungskraft”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d510-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7bb-6be0-11ee-9bdc-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Richter erwartet man ______.\n“Gerechtigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：Gerechtigkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7bc-6be0-11ee-957b-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Ausdauer”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7bd-6be0-11ee-964a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Disziplin”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7be-6be0-11ee-a3e5-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Ehrlichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7bf-6be0-11ee-8bb9-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Geschicklichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c0-6be0-11ee-b4b0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Gewandtheit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c1-6be0-11ee-80df-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Wissbegierde”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c2-6be0-11ee-a663-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Gewissenhaftigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c3-6be0-11ee-b676-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Wachsamkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c4-6be0-11ee-9a00-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Uberzeugungskraft”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d59c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c5-6be0-11ee-b58f-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Handwerker erwartet man ______.\n“Gerechtigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Geschicklichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c6-6be0-11ee-a88d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Ausdauer”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c7-6be0-11ee-9c65-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Disziplin”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c8-6be0-11ee-ad3c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Ehrlichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7c9-6be0-11ee-8426-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Geschicklichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7ca-6be0-11ee-8559-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Gewandtheit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7cb-6be0-11ee-b8ed-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Wissbegierde”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7cc-6be0-11ee-bcee-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Gewissenhaftigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7cd-6be0-11ee-9b85-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Wachsamkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7ce-6be0-11ee-a96c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Uberzeugungskraft”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d5d8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7cf-6be0-11ee-bf0c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Redner erwartet man ______.\n“Gerechtigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Uberzeugungskraft。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d0-6be0-11ee-87fc-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Ausdauer”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d1-6be0-11ee-b8b1-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Disziplin”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d2-6be0-11ee-950a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Ehrlichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d3-6be0-11ee-aeed-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Geschicklichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d4-6be0-11ee-930a-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Gewandtheit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d5-6be0-11ee-b6ca-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Wissbegierde”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d6-6be0-11ee-8716-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Gewissenhaftigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d7-6be0-11ee-a4a4-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Wachsamkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d8-6be0-11ee-9d8e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Uberzeugungskraft”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d600-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7d9-6be0-11ee-8f36-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Freund erwartet man ______.\n“Gerechtigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Ehrlichkeit。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7da-6be0-11ee-bb2e-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Ausdauer”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Wissbegierde。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7db-6be0-11ee-8b44-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Disziplin”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Wissbegierde。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7dc-6be0-11ee-aca0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Ehrlichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Wissbegierde。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7dd-6be0-11ee-897c-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Geschicklichkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Wissbegierde。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7de-6be0-11ee-97d8-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Gewandtheit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Wissbegierde。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7df-6be0-11ee-9db0-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Wissbegierde”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：Wissbegierde。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7e0-6be0-11ee-99f3-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Gewissenhaftigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Wissbegierde。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7e1-6be0-11ee-b285-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Wachsamkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Wissbegierde。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7e2-6be0-11ee-a3bf-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Uberzeugungskraft”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Wissbegierde。"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f0d632-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "847af7e3-6be0-11ee-a74d-fcb3bc5cd141",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "Vervollständigen Sie die Satze mit einem der folgenden Worter!\nVon einem Studenten erwartet man ______.\n“Gerechtigkeit”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：Wissbegierde。"
+	}
+]

@@ -1,0 +1,1370 @@
+[
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535433a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e449b-6f0b-11ee-85e6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设集合 A={1,2,3},A 上的关系 R＝{(1,1),(2,2),(2,3),(3,2),(3,3)}，则 R 不具备______ \n“自反性 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：反对称性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535433a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e449c-6f0b-11ee-a8c8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设集合 A={1,2,3},A 上的关系 R＝{(1,1),(2,2),(2,3),(3,2),(3,3)}，则 R 不具备______ \n“传递性 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：反对称性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535433a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e449d-6f0b-11ee-afd8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设集合 A={1,2,3},A 上的关系 R＝{(1,1),(2,2),(2,3),(3,2),(3,3)}，则 R 不具备______ \n“对称性 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：反对称性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535433a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e449e-6f0b-11ee-b75d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设集合 A={1,2,3},A 上的关系 R＝{(1,1),(2,2),(2,3),(3,2),(3,3)}，则 R 不具备______ \n“反对称性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：反对称性。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535440c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e449f-6f0b-11ee-8782-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 下列语句中，______是命题。\n“请把门关上 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：地球外的星球上也有人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535440c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a0-6f0b-11ee-bbe6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 下列语句中，______是命题。\n“地球外的星球上也有人”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：地球外的星球上也有人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535440c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a1-6f0b-11ee-9156-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 下列语句中，______是命题。\n“x + 5 > 6 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：地球外的星球上也有人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535440c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a2-6f0b-11ee-8708-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 下列语句中，______是命题。\n“下午有会吗？”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：地球外的星球上也有人。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354448-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a3-6f0b-11ee-9da4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "  若供选择答案中的数值表示一个简单图中各个顶点的度，能画出图的是______ \n“(1,2,2,3,4,5) ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：(1,1,1,2,3) 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354448-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a4-6f0b-11ee-b384-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "  若供选择答案中的数值表示一个简单图中各个顶点的度，能画出图的是______ \n“(1,2,3,4,5,5) ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：(1,1,1,2,3) 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354448-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a5-6f0b-11ee-a511-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "  若供选择答案中的数值表示一个简单图中各个顶点的度，能画出图的是______ \n“(1,1,1,2,3) ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：(1,1,1,2,3) 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354448-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a6-6f0b-11ee-a974-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "  若供选择答案中的数值表示一个简单图中各个顶点的度，能画出图的是______ \n“(2,3,3,4,5,6) ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：(1,1,1,2,3) 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354470-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a7-6f0b-11ee-b6f0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设集合 A = {1,2,3,4}, A 上的关系 R＝{(1,1),(2,3),(2,4),(3,4)}, 则 R 具有______。\n“自反性 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：传递性 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354470-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a8-6f0b-11ee-882b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设集合 A = {1,2,3,4}, A 上的关系 R＝{(1,1),(2,3),(2,4),(3,4)}, 则 R 具有______。\n“传递性 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：传递性 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354470-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44a9-6f0b-11ee-8aac-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设集合 A = {1,2,3,4}, A 上的关系 R＝{(1,1),(2,3),(2,4),(3,4)}, 则 R 具有______。\n“对称性 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：传递性 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354470-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44aa-6f0b-11ee-a123-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设集合 A = {1,2,3,4}, A 上的关系 R＝{(1,1),(2,3),(2,4),(3,4)}, 则 R 具有______。\n“以上答案都不对”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：传递性 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44ab-6f0b-11ee-b395-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "3  设 G 是连通平面图，有 5 个顶点，6 个面，则 G 的边数是______ \n“ 9 条 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 9 条 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44ac-6f0b-11ee-a11a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "3  设 G 是连通平面图，有 5 个顶点，6 个面，则 G 的边数是______ \n“ 5 条 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 9 条 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44ad-6f0b-11ee-9c07-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "3  设 G 是连通平面图，有 5 个顶点，6 个面，则 G 的边数是______ \n“ 6 条 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 9 条 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544a2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44ae-6f0b-11ee-9bdc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "3  设 G 是连通平面图，有 5 个顶点，6 个面，则 G 的边数是______ \n“ 11 条”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 9 条 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44af-6f0b-11ee-9dc3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "  设 G 是 5 个顶点的完全图，则从 G 中删去______条边可以得到树 \n“6 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：6 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b0-6f0b-11ee-bdf0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "  设 G 是 5 个顶点的完全图，则从 G 中删去______条边可以得到树 \n“5 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：6 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b1-6f0b-11ee-b3e8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "  设 G 是 5 个顶点的完全图，则从 G 中删去______条边可以得到树 \n“10 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：6 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544ca-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b2-6f0b-11ee-a813-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "  设 G 是 5 个顶点的完全图，则从 G 中删去______条边可以得到树 \n“4”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：6 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b3-6f0b-11ee-8bda-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 一个连通的无向图G,如果它的所有结点的度数都是偶数，那么它具有一条______\n“汉密尔顿回路”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 欧拉回路。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b4-6f0b-11ee-ae78-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 一个连通的无向图G,如果它的所有结点的度数都是偶数，那么它具有一条______\n“ 欧拉回路”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 欧拉回路。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b5-6f0b-11ee-81cf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 一个连通的无向图G,如果它的所有结点的度数都是偶数，那么它具有一条______\n“ 汉密尔顿通路”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 欧拉回路。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353544fc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b6-6f0b-11ee-8ce4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 一个连通的无向图G,如果它的所有结点的度数都是偶数，那么它具有一条______\n“ 初级回路”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 欧拉回路。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354524-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b7-6f0b-11ee-81af-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设G是连通简单平面图，G中有11个顶点5个面，则G中的边是______\n“10”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 14。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354524-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b8-6f0b-11ee-90d0-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设G是连通简单平面图，G中有11个顶点5个面，则G中的边是______\n“ 12”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 14。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354524-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44b9-6f0b-11ee-891c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设G是连通简单平面图，G中有11个顶点5个面，则G中的边是______\n“ 16”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 14。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354524-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44ba-6f0b-11ee-b841-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设G是连通简单平面图，G中有11个顶点5个面，则G中的边是______\n“ 14”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 14。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535454c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44bb-6f0b-11ee-a9ea-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设Z为整数集，A为集合，A的幂集为P,+、、/为数的加、减、除运算，∩为集合的交运算，下列系统中是代数系统的有______\n“<Z,+,/> ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： <P, ∩)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535454c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44bc-6f0b-11ee-97a7-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设Z为整数集，A为集合，A的幂集为P,+、、/为数的加、减、除运算，∩为集合的交运算，下列系统中是代数系统的有______\n“ <Z,/>”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： <P, ∩)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535454c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44bd-6f0b-11ee-be68-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设Z为整数集，A为集合，A的幂集为P,+、、/为数的加、减、除运算，∩为集合的交运算，下列系统中是代数系统的有______\n“ <Z,﹁,/> ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： <P, ∩)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535454c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44be-6f0b-11ee-8269-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设Z为整数集，A为集合，A的幂集为P,+、、/为数的加、减、除运算，∩为集合的交运算，下列系统中是代数系统的有______\n“ <P, ∩)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： <P, ∩)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535457e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44bf-6f0b-11ee-90bf-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 下列等值式不正确的是______\n“﹁ (∀x)A=(3xh A(x)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： (∃x)(A(x)AB(x))=(∃x)A(x)A(∃x)B(x)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535457e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c0-6f0b-11ee-9a6d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 下列等值式不正确的是______\n“ (∀x)(B→A(x))=B→(∀x)A(x)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： (∃x)(A(x)AB(x))=(∃x)A(x)A(∃x)B(x)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535457e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c1-6f0b-11ee-912d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 下列等值式不正确的是______\n“ (∃x)(A(x)AB(x))=(∃x)A(x)A(∃x)B(x)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： (∃x)(A(x)AB(x))=(∃x)A(x)A(∃x)B(x)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535457e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c2-6f0b-11ee-b7ea-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 下列等值式不正确的是______\n“ (∀x)(√y)(A(x)→B(y))=(∃x)A(x)→(∀y)B(y)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： (∃x)(A(x)AB(x))=(∃x)A(x)A(∃x)B(x)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353545b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c3-6f0b-11ee-a66c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 谓词公式(∃x)P(x,y)A(∀x)Q(x,z)→(∃x)(∀y)R(x,y,z)中量词√x的辖域是______\n“(∀x)Q(xz)→(∃x)(∀y)R(x,y,2))”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：  Q(x,z)→(∃x)(∀y)R(x,y,z)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353545b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c4-6f0b-11ee-956c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 谓词公式(∃x)P(x,y)A(∀x)Q(x,z)→(∃x)(∀y)R(x,y,z)中量词√x的辖域是______\n“  Q(x,z)→(∀y)R(x,Y,2)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：  Q(x,z)→(∃x)(∀y)R(x,y,z)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353545b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c5-6f0b-11ee-aa21-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 谓词公式(∃x)P(x,y)A(∀x)Q(x,z)→(∃x)(∀y)R(x,y,z)中量词√x的辖域是______\n“  Q(x,z)→(∃x)(∀y)R(x,y,z)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：  Q(x,z)→(∃x)(∀y)R(x,y,z)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353545b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c6-6f0b-11ee-ba13-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 谓词公式(∃x)P(x,y)A(∀x)Q(x,z)→(∃x)(∀y)R(x,y,z)中量词√x的辖域是______\n“  Q(x,z)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：  Q(x,z)→(∃x)(∀y)R(x,y,z)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353545e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c7-6f0b-11ee-bb7c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设R为实数集，函数f:R→R,f(x)=2°,则f是______\n“满射函数 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 入射函数。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353545e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c8-6f0b-11ee-846c-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设R为实数集，函数f:R→R,f(x)=2°,则f是______\n“ 入射函数”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： 入射函数。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353545e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44c9-6f0b-11ee-940b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设R为实数集，函数f:R→R,f(x)=2°,则f是______\n“ 双射函数 ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 入射函数。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353545e2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44ca-6f0b-11ee-9c78-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设R为实数集，函数f:R→R,f(x)=2°,则f是______\n“ 非入射非满射”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： 入射函数。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535460a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44cb-6f0b-11ee-802e-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设A={a,b,c,d},A上的等价关系R={<a,b>,<b,a>,<c,d>,<d,c>}Ula,则对应于R的A的划分是______\n“{,{b,c},{d}} ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： {(a,b),(c,d}}。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535460a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44cc-6f0b-11ee-8a9b-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设A={a,b,c,d},A上的等价关系R={<a,b>,<b,a>,<c,d>,<d,c>}Ula,则对应于R的A的划分是______\n“ {{a,b},{c),{d}}”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： {(a,b),(c,d}}。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535460a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44cd-6f0b-11ee-a7c6-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设A={a,b,c,d},A上的等价关系R={<a,b>,<b,a>,<c,d>,<d,c>}Ula,则对应于R的A的划分是______\n“ {{a),{b},{c},{d}} ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： {(a,b),(c,d}}。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535460a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44ce-6f0b-11ee-a621-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设A={a,b,c,d},A上的等价关系R={<a,b>,<b,a>,<c,d>,<d,c>}Ula,则对应于R的A的划分是______\n“ {(a,b),(c,d}}”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： {(a,b),(c,d}}。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535463c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44cf-6f0b-11ee-9925-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设A={d},B=P(P,以下正确的式子是______\n“{0,{Q}}∈B ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：{0,{Q}}∈B 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535463c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d0-6f0b-11ee-bfcc-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设A={d},B=P(P,以下正确的式子是______\n“ {{0,p}}∈B”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：{0,{Q}}∈B 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535463c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d1-6f0b-11ee-9e11-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设A={d},B=P(P,以下正确的式子是______\n“ {0},{{A}}}∈B ”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：{0,{Q}}∈B 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "3535463c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d2-6f0b-11ee-ad19-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设A={d},B=P(P,以下正确的式子是______\n“ {B,{{0}}}∈B”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：{0,{Q}}∈B 。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354664-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d3-6f0b-11ee-83e1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设X,Y,Z是集合，一是集合相对补运算，下列等式不正确的是______\n“(x﹁Y)﹁Z=X﹁(Y∩z)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：(x﹁Y)﹁Z=X﹁(Y∩z)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354664-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d4-6f0b-11ee-8653-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设X,Y,Z是集合，一是集合相对补运算，下列等式不正确的是______\n“ (X﹁Y)﹁Z=(X﹁Z)﹁Y”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：(x﹁Y)﹁Z=X﹁(Y∩z)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354664-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d5-6f0b-11ee-bc4d-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设X,Y,Z是集合，一是集合相对补运算，下列等式不正确的是______\n“ (X﹁Y)﹁Z=(X﹁Z)﹁(Y﹁Z)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：(x﹁Y)﹁Z=X﹁(Y∩z)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354664-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d6-6f0b-11ee-b853-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设X,Y,Z是集合，一是集合相对补运算，下列等式不正确的是______\n“ (X﹁Y)﹁Z=X﹁(YUZ)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：(x﹁Y)﹁Z=X﹁(Y∩z)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354696-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d7-6f0b-11ee-abf8-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设*是集合A上的二元运算，称Z是A上关于运算*的零元，若______\n“ ∀x∈A,有x*Z=Z*x=Z”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： Z∈A,且∀x∈A有x*Z=Z*x=Z。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354696-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d8-6f0b-11ee-9017-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设*是集合A上的二元运算，称Z是A上关于运算*的零元，若______\n“ Z∈A,且∀x∈A有x*Z=Z*x=Z”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： Z∈A,且∀x∈A有x*Z=Z*x=Z。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354696-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44d9-6f0b-11ee-b261-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设*是集合A上的二元运算，称Z是A上关于运算*的零元，若______\n“  Z∈A,且x∈A有x*Z=Z*x=x”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： Z∈A,且∀x∈A有x*Z=Z*x=Z。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "35354696-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44da-6f0b-11ee-bc69-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设*是集合A上的二元运算，称Z是A上关于运算*的零元，若______\n“ Z∈A,且∃x∈A有x*Z=Z*x=Z”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： Z∈A,且∀x∈A有x*Z=Z*x=Z。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353546be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44db-6f0b-11ee-bca4-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 在自然数集N上，下列定义的运算中不可结合的只有______\n“ a*b=min(a,b)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： a*b=a(mod b)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353546be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44dc-6f0b-11ee-a0fd-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 在自然数集N上，下列定义的运算中不可结合的只有______\n“  a*b=a+b”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： a*b=a(mod b)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353546be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44dd-6f0b-11ee-8c48-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 在自然数集N上，下列定义的运算中不可结合的只有______\n“ a*b=GCD(a,b)(a,b的最大公约数)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填： a*b=a(mod b)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353546be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44de-6f0b-11ee-bb1a-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 在自然数集N上，下列定义的运算中不可结合的只有______\n“ a*b=a(mod b)”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填： a*b=a(mod b)。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353546e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44df-6f0b-11ee-97f3-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设R为实数集，R'={x|x∈RAx>0},*是数的乘法运算，<R',*>是一个群，则下列集合关于数的乘法运算构成该群的子群的是______\n“{R'中的有理数}”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中应填：{R'中的有理数}。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353546e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44e0-6f0b-11ee-a8c1-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设R为实数集，R'={x|x∈RAx>0},*是数的乘法运算，<R',*>是一个群，则下列集合关于数的乘法运算构成该群的子群的是______\n“ {R'中的无理数}”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：{R'中的有理数}。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353546e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44e1-6f0b-11ee-bfde-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设R为实数集，R'={x|x∈RAx>0},*是数的乘法运算，<R',*>是一个群，则下列集合关于数的乘法运算构成该群的子群的是______\n“ {R'中的自然数}”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：{R'中的有理数}。"
+	},
+	{
+		"category": "理学",
+		"sub_category": "数学类",
+		"raw_uuid": "353546e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "b41e44e2-6f0b-11ee-b973-ac198ee41d16",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": " 设R为实数集，R'={x|x∈RAx>0},*是数的乘法运算，<R',*>是一个群，则下列集合关于数的乘法运算构成该群的子群的是______\n“ {1,2,3}”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中应填：{R'中的有理数}。"
+	}
+]

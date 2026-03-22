@@ -1,0 +1,7906 @@
+[
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8890c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68803b52-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "H-O 模型的基本假定不包括______。\n“生产要素可以在部门间自由流动”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：两个国家的消费偏好不同。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8890c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68804232-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "H-O 模型的基本假定不包括______。\n“两种商品的要素密集度不同”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：两个国家的消费偏好不同。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8890c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688044ee-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "H-O 模型的基本假定不包括______。\n“两个国家的要素丰裕度不同”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：两个国家的消费偏好不同。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8890c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880470a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "H-O 模型的基本假定不包括______。\n“两个国家的消费偏好不同”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：两个国家的消费偏好不同。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68804cbe-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际贸易中大国与小国的区别，是根据______。\n“GDP 的值”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：该国在某种产品的国际贸易中的重要程度。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68804f20-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际贸易中大国与小国的区别，是根据______。\n“人口和地域的大小”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：该国在某种产品的国际贸易中的重要程度。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68805100-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际贸易中大国与小国的区别，是根据______。\n“该国的贸易额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：该国在某种产品的国际贸易中的重要程度。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688052cc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际贸易中大国与小国的区别，是根据______。\n“该国在某种产品的国际贸易中的重要程度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：该国在某种产品的国际贸易中的重要程度。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68805650-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______显示出的是内部规模经济.。\n“广东顺德乐从镇的家具市场”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：美国的大型家庭农场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880584e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______显示出的是内部规模经济.。\n“天津的食街”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：美国的大型家庭农场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68805a88-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______显示出的是内部规模经济.。\n“香港作为亚洲的金融中心”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：美国的大型家庭农场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68805c4a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______显示出的是内部规模经济.。\n“美国的大型家庭农场”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：美国的大型家庭农场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68805fec-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国生产手表需 8 个劳动日，生产自行车需 9 个劳动日，印度生产手表和自行车分别需 12 和 10 个劳动日，根据比较优势学说，______。\n“中国宜生产和出口自行车”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：中国宜生产和出口手表。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688061ea-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国生产手表需 8 个劳动日，生产自行车需 9 个劳动日，印度生产手表和自行车分别需 12 和 10 个劳动日，根据比较优势学说，______。\n“中国宜生产和出口手表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：中国宜生产和出口手表。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688063f2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国生产手表需 8 个劳动日，生产自行车需 9 个劳动日，印度生产手表和自行车分别需 12 和 10 个劳动日，根据比较优势学说，______。\n“印度宜生产和出口手表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：中国宜生产和出口手表。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88a88-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68806a82-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国生产手表需 8 个劳动日，生产自行车需 9 个劳动日，印度生产手表和自行车分别需 12 和 10 个劳动日，根据比较优势学说，______。\n“印度不宜参加国际分工”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：中国宜生产和出口手表。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ab0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68806e88-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "新古典自由贸易理论的主要代表人物是______。\n“凯恩斯”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：俄林。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ab0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68807090-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "新古典自由贸易理论的主要代表人物是______。\n“亚当·斯密”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：俄林。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ab0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68807266-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "新古典自由贸易理论的主要代表人物是______。\n“俄林”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：俄林。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ab0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68807428-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "新古典自由贸易理论的主要代表人物是______。\n“李斯特”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：俄林。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ae2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880772a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "贸易保护主义的政策措施主要表现为______。\n“奖励出口”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：奖出限入。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ae2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68807914-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "贸易保护主义的政策措施主要表现为______。\n“限制进口”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：奖出限入。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ae2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68807ad6-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "贸易保护主义的政策措施主要表现为______。\n“奖出限入”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：奖出限入。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ae2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68807cd4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "贸易保护主义的政策措施主要表现为______。\n“禁止进口”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：奖出限入。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68808008-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "本国政府对进口产品征收反倾销税，将______。\n“有利于本国消费者”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：不利于本国消费者。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688081e8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "本国政府对进口产品征收反倾销税，将______。\n“不利于本国消费者”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：不利于本国消费者。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688083aa-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "本国政府对进口产品征收反倾销税，将______。\n“有利于外国厂商”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：不利于本国消费者。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b0a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68808562-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "本国政府对进口产品征收反倾销税，将______。\n“不利于本国厂商”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：不利于本国消费者。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68808882-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "WTO《倾销与反倾销协议》规定，构成商品倾销的条件之一是出口价格______。\n“低于同类产品的国际价值”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：低于出口国同类产品的国内市场价格。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68808aa8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "WTO《倾销与反倾销协议》规定，构成商品倾销的条件之一是出口价格______。\n“低于进口国同类产品的正常价值”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：低于出口国同类产品的国内市场价格。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68808cba-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "WTO《倾销与反倾销协议》规定，构成商品倾销的条件之一是出口价格______。\n“低于进口国同类产品的国内市场价格”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：低于出口国同类产品的国内市场价格。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b3c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68809192-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "WTO《倾销与反倾销协议》规定，构成商品倾销的条件之一是出口价格______。\n“低于出口国同类产品的国内市场价格”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：低于出口国同类产品的国内市场价格。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68809566-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国对薄荷脑进口征收的普通税率为每磅征 50 美分，最惠国税率为每磅征 17 美分，这种关税是______。\n“选择税”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：从量税。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880975a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国对薄荷脑进口征收的普通税率为每磅征 50 美分，最惠国税率为每磅征 17 美分，这种关税是______。\n“混合税”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：从量税。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68809912-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国对薄荷脑进口征收的普通税率为每磅征 50 美分，最惠国税率为每磅征 17 美分，这种关税是______。\n“从价税”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：从量税。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b64-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68809ac0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国对薄荷脑进口征收的普通税率为每磅征 50 美分，最惠国税率为每磅征 17 美分，这种关税是______。\n“从量税”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：从量税。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68809da4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "进口关税的纳税主体是______。\n“进口商”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：进口商。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68809f84-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "进口关税的纳税主体是______。\n“出口商”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：进口商。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880a132-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "进口关税的纳税主体是______。\n“出口产品生产企业”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：进口商。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88b8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880a34e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "进口关税的纳税主体是______。\n“本国零售商”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：进口商。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88bbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880a646-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国、日本等国规定进口酒精饮料的消费税大于本国制品，这种措施属于______。\n“关税壁垒”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：非关税壁垒。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88bbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880a81c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国、日本等国规定进口酒精饮料的消费税大于本国制品，这种措施属于______。\n“鼓励出口的措施”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：非关税壁垒。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88bbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880aa10-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国、日本等国规定进口酒精饮料的消费税大于本国制品，这种措施属于______。\n“非关税壁垒”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：非关税壁垒。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88bbe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880abc8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国、日本等国规定进口酒精饮料的消费税大于本国制品，这种措施属于______。\n“出口管制措施”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：非关税壁垒。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88bf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880aea2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国《1930 年关税法》中的“337 条款”是专门针对______问题的。\n“环境保护”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：知识产权保护。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88bf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880b0c8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国《1930 年关税法》中的“337 条款”是专门针对______问题的。\n“倾销”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：知识产权保护。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88bf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880b28a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国《1930 年关税法》中的“337 条款”是专门针对______问题的。\n“知识产权保护”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：知识产权保护。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88bf0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880b6f4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国《1930 年关税法》中的“337 条款”是专门针对______问题的。\n“补贴”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：知识产权保护。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880ba5a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据世界贸易组织的 TRIPS 协议，______不是与贸易有关的知识产权。\n“商标权”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：商品所有权。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880bd20-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据世界贸易组织的 TRIPS 协议，______不是与贸易有关的知识产权。\n“专利”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：商品所有权。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880bf28-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据世界贸易组织的 TRIPS 协议，______不是与贸易有关的知识产权。\n“商品所有权”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：商品所有权。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880c0ea-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据世界贸易组织的 TRIPS 协议，______不是与贸易有关的知识产权。\n“未披露信息的保护权”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：商品所有权。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880c554-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在一单散装货物出口贸易中，美方开来 L/C 规定，货物数量为 1500 公吨，总金额 120 万美元，未表明金额及数量可否伸缩，不准分批装运，根据《跟单信用证统一惯例》规定，卖方发货时应该掌握______。\n“数量和总金额均不能增减”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：数量可有 5%的伸缩，金额不得超过 120 万美元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880c748-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在一单散装货物出口贸易中，美方开来 L/C 规定，货物数量为 1500 公吨，总金额 120 万美元，未表明金额及数量可否伸缩，不准分批装运，根据《跟单信用证统一惯例》规定，卖方发货时应该掌握______。\n“数量和总金额均可在 5%幅度以内增减”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：数量可有 5%的伸缩，金额不得超过 120 万美元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880c93c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在一单散装货物出口贸易中，美方开来 L/C 规定，货物数量为 1500 公吨，总金额 120 万美元，未表明金额及数量可否伸缩，不准分批装运，根据《跟单信用证统一惯例》规定，卖方发货时应该掌握______。\n“数量和总金额均可在 10%幅度以内增减”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：数量可有 5%的伸缩，金额不得超过 120 万美元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880cb08-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在一单散装货物出口贸易中，美方开来 L/C 规定，货物数量为 1500 公吨，总金额 120 万美元，未表明金额及数量可否伸缩，不准分批装运，根据《跟单信用证统一惯例》规定，卖方发货时应该掌握______。\n“数量可有 5%的伸缩，金额不得超过 120 万美元”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：数量可有 5%的伸缩，金额不得超过 120 万美元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880cd10-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在一单散装货物出口贸易中，美方开来 L/C 规定，货物数量为 1500 公吨，总金额 120 万美元，未表明金额及数量可否伸缩，不准分批装运，根据《跟单信用证统一惯例》规定，卖方发货时应该掌握______。\n“数量可有 10%的伸缩，金额不得超过 120 万美元”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：数量可有 5%的伸缩，金额不得超过 120 万美元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880d012-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际多式联运是______。\n“由一个联运经营人负责货物的全程运输，运费按全程费率一次计收”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：由一个联运经营人负责货物的全程运输，运费按全程费率一次计收。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880d1fc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际多式联运是______。\n“由第一程承运人负责货物的全程运输，运费按全程费率一次计收”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：由一个联运经营人负责货物的全程运输，运费按全程费率一次计收。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880d3fa-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际多式联运是______。\n“由一个联运经营人负责货物的全程运输，运费按不同运输方式分段计收”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：由一个联运经营人负责货物的全程运输，运费按全程费率一次计收。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88c72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880d8a0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际多式联运是______。\n“由第一程承运人负责货物的全程运输，运费按不同运输方式分段计收”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：由一个联运经营人负责货物的全程运输，运费按全程费率一次计收。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ca4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880dc42-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在国际货物销售合同的商检条款中，关于检验时间与地点的规定方法，目前使用得最多的方法为______。\n“在出口国检验”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：在出口国检验，在进口国复验。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ca4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880de36-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在国际货物销售合同的商检条款中，关于检验时间与地点的规定方法，目前使用得最多的方法为______。\n“在进口国检验”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：在出口国检验，在进口国复验。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ca4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880dfee-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在国际货物销售合同的商检条款中，关于检验时间与地点的规定方法，目前使用得最多的方法为______。\n“在第三国检验”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：在出口国检验，在进口国复验。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ca4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880e19c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在国际货物销售合同的商检条款中，关于检验时间与地点的规定方法，目前使用得最多的方法为______。\n“在出口国检验，在进口国复验”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：在出口国检验，在进口国复验。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880e4b2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在凭卖方样品交易时，卖方为防止日后出现有关品质的异议，通常备份一些样品，以作为品质评定的依据。这些样品被称为______。\n“对等样品”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：留存复样。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880e692-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在凭卖方样品交易时，卖方为防止日后出现有关品质的异议，通常备份一些样品，以作为品质评定的依据。这些样品被称为______。\n“参考样品”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：留存复样。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880e854-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在凭卖方样品交易时，卖方为防止日后出现有关品质的异议，通常备份一些样品，以作为品质评定的依据。这些样品被称为______。\n“留存复样”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：留存复样。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d12-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880ea0c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在凭卖方样品交易时，卖方为防止日后出现有关品质的异议，通常备份一些样品，以作为品质评定的依据。这些样品被称为______。\n“回样”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：留存复样。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880ed2c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《联合国国际货物销售合同公约》，发盘内容“十分确定”应解释为______。\n“明确规定合同的有效期”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：明确货物、数量和价格。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880ef02-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《联合国国际货物销售合同公约》，发盘内容“十分确定”应解释为______。\n“规定交货地点和时间”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：明确货物、数量和价格。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880f132-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《联合国国际货物销售合同公约》，发盘内容“十分确定”应解释为______。\n“规定责任范围和解决争端的办法”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：明确货物、数量和价格。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d58-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880f2ea-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据《联合国国际货物销售合同公约》，发盘内容“十分确定”应解释为______。\n“明确货物、数量和价格”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：明确货物、数量和价格。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880f614-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "就卖方承担的费用而言，贸易术语排列顺序______是正确的。\n“FOB＞CFR＞CIF”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：CIF＞CFR＞FOB。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880fa6a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "就卖方承担的费用而言，贸易术语排列顺序______是正确的。\n“FOB＞CIF＞CFR”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：CIF＞CFR＞FOB。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880fc9a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "就卖方承担的费用而言，贸易术语排列顺序______是正确的。\n“CIF＞FOB＞CFR”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：CIF＞CFR＞FOB。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88d9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6880fe70-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "就卖方承担的费用而言，贸易术语排列顺序______是正确的。\n“CIF＞CFR＞FOB”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：CIF＞CFR＞FOB。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88dda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68810172-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出口生丝计算重量的方法通常是______。\n“毛重 gross weight”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：公量 conditional weight。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88dda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68810352-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出口生丝计算重量的方法通常是______。\n“净重 net weight”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：公量 conditional weight。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88dda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68810514-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出口生丝计算重量的方法通常是______。\n“公量 conditional weight”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：公量 conditional weight。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88dda-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688106cc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出口生丝计算重量的方法通常是______。\n“理论重量 theoretical weight”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：公量 conditional weight。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88e2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688109b0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在我国海运货物保险条款中，______是不能单独投保的险别。\n“平安险 FPA”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：战争险 War Risk。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88e2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68810b90-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在我国海运货物保险条款中，______是不能单独投保的险别。\n“战争险 War Risk”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：战争险 War Risk。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88e2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68810d52-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在我国海运货物保险条款中，______是不能单独投保的险别。\n“一切险 All Risk”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：战争险 War Risk。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88e2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68810f28-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在我国海运货物保险条款中，______是不能单独投保的险别。\n“水渍险 WPA”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：战争险 War Risk。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88e66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68811216-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "FOB 贸易术语中，如果买方愿意承担装货费用的话可以选______。\n“FOB liner term”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：FOB liner term。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88e66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68811432-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "FOB 贸易术语中，如果买方愿意承担装货费用的话可以选______。\n“FOB Trimmed”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：FOB liner term。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88e66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68811608-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "FOB 贸易术语中，如果买方愿意承担装货费用的话可以选______。\n“FOB Stowed”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：FOB liner term。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88e66-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688117b6-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "FOB 贸易术语中，如果买方愿意承担装货费用的话可以选______。\n“FOB Vessel”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：FOB liner term。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88eac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68811b1c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国某企业 8 月 13 日向国外某客户发盘，限 8 月 20 日复到有效。8 月 17 日接到对方复电称“你 13 日电接受，以获得进口许可证为准”。该接受______。\n“相当于还盘”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：相当于还盘。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88eac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68811fd6-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国某企业 8 月 13 日向国外某客户发盘，限 8 月 20 日复到有效。8 月 17 日接到对方复电称“你 13 日电接受，以获得进口许可证为准”。该接受______。\n“在我方缄默的情况下，则视为有效接受”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：相当于还盘。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88eac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68812206-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国某企业 8 月 13 日向国外某客户发盘，限 8 月 20 日复到有效。8 月 17 日接到对方复电称“你 13 日电接受，以获得进口许可证为准”。该接受______。\n“属于有效的接受”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：相当于还盘。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88eac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688123e6-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "我国某企业 8 月 13 日向国外某客户发盘，限 8 月 20 日复到有效。8 月 17 日接到对方复电称“你 13 日电接受，以获得进口许可证为准”。该接受______。\n“属于一份非实质性变更发盘条件的接受”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：相当于还盘。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ed4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688126fc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出国留学属于 GATS 规定的哪种服务贸易提供方式______。\n“跨境交付”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：境外消费。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ed4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688128f0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出国留学属于 GATS 规定的哪种服务贸易提供方式______。\n“境外消费”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：境外消费。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ed4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68812abc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出国留学属于 GATS 规定的哪种服务贸易提供方式______。\n“商业存在”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：境外消费。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88ed4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68812c74-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出国留学属于 GATS 规定的哪种服务贸易提供方式______。\n“自然人流动”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：境外消费。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68812f6c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "技术贸易可以采取许可证贸易的方式，一般而言，______要求被许可方交纳最高的转让费用。\n“分许可证协议”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：独占许可证协议。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68813160-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "技术贸易可以采取许可证贸易的方式，一般而言，______要求被许可方交纳最高的转让费用。\n“交叉许可证协议”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：独占许可证协议。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68813322-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "技术贸易可以采取许可证贸易的方式，一般而言，______要求被许可方交纳最高的转让费用。\n“独占许可证协议”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：独占许可证协议。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f06-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688134e4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "技术贸易可以采取许可证贸易的方式，一般而言，______要求被许可方交纳最高的转让费用。\n“排他性协议”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：独占许可证协议。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688137be-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "剔除价格变动的影响，比较确切地反映对外贸易规模的是______。\n“对外贸易量”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：对外贸易量。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881399e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "剔除价格变动的影响，比较确切地反映对外贸易规模的是______。\n“对外贸易额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：对外贸易量。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68813bce-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "剔除价格变动的影响，比较确切地反映对外贸易规模的是______。\n“进口额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：对外贸易量。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f4c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68813d9a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "剔除价格变动的影响，比较确切地反映对外贸易规模的是______。\n“出口额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：对外贸易量。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68814308-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关税同盟与自由贸易区的主要区别是______\n“共同关税与配额体系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：对生产要素流动限制政策的废除。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881454c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关税同盟与自由贸易区的主要区别是______\n“对生产要素流动限制政策的废除”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：对生产要素流动限制政策的废除。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88f7e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68814722-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关税同盟与自由贸易区的主要区别是______\n“经济政策与制度的协调和统一”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：对生产要素流动限制政策的废除。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88fa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68814a2e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "共同市场与完全经济一体化相比，前者未实现______。\n“生产要素在成员国之间的自由流动”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：统一的对外经济社会政策。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88fa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68814c7c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "共同市场与完全经济一体化相比，前者未实现______。\n“统一的对外关税政策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：统一的对外经济社会政策。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88fa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68814e48-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "共同市场与完全经济一体化相比，前者未实现______。\n“货物在成员国之间的自由流动”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：统一的对外经济社会政策。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88fa6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881500a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "共同市场与完全经济一体化相比，前者未实现______。\n“统一的对外经济社会政策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：统一的对外经济社会政策。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88fce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68815316-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "参加关税同盟的国家，其关境______。\n“大于国境”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：大于国境。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88fce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68815528-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "参加关税同盟的国家，其关境______。\n“小于国境”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：大于国境。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88fce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688156f4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "参加关税同盟的国家，其关境______。\n“等于国境”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：大于国境。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c88fce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881594c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "参加关税同盟的国家，其关境______。\n“关境与国境无关”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：大于国境。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89000-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68815c62-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "享受《洛美协定》特惠关税的国家主要是签署该协定的______。\n“发达国家”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：非洲、加勒比海和太平洋地区发展中国家。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89000-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68815e56-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "享受《洛美协定》特惠关税的国家主要是签署该协定的______。\n“发展中国家”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：非洲、加勒比海和太平洋地区发展中国家。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89000-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68816022-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "享受《洛美协定》特惠关税的国家主要是签署该协定的______。\n“亚非拉国家”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：非洲、加勒比海和太平洋地区发展中国家。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89000-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688161da-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "享受《洛美协定》特惠关税的国家主要是签署该协定的______。\n“非洲、加勒比海和太平洋地区发展中国家”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：非洲、加勒比海和太平洋地区发展中国家。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68816518-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "跨国公司也可以表述为______。\n“全球公司”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：多国企业。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688169a0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "跨国公司也可以表述为______。\n“国际公司”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：多国企业。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68816bc6-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "跨国公司也可以表述为______。\n“多国企业”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：多国企业。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68816d9c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "跨国公司也可以表述为______。\n“外国企业”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：多国企业。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89078-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688170bc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "海默（Hymer）关于多国企业的理论思想不包括______。\n“垄断优势论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：区位优势论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89078-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688172b0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "海默（Hymer）关于多国企业的理论思想不包括______。\n“消除冲突论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：区位优势论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89078-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68817472-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "海默（Hymer）关于多国企业的理论思想不包括______。\n“区位优势论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：区位优势论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89078-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68817634-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "海默（Hymer）关于多国企业的理论思想不包括______。\n“交易成本论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：区位优势论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c890a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68817922-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一种产品的竞争优势并非长期固定在某一个特定的国家，而是从技术发明国转向生产成本较低的国家，描述这一现象的理论是______。\n“要素禀赋理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：产品周期理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c890a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68817b0c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一种产品的竞争优势并非长期固定在某一个特定的国家，而是从技术发明国转向生产成本较低的国家，描述这一现象的理论是______。\n“产品周期理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：产品周期理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c890a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68817cd8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一种产品的竞争优势并非长期固定在某一个特定的国家，而是从技术发明国转向生产成本较低的国家，描述这一现象的理论是______。\n“比较优势理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：产品周期理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c890a0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68817e90-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一种产品的竞争优势并非长期固定在某一个特定的国家，而是从技术发明国转向生产成本较低的国家，描述这一现象的理论是______。\n“H-O 理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：产品周期理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c890d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881816a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在分析企业从事国际化商务活动的动机时，最主要的主动性动机是______。\n“获得市场份额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：获取利润。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c890d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68818354-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在分析企业从事国际化商务活动的动机时，最主要的主动性动机是______。\n“获得产品或技术优势”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：获取利润。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c890d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68818520-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在分析企业从事国际化商务活动的动机时，最主要的主动性动机是______。\n“获取利润”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：获取利润。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c890d2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688186e2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在分析企业从事国际化商务活动的动机时，最主要的主动性动机是______。\n“解决生产过剩”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：获取利润。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68818a02-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "买方信贷是指______。\n“出口方银行向本国出口商提供的贷款”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：出口方银行向外国进口商提供的贷款。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68818e1c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "买方信贷是指______。\n“出口方银行向外国进口商提供的贷款”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：出口方银行向外国进口商提供的贷款。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68819042-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "买方信贷是指______。\n“进口方银行向外国出口商提供的贷款”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：出口方银行向外国进口商提供的贷款。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89118-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881920e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "买方信贷是指______。\n“进口方银行向本国进口商提供的贷款”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：出口方银行向外国进口商提供的贷款。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68819510-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出口商装船后，如取得的提单上对所装货物的表面状况有不良批注，则该提单将成为______。\n“收妥备运提单”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：不清洁提单。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688196f0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出口商装船后，如取得的提单上对所装货物的表面状况有不良批注，则该提单将成为______。\n“不清洁提单”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：不清洁提单。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688198d0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出口商装船后，如取得的提单上对所装货物的表面状况有不良批注，则该提单将成为______。\n“清洁提单”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：不清洁提单。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89140-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68819a9c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "出口商装船后，如取得的提单上对所装货物的表面状况有不良批注，则该提单将成为______。\n“过期提单”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：不清洁提单。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68819db2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据 UCP600 的规定，信用证中负第一性付款责任的是______。\n“通知行 Advising bank”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：议付行 Negotiating bank。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68819fb0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据 UCP600 的规定，信用证中负第一性付款责任的是______。\n“议付行 Negotiating bank”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：议付行 Negotiating bank。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881a17c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据 UCP600 的规定，信用证中负第一性付款责任的是______。\n“申请人 Applicant”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：议付行 Negotiating bank。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89172-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881a33e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据 UCP600 的规定，信用证中负第一性付款责任的是______。\n“开证行 Issuing bank”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：议付行 Negotiating bank。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881a636-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国外汇储备最稳定和可靠的来源是______。\n“中央银行干预外汇市场收进的外汇”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经常账户收支顺差。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881a866-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国外汇储备最稳定和可靠的来源是______。\n“政府或中央银行在国际金融市场上发债借入的外汇”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经常账户收支顺差。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881aa46-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国外汇储备最稳定和可靠的来源是______。\n“经常账户收支顺差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：经常账户收支顺差。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891a4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881ac08-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国外汇储备最稳定和可靠的来源是______。\n“资本金融账户收支顺差”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经常账户收支顺差。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881af0a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“三元悖论”是克鲁格曼就开放经济下的政策选择问题提出的，其含义是有三个目标不能够同时实现，其中不包括______。\n“货币政策的独立性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经济的增长性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881b360-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“三元悖论”是克鲁格曼就开放经济下的政策选择问题提出的，其含义是有三个目标不能够同时实现，其中不包括______。\n“经济的增长性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：经济的增长性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881b586-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“三元悖论”是克鲁格曼就开放经济下的政策选择问题提出的，其含义是有三个目标不能够同时实现，其中不包括______。\n“汇率的稳定性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经济的增长性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881b784-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“三元悖论”是克鲁格曼就开放经济下的政策选择问题提出的，其含义是有三个目标不能够同时实现，其中不包括______。\n“资本的完全流动性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经济的增长性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881ba90-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "特里芬难题所指的问题是______。\n“调整国际收支运用的货币政策与财政政策追求的目的相矛盾”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：美元信誉与国际清偿能力供应相矛盾。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881bc84-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "特里芬难题所指的问题是______。\n“本币贬值以扩大出口与改善本国通货膨胀相矛盾”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：美元信誉与国际清偿能力供应相矛盾。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881be5a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "特里芬难题所指的问题是______。\n“美元信誉与国际清偿能力供应相矛盾”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：美元信誉与国际清偿能力供应相矛盾。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c891fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881c01c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "特里芬难题所指的问题是______。\n“国债规模与经济发展速度相矛盾”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：美元信誉与国际清偿能力供应相矛盾。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881c332-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在利率互换中，交易双方到期互相支付对方的______。\n“借款本金”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：借款利息。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881c51c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在利率互换中，交易双方到期互相支付对方的______。\n“借款利息”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：借款利息。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881c6de-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在利率互换中，交易双方到期互相支付对方的______。\n“借款手续费”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：借款利息。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89226-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881c8dc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在利率互换中，交易双方到期互相支付对方的______。\n“借款本利和”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：借款利息。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881cbd4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "杭州出口商 A 公司与美国进口商 B 公司签订了一笔价值 170 万美元的合同，三个月后付款时，A 公司发现人民币升值了，则 A 公司的收入与合同签订时相比______。\n“减少”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：减少。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881cdc8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "杭州出口商 A 公司与美国进口商 B 公司签订了一笔价值 170 万美元的合同，三个月后付款时，A 公司发现人民币升值了，则 A 公司的收入与合同签订时相比______。\n“增加”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：减少。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881cf8a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "杭州出口商 A 公司与美国进口商 B 公司签订了一笔价值 170 万美元的合同，三个月后付款时，A 公司发现人民币升值了，则 A 公司的收入与合同签订时相比______。\n“没有变化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：减少。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89258-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881d14c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "杭州出口商 A 公司与美国进口商 B 公司签订了一笔价值 170 万美元的合同，三个月后付款时，A 公司发现人民币升值了，则 A 公司的收入与合同签订时相比______。\n“无法判断”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：减少。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8928a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881d656-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外汇风险不包括______。\n“折算风险”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：收益风险。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8928a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881d890-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外汇风险不包括______。\n“收益风险”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：收益风险。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8928a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881da66-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外汇风险不包括______。\n“经济风险”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：收益风险。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8928a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881dc28-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外汇风险不包括______。\n“交易风险”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：收益风险。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c892b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881df5c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "相同外汇品种的远期外汇交易与外汇期货交易的关键区别体现在______。\n“交易时间”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：交易目的。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c892b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881e182-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "相同外汇品种的远期外汇交易与外汇期货交易的关键区别体现在______。\n“交易对象”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：交易目的。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c892b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881e34e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "相同外汇品种的远期外汇交易与外汇期货交易的关键区别体现在______。\n“交易目的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：交易目的。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c892b2-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881e506-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "相同外汇品种的远期外汇交易与外汇期货交易的关键区别体现在______。\n“能否交割”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：交易目的。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c892f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881e7f4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为外汇的资产必须具备的三个特征是______。\n“安全性、流动性、盈利性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：自由兑换性、普遍接受性、可偿性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c892f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881ea10-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为外汇的资产必须具备的三个特征是______。\n“可得性、流动性、普遍接受性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：自由兑换性、普遍接受性、可偿性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c892f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881ebd2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为外汇的资产必须具备的三个特征是______。\n“自由兑换性、普遍接受性、可偿性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：自由兑换性、普遍接受性、可偿性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c892f8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881ed8a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "作为外汇的资产必须具备的三个特征是______。\n“可得性、自由兑换性、保值性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：自由兑换性、普遍接受性、可偿性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881f08c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "政府对外汇市场的干预，按是否引起货币供应量的变化，可分为：______。\n“直接干预与间接干预”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：冲销式干预与非冲销式干预。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881f2bc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "政府对外汇市场的干预，按是否引起货币供应量的变化，可分为：______。\n“熨平每日波动型干预与逆向型干预”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：冲销式干预与非冲销式干预。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881f564-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "政府对外汇市场的干预，按是否引起货币供应量的变化，可分为：______。\n“单边干预与联合干预”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：冲销式干预与非冲销式干预。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89348-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881f758-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "政府对外汇市场的干预，按是否引起货币供应量的变化，可分为：______。\n“冲销式干预与非冲销式干预”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：冲销式干预与非冲销式干预。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89370-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881fcbc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外汇管制作为一种国家采取的控制手段，达到的主要目的是______。\n“限制商品流动”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：限制进口。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89370-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881feb0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外汇管制作为一种国家采取的控制手段，达到的主要目的是______。\n“限制出口”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：限制进口。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89370-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6881ffc8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外汇管制作为一种国家采取的控制手段，达到的主要目的是______。\n“限制进口”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：限制进口。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89370-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688200b8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "外汇管制作为一种国家采取的控制手段，达到的主要目的是______。\n“限制投资”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：限制进口。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c893b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68820248-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在两国短期利率存在差距的情况下，高利率国家货币的远期汇率一般会呈现______。\n“升水”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：贴水。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c893b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882034c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在两国短期利率存在差距的情况下，高利率国家货币的远期汇率一般会呈现______。\n“贴水”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：贴水。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c893b6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68820446-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在两国短期利率存在差距的情况下，高利率国家货币的远期汇率一般会呈现______。\n“平价”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：贴水。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c893de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688205d6-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于货币自由兑换的条件。\n“健康的宏观经济状况”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：强有力的政府监管。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c893de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688206e4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于货币自由兑换的条件。\n“健全的宏观调控能力”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：强有力的政府监管。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c893de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688207d4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于货币自由兑换的条件。\n“强有力的政府监管”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：强有力的政府监管。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c893de-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688208c4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______不属于货币自由兑换的条件。\n“恰当的汇率制度与汇率水平”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：强有力的政府监管。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89410-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68820a68-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了选择有利的货币进行计价和结算，出口时和进口时应分别采用______。\n“软币，硬币”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：硬币，软币。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89410-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68820b6c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了选择有利的货币进行计价和结算，出口时和进口时应分别采用______。\n“硬币，硬币”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：硬币，软币。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89410-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68820c5c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了选择有利的货币进行计价和结算，出口时和进口时应分别采用______。\n“软币，软币”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：硬币，软币。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89410-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68820d4c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "为了选择有利的货币进行计价和结算，出口时和进口时应分别采用______。\n“硬币，软币”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：硬币，软币。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68820ed2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国某公司在新加坡发行美元债券，此种债券属于______。\n“欧洲债券”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：欧洲债券。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68821166-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国某公司在新加坡发行美元债券，此种债券属于______。\n“外国债券”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：欧洲债券。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68821292-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国某公司在新加坡发行美元债券，此种债券属于______。\n“武士债券”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：欧洲债券。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89442-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882138c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国某公司在新加坡发行美元债券，此种债券属于______。\n“扬基债券”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：欧洲债券。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8946a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68821526-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与货币市场相比，资本市场具有______的特点。\n“流动性好”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：风险高。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8946a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882162a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与货币市场相比，资本市场具有______的特点。\n“期限短”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：风险高。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8946a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882171a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与货币市场相比，资本市场具有______的特点。\n“收益低”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：风险高。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8946a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882180a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "与货币市场相比，资本市场具有______的特点。\n“风险高”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：风险高。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8949c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688219ea-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "欧洲货币市场是______。\n“经营欧洲货币单位的国家金融市场”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经营境外货币的国际金融市场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8949c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68821aee-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "欧洲货币市场是______。\n“经营欧洲国家货币的国际金融市场”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经营境外货币的国际金融市场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8949c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68821bde-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "欧洲货币市场是______。\n“欧洲国家国际金融市场的总称”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经营境外货币的国际金融市场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8949c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68821cd8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "欧洲货币市场是______。\n“经营境外货币的国际金融市场”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：经营境外货币的国际金融市场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c894ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68821e5e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "跨国营销需要特别考虑的那些影响广告与促销策略的因素不包括______。\n“法律限制因素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：财务限制因素。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c894ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68821f58-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "跨国营销需要特别考虑的那些影响广告与促销策略的因素不包括______。\n“媒体限制因素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：财务限制因素。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c894ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882207a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "跨国营销需要特别考虑的那些影响广告与促销策略的因素不包括______。\n“财务限制因素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：财务限制因素。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c894ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822174-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "跨国营销需要特别考虑的那些影响广告与促销策略的因素不包括______。\n“广告受众限制因素”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：财务限制因素。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89500-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822304-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "营销中的 4C 组合不包括______。\n“comfort”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：comfort。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89500-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822552-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "营销中的 4C 组合不包括______。\n“customer solution”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：comfort。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89500-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882267e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "营销中的 4C 组合不包括______。\n“cost”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：comfort。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89500-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822778-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "营销中的 4C 组合不包括______。\n“communication”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：comfort。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822958-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "表述______是正确的。\n“绝对优势理论强调黄金和白银是国家财富的主要支撑，对充满活力的商业是非常重要的”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：比较优势理论传达的基本信息是无限制的自由贸易比限制的贸易创造更多的世界生产量。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822a66-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "表述______是正确的。\n“正和博弈指博弈中一个国家盈利而另一个国家受损”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：比较优势理论传达的基本信息是无限制的自由贸易比限制的贸易创造更多的世界生产量。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822b6a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "表述______是正确的。\n“比较优势理论传达的基本信息是无限制的自由贸易比限制的贸易创造更多的世界生产量”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：比较优势理论传达的基本信息是无限制的自由贸易比限制的贸易创造更多的世界生产量。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89528-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822c5a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "表述______是正确的。\n“要素禀赋仅包括各国拥有劳动力和资金资源的程度，而不包括拥有土地的程度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：比较优势理论传达的基本信息是无限制的自由贸易比限制的贸易创造更多的世界生产量。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8955a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822e12-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在李嘉图的比较优势论中，国际贸易产生的原因是由于两国的______。\n“绝对劳动生产率差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：相对劳动生产率差异。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8955a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68822f20-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在李嘉图的比较优势论中，国际贸易产生的原因是由于两国的______。\n“相对劳动生产率差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：相对劳动生产率差异。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8955a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882301a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在李嘉图的比较优势论中，国际贸易产生的原因是由于两国的______。\n“绝对生产要素禀赋差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：相对劳动生产率差异。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8955a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882310a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在李嘉图的比较优势论中，国际贸易产生的原因是由于两国的______。\n“相对生产要素禀赋差异”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：相对劳动生产率差异。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8958c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882329a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "提出比较成本说的古典经济学家是______。\n“亚当·斯密”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：大卫·李嘉图。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8958c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882339e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "提出比较成本说的古典经济学家是______。\n“大卫·李嘉图”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：大卫·李嘉图。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8958c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882348e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "提出比较成本说的古典经济学家是______。\n“赫克歇尔”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：大卫·李嘉图。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8958c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68823574-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "提出比较成本说的古典经济学家是______。\n“俄林”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：大卫·李嘉图。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c895b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68823876-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是新贸易理论所阐述的重要的贸易得益。\n“企业规模经济效应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：企业规模经济效应。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c895b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688239ac-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是新贸易理论所阐述的重要的贸易得益。\n“出口学习效应”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：企业规模经济效应。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c895b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68823aa6-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是新贸易理论所阐述的重要的贸易得益。\n“进口种类增加”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：企业规模经济效应。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c895b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68823b96-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______是新贸易理论所阐述的重要的贸易得益。\n“行业生产率提高”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：企业规模经济效应。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c895e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68823d30-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调贸易保护有助于创造“财富生产力”的理论是______。\n“重商主义”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：幼稚产业保护理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c895e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68823e2a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调贸易保护有助于创造“财富生产力”的理论是______。\n“幼稚产业保护理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：幼稚产业保护理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c895e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68823f2e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调贸易保护有助于创造“财富生产力”的理论是______。\n“贸易乘数理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：幼稚产业保护理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c895e6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824028-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "强调贸易保护有助于创造“财富生产力”的理论是______。\n“战略性贸易政策理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：幼稚产业保护理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89618-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824280-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若甲国和乙国在同一劳动时间内分别生产10米毛呢、15米麻布和10米毛呢、30米麻布，那么，基于比较优势原则的分工格局为______。\n“甲国生产并出口麻布”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：乙国生产并出口麻布。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89618-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688243a2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若甲国和乙国在同一劳动时间内分别生产10米毛呢、15米麻布和10米毛呢、30米麻布，那么，基于比较优势原则的分工格局为______。\n“乙国生产并出口麻布”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：乙国生产并出口麻布。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89618-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882449c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若甲国和乙国在同一劳动时间内分别生产10米毛呢、15米麻布和10米毛呢、30米麻布，那么，基于比较优势原则的分工格局为______。\n“乙国生产并出口毛呢”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：乙国生产并出口麻布。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89618-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824582-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "若甲国和乙国在同一劳动时间内分别生产10米毛呢、15米麻布和10米毛呢、30米麻布，那么，基于比较优势原则的分工格局为______。\n“两国无法进行贸易”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：乙国生产并出口麻布。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89640-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824708-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“福利恶化型增长”的主要原因是______。\n“贸易条件恶化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：贸易条件恶化。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89640-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824802-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“福利恶化型增长”的主要原因是______。\n“贸易条件改善”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：贸易条件恶化。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89640-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824910-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“福利恶化型增长”的主要原因是______。\n“本国货币贬值”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：贸易条件恶化。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89640-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824b90-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "“福利恶化型增长”的主要原因是______。\n“本国货币升值”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：贸易条件恶化。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89668-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824d7a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果甲国生产一只手表需要8个劳动日，生产一辆自行车需要9个劳动日，乙国生产手表和自行车分别需要13个和11 个劳动日，根据比较优势学说，______。\n“甲国应该集中生产和出口手表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：甲国应该集中生产和出口手表。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89668-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824e88-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果甲国生产一只手表需要8个劳动日，生产一辆自行车需要9个劳动日，乙国生产手表和自行车分别需要13个和11 个劳动日，根据比较优势学说，______。\n“甲国应该集中生产和出口自行车”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：甲国应该集中生产和出口手表。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89668-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68824f82-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果甲国生产一只手表需要8个劳动日，生产一辆自行车需要9个劳动日，乙国生产手表和自行车分别需要13个和11 个劳动日，根据比较优势学说，______。\n“乙国应该集中生产和出口手表”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：甲国应该集中生产和出口手表。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89668-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68825072-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "如果甲国生产一只手表需要8个劳动日，生产一辆自行车需要9个劳动日，乙国生产手表和自行车分别需要13个和11 个劳动日，根据比较优势学说，______。\n“乙国不宜参加社会分工”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：甲国应该集中生产和出口手表。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8969a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68825216-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______放弃了完全竞争的商品市场假设。\n“绝对优势贸易模型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：规模经济贸易模型。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8969a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882531a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______放弃了完全竞争的商品市场假设。\n“比较优势贸易模型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：规模经济贸易模型。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8969a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68825414-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______放弃了完全竞争的商品市场假设。\n“H-O贸易模型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：规模经济贸易模型。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8969a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688254fa-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______放弃了完全竞争的商品市场假设。\n“规模经济贸易模型”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：规模经济贸易模型。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c896cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882569e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "幼稚产业保护理论提出保护幼稚产业的措施是______。\n“配额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：关税。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c896cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688257ac-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "幼稚产业保护理论提出保护幼稚产业的措施是______。\n“关税”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：关税。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c896cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882589c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "幼稚产业保护理论提出保护幼稚产业的措施是______。\n“进口许可证”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：关税。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c896cc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68825982-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "幼稚产业保护理论提出保护幼稚产业的措施是______。\n“产品技术标准”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：关税。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c896fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68825b12-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "认为被保护的产业必须有成长的潜力，必须有潜在的、通过成长能发挥出来的比较优势是______的前提条件之一。\n“保护幼稚工业论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：保护幼稚工业论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c896fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68825c0c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "认为被保护的产业必须有成长的潜力，必须有潜在的、通过成长能发挥出来的比较优势是______的前提条件之一。\n“增加政府收入论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：保护幼稚工业论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c896fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68825e5a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "认为被保护的产业必须有成长的潜力，必须有潜在的、通过成长能发挥出来的比较优势是______的前提条件之一。\n“民族自尊论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：保护幼稚工业论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c896fe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68825f86-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "认为被保护的产业必须有成长的潜力，必须有潜在的、通过成长能发挥出来的比较优势是______的前提条件之一。\n“就业保护论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：保护幼稚工业论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8973a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882612a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际定价中，受到进口国贸易政策规制的对象是______。\n“倾销”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：倾销。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8973a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826238-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际定价中，受到进口国贸易政策规制的对象是______。\n“转移定价”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：倾销。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8973a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826328-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际定价中，受到进口国贸易政策规制的对象是______。\n“垄断高价”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：倾销。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8973a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826418-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际定价中，受到进口国贸易政策规制的对象是______。\n“平行进口”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：倾销。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8976c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688265a8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "垄断组织在控制国内市场的条件下，以低于国内市场的价格，在国外市场销售产品的行为是______。\n“商品倾销”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：商品倾销。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8976c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688266ac-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "垄断组织在控制国内市场的条件下，以低于国内市场的价格，在国外市场销售产品的行为是______。\n“价格垄断”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：商品倾销。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8976c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882679c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "垄断组织在控制国内市场的条件下，以低于国内市场的价格，在国外市场销售产品的行为是______。\n“外汇倾销”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：商品倾销。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8976c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826882-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "垄断组织在控制国内市场的条件下，以低于国内市场的价格，在国外市场销售产品的行为是______。\n“价格战”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：商品倾销。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89794-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826a12-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普惠制的三大原则是______。\n“非歧视性、普遍性和非互惠性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：非歧视性、普遍性和非互惠性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89794-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826b0c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普惠制的三大原则是______。\n“非歧视性、普遍性和互惠性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：非歧视性、普遍性和非互惠性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89794-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826bfc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普惠制的三大原则是______。\n“非歧视性、非普遍性和非互惠性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：非歧视性、普遍性和非互惠性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89794-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826cec-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "普惠制的三大原则是______。\n“歧视性、非普遍性和非互惠性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：非歧视性、普遍性和非互惠性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c897c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826e7c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在当代国际经济社会中征收关税的主要目的是______。\n“增加政府财政收入”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：保护本国的生产和市场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c897c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68826f76-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在当代国际经济社会中征收关税的主要目的是______。\n“提高消费者福利水平”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：保护本国的生产和市场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c897c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688271c4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在当代国际经济社会中征收关税的主要目的是______。\n“保护本国的生产和市场”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：保护本国的生产和市场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c897c6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688272f0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在当代国际经济社会中征收关税的主要目的是______。\n“限制消费者消费”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：保护本国的生产和市场。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c897ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882749e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国政府对进口产品实施安全标准和环保标准等，这类进口管理措施属于______。\n“技术性贸易措施”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：技术性贸易措施。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c897ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688275a2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国政府对进口产品实施安全标准和环保标准等，这类进口管理措施属于______。\n“配额管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：技术性贸易措施。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c897ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68827692-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国政府对进口产品实施安全标准和环保标准等，这类进口管理措施属于______。\n“许可证管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：技术性贸易措施。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c897ee-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68827782-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国政府对进口产品实施安全标准和环保标准等，这类进口管理措施属于______。\n“装船前检验”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：技术性贸易措施。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89820-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68827912-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前，非关税壁垒和关税壁垒在国际贸易中的变化趋势是______。\n“关税壁垒和非关税壁垒均日益加强”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：重点由关税壁垒转向非关税壁垒。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89820-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68827a0c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前，非关税壁垒和关税壁垒在国际贸易中的变化趋势是______。\n“关税壁垒和非关税壁垒均日益削弱”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：重点由关税壁垒转向非关税壁垒。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89820-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68827afc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前，非关税壁垒和关税壁垒在国际贸易中的变化趋势是______。\n“关税措施加强，非关税壁垒削弱”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：重点由关税壁垒转向非关税壁垒。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89820-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68827bec-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前，非关税壁垒和关税壁垒在国际贸易中的变化趋势是______。\n“重点由关税壁垒转向非关税壁垒”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：重点由关税壁垒转向非关税壁垒。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89848-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68827d90-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国对某些商品的进口数量或金额规定一个高额数，达到这个数额后，便不准进口，这种方式是______。\n““自动”出口配额制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：绝对配额。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89848-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68827e94-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国对某些商品的进口数量或金额规定一个高额数，达到这个数额后，便不准进口，这种方式是______。\n“绝对配额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：绝对配额。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89848-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68827f84-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国对某些商品的进口数量或金额规定一个高额数，达到这个数额后，便不准进口，这种方式是______。\n“关税配额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：绝对配额。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89848-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68828074-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国对某些商品的进口数量或金额规定一个高额数，达到这个数额后，便不准进口，这种方式是______。\n“国别配额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：绝对配额。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8987a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688281fa-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从一国对外贸易角度来说，______是指一国对外贸易额的地区分布和国别分布的状况。\n“贸易的商品结构”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：贸易的地理方向。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8987a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882842a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从一国对外贸易角度来说，______是指一国对外贸易额的地区分布和国别分布的状况。\n“贸易条件”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：贸易的地理方向。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8987a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68828556-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从一国对外贸易角度来说，______是指一国对外贸易额的地区分布和国别分布的状况。\n“贸易的地理方向”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：贸易的地理方向。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8987a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68828646-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "从一国对外贸易角度来说，______是指一国对外贸易额的地区分布和国别分布的状况。\n“贸易差额”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：贸易的地理方向。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c898ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688287fe-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对外贸易依存度反映的是______。\n“一国国民经济发展对进出口贸易的依赖程度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：一国国民经济发展对进出口贸易的依赖程度。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c898ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882890c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对外贸易依存度反映的是______。\n“一国国民经济发展对出口贸易的依赖程度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：一国国民经济发展对进出口贸易的依赖程度。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c898ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688289fc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对外贸易依存度反映的是______。\n“一国国民经济发展对进口贸易的依赖程度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：一国国民经济发展对进出口贸易的依赖程度。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c898ac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68828aec-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "对外贸易依存度反映的是______。\n“一国对外贸易发展对国民经济的依赖的程度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：一国国民经济发展对进出口贸易的依赖程度。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c898d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68828c72-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "转口贸易又称______。\n“间接贸易”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：间接贸易。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c898d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68828d76-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "转口贸易又称______。\n“进口贸易”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：间接贸易。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c898d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68828eac-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "转口贸易又称______。\n“出口贸易”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：间接贸易。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c898d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68828f92-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "转口贸易又称______。\n“对外贸易”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：间接贸易。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89906-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68829190-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "A公司向国外客户发盘，限3月15日复到有效，3月12日接到对方复电：“你9日电接受，但以获得进口许可为准。”该接受实际上是______。\n“还盘counter-offer”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：还盘counter-offer。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89906-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688292a8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "A公司向国外客户发盘，限3月15日复到有效，3月12日接到对方复电：“你9日电接受，但以获得进口许可为准。”该接受实际上是______。\n“接受acceptance”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：还盘counter-offer。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89906-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68829398-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "A公司向国外客户发盘，限3月15日复到有效，3月12日接到对方复电：“你9日电接受，但以获得进口许可为准。”该接受实际上是______。\n“逾期接受late acceptance”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：还盘counter-offer。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89906-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68829492-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "A公司向国外客户发盘，限3月15日复到有效，3月12日接到对方复电：“你9日电接受，但以获得进口许可为准。”该接受实际上是______。\n“如沉默则为接受acceptance if A keeps silence”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：还盘counter-offer。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8992e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688297bc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的方式不属于国际服务贸易的提供方式。\n“跨境交付”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：移民。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8992e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688298f2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的方式不属于国际服务贸易的提供方式。\n“过境消费”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：移民。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8992e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68829a00-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的方式不属于国际服务贸易的提供方式。\n“自然人流动”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：移民。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8992e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68829b04-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的方式不属于国际服务贸易的提供方式。\n“移民”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：移民。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c8992e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68829bfe-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______的方式不属于国际服务贸易的提供方式。\n“商业存在”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：移民。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89960-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68829d98-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国的公司到国外开办银行、商店，设立会计师、律师事务所等，是一种______国际服务贸易方式。\n“跨境提供方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：商业存在方式。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89960-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68829ee2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国的公司到国外开办银行、商店，设立会计师、律师事务所等，是一种______国际服务贸易方式。\n“国外消费方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：商业存在方式。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89960-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68829fdc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国的公司到国外开办银行、商店，设立会计师、律师事务所等，是一种______国际服务贸易方式。\n“商业存在方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：商业存在方式。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89960-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882a0c2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一国的公司到国外开办银行、商店，设立会计师、律师事务所等，是一种______国际服务贸易方式。\n“自然人存在方式”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：商业存在方式。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89992-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882a27a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在GATT延续的48年历史中一共主持了八轮多边贸易谈判，其中首次涉及到非关税措施问题的是______。\n“狄龙回合”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：肯尼迪回合。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89992-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882a37e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在GATT延续的48年历史中一共主持了八轮多边贸易谈判，其中首次涉及到非关税措施问题的是______。\n“肯尼迪回合”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：肯尼迪回合。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89992-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882a46e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在GATT延续的48年历史中一共主持了八轮多边贸易谈判，其中首次涉及到非关税措施问题的是______。\n“东京回合”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：肯尼迪回合。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89992-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882a55e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在GATT延续的48年历史中一共主持了八轮多边贸易谈判，其中首次涉及到非关税措施问题的是______。\n“乌拉圭回合”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：肯尼迪回合。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c899c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882a6ee-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据WTO的______，缔约国一方保证缔约国另一方的公民、企业、商船在本国境内享有不低于本国公司、企业、商船的民事权利。\n“互惠互利原则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：国民待遇原则。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c899c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882a7f2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据WTO的______，缔约国一方保证缔约国另一方的公民、企业、商船在本国境内享有不低于本国公司、企业、商船的民事权利。\n“透明性原则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：国民待遇原则。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c899c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882aa36-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据WTO的______，缔约国一方保证缔约国另一方的公民、企业、商船在本国境内享有不低于本国公司、企业、商船的民事权利。\n“公平竞争原则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：国民待遇原则。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c899c4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ab62-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "根据WTO的______，缔约国一方保证缔约国另一方的公民、企业、商船在本国境内享有不低于本国公司、企业、商船的民事权利。\n“国民待遇原则”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：国民待遇原则。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c899f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ad38-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国于______加入世界贸易组织（WTO），加快了贸易自由化和融入经济全球化的进程。\n“2001年10月11日”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：2001年12月11日。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c899f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ae46-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国于______加入世界贸易组织（WTO），加快了贸易自由化和融入经济全球化的进程。\n“2001年11月11日”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：2001年12月11日。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c899f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882af40-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国于______加入世界贸易组织（WTO），加快了贸易自由化和融入经济全球化的进程。\n“2001年12月11日”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：2001年12月11日。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c899f6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882b03a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "中国于______加入世界贸易组织（WTO），加快了贸易自由化和融入经济全球化的进程。\n“2002年11月11日”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：2001年12月11日。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882b1ca-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在经济一体化形式中，______是经济一体化的最低阶段。\n“经济联盟”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：自由贸易区。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882b2ce-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在经济一体化形式中，______是经济一体化的最低阶段。\n“自由贸易区”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：自由贸易区。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882b3c8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在经济一体化形式中，______是经济一体化的最低阶段。\n“关税同盟”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：自由贸易区。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882b4b8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在经济一体化形式中，______是经济一体化的最低阶段。\n“共同市场”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：自由贸易区。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882b63e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______阶段是经济一体化的最高层次。\n“自由贸易区”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经济联盟。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882b742-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______阶段是经济一体化的最高层次。\n“经济联盟”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：经济联盟。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882b832-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______阶段是经济一体化的最高层次。\n“关税同盟”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经济联盟。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a5a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882b922-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "______阶段是经济一体化的最高层次。\n“共同市场”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：经济联盟。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882babc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国总统奥巴马于2009年底明确表示，美国将正式加入______谈判，从而全面介入亚太区域一体化进程。\n“亚太经合组织（APEC）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：“跨太平洋战略经济伙伴协定”（简称TPP）。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882bbc0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国总统奥巴马于2009年底明确表示，美国将正式加入______谈判，从而全面介入亚太区域一体化进程。\n““跨太平洋战略经济伙伴协定”（简称TPP）”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：“跨太平洋战略经济伙伴协定”（简称TPP）。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882be5e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国总统奥巴马于2009年底明确表示，美国将正式加入______谈判，从而全面介入亚太区域一体化进程。\n“中国东盟自由贸易区”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：“跨太平洋战略经济伙伴协定”（简称TPP）。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89a8c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882bfa8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "美国总统奥巴马于2009年底明确表示，美国将正式加入______谈判，从而全面介入亚太区域一体化进程。\n“美国和韩国自由贸易区”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：“跨太平洋战略经济伙伴协定”（简称TPP）。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89abe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882c14c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早的独立对外直接投资理论是______。\n“内部化理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：垄断优势理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89abe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882c278-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早的独立对外直接投资理论是______。\n“垄断优势理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：垄断优势理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89abe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882c372-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早的独立对外直接投资理论是______。\n“比较优势理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：垄断优势理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89abe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882c46c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "早的独立对外直接投资理论是______。\n“产品生命周期理论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：垄断优势理论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ae6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882c5fc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "海默的垄断优势理论的核心观点不包括______。\n“垄断优势论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：区位优势论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ae6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882c6f6-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "海默的垄断优势理论的核心观点不包括______。\n“消除冲突论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：区位优势论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ae6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882c7f0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "海默的垄断优势理论的核心观点不包括______。\n“区位优势论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：区位优势论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ae6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882c8e0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "海默的垄断优势理论的核心观点不包括______。\n“交易成本论”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：区位优势论。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ca5c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际货币基金组织产生于______。\n“金本位制度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：布雷顿森林协议。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882cb60-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际货币基金组织产生于______。\n“布雷顿森林协议”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：布雷顿森林协议。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882cc50-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际货币基金组织产生于______。\n“浮动汇率制度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：布雷顿森林协议。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b18-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882cd40-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际货币基金组织产生于______。\n“广场协议”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：布雷顿森林协议。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ced0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于国际货币制度描述，______是正确的。\n“国际金本位制和布雷顿森林体系都属于黄金货币化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：国际金本位制和布雷顿森林体系都是以金平价为基础、具有自动调节机制的固定汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882cfd4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于国际货币制度描述，______是正确的。\n“国际金本位制和布雷顿森林体系都是以金平价为基础、具有自动调节机制的固定汇率制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：国际金本位制和布雷顿森林体系都是以金平价为基础、具有自动调节机制的固定汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882d1f0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于国际货币制度描述，______是正确的。\n“布雷顿森林体系和牙买加体系都属于黄金非货币化”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：国际金本位制和布雷顿森林体系都是以金平价为基础、具有自动调节机制的固定汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882d31c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "关于国际货币制度描述，______是正确的。\n“布雷顿森林体系和牙买加体系下的固定汇率都由金平价决定”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：国际金本位制和布雷顿森林体系都是以金平价为基础、具有自动调节机制的固定汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882d4de-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "标志布雷顿森林体系崩溃开始的事件是______。\n“互惠信贷协议”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：尼克松政府的新经济政策。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882d5e2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "标志布雷顿森林体系崩溃开始的事件是______。\n“黄金双价制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：尼克松政府的新经济政策。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882d6dc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "标志布雷顿森林体系崩溃开始的事件是______。\n“尼克松政府的新经济政策”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：尼克松政府的新经济政策。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89b7c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882d7cc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "标志布雷顿森林体系崩溃开始的事件是______。\n“史密森氏协议”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：尼克松政府的新经济政策。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ba4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882d966-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "布雷顿森林货币体系的特点是______。\n“实行固定汇率，并受国际货币基金协定的约束”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：实行固定汇率，并受国际货币基金协定的约束。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ba4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882da6a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "布雷顿森林货币体系的特点是______。\n“实行固定汇率，但不受国际货币基金协定的约束”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：实行固定汇率，并受国际货币基金协定的约束。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ba4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882db5a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "布雷顿森林货币体系的特点是______。\n“实行浮动汇率，并受国际货币基金协定的约束”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：实行固定汇率，并受国际货币基金协定的约束。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ba4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882dc86-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "布雷顿森林货币体系的特点是______。\n“实行固定汇率，但不受国际货币基金协定的约束”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：实行固定汇率，并受国际货币基金协定的约束。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89bd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882de16-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "布雷顿森林体系瓦解后，主要资本主义国家普遍实行______。\n“固定汇率制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：浮动汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89bd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882df1a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "布雷顿森林体系瓦解后，主要资本主义国家普遍实行______。\n“浮动汇率制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：浮动汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89bd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882e000-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "布雷顿森林体系瓦解后，主要资本主义国家普遍实行______。\n“钉住汇率制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：浮动汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89bd6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882e0f0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "布雷顿森林体系瓦解后，主要资本主义国家普遍实行______。\n“联合浮动”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：浮动汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89bfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882e276-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "承认浮动汇率合法化的国际货币体系是______。\n“国际金本位制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：牙买加体系。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89bfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882e4c4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "承认浮动汇率合法化的国际货币体系是______。\n“布雷顿森林体系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：牙买加体系。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89bfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882e5e6-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "承认浮动汇率合法化的国际货币体系是______。\n“牙买加体系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：牙买加体系。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89bfe-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882e6e0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "承认浮动汇率合法化的国际货币体系是______。\n“国际美元金汇兑体系”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：牙买加体系。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89c30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882e87a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SDR不具备职能______。\n“价值尺度”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：流通手段。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89c30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882e99c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SDR不具备职能______。\n“支付手段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：流通手段。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89c30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ea96-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SDR不具备职能______。\n“储藏手段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：流通手段。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89c30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882eb90-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "SDR不具备职能______。\n“流通手段”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：流通手段。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89c76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ed52-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前，我国人民币实施的汇率制度是______。\n“固定汇率制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：有管理浮动汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89c76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ee56-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前，我国人民币实施的汇率制度是______。\n“弹性汇率制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：有管理浮动汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89c76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ef46-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前，我国人民币实施的汇率制度是______。\n“有管理浮动汇率制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：有管理浮动汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89c76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882f036-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "目前，我国人民币实施的汇率制度是______。\n“钉住汇率制”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：有管理浮动汇率制。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89cbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882f1bc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "欧洲美元是指______。\n“欧洲地区的美元”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：美国境外的美元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89cbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882f2c0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "欧洲美元是指______。\n“世界各国美元的总称”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：美国境外的美元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89cbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882f3ba-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "欧洲美元是指______。\n“各国官方的美元储备”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：美国境外的美元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89cbc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882f4a0-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "欧洲美元是指______。\n“美国境外的美元”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：美国境外的美元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89d0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882f626-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际债券包括______。\n“固定利率债券和浮动利率债券”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：外国债券和欧洲债券。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89d0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882f752-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际债券包括______。\n“外国债券和欧洲债券”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：外国债券和欧洲债券。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89d0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882f9c8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际债券包括______。\n“美元债券和日元债券”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：外国债券和欧洲债券。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89d0c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882faf4-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际债券包括______。\n“欧洲美元债券和欧元债券”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：外国债券和欧洲债券。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89d5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882fc98-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一种资产成为国际储备需具备的三个特征是______。\n“可偿性、可得性与流动性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：可得性、流动性与普遍接受性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89d5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882fd9c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一种资产成为国际储备需具备的三个特征是______。\n“可得性、流动性与国际性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：可得性、流动性与普遍接受性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89d5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882fe8c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一种资产成为国际储备需具备的三个特征是______。\n“可得性、流动性与普遍接受性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：可得性、流动性与普遍接受性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89d5c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6882ff86-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "一种资产成为国际储备需具备的三个特征是______。\n“流动性、普遍接受性与国际性”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：可得性、流动性与普遍接受性。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6883010c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1997 年东南亚金融危机发源于______。\n“墨西哥”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：泰国。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68830210-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1997 年东南亚金融危机发源于______。\n“韩国”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：泰国。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68830300-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1997 年东南亚金融危机发源于______。\n“印度尼西亚”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：泰国。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89dd4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68830418-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "1997 年东南亚金融危机发源于______。\n“泰国”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：泰国。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89e24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688305a8-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当金融危机来临时，发挥重要“最后贷款人”职能的国际金融机构是______。\n“世界银行”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：国际货币基金组织。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89e24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688306ac-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当金融危机来临时，发挥重要“最后贷款人”职能的国际金融机构是______。\n“国际清算银行”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：国际货币基金组织。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89e24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6883079c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当金融危机来临时，发挥重要“最后贷款人”职能的国际金融机构是______。\n“国际货币基金组织”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：国际货币基金组织。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89e24-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6883088c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "当金融危机来临时，发挥重要“最后贷款人”职能的国际金融机构是______。\n“国际金融公司”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：国际货币基金组织。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89e74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68830a12-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际储备管理主要涉及两个方面，分别是______。\n“数量管理与币种管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：数量管理与币种管理。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89e74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68830b0c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际储备管理主要涉及两个方面，分别是______。\n“汇率管理与国际收支差额管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：数量管理与币种管理。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89e74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68830d28-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际储备管理主要涉及两个方面，分别是______。\n“汇率管理与汇率制度管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：数量管理与币种管理。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89e74-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68830e4a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "国际储备管理主要涉及两个方面，分别是______。\n“国际收支调节与汇率波动管理”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：数量管理与币种管理。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ed8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68830fee-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "日本进口手表 300 只，单价 5000 日元，每只征收从价税 15%并加征从量税 150 日元。则征收的税额为______。\n“45000 日元”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：270000 日元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ed8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68831106-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "日本进口手表 300 只，单价 5000 日元，每只征收从价税 15%并加征从量税 150 日元。则征收的税额为______。\n“180000 日元”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：270000 日元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ed8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6883120a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "日本进口手表 300 只，单价 5000 日元，每只征收从价税 15%并加征从量税 150 日元。则征收的税额为______。\n“225000 日元”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：270000 日元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89ed8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "688312fa-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "日本进口手表 300 只，单价 5000 日元，每只征收从价税 15%并加征从量税 150 日元。则征收的税额为______。\n“270000 日元”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：270000 日元。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89f28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6883148a-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以 1990 年为基期，2000 年某国的进口价格指数为 120，出口价格指数为 144，则该国的净贸易条件是______。\n“120”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：120。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89f28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "6883158e-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以 1990 年为基期，2000 年某国的进口价格指数为 120，出口价格指数为 144，则该国的净贸易条件是______。\n“83”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：120。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89f28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68831692-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以 1990 年为基期，2000 年某国的进口价格指数为 120，出口价格指数为 144，则该国的净贸易条件是______。\n“110”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：120。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89f28-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68831778-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "以 1990 年为基期，2000 年某国的进口价格指数为 120，出口价格指数为 144，则该国的净贸易条件是______。\n“130”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：120。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89f6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68831908-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某国2008年国民生产总值为1200亿美元，同年该国出口贸易为240亿美元，进口贸易额为200亿美元，这一年该国对外贸易依存度为______\n“16.6%”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：36.6%。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89f6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68831a0c-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某国2008年国民生产总值为1200亿美元，同年该国出口贸易为240亿美元，进口贸易额为200亿美元，这一年该国对外贸易依存度为______\n“20%”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：36.6%。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89f6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68831afc-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某国2008年国民生产总值为1200亿美元，同年该国出口贸易为240亿美元，进口贸易额为200亿美元，这一年该国对外贸易依存度为______\n“36.6%”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "正确。空中可填：36.6%。"
+	},
+	{
+		"category": "经济学",
+		"sub_category": "经济学类",
+		"raw_uuid": "34c89f6e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "68831be2-73a3-11ee-80fd-0242ac11001b",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "某国2008年国民生产总值为1200亿美元，同年该国出口贸易为240亿美元，进口贸易额为200亿美元，这一年该国对外贸易依存度为______\n“3.33%”填入空中，是正确的吗？"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "错误。空中可填：36.6%。"
+	}
+]

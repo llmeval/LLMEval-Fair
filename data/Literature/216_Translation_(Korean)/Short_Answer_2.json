@@ -1,0 +1,591 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d55e16-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185054f-6cdc-11ee-b64a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.주력하다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "致力"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d55f10-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185532a-6cdc-11ee-8baa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.실무그룹"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "工作组/筹备组"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d55f60-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185532b-6cdc-11ee-b9b9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.외교경로"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "外交途径，渠道"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d55fce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185532c-6cdc-11ee-a0fa-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.조속히"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "早日，尽快"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d5600a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185532d-6cdc-11ee-aa64-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.수출흑자"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "贸易顺差"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56046-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185532e-6cdc-11ee-a989-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.예단 문화"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "彩礼，聘礼文化"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d560b4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185532f-6cdc-11ee-b381-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.독자적인 방법"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "独特的方法"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d560fa-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855330-6cdc-11ee-a76a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.신장된 국력"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "增强的国力"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d5614a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855331-6cdc-11ee-915d-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.두절된 상태"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "断绝的状态，情况"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d5619a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855332-6cdc-11ee-aa94-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.수출흑자"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "贸易顺差"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56212-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855333-6cdc-11ee-a251-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.기존"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "现有，以往"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56244-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855334-6cdc-11ee-b6b1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.바이어"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "买主，客户"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56604-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855335-6cdc-11ee-919c-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.아낌없는 지원"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "不遗余力地支援"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d566d6-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855336-6cdc-11ee-bf8a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.벅차다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "充满"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56730-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855337-6cdc-11ee-93b5-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.첫 삽을 뜨다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "开工"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56780-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855338-6cdc-11ee-8057-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.격상되다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "升级"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d567d0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855339-6cdc-11ee-b1c3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.진지하다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "认真，诚恳"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56820-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185533a-6cdc-11ee-9c8e-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.입각하다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "立足，基于，本着"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56870-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185533b-6cdc-11ee-8cc1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.관심사"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "所关心的事"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d568c0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185533c-6cdc-11ee-82b2-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.기울이다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "倾注"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56910-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185533d-6cdc-11ee-b3b3-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.직능"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "职能"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56960-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185533e-6cdc-11ee-963b-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.실질적"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "实质性"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d569b0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a185533f-6cdc-11ee-997a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.비핵화"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "无核化"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56a00-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855340-6cdc-11ee-a756-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.용의"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "用意"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56a50-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855341-6cdc-11ee-b68a-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.사의"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "谢意"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56aa0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855342-6cdc-11ee-9fec-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.의견상이"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "意见分歧"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56af0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855343-6cdc-11ee-9100-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.수호하다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "维护，遵守"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56b40-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855344-6cdc-11ee-9fa9-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.진척"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "进展，进程"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56b90-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855345-6cdc-11ee-9ca1-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.출범하다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "启动，开始"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56be0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855346-6cdc-11ee-8ebd-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.공유하다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "共享，共有"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34d56c30-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "a1855347-6cdc-11ee-8a74-4ae7da43aea3",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请将下面的韩文翻译成中文：\n다음의 어구들을 중국어로 번역하십시오.마무리되다"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "收尾"
+	}
+]

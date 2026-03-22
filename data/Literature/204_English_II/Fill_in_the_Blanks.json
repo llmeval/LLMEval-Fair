@@ -1,0 +1,230 @@
+[
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f390d4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c6713e67-6b4c-11ee-86d8-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nThe outbreak of swine flu that was first detected in Mexico was declared a  global  epidemic on June 11,  2009. It is the first worldwide  epidemic    1    by the  World Health Organization in 41 years.\nThe heightened alert    2     an emergency meeting with flu experts in Geneva  that  assembled after a  sharp rise  in cases in Australia, and rising     3     in Britain, Japan, Chile and elsewhere.\nBut the epidemic is “  4  ” in severity, according to Margaret Chan, the organization's director general,   5   the overwhelming majority of patients experiencing only mild symptoms and a full  recovery, often in the   6    of any   medical treatment.\nThe outbreak came to global   7     in late April 2009, when Mexican authorities noted an unusually large number of hospitalizations and deaths     8     healthy adults. As much of Mexico City shut down at the height of a panic, cases began to   9   in  New York City, the southwestern United States and around the world.\nIn  the United States, new  cases seemed to  fade  10    warmer weather   arrived. But  in  late September 2009, officials reported there was   11    flu    activity in almost every state and that virtually all the   12    tested are the new    swine flu, also known as (A) H1N1, not seasonal flu. In the U.S., it has    13    more than one million people, and caused more than 600 deaths and more than 6,000 hospitalizations.\nFederal health officials\t\t   14     Tamiflu for children from the national stockpile and began    15    orders from the states for the new swine flu vaccine.  The new vaccine, which is different from the annual flu vaccine,  is     16       ahead of expectations. More than three million doses were to be made available in early October 2009, though most of those   17    doses were of the FluMist nasal spray type,  which is not \t18    for pregnant women, people over 50 or those with breathing  difficulties,  heart  disease  or  several  other \t19\t. But it was still possible to vaccinate people  in  other  high-risk  groups:  health  care  workers, people    20   infants and healthy young people.\n1.[A] criticized [B] appointed [C] commented [D] designated\n2.[A] proceeded [B] activated [C] followed [D] prompted\n3.[A] digits [B] numbers [C] amounts [D] sums\n4.[A] moderate [B] normal [C] unusual [D] extreme\n5. [A] with [B] in [C] from [D] by\n6. [A] progress [B] absence [C] presence [D] favor\n7. [A] reality [B] phenomenon [C] concept [D] notice\n8. [A] over [B] for [C] among [D] to\n9. [A] stay up [B] crop up [C] fill up [D] cover up\n10. [A] as [B] if [C] unless [D] until\n11. [A] excessive [B] enormous [C] significant [D] magnificent\n12. [A] categories [B] examples [C] patterns [D] samples\n13. [A] imparted [B] immersed [C] injected [D] infected\n14. [A] released [B] relayed [C] relieved [D] remained\n15. [A] placing [B] delivering [C] taking [D] giving\n16. [A] feasible [B] available [C] reliable [D] applicable\n17. [A] prevalent [B] principal [C] innovative [D] initial18. [A] presented [B] restricted [C] recommended [D] introduced\n19. [A] problems [B] issues [C] agonies [D] sufferings\n20. [A] involved in [B] caring for [C] concerned with [D] warding off"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "D; C; B; A; A; B; D; C; B; A; C; D; D; A; C; B; D; C; A; B"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f391ce-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3bb-6b4c-11ee-a21f-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nThe Internet affords anonymity to its users, a blessing to privacy and freedom   of speech. But that very anonymity is also  behind  the  explosion of  cyber-crime  that has    1     across the Web.\nCan privacy be preserved   2   bringing safety and security to  a world that   seems increasingly    3   ?\nLast month, Howard Schmidt, the nation's cyber-czar, offered the federal government  a    4     to  make  the  Web  a  safer  place – a  “voluntary  trusted identity”  system  that  would  be  the  high-tech   5    of  a  physical  key,  a  fingerprint and a photo ID card, all rolled     6     one. The system might use a    smart  identity  card,  or  a  digital  credential   7    to  a  specific  computer,  and would authenticate users at a range of online services.\nThe  idea is to      8\t    a federation of private online identity systems. Users could     9    which system to join, and only registered users whose identities have been authenticated could navigate  those  systems.  The approach  contrasts with one that would require an Internet driver's license     10      by the government.\nGoogle and Microsoft are among companies that already have these “single sign-on” systems  that  make  it  possible  for  users  to    11    just  once  but  use many different services.\n    12\t, the approach would create a “walled garden” in  cyberspace,  with safe “neighborhoods” and bright “streetlights” to establish a sense of a         13\t community.\nMr. Schmidt described it as a “voluntary  ecosystem” in which  “individuals  and organizations can complete online  transactions  with   14  , trusting  the  identities of each other and the identities of the infrastructure   15    which the transaction runs.”\nStill, the administration's  plan  has   16    privacy  rights  activists.  Some  applaud the approach; others are concerned. It seems  clear  that  such  a scheme  is an initiative push toward what would     17     be a compulsory Internet “driver's  license” mentality.\nThe plan has  also  been  greeted  with    18    by  some  computer  security  experts, who worry that the “voluntary ecosystem” envisioned by Mr.  Schmidt would still leave much of the Internet      19     .  They  argue  that  all  Internet  users should be    20    to register and  identify themselves, in  the  same way  that  drivers must be licensed to drive on public roads.\n1.[A] swept [B] skipped [C] walked [D] ridden2．[A] for [B] within [C] while [D] though3．[A] careless [B] lawless [C] pointless [D] helpless4．[A] reason [B] reminder [C] compromise [D] proposal5．[A] information [B] interference [C] entertainment [D] equivalent6．[A] by [B] into [C] from [D] over7．[A] linked [B] directed [C] chained [D] compared8．[A] dismiss [B] discover [C] create [D] improve9．[A] recall [B] suggest [C] select [D] realize10．[A] released [B] issued [C] distributed [D] delivered11．[A] carry on [B] linger on [C] set in [D] log in12．[A] In vain [B] In effect [C] In return [D] In contrast13．[A] trusted [B] modernized [C] thriving [D] competing14．[A] caution [B] delight [C] confidence [D] patience15．[A] on [B] after [C] beyond [D] across16．[A] divided [B] disappointed [C] protected [D] united17．[A] frequently [B] incidentally [C] occasionally [D] eventually18．[A] skepticism [B] tolerance [C] indifference [D] enthusiasm19．[A] manageable [B] defendable [C] vulnerable [D] invisible20．[A] invited [B] appointed [C] allowed [D] forced"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A; C; B; D; D; B; A; C; C; B; D; B; A; C; A; A; D; A; C; D"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3920a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3bc-6b4c-11ee-b3d3-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nMillions of Americans and foreigners see G.I. Joe as a mindless war toy, the symbol of American military adventurism, but that's not how it used to be. To the  men and women who     1     in World War Ⅱ and the people they liberated,   the G.I. was the    2\t     man grown into hero, the poor farm kid torn away from his\nhome, the guy who     3     all the burdens of battle, who slept in cold foxholes,     who went without the     4     of food and shelter, who stuck it out and drove back    the Nazi reign of murder. This was not a volunteer soldier, not someone well paid,     5     an average guy,  up     6     the best trained, best equipped, fiercest, most    brutal enemies seen in centuries.\nHis name isn't much. G.I. is just a military abbreviation   7    Government    Issue, and it was on all of the articles     8     to soldiers. And Joe? A common  name for a guy  who  never    9    it  to  the  top.  Joe  Blow, Joe  Palooka,  Joe Magrac...a working class name. The United States has 10 had a president or vice-president or secretary of state Joe.\nG.I. Joe had a     11     career fighting German, Japanese, and Korean troops.    He appears as a character, or a    12    of American personalities, in  the  1945    movie The Story of G.I. Joe, based on the last days of  war  correspondent  Ernie  Pyle. Some of the soldiers  Pyle     13     portrayed  themselves  in the film. Pyle was famous for covering the   14     side of the war, writing  about  the  dirt-snow-and-mud soldiers, not  how  many miles were    15     or  what towns  were captured or liberated. His reports    16     the “Willie” cartoons of famed   Stars and Stripes artist Bill Maulden. Boh men     17     the dirt and  exhaustion  of war, the     18    of civilization that the soldiers shared with each other and the  civilians: coffee,  tobacco, whiskey, shelter, sleep.     19     Egypt, France, and  a   dozen more  countries,  G.I.  Joe  was  any  American  soldier,     20     the  most important person in their lives.\n\n\n\n1.[A] served [B] performed [C] rebelled [D] betrayed\n2.[A] actual [B] common [C] special [D] normal\n3.[A] loaded [B] eased [C] removed [D] bore\n4.[A] necessities [B] facilities [C] commodities [D] properties\n5.[A] and [B] nor [C] but [D] hence\n6.[A] for [B] into [C] from [D] against\n7.[A] implying [B] meaning [C] symbolizing [D] claiming\n8.[A] handed out [B] turned over [C] brought back [D] passed down\n9.[A] pushed [B] got [C] made [D] managed\n10.[A] ever [B] never [C] either [D] neither\n11.[A] disguised [B] disturbed [C] disputed [D] distinguished\n12.[A] company [B] community [C] collection [D] colony\n13.[A] employed [B] appointed [C] interviewed [D] questioned\n14.[A] human [B] military [C] political [D] ethical\n15.[A] ruined [B] commuted [C] patrolled [D] gained\n16.[A] paralleled [B] counteracted [C] duplicated [D] contradicted\n17.[A] neglected [B] emphasized [C] avoided [D] admired18.[A] stages [B] illusions [C] fragments [D] advances\n19.[A] With [B] To [C] Among [D] Beyond\n20.[A] on the contrary [B] by this means [C] from the outset [D] at that point"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A; B; D; A; C; D; B; A; C; B; D; C; C; A; D; A; B; C; B; D"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3923c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3bd-6b4c-11ee-a5b9-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nGiven the advantages of electronic money, you might think that we would move quickly to the cashless society in which all payments are made electronically.      1   , a true cashless society is probably not around the corner. Indeed, predictions have been    2     for two decades but have not yet come to fruition. For example, Business  Week predicted in 1975 that electronic means of payment would soon “revolutionize the very   3     of money itself,” only to   4    itself several years later. Why has the movement to a cashless society been so    5      in coming?\nAlthough electronic means of payment may be more efficient than a payments system based on paper, several factors work   6    the disappearance of  the paper  system. First, it is very 7  to set up the computer, card reader, and  telecommunications networks necessary to make electronic money the 8 form of payment. Second, paper checks  have  the  advantage that  they  9   receipts, something that many consumers are unwilling to  10   . Third, the use of paper   checks gives consumers several days of “float” – it takes several days    11    a check is cashed and funds  are    12    from the issuer's account, which means that the    writer of the check can earn interest on the funds in the meantime.  13   electronic payments arc immediate, they eliminate the float for the consumer.\nFourth, electronic means of payment may   14    security and privacy concerns. We often hear media reports that an unauthorized hacker has been able to access a computer database and to alter information     15     there. The fact that this is not     an 16 occurrence means that dishonest persons might be  able  to access bank accounts in electronic payments systems and   17   from someone else's accounts.  The    18     of this type of fraud is no easy task, and a new field of computer science  is developing to 19 security issues. A further concern is that the use of electronic means of payment leaves an electronic   20    that  contains a  large  amount  of  personal data. There are concerns that government, employers, and marketers might be able to access these data, thereby violating our privacy.\n1.[A] Moreover [B] However [C] Therefore [D] Otherwise\n2.[A] off [B] back [C] over [D] around\n3.[A] power [B] concept [C] history [D] role\n4.[A] reverse [B] resist [C] resume [D] reward\n5.[A] silent [B] sudden [C] slow [D] steady\n6.[A] for [B] against [C] with [D] on\n7.[A] expensive [B] imaginative [C] sensitive [D] productive\n8.[A] similar [B] original [C] temporary [D] dominant\n9.[A] collect [B] copy [C] provide [D] print\n10.[A] give up [B] take over [C] bring back [D] pass down\n11.[A] before [B] after [C] since [D] when\n12.[A] kept [B] borrowed [C] withdrawn [D] released\n13.[A] Unless [B] Because [C] Until [D] Though\n14.[A] hide [B] express [C] ease [D] raise\n15.[A] analyzed [B] shared [C] stored [D] displayed\n16.[A] unsafe [B] unnatural [C] unclear [D] uncommon\n17.[A] steal [B] choose [C] benefit [D] return18.[A] consideration  [B] prevention [C] manipulation [D] justification\n19.[A] call for [B] fight against   [C] adapt to [D] cope with\n20.[A] chunk [B] chip [C] trail [D] path"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; D; B; A; C; B; A; D; C; A; A; C; B; D; C; D; A; B; D; C"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3926e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3be-6b4c-11ee-9485-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nThinner  isn't  always  better.  A  number  of  studies  have    1     that normal-weight people are in fact at higher  risk  of  some  diseases  compared  to  those who are overweight. And there are health conditions for which being overweight is actually    2    .  For  example,  heavier  women  are  less  likely  to develop calcium deficiency than thin women.    3   ,  among  the  elderly, being somewhat overweight is often an     4       of good health.\nOf even greater     5    is the fact that obesity turns out to be very difficult to   define. It  is often defined      6     body mass index, or BMI. BMI      7     body   mass divided by the square of height. An adult with a BMI of 18 to 25 is often considered to be normal weight. Between 25 and 30 is overweight. And over 30 is considered obese. Obesity,   8   , can be divided into moderately obese, severely  obese, and very severely obese.\nWhile  such  numerical  standards  seem   9   ,  they  are not.  Obesity  is  probably less a  matter of weight than body fat. Some  people with a high BMI are  in fact extremely fit,   10    others with a low BMI may be in poor   11   . For   example,  many  collegiate  and  professional  football  players   12    as  obese, though their percentage body fat is low.  Conversely, someone with a small frame  may have high body fat but a     13     BMI.\nToday  we have a(n)      14      to label obesity as a disgrace. The overweight     are sometimes     15    in  the  media  with their  faces  covered. Stereotypes    16   with obesity include laziness, lack of will power, and lower prospects for success. Teachers, employers, and health professionals have been shown to harbor biases against  the  obese.  17    very  young  children  tend  to  look  down on  the overweight, and teasing about body build has long been a problem in schools.\nNegative   attitudes  toward  obesity,    18   in  health  concerns,  have   stimulated a number of anti-obesity  19   . My own hospital system has banned   sugary drinks from its facilities. Many employers have instituted weight loss and fitness initiatives. Michelle Obama has launched a high-visibility campaign   20  childhood obesity, even claiming that it represents our greatest national security threat.\n1. [A] denied [B] concluded [C] doubted [D] ensured\n2. [A] protective [B] dangerous [C] sufficient [D] troublesome\n3. [A] Instead [B] However [C] Likewise [D] Therefore\n4. [A] indicator [B] objective [C] origin [D] example\n5. [A] impact [B] relevance [C] assistance [D] concern\n6. [A] in terms of [B] in case of [C] in favor of [D] in respects of\n7. [A] measures [B] determines [C] equals [D] modifies\n8. [A] in essence [B] in contrast [C] in turn [D] in part\n9. [A] complicated [B] conservative [C] variable [D] straightforward\n10. [A] so [B] while [C] since [D] unless\n11. [A] shape [B] spirit [C] balance [D] taste\n12. [A] start [B] qualify [C] retire [D] stay\n13. [A] strange [B] changeable [C] normal [D] constant\n14. [A] option [B] reason [C] opportunity [D] tendency\n15. [A] employed [B] pictured [C] imitated [D] monitored\n16. [A] compared [B] combined [C] settled [D] associated\n17. [A] Even [B] Still [C] Yet [D] Only18. [A] despised [B] corrected [C] ignored [D] grounded\n19. [A] discussions [B] businesses [C] policies [D] studies\n20. [A] for [B] against [C] with [D] without"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; A; C; A; D; A; C; C; D; B; A; B; C; D; B; D; A; D; C; B"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f39296-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3bf-6b4c-11ee-83f5-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nIn our contemporary culture, the prospect of communicating with – or even looking at – a stranger is virtually unbearable. Everyone  around us  seems  to agree by the way they cling to their phones, even without a     1     on a subway.\nIt's a sad reality – our desire to avoid interacting with other human beings – because there's    2     to be gained from talking to the stranger standing by you. But you wouldn't know it,    3     into your phone. This universal protection sends the\n    4\t: “Please don't approach me.”\nWhat is it that makes us feel we need to hide   5\tour screens?\nOne answer is fear, according to Jon Wortmann, an executive mental coach. We fear rejection, or that our innocent social advances will be   6     as “weird.” We fear we'll be 7 . We fear we'll be disruptive.\nStrangers are inherently    8\t\t\tto  us, so  we are more likely to feel     9\t when communicating with them compared with our friends and acquaintances. To avoid  this uneasiness, we \t10\t\t\tto our phones. “Phones become our security blanket,” Wortmann says. “They are our happy glasses that protect us from what we perceive is going to be more     11   \t.”\nBut once we rip off the band-aid, tuck our smartphones in our pockets and look up, it doesn't    12    so bad. In one 2011 experiment, behavioral scientists Nicholas Epley and Juliana Schroeder asked commuters to do the unthinkable: Start a   13  .  They had Chicago train commuters talk to their fellow  14   . “When Dr. Epley and Ms. Schroeder asked other people  in the same train station to    15     how they    would feel after talking to a stranger, the commuters thought their   16   would be more pleasant if they sat on their own,” The New York Times summarizes. Though the participants didn't expect  a  positive  experience,  after  they  17   with  the experiment, “not a single person reported having been embarrassed.”\n    18 , these commutes were reportedly more enjoyable compared with those without communication, which makes absolute sense,     19    human beings thrive  off of social connections. It's that   20   : Talking to strangers can make you feel connected.\n1. [A] signal [B] permit [C] ticket [D] record\n2. [A] nothing [B] little [C] another [D] much\n3. [A] beaten [B] plugged [C] guided [D] brought\n4. [A] message [B] code [C] notice [D] sign\n5. [A] under [B] beyond [C] behind [D] from\n6.[A] misapplied [B] misinterpreted [C] misadjusted [D] mismatched\n7. [A] judged [B] fired [C] replaced [D] delayed\n8. [A] unreasonable [B] ungrateful [C] unconventional [D] unfamiliar\n9. [A] comfortable [B] confident [C] anxious [D] angry\n10. [A] attend [B] turn [C] take [D] point\n11. [A] dangerous [B] mysterious [C] violent [D] boring\n12. [A] bend [B] resist [C] hurt [D] decay\n13. [A] lecture [B] debate [C] conversation [D] negotiation\n14. [A] trainees [B] employees [C] researchers [D] passengers\n15. [A] reveal [B] choose [C] predict [D] design\n16. [A] voyage [B] flight [C] walk [D] ride\n17. [A] went through [B] did away [C] caught up [D] put up18. [A] In turn [B] In fact [C] In particular [D] In consequence\n19. [A] unless [B] whereas [C] if [D] since\n20. [A] funny [B] simple [C] logical [D] rare"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "A; D; B; A; C; B; A; D; C; B; A; C; C; D; C; D; A; B; D; B"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f392be-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3c0-6b4c-11ee-88ce-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nHappy people work differently. They're more productive, more creative, and willing to take greater risks. And new research suggests that happiness might influence    1     firms work, too.\nCompanies located in places with happier people invest more, according to a recent research paper.  2  ,  firms  in  happy  places  spend  more  on  R&D  (research and development). That's because happiness is linked to the kind of longer-term thinking     3     for making investments for the future.\nThe researchers wanted to know if the    4    and inclination for risk-taking  that  come with happiness would    5    the way companies invested. So they   compared U.S. cities' average  happiness   6    by  Gallup  polling  with  the investment activity of publicly traded firms in those areas.\n    7\tenough, firms' investment and R&D intensity were correlated with the happiness of the  area  in which they were \t8\t. But is it really happiness that's linked to investment, or could something else about happier cities \t9\t why firms there spend more on R&D? To find out, the researchers  controlled  for  various \t10\tthat might make firms more likely to invest – like size, industry, and sales  – and for  indicators  that a place was \t\t11\tto live in, like growth in wages or population. The link between happiness and investment generally   12\t  even after accounting for these things.\nThe correlation between happiness and investment was particularly strong for younger firms, which the authors    13    to “less codified decision making process” and the possible presence of “younger and less    14    managers who are more likely to be  influenced by  sentiment.” The relationship was  15   stronger in places   where happiness was spread more  16  .  Firms seem to  invest  more in  places where most people are relatively happy, rather than in places with happiness inequality.\n    17    this doesn't prove that happiness causes firms to invest more or to    take a longer-term view, the authors believe  it at least     18     at that possibility.  It's not hard to imagine that local culture and sentiment would help  19    how executives think about the future. “It surely seems plausible that happy people would be more forward-thinking and creative and   20   R&D more than the  average,” said one researcher.\n1.[A] why [B] how [C] where [D] when\n2.[A] In return [B] In particular [C] In contrast [D] In conclusion\n3.[A] necessary [B] famous [C] perfect [D] sufficient\n4.[A] individualism [B] realism [C] optimism [D] modernism\n5.[A] miss [B] echo [C] spoil [D] change\n6.[A] imagined [B] measured [C] assumed [D] invented\n7.[A] Sure [B] Odd [C] Unfortunate [D] Often\n8.[A] divided [B] advertised [C] overtaxed [D] headquartered\n9.[A] summarize [B] overstate [C] explain [D] emphasize\n10.[A] factors [B] stages [C] levels [D] methods\n11.[A] desirable [B] sociable [C] reliable [D] reputable\n12.[A] resumed [B] emerged [C] held [D] broke\n13.[A] assign [B] attribute [C] transfer [D] compare\n14.[A] serious [B] civilized [C] ambitious [D] experienced\n15.[A] instead [B] thus [C] also [D] never\n16.[A] rapidly [B] directly [C] regularly [D] equally\n17.[A] While [B] Until [C] After [D] Since18.[A] arrives [B] jumps [C] hints [D] strikes\n19.[A] share [B] rediscover [C] simplify [D] shape\n20.[A] pray for [B] lean towards [C] send out [D] give away"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; B; A; C; D; B; A; D; C; A; A; C; B; D; C; D; A; C; D; B"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f392f0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3c1-6b4c-11ee-9dc4-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nPeople have speculated for centuries about a future without work. Today is no different, with academics, writers, and activists once again      1      that technology is replacing human workers. Some imagine that the coming work-free world will be defined by   2   : A few wealthy people will own all the capital, and the masses    will struggle in an impoverished wasteland.\nA different and not mutually exclusive   3    holds that the future will be a wasteland of a different sort, one    4    by purposelessness: Without jobs to give  their lives   5  , people will simply become lazy and depressed.  6  , today's unemployed don't seem to be having a great time. One Gallup poll found that 20 percent of Americans who have been unemployed for at least a year report having depression, double the rate for    7    Americans. Also, some research suggests     that the   8    for rising rates of mortality, mental-health problems, and addiction\n    9    poorly-educated, middle-aged people is a shortage of well-paid jobs. Perhaps this is why many    10\tthe agonizing dullness of a jobless future.\nBut it doesn't   11   follow from  findings  like these that a world without   work would be filled with unease. Such visions are based on the   12   of being unemployed in a society built on the concept of employment. In the    13     of    work, a society designed with other ends in mind could   14    strikingly different circumstances for the future of labor and leisure. Today, the     15      of work may  be a bit overblown. “Many jobs are boring, degrading, unhealthy, and a waste of human potential,” says John Danaher, a lecturer at the National University  of Ireland in Galway.\nThese  days,  because  leisure  time is relatively         16\t\t\t  for   most  workers, people use their free time to counterbalance the intellectual and emotional     17\t    of their jobs. “When I come  home from  a  hard day's  work, I often feel \t18      \t,” Danaher says, adding, “In a world in which I don't have to work, I might feel rather different” –  perhaps  different enough  to  throw himself \t\t\t19      a hobby or  a passion project with the intensity usually reserved for     20\t\tmatters.\n1.[A] boasting [B] denying [C] warning [D] ensuring\n2.[A] inequality [B] instability [C] unreliability [D] uncertainty\n3.[A] policy [B] guideline [C] resolution [D] prediction\n4.[A] characterized  [B] divided [C] balanced [D] measured\n5.[A] wisdom [B] meaning [C] glory [D] freedom\n6.[A] Instead [B] Indeed [C] Thus [D] Nevertheless\n7.[A] rich [B] urban [C] working [D] educated\n8.[A] explanation [B] requirement [C] compensation [D] substitute\n9.[A] under [B] beyond [C] alongside [D] among\n10.[A] leave behind [B] make up [C] worry about [D] set aside\n11.[A] statistically [B] occasionally  [C] necessarily [D] economically\n12.[A] chances [B] downsides [C] benefits [D] principles\n13.[A] absence [B] height [C] face [D] course\n14.[A] disturb [B] restore [C] exclude [D] yield\n15.[A] model [B] practice [C] virtue [D] hardship\n16.[A] tricky [B] lengthy [C] mysterious [D] scarce\n17.[A] demands [B] standards [C] qualities [D] threats18.[A] ignored [B] tired [C] confused [D] starved\n19.[A] off [B] against [C] behind [D] into\n20.[A] technological   [B] professional  [C] educational [D] interpersonal"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "C; A; D; A; B; B; C; A; D; C; C; B; A; D; C; D; A; B; D; B"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f39318-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3c2-6b4c-11ee-93a4-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nWeighing yourself regularly is a wonderful way to stay aware of any significant weight fluctuations.  1  , when done too often, this habit can sometimes hurt more  than it      2    .\nAs for me, weighing myself every day caused me to shift my focus from being generally healthy and physically active, to focusing    3    on the scale. That was bad  to my overall fitness goals. I had gained weight in the form of muscle mass, but thinking only of    4    the number on the scale, I altered my training program. That conflicted with how I needed to train to     5     my goals.\nI also found that weighing myself daily did not provide an accurate   6   of the hard work and progress I was making in the gym. It takes about three weeks to a month to notice significant changes in your weight   7    altering  your  training program. The most     8    changes will be observed in skill level, strength and inches lost.\nFor these    9   , I stopped weighing myself every day  and  switched  to  a  bimonthly weighing schedule  10  . Since weight loss is not my goal, it is less  important for me to   11    my weight each week. Weighing every other week allows  me to observe and   12   any significant weight changes. That tells me whether I    need to    13     my training program.\nI  use my bimonthly weigh-in   14    to  get information about my nutrition as   well. If my training intensity remains the  same,  but  I'm  constantly  15  and dropping weight, this is a    16     that I need to increase my daily caloric intake.\nThe   17    to stop weighing myself every day has done wonders for my overall health, fitness and well-being. I'm experiencing increased zeal for working out since I no longer carry the burden of a   18   morning weigh-in. I've also experienced    greater success in achieving my specific fitness goals,    19    I'm training according to those goals, not the numbers on a scale.\nRather than    20    over the scale, turn your  focus to how you look, feel, how   your clothes fit and your overall energy level.\n1.[A] Besides [B] Therefore [C] Otherwise [D] However\n2.[A] helps [B] cares [C] warns [D] reduces\n3.[A] initially [B] solely [C] occasionally [D] formally\n4.[A] recording [B] lowering [C] explaining [D] accepting\n5. [A] modify [B] set [C] review [D] reach\n6. [A] definition [B] depiction [C] distribution [D] prediction\n7. [A] due to [B] regardless of [C] aside from [D] along with\n8. [A] orderly [B] rigid [C] precise [D] immediate\n9. [A] claims [B] judgments [C] reasons [D] methods\n10. [A] instead [B] though [C] again [D] indeed\n11. [A] track [B] overlook [C] conceal [D] report\n12. [A] depend on [B] approve of [C] hold onto [D] account for\n13. [A] share [B] adjust [C] confirm [D] prepare\n14. [A] results [B] features [C] rules [D] tests\n15. [A] bored [B] anxious [C] hungry [D] sick\n16. [A] principle [B] secret [C] belief [D] sign\n17. [A] request [B] necessity [C] decision [D] wish18. [A] disappointing [B] surprising [C] restricting [D] consuming\n19. [A] if [B] unless [C] until [D] because\n20. [A] obsessing [B] dominating [C] puzzling [D] triumphing"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; D; A; D; C; D; A; B; C; A; D; A; C; B; B; B; C; D; B; A"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f39340-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3c3-6b4c-11ee-a849-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nIt's not difficult to set targets for staff. It is much harder, 1 ,to understand their negative consequences. Most work-related behaviors have multiple components.  2 one and the others become distorted.\nTravel on a London bus and you'll     3 see how this works with drivers.Watch people get on and show their tickets.Are they carefully inspected? Never. Do people  get on without paying? Of course! Are there inspectors to  4 that people have paid? Possibly, but very few.And people who run for the bus? They are  5 . How about jumping lights? Buses do so almost as frequently as cyclists.\nWhy? Because the target is  6 . People complained that buses were late and infrequent.    7 , the number of buses and bus lanes were increased,and drivers were\n    8 or punished according to the time they took. And drivers hit these targets. But  they  9  hit cyclists. If the target was changed to   10   , you would have more inspectors and more sensitive pricing. If the criterion changed to safety, you would get more 11 drivers who obeyed traffic laws. But both these criteria would be at the expense of time.\nThere is another 12  : people became immensely inventive in hitting targets.  Have you 13 that you can leave on a flight an hour late but still arrive on time? Tailwinds? Of course not! Airlines have simply changed the time a 14 is meant to take.A one-hour flight is now billed as a two-hour flight.\nThe 15 of the story is simple. Most jobs are multidimensional, with multiple criteria. Choose one criterion and you may well 16 others.Everything can be done faster and made cheaper, but there is a 17 . Setting targets can and does have unforeseen negative consequences.\nThis is not an argument against target-setting. But it is an argument for exploring consequences first.All good targets should have multiple criteria 18 critical factors such as time, money, quality and customer feedback.The trick is not only to 19 just one or even two dimensions of the objective, but also to understand how to help  people better 20 the objective.\n1. [A] therefore [B] however [C] again [D] moreover\n2. [A] Emphasize [B] Identify [C] Assess [D] Explain\n3. [A] nearly [B] curiously [C] eagerly [D] quickly\n4. [A] claim [B] prove [C] check [D] recall\n5. [A] threatened [B] ignored [C] mocked [D] blamed\n6. [A] punctuality [B] hospitality [C] competition [D] innovation\n7. [A] Yet [B] So [C] Besides [D] Still\n8. [A] hired [B] trained [C] rewarded [D] grouped\n9.[A] only [B] rather [C] once [D] also\n10.[A] comfort [B] revenue [C] efficiency [D] security\n11.[A] friendly [B] quiet [C] cautious [D] diligent\n12.[A] purpose [B] problem [C] prejudice [D] policy\n13.[A] reported [B] revealed [C] admitted [D] noticed\n14.[A] break [B] trip [C] departure [D] transfer\n15.Amoral [B] background [C] style [D] form\n16.[A] interpret [B] criticize [C] sacrifice [D] tolerate\n17. [A] task [B] secret [C] product [D] cost18.[A] leading to [B] calling for [C] relating to [D] accounting for\n19.[A] specify [B] predict [C] restore [D] create\n20.[A] modify [B] review [C] present [D] achieve"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; A; D; C; B; A; B; C; D; B; C; B; D; B; A; C; D; C; A; D"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f39372-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3c4-6b4c-11ee-b7d1-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nHarlan Coben believes that if you're a writer, you'll find the time; and that if you can't find the time，then writing isn't a priority and you're not a writer. For him, writing is a __1__job ,a job like any other .He has __2__ it with plumbing, pointing out that a plumber doesn't wake up and say that he can't work with pipes today.\n__3__,like most writers these days, you're holding down a job to pay the bills, it's not__4__to find the time to write. But it' s not impossible .It requires determination and single-mindedness. __5__ that most bestselling authors began writing when they were doing other things to earn a living. And today, even writers who are fairly __6__ often have to do other work to __7__ their writing income.\nAs Harlan Coben has suggested it's a __8__ of priorities. To make writing a priority, you'll have to__9__Some of your day-to-day activities and some things you really enjoy. Depending on your__10__and your lifestyle, that might mean spending less time watching television or listening to music, though some people can write __11__they listen to music. You might have to __12__the amount of exercise or sport you do. You'll have to make social media an __13__activity rather than a daily, time-consuming__14__. There 'll probably have to be less socializing with your friends and less time with your family . It's a__15__ learning curve ,and it won't always make you popular. \nThere's just one thing you should try to keep at least some time for,__16__ your writing and that's reading . Any writer needs to read as much and as widely as they can; it's the one__17__ supporter -Something you can't do without.\nTime is finite. The older you yet, the __18__it seems to go. We need to use it as carefully and as __19__as we can, that means prioritizing out activities so that we spend most time on the things we really want to do. If you are a writer, that means—  20   —writing.\n1. [A] difficult   [B] normal      [C] steady      [D] pleasant\n2. [A] combined  [B] compared   [C] confused    [D] confronted\n3. [A] If        [B] Though     [C] Once        [D] Unless\n4. [A] enough    [B] strange     [C] wrong       [D] easy\n5. [A] Accept    [B] Explain     [C] Remember   [D] Suppose\n6. [A] well-known [B] well-advised [C] well-informed [D] well-chosen\n7. [A] donate     [B] generate    [C] supplement  [D] calculate\n8. [A] cause       [B] purpose   [C] question    [D] condition\n9. [A] highlight    [B] sacrifice   [C] continue    [D] explore\n10. [A] relations    [B] interests   [C] memories   [D] skills\n11. [A] until       [B] because   [C] while       [D] before\n12. [A] put up with  [B] make up for [C] hang onto  [D] cut down on\n13. [A] intelligent   [B] occasional  [C] intensive   [D] emotional\n14. [A] habit       [B] test       [C] decision    [D] plan\n15. [A] tough       [B] gentle    [C] rapid       [D] funny\n16. [A] in place of   [B] in charge of [C] in response to [D] in addition to\n17. [A] indispensable [B] innovative  [C] invisible    [D] instant18. [A] duller       [B] harder     [C] quieter     [D] quicker\n19. [A] peacefully   [B] generously  [C] productively [D] gratefully\n20. [A] at most      [B] in turn     [C] on average  [D] above all"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; B; A; D; C; A; C; C; B; B; C; D; B; A; A; D; A; D; C; D"
+	},
+	{
+		"category": "文学",
+		"sub_category": "外国语言文学类",
+		"raw_uuid": "34f3939a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "c671b3c5-6b4c-11ee-87eb-48e7da43aee2",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "在以下文章中进行完形填空，每空的选项在文末给出。依次列出每空应填的选项。\nHere's a common scenario that any number of entrepreneurs face today: you're the CEO of a small business, and though you're making a nice ___1___ you need to find a way to take it to the next level. What you need to do is ___2___ growth by establishing a growth team. A growth team is made up of members from different departments within your company, and it harnesses the power of collaboration to focus ___3___ on finding ways to grow.\nLet's look at a real-world ___4___. Prior to forming a growth team, the software company BitTorrent had 50 employees working in the ___5___ departments of engineering, marketing and product development. This brought them good results until 2012, when their growth plateaued. The ___6___ was that too many customers were using the basic, free version of their product. And ___7___ improvements to the premium, paid version, few people were making the upgrade.\nThings changed,  ___8___, when an innovative project-marketing manager came aboard, ___9___ a growth team and sparked the kind of ___10___ perspective they needed. By looking at engineering issues from a marketing point of view, it became clear that the ___11___ of upgrades wasn't due to a quality issue. Most customers were simply unaware of the premium version and what it offered.\nArmed with this ___12___, the marketing and engineering teams joined forces to raise awareness by prominently ___13___ the premium version to users of the free version. ___14___, upgrades skyrocketed, and revenue increased by 92 percent.\nBut in order for your growth team to succeed, it needs to have a strong leader. It needs someone who can ___15___ the interdisciplinary team and keep them on course for improvement. This leader will ___16___ the target area, set clear goals and establish a time frame for the ___17___ of these goals.\nThe growth leader is also ___18___ for keeping the team focused on moving forward and steering them clear of distractions. ___19___ attractive new ideas can be distracting, the team leader must recognize when these ideas don't ___20___ the current goal and need to be put on the back burner.\n1. [A] purchase  [B] profit  [C] connection  [D] bet\n2. [A] define  [B] predict  [C] prioritize  [D] appreciate\n3. [A] exclusively  [B] temporarily  [C] potentially  [D] initially\n4. [A] experiment  [B] proposal  [C] debate  [D] example\n5. [A] identical  [B] marginal  [C] provisional  [D] traditional\n6. [A] rumor  [B] secret  [C] myth  [D] problem\n7. [A] despite  [B] unlike  [C] through  [D] besides\n8. [A] moreover  [B] however  [C] therefore  [D] again\n9. [A] inspected  [B] created  [C] expanded  [D] reformed\n10. [A] cultural  [B] objective  [C] fresh  [D] personal\n11. [A] end  [B] burden  [C] lack  [D] decrease\n12. [A] policy  [B] suggestion  [C] purpose  [D] insight\n13. [A] contributing  [B] allocating  [C] promoting  [D] transferring\n14. [A] As a result  [B] At any rate  [C] By the way  [D] In a sense\n15. [A] unite  [B] finance  [C] follow  [D] choose\n16. [A] share  [B] identify  [C] divide  [D] broaden\n17. [A] announcement  [B] assessment  [C] adjustment  [D] accomplishment18. [A] famous  [B] responsible  [C] available  [D] respectable\n19. [A] Before  [B] Once  [C] While  [D] Unless\n20. [A] serve  [B] limit  [C] summarize  [D] alter"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "B; C; A; D; D; D; A; B; B; C; C; D; C; A; A; B; D; B; C; A"
+	}
+]

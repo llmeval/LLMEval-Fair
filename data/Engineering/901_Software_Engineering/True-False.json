@@ -1,0 +1,363 @@
+[
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052c4a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "14336882-7084-11ee-8908-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。信息建模方法是从数据的角度来建立信息模型的，最常用的描述信息模型的方法是E-R图。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。信息模型是一种面向问题的数据模型，是按照用户的观点对数据建立的模型。它描述了从用户角度看到的数据。其中包含3种相互关联的信息：数据对象、数据对象的属性及数据对象彼此间相互连接的关系。可使用E-R图对其包含的信息进行准确的描述。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052c72-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6d8-7084-11ee-b49b-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。用例模型的基本组成部件是用例、角色和用例之间的联系。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。用例模型是通过用例、角色（系统和行为者）、用例间联系来描述外部行为者所理解的系统功能。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052c9a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6d9-7084-11ee-a332-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。面向对象的开发方法将过程作为最基本元素，是分析问题、解决问题的核心。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。面向对象方法是一种以数据或信息为主线，把数据和处理相结合的方法，即把对象作为由数据及可以施加在这些数据上的操作所构成的统一体，因此，面向对象的开发过程最基本的元素是对象。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052ccc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6da-7084-11ee-b1f9-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。压力测试是检测在极限环境中使用系统时施加在用户上的压力。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。压力测试是在强负载（大数据量、大量并发用户等）下的测试，查看应用系统在峰值使用情况下操作行为，从而有效地发现系统的某项功能隐患、系统是否具有良好的容错能力和可恢复能力。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052cf4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6db-7084-11ee-b9ee-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。若在软件开发的过程中，若能推迟暴露其中的错误，则为修复和改正错误所花费的代价就会降低。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在软件开发过程中，系统变更的代价呈非线性增长。在早期早阶段发现一个错误，解决它需要的代价要比等到设计、编程、测试和维护阶段解决小非常多。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052d1c-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6dc-7084-11ee-9bb4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。软件维护中大部分工作是由于用户的需求改变而引起的。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。为了满足用户的需求，需要进行完善性维护，完善性维护占整个维护过程的50%~60%，比重最大。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052d4e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6dd-7084-11ee-90b4-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在白盒测试中，满足条件组合覆盖的测试用例也会满足路径覆盖的要求。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在白盒测试中，路径测试是覆盖程度最高的测试，因此满足条件组合覆盖的测试用例不一定满足路径覆盖。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052d76-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6de-7084-11ee-9afd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。软件是指用程序设计语言编写的程序，软件开发实际上就是编写程序代码。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。软件开发阶段包括问题定义、可行性研究、需求分析、总体设计、详细设计、编码和单元测试、综合测试、软件维护这几个阶段，而编写程序代码只是软件生命周期的一部分，并不能代表整个软件开发过程。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052d9e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6df-7084-11ee-b652-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。模块化，信息隐藏，抽象和逐步求精的软件设计原则有助于得到高内聚，低耦合度的软件产品。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。在软件生命周期的总体设计阶段，采用模块化，信息隐藏，抽象和逐步求精的软件设计原则，可以为接下来的详细设计、实现、维护阶段提供一个质量较好的软件设计方案，即有助于得到高内聚、低耦合的软件产品。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052dd0-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e0-7084-11ee-a875-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。数据字典是对数据流图中的数据流、处理过程、数据存储、数据的源和终点进行详细定义。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。数据字典（DD）是用来定义数据流图中的各个成分具体含义的。它以一种准确的、无二义性的说明方式为系统的分析、设计及维护提供了有关元素的一致的定义和详细的描述。数据流图中各成分包括数据流、处理过程、数据存储、数据的源和终点。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052df8-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e1-7084-11ee-b123-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。编程语言应该在软件概要设计时选择。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。概要设计的主要任务是：划分出组成系统的物理元素程序、文件、数据库、人工过程和文档；确定系统中每个程序是由哪些模块组成的，以及这些模块相互间的关系。编程序言需要在实现的时候才考虑。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052e2a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e2-7084-11ee-9c74-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。按照风险的影响范围可将风险分为几类，其中项目复杂程度、规模以及结构不确定性属于技术风险。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。技术风险多属于人为风险，受知识水平所限，人们在进行预测、决策、评估和各种技术方案的选择是必然产生相应的不确定。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052e52-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e3-7084-11ee-9ffd-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在面向对象的软件开发方法中，对象是类的实例，类是生成对象的模板。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。类是对具有相同数据和相同操作的一组相似对象的定义，即类是生成对象的模板。因此类和对象的关系时抽象和具体的关系。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052e7a-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e4-7084-11ee-b8f6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。可行性研究进一步研究问题分析阶段所确定的问题是否有可行的解。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。可行性研究是用最小的代价在尽可能短的时间内研究并确定客户提出的问题是否有行得通的解决办法，即它需要对需求分析进行进一步的研究，以确定问题是否有可行解。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052eac-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e5-7084-11ee-8582-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。进行总体设计时应加强模块间的联系。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。开发具有独立功能而且和其他模块之间没有过多的相互作用的模块，就可以做到模块独立。模块的独立性的度量标准是模块的耦合性和内聚性，在进行软件设计时，应尽量做到高内聚、低耦合，因此，在进行总体设计时，应尽量减少模块间的联系。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052ed4-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e6-7084-11ee-9d2f-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。在客户机／服务器关系中，服务器需要知道客户机的接口。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。在客户机／服务器关系中，服务器等待客户机发起连接，故客户机需要知道服务器的接口，主动与其连接，而服务器不需要知道客户机接口，只需要等待有效连接即可。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052efc-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e7-7084-11ee-b3b6-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。文档是影响软件可维护性的决定因素。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。文档是影响软件可维护性的决定因素。由于长期使用的大型软件系统在使用过程中必然会经受多次修改，所以文档比程序代码更重要。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052f2e-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e8-7084-11ee-ad25-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个好的测试用例在于能发现至今未发现的错误。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "true。一个好的测试可以帮助测试人员发现一直被忽略的、没有被其他方法所检测出来的错误，通过不断的发现错误，改正错误，有助于提高软件的可靠性。"
+	},
+	{
+		"category": "工学",
+		"sub_category": "计算机类",
+		"raw_uuid": "35052f56-681a-11ee-9b62-b29c4ac30262",
+		"question_uuid": "1433b6e9-7084-11ee-81e1-005056c00008",
+		"dialog_uuid": null,
+		"llm_name": null,
+		"dialog": [
+		{
+			"role": "user",
+			"content": "请判断以下语句的正确性，以true/false作答，并给出理由。一个设计得好的软件系统具有低内聚、高耦合的特征。______"
+		},
+		{
+			"role": "llm",
+			"content": null
+		}
+		],
+		"hint": "false。一个优秀的软件，模块的独立性高，和其他模块之间没有过多的相互作用，即具有低耦合、高内聚的特征。"
+	}
+]
