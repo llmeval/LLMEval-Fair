@@ -10,6 +10,8 @@
 <img src=".\pic\llmeval-logo.png" alt="llmeval-logo" style="zoom:50%;" />
 </div>
 
+> 🎉 **News:** Our paper has been accepted to the **main conference** of **ACL 2026**!
+
 > **Note:** For the Chinese version of this README, please refer to [README_zh.md](README_zh.md).
 
 ## 📚 Benchmark Content and Format

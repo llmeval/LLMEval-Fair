@@ -10,6 +10,8 @@
 <img src=".\pic\llmeval-logo.png" alt="llmeval-logo" style="zoom:50%;" />
 </div>
 
+> 🎉 **最新消息：** 我们的论文已被 **ACL 2026 主会**录用！
+
 > **注意：** 英文版 README 请参阅 [README.md](README.md)。
 
 ## 📚 题目内容与形式
