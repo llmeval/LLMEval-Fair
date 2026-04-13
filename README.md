@@ -10,6 +10,8 @@
 <img src=".\pic\llmeval-logo.png" alt="llmeval-logo" style="zoom:50%;" />
 </div>
 
+> 🎉 **News:** Our paper has been accepted to the **main conference** of **ACL 2026**!
+
 > **Note:** For the Chinese version of this README, please refer to [README_zh.md](README_zh.md).
 
 ## 📚 Benchmark Content and Format
@@ -24,7 +26,7 @@ Question sources mainly include **undergraduate homework**, **undergraduate mid-
 
 Unlike other knowledge benchmarks that use a multiple-choice format, LLMEval-Fair treats all questions as **generative knowledge question-answering**. It includes a variety of formats such as short answer, calculation, true/false, analysis, and essay questions. Compared to standardized multiple-choice questions, the generative format used in LLMEval-Fair better reflects real-world user needs and the language capabilities of the models.
 
-The question bank dataset is available in  [data/](data/).
+The full benchmark dataset is now publicly available in [data/](data/).
 
 ## 🔬 Methodology
 
