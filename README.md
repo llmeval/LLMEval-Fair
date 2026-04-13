@@ -10,13 +10,13 @@
 <img src=".\pic\llmeval-logo.png" alt="llmeval-logo" style="zoom:50%;" />
 </div>
 
+> **Note:** For the Chinese version of this README, please refer to [README_zh.md](README_zh.md).
+
 ## 🔔 News
 
 - 🏆 **[2026-04-10]** Our paper has been accepted to the **main conference** of **ACL 2026**.
 - 📊 **[2025-12-23]** We have updated the leaderboard with additional model results and refreshed the related tables and figures.
 - 🎉 **[2025-08-07]** Our paper is released on arXiv: [arXiv:2508.05452](https://arxiv.org/abs/2508.05452).
-
-> **Note:** For the Chinese version of this README, please refer to [README_zh.md](README_zh.md).
 
 ## 📚 Benchmark Content and Format
 
