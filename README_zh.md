@@ -10,13 +10,13 @@
 <img src=".\pic\llmeval-logo.png" alt="llmeval-logo" style="zoom:50%;" />
 </div>
 
+> **注意：** 英文版 README 请参阅 [README.md](README.md)。
+
 ## 🔔 最新消息
 
 - 🏆 **[2026-04-10]** 我们的论文已被 **ACL 2026 主会**录用。
 - 📊 **[2025-12-23]** 我们补充了更多模型结果，并同步更新了排行榜相关表格与图示。
 - 🎉 **[2025-08-07]** 我们的论文已发布于 arXiv：[arXiv:2508.05452](https://arxiv.org/abs/2508.05452)。
-
-> **注意：** 英文版 README 请参阅 [README.md](README.md)。
 
 ## 📚 题目内容与形式
 
