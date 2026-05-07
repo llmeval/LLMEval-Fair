@@ -3,7 +3,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=for-the-badge)](https://arxiv.org/abs/2508.05452)
 [![Venue](https://img.shields.io/badge/Venue-ACL%202026%20Main-orange.svg?style=for-the-badge)](https://2026.aclweb.org/)
-[![Website](https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge)](http://llmeval.com/)
+[![Website](https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge)](https://llmeval.com/)
 
 </div>
 
@@ -254,7 +254,7 @@ $$S_{model}=\sum_{i=1}^N{\frac{s_i}{s_{max}} \times 100} \quad (1)$$
 
 如无特殊情况，在评测完成之后，相关结果都会添加在排行榜上。
 
-- **网站**：[http://llmeval.com/](http://llmeval.com/)
+- **网站**：[https://llmeval.com/](https://llmeval.com/)
 - **邮箱**：mingzhang23@m.fudan.edu.cn
 - **微信**：zanyingluan
 

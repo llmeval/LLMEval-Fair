@@ -3,7 +3,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=for-the-badge)](https://arxiv.org/abs/2508.05452)
 [![Venue](https://img.shields.io/badge/Venue-ACL%202026%20Main-orange.svg?style=for-the-badge)](https://2026.aclweb.org/)
-[![Website](https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge)](http://llmeval.com/)
+[![Website](https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge)](https://llmeval.com/)
 
 </div>
 
@@ -251,7 +251,7 @@ Institutional evaluation requires certification. After registering an account, p
 
 Unless there are special circumstances, all evaluation results will be added to the leaderboard upon completion.
 
-- **Website**: [http://llmeval.com/](http://llmeval.com/)
+- **Website**: [https://llmeval.com/](https://llmeval.com/)
 - **Email**: mingzhang23@m.fudan.edu.cn
 - **WeChat**: zanyingluan
 
