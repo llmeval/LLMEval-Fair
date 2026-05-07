@@ -1,8 +1,9 @@
 <div align="center">
 <h2>LLMEval-Fair: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models</h2>
 
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-blue.svg?style=for-the-badge)](https://arxiv.org/abs/2508.05452)
-
+[![Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=for-the-badge)](https://arxiv.org/abs/2508.05452)
+[![Venue](https://img.shields.io/badge/Venue-ACL%202026%20Main-orange.svg?style=for-the-badge)](https://2026.aclweb.org/)
+[![Website](https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge)](http://llmeval.com/)
 
 </div>
 
@@ -223,6 +224,26 @@ $$S_{model}=\sum_{i=1}^N{\frac{s_i}{s_{max}} \times 100} \quad (1)$$
 
 更多的实验细节与实验分析请参考我们的[论文](https://arxiv.org/abs/2508.05452)。
 
+
+
+## 📑 引用
+
+如果您觉得 LLMEval-Fair 对您的研究有帮助，请引用我们的论文：
+
+```bibtex
+@misc{zhang2025llmevalfair,
+      title         = {{LLMEval-Fair}: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models},
+      author        = {Ming Zhang and Yujiong Shen and Jingyi Deng and Yuhui Wang and Huayu Sha and Kexin Tan and Qiyuan Peng and Yue Zhang and Junzhe Wang and Shichun Liu and Yueyuan Huang and Jingqi Tong and Changhao Jiang and Yilong Wu and Zhihao Zhang and Mingqi Wu and Mingxu Chai and Zhiheng Xi and Shihan Dou and Tao Gui and Qi Zhang and Xuanjing Huang},
+      year          = {2025},
+      eprint        = {2508.05452},
+      archivePrefix = {arXiv},
+      primaryClass  = {cs.CL},
+      url           = {https://arxiv.org/abs/2508.05452},
+      note          = {Accepted at ACL 2026 (Main)}
+}
+```
+
+> 本论文已被 **ACL 2026 主会**录用。在正式出版后，我们会替换为 ACL Anthology 的官方 BibTeX。
 
 
 ## 📞 联系我们
