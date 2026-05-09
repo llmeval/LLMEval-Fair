@@ -3,6 +3,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=for-the-badge)](https://arxiv.org/abs/2508.05452)
 [![Venue](https://img.shields.io/badge/Venue-ACL%202026%20Main-orange.svg?style=for-the-badge)](https://2026.aclweb.org/)
+[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg?style=for-the-badge)](https://huggingface.co/datasets/llmeval-fdu/LLMEval-Fair)
 [![Website](https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge)](https://llmeval.com/)
 
 </div>
