@@ -1,16 +1,16 @@
-<div align="center">
-<h2>LLMEval-Fair: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models</h2>
+<p align="center">
+  <img src="pic/llmeval-logo.png" width="200">
+</p>
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=for-the-badge)](https://arxiv.org/abs/2508.05452)
-[![Venue](https://img.shields.io/badge/Venue-ACL%202026%20Main-orange.svg?style=for-the-badge)](https://2026.aclweb.org/)
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg?style=for-the-badge)](https://huggingface.co/datasets/llmeval-fdu/LLMEval-Fair)
-[![Website](https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge)](https://llmeval.com/)
+<h2 align="center">LLMEval-Fair: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models</h2>
 
-</div>
-
-<div align="center">
-<img src=".\pic\llmeval-logo.png" alt="llmeval-logo" style="zoom:50%;" />
-</div>
+<p align="center">
+  <a href="https://arxiv.org/abs/2508.05452"><img src="https://img.shields.io/badge/Paper-Arxiv-blue.svg?style=for-the-badge" alt="Paper"></a>
+  <a href="https://2026.aclweb.org/"><img src="https://img.shields.io/badge/Venue-ACL%202026%20Main-orange.svg?style=for-the-badge" alt="Venue"></a>
+  <a href="https://huggingface.co/datasets/llmeval-fdu/LLMEval-Fair"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg?style=for-the-badge" alt="Dataset"></a>
+  <a href="https://llmeval.com/"><img src="https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge" alt="Website"></a>
+  <a href="https://github.com/llmeval"><img src="https://img.shields.io/badge/Org-LLMEval-green.svg?style=for-the-badge" alt="LLMEval"></a>
+</p>
 
 > **Note:** For the Chinese version of this README, please refer to [README_zh.md](README_zh.md).
 
@@ -24,9 +24,9 @@
 
 LLMEval-Fair focuses on evaluating professional knowledge capabilities, covering 13 academic disciplines as defined by the Ministry of Education: Philosophy, Economics, Law, Education, Literature, History, Science, Engineering, Agriculture, Medicine, Military Science, Management, and Arts. It includes over 50 sub-disciplines and a total of approximately 200,000 standardized generative question-answering items (we will continue to expand the question bank to 1 million).
 
-<div align="center">
-<img src=".\pic\subjects.PNG" alt="Academic Disciplines Coverage" style="zoom:80%;" />
-</div>
+<p align="center">
+  <img src="pic/subjects.PNG" alt="Academic Disciplines Coverage" width="640">
+</p>
 
 Question sources mainly include **undergraduate homework**, **undergraduate mid-term and final exams**, and **graduate entrance exams**. To prevent large models from being exposed to a significant portion of the evaluation data during pre-training, LLMEval-Fair sources its questions from non-public channels where possible. The data is in PDF and Word formats, which undergo OCR and data cleaning before being formatted. A standardized interface is provided for different question types to enable a fully automated process for the models under test.
 
@@ -215,9 +215,9 @@ Where $s_i$ is the score for question i, and $s_{max}=3$.
 
 The performance distribution over time for the currently ranked models is shown in the figure below:
 
-<div align="center">
-<img src=".\pic\trend_of_models.png" alt="Model Performance Trends" style="zoom:80%;" />
-</div>
+<p align="center">
+  <img src="pic/trend_of_models.png" alt="Model Performance Trends" width="640">
+</p>
 
 
 

@@ -1,16 +1,16 @@
-<div align="center">
-<h2>LLMEval-Fair: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models</h2>
+<p align="center">
+  <img src="pic/llmeval-logo.png" width="200">
+</p>
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=for-the-badge)](https://arxiv.org/abs/2508.05452)
-[![Venue](https://img.shields.io/badge/Venue-ACL%202026%20Main-orange.svg?style=for-the-badge)](https://2026.aclweb.org/)
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg?style=for-the-badge)](https://huggingface.co/datasets/llmeval-fdu/LLMEval-Fair)
-[![Website](https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge)](https://llmeval.com/)
+<h2 align="center">LLMEval-Fair: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models</h2>
 
-</div>
-
-<div align="center">
-<img src=".\pic\llmeval-logo.png" alt="llmeval-logo" style="zoom:50%;" />
-</div>
+<p align="center">
+  <a href="https://arxiv.org/abs/2508.05452"><img src="https://img.shields.io/badge/Paper-Arxiv-blue.svg?style=for-the-badge" alt="Paper"></a>
+  <a href="https://2026.aclweb.org/"><img src="https://img.shields.io/badge/Venue-ACL%202026%20Main-orange.svg?style=for-the-badge" alt="Venue"></a>
+  <a href="https://huggingface.co/datasets/llmeval-fdu/LLMEval-Fair"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg?style=for-the-badge" alt="Dataset"></a>
+  <a href="https://llmeval.com/"><img src="https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge" alt="Website"></a>
+  <a href="https://github.com/llmeval"><img src="https://img.shields.io/badge/Org-LLMEval-green.svg?style=for-the-badge" alt="LLMEval"></a>
+</p>
 
 > **注意：** 英文版 README 请参阅 [README.md](README.md)。
 
@@ -26,9 +26,9 @@ LLMEval-Fair聚焦于专业知识能力评测，涵盖哲学、经济学、法�
 
 
 
-<div align="center">
-<img src=".\pic\subjects.PNG" alt="学科覆盖范围" style="zoom:80%;" />
-</div>
+<p align="center">
+  <img src="pic/subjects.PNG" alt="学科覆盖范围" width="640">
+</p>
 
 题目来源主要包括**大学本科课后作业**、**大学本科期中期末考试**、**研究生入学考试**等。为了尽可能的防止参与评测的大模型在预训练阶段引入大比例原始评测数据，LLMEval-Fair评测题目来源尽可能为非互联网公开渠道，数据格式为PDF和Word文件，经过一定的OCR识别与数据清洗之后，将题目进行格式化处理。针对于不同的题型，提供给待测试模型标准接口，实现全流程自动化。
 
@@ -218,9 +218,9 @@ $$S_{model}=\sum_{i=1}^N{\frac{s_i}{s_{max}} \times 100} \quad (1)$$
 
 当前排名模型的性能表现在时间的分布如图所示：
 
-<div align="center">
-<img src=".\pic\trend_of_models.png" alt="模型性能发展趋势" style="zoom:80%;" />
-</div>
+<p align="center">
+  <img src="pic/trend_of_models.png" alt="模型性能发展趋势" width="640">
+</p>
 
 
 更多的实验细节与实验分析请参考我们的[论文](https://arxiv.org/abs/2508.05452)。
