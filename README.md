@@ -257,6 +257,17 @@ Unless there are special circumstances, all evaluation results will be added to 
 - **WeChat**: zanyingluan
 
 
+## 🔗 Related Projects
+
+| Project | Description | Paper | Code |
+|---------|-------------|-------|------|
+| **LLMEval-Logic** (Under submission) | Solver-verified Chinese logical-reasoning benchmark | — | [GitHub](https://github.com/llmeval/LLMEval-Logic) |
+| **LLMEval-Med** (EMNLP 2025 Findings) | Physician-validated clinical benchmark | [arXiv](https://arxiv.org/abs/2506.04078) | [GitHub](https://github.com/llmeval/LLMEval-Med) |
+| **LLMEval-2** (AAAI 2024) | Phase II: Professional domain evaluation | [arXiv](https://arxiv.org/abs/2312.07398) | [GitHub](https://github.com/llmeval/LLMEval-2) |
+| **LLMEval-1** (AAAI 2024) | Phase I: General capability evaluation | [arXiv](https://arxiv.org/abs/2312.07398) | [GitHub](https://github.com/llmeval/LLMEval-1) |
+
+Full project list & leaderboard: [llmeval.com](https://llmeval.com/) · All datasets: [🤗 llmeval-fdu](https://huggingface.co/llmeval-fdu)
+
 
 ---
 
